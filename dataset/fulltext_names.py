@@ -1,7 +1,7 @@
 import os
-xml_files = filter(lambda x: x.endswith('.xml'), os.listdir('citations_summ'))
+files = filter(lambda x: x.endswith('.txt'), os.listdir('sentences'))
 
 
 out = open("names"+".txt", "w")
-for f in xml_files:
+for f in files:
 	out.write(f+" ")

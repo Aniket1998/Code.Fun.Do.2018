@@ -1,0 +1,1065 @@
+
+factual background when person move dwell frequent want telephon servic directli connect public switch telephon network pstn commonli call landlin 
+most residenti premis australia wall socket allow telephon plug socket thu connect pstn 
+mani form residenti develop one dwell apart home unit build town hous 
+telephoni provid refer unit mdu 
+becaus number term necessari resolv proceed acronym I includ glossari schedul judgment eas refer 
+mani mdu main distribut frame mdf 
+the mdf use connect telephoni wire dwell within mdu appropri wire turn connect telephon exchang 
+A form connect use copper aluminium wire explain defin commun wire 
+one mean exclus mean connect exchang side mdf exchang uncondit commun wire 
+thi form commun call uncondit local loop servic ull 
+telstra corpor limit own maintain local loop 
+It also own local exchang explain telstra corpor ltd v the commonwealth hca alr per gleeson CJ gummow kirbi hayn heydon crennan kiefel JJ 
+the essenti defin characterist ull consist uncondit commun wire usual twist pair copper aluminium wire substanc exchang side mdf telephon exchang 
+howev mean connect exchang side mdf telephon exchang includ use fibr optic cabl 
+thu mere fact may wire physic present exchang side mdu mean whole path exchang wire alway physic along copper aluminium commun wire wire 
+other telecommun provid telstra abl offer telephoni servic among other resid mdu 
+In septemb optu network pti limit provid 
+At time optu notifi disput australian competit consum commiss concern access ull provid telstra mdu trade practic act cth 
+part xic act regul among thing access part pstn requir commiss act arbitr disput particip telecommun industri concern access servic 
+the commiss conduct arbitr access disput ull optu telstra 
+optu claim unnecessari cost incur optu directli charg pay telstra 
+thi technician attend mdf connect wire exchang side wire dwell side frame order provid subscrib link telephon exchang 
+optu contend often attend necessari 
+the parti use descript truck roll describ visit technician vehicl make physic inspect wire 
+telstra technician would identifi pair wire exchang side mdf connect ull avail use optu subscrib 
+optu would send technician connect two wire identifi telstra wire dwell side mdf link optu subscrib dwell 
+thi occur even previou occup dwell telephon line connect 
+optu contend unnecessari circumst either telstra optu technician attend mdf sinc physic link alreadi exist previou subscrib live dwell 
+thu optu argu unnecessari expens incur two technician redo check someth alreadi exist 
+optu suggest must simpler effici mean give access 
+when commiss conduct arbitr rais suggest soft dial tone telephon subscrib dwell would indic alreadi continu link exchang 
+A soft dial tone indic line subscrib dwell physic connect exchang line use provid servic subscrib 
+the line use make emerg call call number provid telstra order indic previou telephon number use pstn reach address 
+the commiss suggest ascertain presenc soft dial tone would indic exist ull thu make attend technician mdf unnecessari 
+the fallaci suggest cours exist soft dial tone indic whether connect way uncondit commun wire 
+e 
+ull way whole part mean e 
+g 
+fibr optic cabl connect ull 
+moreov soft dial tone indic exist connect also present actual servic provid connect 
+e 
+connect use vacant 
+In final determin follow arbitr commiss propos novel regim use presenc soft dial tone order ull optu telstra 
+thi regim intend adapt exist process australian commun industri forum acif industri code uncondit local loop servic order provis custom transfer code 
+I explain involv later see Ch 
+howev code use term soft dial tone 
+the oper provis regim propos commiss final determin par provid follow 
+except parti agre otherwis suppli telstra optu respect ull mdu servic mdf build follow where exist commun wire telstra exchang custom premis soft dial tone optu submit ull request telstra provid servic number includ full nation number address associ commun wire telstra must treat request ull transfer request follow ull transfer process specifi acif uncondit local loop servic order provis custom transfer industri code 
+b On receipt ull request optu telstra must valid servic number correspond address specifi request base telstra cabl record telstra exchang 
+c If inform incorrect telstra must follow ull reject process ull transfer specifi acif uncondit local loop servic order provis custom transfer industri code 
+for purpos ull transfer request accord definit lose access seeker state acif uncondit local loop servic order provis custom transfer industri code telstra suppli servic immedi prior transfer telstra consid lose access seeker 
+e where commun wire telstra exchang custom premis 
+e 
+soft dial tone optu submit vacant ull request telstra must follow vacant ull process specifi acif uncondit local loop servic order provis custom transfer industri code 
+f If optu submit ull transfer request telstra meet requir paragraph optu must accept risk qualiti connect suitabl provid voic data servic exist copper path telstra exchang premis 
+g for avoid doubt exist commun wire telstra exchang custom premis soft dial tone optu prepar accept risk qualiti connect suitabl provid voic data servic exist copper path telstra exchang premis optu must submit vacant ull request 
+bold emphasi ad under act commiss requir take account direct cost telstra provid declar servic ull make final determin 
+dure cours arbitr telstra contend would cost telstra 
+million redesign comput system accommod propos commiss mind 
+optu argu would cost optu implement propos 
+telstra contend purport make final determin commiss either took account optu cost cost telstra altern take telstra cost account requir act ground fail compli regard provis code model term condit commiss previous made determin octob ground altern misconstru misunderstand code either fail take actual provis code account fail regard accord took account irrelev consider instead name misconstruct misunderstand ground fail compli final determin uncertain oper ground made error law act unreason ground exceed jurisdict act final determin deal access declar servic ull rather wrongli assum par e soft dial tone premis indic exist ull connect premis telstra exchang requir telstra provid ull basi fals assumpt ground 
+ground press 
+
+statutori scheme 
+object part xic trade practic act part xic act intend provid regim access telecommun infrastructur servic given provid servic 
+the object part promot interest telecommun carriag servic servic provid mean carriag servic govern telecommun act cth trade practic act 
+the parliament identifi matter must regard determin whether propos activ requir promot interest carriag servic 
+these includ object promot competit market list servic encourag econom effici use infrastructur list servic suppli c e 
+thi promot competit requir regard extent obstacl gain access list servic remov 
+when determin extent effici use infrastructur object e might achiev among thing must regard whether like becom technic feasibl servic suppli charg regard technolog use avail like becom avail whether cost would involv suppli charg servic reason like becom reason ii legitim commerci interest supplier supplier servic includ abil supplier supplier exploit economi scale scope b 
+
+declar servic core servic A central featur part xic power commiss make declar pursuant particular kind telecommun servic declar servic purpos act 
+the ull declar servic act see Ch 
+under commiss must determin write principl relat price access declar servic 
+and commiss must regard price principl arbitr access disput div relat declar servic 
+By forc c ull also defin core servic 
+under commiss 
+
+
+must make written determin set model term condit relat access core servic 
+emphasi ad and provid commiss must take reason step ensur determin relat ull servic made within six month section commenc emphasi ad 
+when arbitr access disput commiss must regard determin relat core servic cover determin 
+
+standard access oblig order provis divis Pt xic deal standard access oblig defin 
+relevantli telstra access provid requir request servic provid optu 
+
+
+take reason step ensur technic oper qualiti ull suppli optu equival telstra provid 
+b and forc To avoid doubt order provis taken aspect technic oper qualiti refer paragraph b 
+It common ground mean optu sought access telstra ull servic subscrib mdu fell within mean order provis 
+order involv access seeker submit request telstra telstra respond request either confirm valid avail suitabl commun wire ull reject request code cl 
+provis involv telstra act confirm request connect identifi avail commun wire access seeker equip local exchang record new statu wire record code cll 
+
+
+telstra requir compli standard access oblig relat ull servic forc includ oblig impos commiss accord arbitr determin made div Pt xic b iii 
+
+resolut access disput divis Pt xic deal manner access disput resolv commiss 
+In exercis power div commiss must regard desir access disput resolv time manner 
+under access seeker posit optu entitl notifi commiss write access disput exist first declar servic ull suppli carrier telstra secondli one standard access oblig appli thirdli access seeker carrier unabl agre term condit carrier compli oblig 
+the scope illustr give exampl subject matter access disput 
+those exampl includ price method ascertain price access provid whether previou determin ought vari 
+By forc commiss requir make written determin access optu access seeker ull servic declar servic 
+relevantli provid the determin may deal matter relat access access seeker declar servic includ matter basi notif disput 
+for exampl determin may requir carrier provid provid access declar servic access seeker b requir access seeker accept pay access declar servic c specifi term condit carrier provid compli standard access oblig applic carrier provid specifi term condit access seeker access declar servic e requir parti extend enhanc capabl facil mean declar servic suppli f specifi extent determin overrid earlier determin relat access declar servic access seeker 
+the commiss requir give draft determin parti prior make determin whether final interim 
+and commiss made determin give reason make determin parti arbitr 
+although commiss power make interim determin pursuant see term defin fact proceed make final determin access disput 
+under f commiss prohibit make determin would effect f requir parti access seeker bear unreason amount cost extend enhanc capabl facil ii maintain extens enhanc capabl facil If commiss made determin contraven provid determin effect reason contravent 
+next relevantli provid matter commiss must take account the commiss must take follow matter account make final determin whether determin promot interest carriag servic servic suppli mean carriag servic b legitim busi interest carrier provid carrier provid invest facil use suppli declar servic c interest person right use declar servic direct cost provid access declar servic e valu parti extens enhanc capabl whose cost born someon els f oper technic requir necessari safe reliabl oper carriag servic telecommun network facil g econom effici oper carriag servic telecommun network facil 
+the commiss may take account matter think relev 
+emphasi ad the commiss power publish whole part determin reason make oblig 
+An arbitr hear respect access disput conduct privat unless parti otherwis agre 
+and conduct arbitr access disput commiss bound legal technic legal form rule evid requir act speedili proper consider disput allow regard need care quickli enquir investig disput matter affect merit fair settlement 
+the commiss also authoris inform matter relev disput way thought appropri 
+addit commiss power use inform provid parti anoth arbitr arbitr determin consid would like result current arbitr conduct effici time manner 
+but wish give notic person arbitr whose inform document propos use 
+where parti determin appli enforc determin express confer jurisdict court make order includ grant injunct restrain contravent determin requir parti alleg breach compli altern compens 
+there issu matter except telstra point section consequ contravent act might expos potenti liabil determin valid 
+
+exist model term and condit relat TO access 
+the commiss octob determin the parti disagre whether commiss octob made comprehens attenu final determin model term condit order provis ull 
+for purpos make final determin access disput requir commiss regard earlier final determin term condit made relat core servic ull 
+optu argu commiss octob determin adopt limit part code model term condit deal order provis 
+broadli speak telstra argu substanc octob determin adopt code entireti 
+despit appar mandatori term regard oblig commiss make written determin model term condit explanatori memorandum telecommun competit bill cth circul minist state It intend model term condit need comprehens commiss abl publish model term condit relat core servic 
+when commiss publish final determin model term condit octob three month later exhort six month provid reiter model term condit need comprehens refer explanatori memorandum 
+the commiss said 
+
+
+therefor make determin deal model term condit relat core servic 
+In determin commiss chosen deal key contenti term condit rais industri particip 
+emphasi ad In octob determin commiss also said propos approach develop model term condit treat relev acif code repres standard model term condit 
+It recognis formal process industri determin particular matter dealt access seeker provid 
+and commiss recognis desir constraint promulg term condit might conflict inconsist industri alreadi develop 
+In part determin commiss expressli adopt particular acif code consid provis dealt adequ point content industri 
+and commiss identifi particular area key contenti term condit requir specif attent 
+final gener comment conclus part determin commiss said would expect access agreement reflect applic acif code oblig unless agreement parti adopt anoth standard 
+It conclud As note matter dealt acif code commiss model term condit adopt standard 
+As consequ access agreement fail incorpor acif code standard fail meet commiss model term condit 
+emphasi ad the octob determin address number specif order provis issu dealt version code 
+the commiss expressli adopt cl 
+version requir access provid 
+e 
+telstra treat order provis ull manner 
+It state the commiss adopt provis provis relat thereto part model term condit 
+the determin refer b requir access provid must requir servic provid take reason step ensur technic oper qualiti activ declar servic suppli servic provid equival access provid provid 
+sinc act expressli provid requir difficult understand commiss regard term contenti 
+optu argu model term also effect expressli incorpor becam cll 
+
+
+
+code provid access provid take reason step ensur technic oper qualiti inform suppli access seeker part servic qualif process equival access provid provid also provid similarli appropri connect 
+the servic qualif process involv access provid check offic record suitabl propos ull 
+optu argu commiss made specif provis code model term could made balanc code model term 
+In addit commiss expressli adopt model term condit cl 
+version code provid cutov notif requir access provid notifi access seeker provis ull would complet togeth relat provis 
+the commiss also expressli adopt model term condit 
+
+
+relev claus code concern oblig provid acknowledg order servic updat progress confirm complet order 
+In ordinari mean word includ cl deal place order variou ull request explain process 
+the commiss note version code outlin agre industri process order provis ull 
+It gave exampl cl 
+detail process servic qualif part order provis ull 
+the commiss said chang process develop industri bodi acif relev code 
+
+the approach commiss In opinion intent parliament enact express emphat unambigu languag 
+the section requir commiss make written determin set model term condit relat access ull take reason step ensur declar made within six month commenc section decemb 
+the subject matter scope purpos statutori requir direct provid commerci certainti materi contractu right oblig industri particip would appli contract access ull declar servic absent agreement determin commiss 
+there would littl point requir commiss act declar model term condit within six month commenc legisl regul access declar servic choic leav determin made materi term condit relat access ull code 
+the languag section support suggest commiss could refrain set model term condit relat access ull 
+the absenc definit indefinit articl express model term condit creat ambigu 
+thi also evid provis read remaind whole 
+If parliament intend commiss need make appropri model term condit relat access core servic like ull say rather use clear languag 
+thi rais import aspect rule law 
+the parliament express requir commiss make specif determin take reason step achiev end within time frame set unambigu term legisl 
+while contempl commiss might abl complet task six month time still oblig commiss continu thereaft take reason step promulg model term condit relat access ull servic 
+all reason step step step commiss think reason cf georg v rockett hca clr 
+the ull servic core servic describ act 
+the act provid specif regul access servic 
+It impos liabil telstra among other ensur access given accord model term condit applic parliament requir promulg commiss act appropri degre urgenc attent term act 
+the explanatori memorandum law state intent reflect statutori languag 
+thi particularli import sinc act provid heavi penalti contraven requir 
+mason CJ wilson dawson JJ observ Re bolton Ex part bean hca clr word minist must substitut text law particularli intent state minist unexpress law restrict liberti individu 
+I opinion canon construct also appli circumst text law impos respons liabil person includ corpor contraven 
+mason CJ wilson dawson JJ continu It alway possibl oversight inadvert clear intent parliament fail translat text law 
+howev unfortun may happen task court remain clear 
+the function court give effect parliament express law 
+thi reflect fundament precept constitut law 
+when legisl power use creat right impos liabil oblig one consequ freedom affect legisl constrain expand law provid 
+where law requir execut branch govern commiss someth give effect intent parliament execut must obey law like everi member commun corpor individu 
+thi duti execut branch govern obey law laid parliament court even execut agre decis the commonwealth v new south wale hca clr per isaac rich stark JJ appli eastern trust Co v mckenzi mann Co AC see also tran v minist immigr fca fcr per 
+those respons draft legisl use explanatori memoranda suggest exist unexpress restrict unambigu term bill parliament 
+such legisl draft elis deprec 
+It fundament undermin right person know freedom oblig provid law word enact parliament 
+It one thing read clear word text act parliament anoth thing requir peopl look beyond raft secondari materi act interpret act cth analogu suggest court may resort purpos divin intent parliament 
+the approach commiss octob determin treat word act obligatori 
+the requir take reason step make determin set model term condit relat access core servic ull within six month enact could intend leav unexpress import term condit provis access servic 
+how would anyon know term condit servic would provid If construct put commiss correct uncontenti part term condit use industri particip industri code treat model term condit within mean would signific gap model term condit access declar servic contravent command parliament 
+that would lead uncertainti 
+the purpos model ensur everyon awar usual term condit applic relev situat 
+Of cours particular arbitr disput parti abl agre term condit replac model term condit commiss entitl impos solut must regard model term condit clearli requir 
+notwithstand way commiss express first determin secondli submiss made optu adopt I opinion octob determin read consist act 
+I find exist industri code relat order provis ull determin commiss model term condit except extent differ inconsist contenti term expressli specifi octob determin 
+
+affidavit evid dure hear telstra reli two affidavit craig mcainsh prepar purpos proceed 
+Mr mcainsh telstra busi process system manag wholesal custom transfer group 
+some materi affidavit object portion reli evid fact support telstra argument go valid final determin 
+optu object sever passag affidavit inadmiss natur submiss 
+optu argu includ detail submiss Mr mcainsh affidavit telstra see adduc evid addit commiss case vari posit respect certain matter 
+optu argu light evid commiss explan variou technic matter admiss proceed 
+howev also reli affidavit hari khaliqi one busi program manag relat certain matter dealt Mr mcainsh 
+In opinion contenti materi admiss prove mean technic term use final determin code guidelin discuss Ch context telecommun industri collector custom v agfa gevaert ltd hca clr per brennan CJ dawson toohey gaudron mchugh JJ 
+evid mean technic term use administr decis admiss court place context understand natur ordinari mean word would understood person familiar use see also australian retail associ v reserv bank australia fca fcr 
+such evid capabl establish er understand technic matter decis dealt 
+In australian retail associ fcr weinberg J held evid admiss administr decis challeng ground lack jurisdict make depend actual state fact exist base decis find particular fact exist 
+He said If addit evid avail case reliant upon ground reason principl evid also admiss ground couch term unreason 
+there howev error law decis simpli made wrong find fact enfield citi corpor v develop assess commiss hca clr per gleeson CJ gummow kirbi hayn JJ 
+In case court held evid admiss judici review proceed assist determin jurisdict fact name whether develop fell within statutori descript special industri see enfield clr 
+In visa intern servic associ v reserv bank australia fca fcr tamberlin J admit evid kind judici review proceed court posit understand particular mean word use specialis area concern 
+He appli street J earlier held ancher mortlock murray woolley pti ltd v hooker home pti ltd nswlr argument process expert enabl court proceed readili thu appreci relev issu decis 
+It also illumin applic specialis usag word context 
+In opinion evid admiss explain mean signif term use proceed commiss proceed 
+In end expert evid side use elucid understand concept soft dial tone commun wire network path oper 
+On hand I treat Mr mcainsh explan affidavit evid proceed way par final determin oper natur submiss evid 
+
+the commiss declar OF the ull the commiss declar ull act effect august follow the uncondit local loop servic use use uncondit commun wire boundari telecommun network premis point telecommun network potenti point interconnect locat associ custom access modul locat side custom access modul 
+definit where word phrase use declar defin trade practic act telecommun act mean given relev act 
+In appendix boundari telecommun network point ascertain accord section telecommun act commun wire copper base wire form part public switch telephon network custom access modul devic provid ring tone ring current batteri feed custom equip 
+exampl remot subscrib stage remot subscrib unit integr remot integr multiplex remot integr multiplex custom line modul local access switch public switch telephon network telephon network access public provid switch transmiss facil utilis analogu digit technolog 
+
+code 
+object definit code state object establish oper principl would enabl access seeker suppli ull provid carriag content servic custom set principl implement oper ull accord act commiss declar local telecommun servic 
+the code defin commun wire copper aluminium base wire form part pstn 
+thi incorpor part definit ull declar made commiss 
+for avoid doubt code note commun wire gener meant copper aluminium cabl pair 
+noth turn code refer aluminium wire addit copper wire use commiss declar ull 
+the commun wire howev uncondit meet definit ull declar 
+the follow definit code relev In use ull mean ull current use parti 
+e 
+industri particip suppli servic custom 
+ull identifi mean uniqu number alloc access provid individu ull 
+ull request mean specif request access seeker gain custom access provid vacant In use ull ull transfer request 
+ull request identif number request gain access seeker lose access seeker determin servic number defin custom fix network bill servic number identifi full nation number 
+e 
+telephon number custom servic number associ In use ull 
+ull transfer request request gain access seeker access provid process ull transfer defin success transfer ull lose access seeker gain access seeker 
+vacant ull mean ull In use ull 
+under cl 
+code recognis set minim accept practic limit industri particip agre differ arrang 
+importantli cl 
+provid code appli 
+
+
+exist commun wire avail access provid network time request emphasi ad 
+thi immedi creat conflict par e final determin 
+the latter purport appli commun wire exist telstra exchang custom dwell 
+notabl code use defin term soft dial tone 
+that term introduc order provis process commiss insert final determin 
+A soft dial tone understood industri particip indic connect present use 
+the presenc soft dial tone indic whether connect fact commun wire 
+e 
+copper aluminium wire whether condit uncondit 
+becaus soft dial tone characterist connect use connect could consid respect vacant ull request code 
+the definit usag term ull ull transfer request exclud line connect use 
+e 
+line never soft dial tone 
+
+ull transfer code code defin ull transfer mean success transfer ull lose access seeker gain access seeker cl 
+emphasi ad 
+under cl 
+
+gain access seeker optu propos ull transfer forward lose access seeker telstra email spreadsheet contain custom ull identifi name relev inform unless otherwis agre transfer regim 
+thu optu seek obtain transfer exist ull code must identifi actual commun wire use number ull identifi telstra alloc ull line 
+that number distinct telephon number full nation number fnn 
+By optu use procedur cl 
+code telstra abl verifi sought transfer fact ull 
+e 
+first commun wire current use secondli wire uncondit 
+So custom seek transfer exist ull servic use chang one servic provid anoth custom seek retain use exist commun wire chang servic provid 
+the transfer process exist servic code involv chang wire mdf mdu 
+the transfer occur point like telephon exchang respons provid exist identifi commun wire custom henc ull transfer servic provid 
+If telstra exist custom provid process call In use ull request 
+On hand anoth access seeker 
+e 
+industri particip suppli exist servic custom wish chang differ access seeker process call transfer ull request 
+In latter case telstra role transfer exist ull servic two third parti direct relationship custom 
+under cl 
+code access provid notifi gain access seeker reject includ detail reason reject within three clear busi day receiv ull transfer request 
+the gain access seeker entitl resubmit origin ull transfer request rectifi incorrect incomplet inconsist inform incorrect electron format cl 
+
+
+
+order ull the critic part code cl outlin ull order procedur 
+first access seeker specifi one six type access request 
+three type relev vacant ull request ull request ull transfer request distinguish ull transfer discuss see cl 
+
+b c 
+the final determin refer par gener optu submit 
+
+
+ull request telstra rather one six type ull request specifi cl 
+code 
+thi import cl 
+
+code commenc provid the access seeker must specifi type ull request requir 
+the type request 
+
+
+emphasi ad the code defin ull request specif request 
+
+
+vacant In use ull ull transfer request 
+but par final determin requir telstra follow ull transfer process code state optu made request simpli suppli servic full nation number address associ commun wire telstra must treat request ull transfer request follow ull transfer process specifi code emphasi ad 
+the succeed provis par final determin refer specif procedur code deal among thing vacant ull request 
+henc concept use code essenti understand final determin oper 
+the characterist three relev form request order ull specifi code follow request vacant ull thi defin thi process cover provis ull commun wire current use purpos 
+cl 
+emphasi ad It implicit commun wire uncondit order ull 
+when make request vacant ull access seeker provid access provid number detail includ custom servic address relevantli mdu exchang place access seeker access provid network interconnect 
+notabl request vacant ull need identifi particular commun wire connect telstra exchang mdf mdu 
+It would telstra find avail commun wire satisfi request 
+request ull An ull defin cl 
+
+b thi process cover provis ull exist commun wire current utilis custom 
+there two specif type ull request detail whether servic number associ ull cancel access provid ull call divers provid well ull transfer request 
+sic emphasi ad the second sentenc definit identifi two specif type ull request 
+each involv cancel access provid 
+e 
+telstra servic number 
+e 
+telephon number associ line 
+the second type ull request would also involv divers call made old telephon number new one 
+the code refer two type ull request respect request ull cancel servic number requir cl 
+
+request ull cancel servic number ull call divers requir cl 
+
+
+oddli commiss said reason first type ull applic final determin 
+howev final determin mention either type ull request rather refer ull transfer vacant ull request 
+As minimum access seeker provid access provid among thing exist telephon number servic number subscrib subject request 
+telstra comput softwar could link exist ull commun wire exist use telephon number 
+transfer ull access seeker code defin process 
+
+
+cover ing transfer ull two access seeker custom transfer one access seeker anoth access seeker 
+cl 
+
+c emphasi ad the transfer ull lose access seeker relevantli telstra gain access seeker relevantli optu 
+
+
+involv provis ull pair gain access seeker e 
+g 
+access provid jumper nomin cabl pair point interconnect cabl pair 
+b the access provid must confirm complet ull provis gain access seeker 
+c the access provid must provid loss report lose access seeker 
+cl 
+
+emphasi ad part process describ cl 
+
+involv identif nomin cabl pair main distribut frame mdf mdu point interconnect telstra exchang 
+An access seeker optu make ull transfer request must provid access provid telstra among thing origin ull identifi pursuant cl 
+
+e vi 
+thu cl 
+code requir ull transfer request exist connect includ relevantli origin ull identifi defin uniqu number alloc access provid telstra individu ull togeth point interconnect cabl pair detail cl 
+
+e vi iv respect 
+with inform requir mechan code access provid telstra abl identifi request line alreadi design ull identif number thu line identifi fact exist uncondit commun wire 
+next receipt request access seeker cl 
+telstra access provid check valid detail access seeker request 
+If request correct format telstra accept provid receipt optu within one busi day cl 
+
+
+If relev request incorrect format telstra reject provid optu notic reject reason 
+In addit cl 
+provid access provid telstra given receipt access seeker ull request access provid perform servic qualif purpos determin avail ull ensur complianc network deploy rule cl 
+
+
+the access provid conform model term intent b take reason step ensur technic oper qualiti inform suppli access seeker part servic qualif result equival access provid provid cl 
+
+
+the servic qualif process defin desktop process determin avail appropri ull request 
+under cl 
+
+access provid telstra provid access seeker minimum amount inform respons ull request cl regardless type ull servic sought request 
+thi inform includ cl 
+
+b ull identifi unless request reject 
+thu telstra give optu ull identifi exampl ull avail request reject reason 
+Of cours optu made ull transfer request would known ull identifi given telstra cl 
+
+e vi 
+
+provis ull the next section code cl dealt provis 
+An access provid requir process ull order provis system cl 
+
+thi involv unless otherwis agre access seeker optu provid identif tone facilit test access provid cl 
+
+c 
+that cl 
+
+c optu provid identif tone telstra could test connect commun wire identifi suppli request ull 
+
+guidelin the australian commun industri forum also produc industri guidelin uncondit local loop servic IT specif transact analysi known acif octob guidelin set content requir commun access seeker provid purpos code cl 
+claus guidelin describ physic record format intend order request transact access seeker access provid would gener 
+differ format prescrib guidelin stage individu ull order request cl 
+
+code 
+the complet field format mandatori other option 
+those format adopt use comput system industri member includ telstra optu 
+relevantli detail individu format acquir vacant ull acquir vacant commun wire vull cl 
+ull acquir use commun wire iull cl 
+transfer ull transfer use commun wire tull cl 
+
+becaus ull request made exist custom current servic provid case telstra telstra comput system alreadi associ servic full nation number ull identifi ull servic provid 
+thu cl 
+
+guidelin requir gain access seeker optu provid ull identifi telstra 
+rather cl 
+
+provid iull confirm advic telstra must provid access seeker ull identifi 
+thu ull transfer request telstra role permit custom chang one third parti access seeker anoth 
+telstra supplier commun wire two third parti deal directli custom provid servic full nation number 
+thi reflect cl 
+
+guidelin tull notif format 
+that like cl 
+
+code includ mandatori field ull identifi includ servic full nation number 
+
+optu notic OF disput and the parti submiss ON the draft determin optu claim notic disput submiss commiss telstra provis ull manner gave substanti advantag provis time competitor abl achiev would imped take ull 
+optu complain previou occupi dwell mdu cancel telephon servic two possibl scenario depend whether new occupi chose becom telstra custom via pstn connect optu one via ull 
+optu claim two scenario telstra select new occup abl identifi cancel telephoni servic reus exist copper pair connect new custom servic within one two busi day 
+It could remot without visit mdu premis b new custom chose optu servic provid provis servic use ull 
+In circumst potenti telstra could alloc differ copper pair pair current serv premis 
+optu argu telstra provis servic system ull simpli search vacant copper pair address mdf mdu rather identifi pair previous alloc particular servic 
+optu argu telstra would send technician apart build examin mdf ensur copper pair select display correct electr characterist exchang side mdf 
+It claim telstra refus connect use jargon jumper line exchang side mdf build side establish new path subscrib dwell 
+thu optu claim forc send second technician mdf make physic connect 
+On basi optu argu two truck roll one technician involv lead unnecessari cost delay busi day occur new servic activ 
+when commenc arbitr commiss agre make site visit two differ mdu select parti 
+It describ happen next 
+dure site visit discuss turn away jumper build mdf mdu circumst continu copper path exist soft dial tone custom premis telstra exchang therefor jumper could perform telstra exchang provid ull 
+
+In formul propos sent parti commiss understood discuss took place site visit custom vacat premis mdu mdf build copper path custom premis telstra exchang may still intact abl identifi presenc soft dial tone 
+As may possibl provis ull access seeker use copper pair 
+the commiss sinc verifi full nation number fnn obtain either dial tone soft dial tone exist diall custom premis 
+thi number publicli avail internet 
+
+On basi understand commiss view situat ull could provis jumper take place telstra exchang 
+thi would avoid two one access provid one access seeker custom premis 
+the commiss also took view fair reason access seeker accept risk copper pair may suitabl broadband servic 
+emphasi ad the propos refer commiss set reason 
+It differ final determin 
+the commiss initi propos signific featur refer first exist line commun wire soft dial tone secondli situat 
+
+
+line exchang custom premis 
+e 
+soft dial tone bold emphasi ad 
+the detail two concept ultim chang structur remain par e respect final determin distinct line chang latter instrument commun wire 
+It conceptu correct describ exist line custom premis telstra exchang evidenc soft dial tone fact demonstr pathway telstra pstn commun pass two point 
+but fact said noth whether pathway uncondit commun wire henc ull commun pathway includ condit commun wire one partial utilis connect 
+In formul initi propos commiss said In case exist line custom premis telstra exchang soft dial tone optu need request vacant ull telstra telstra would follow process vacant ull outlin acif code 
+such approach concur current practic requir parti implement chang 
+the commiss subsequ receiv submiss telstra optu wave one repli gener repli 
+It record purport submiss reason 
+It prepar draft final determin draft statement reason 
+thi result yet submiss commiss parti 
+the draft final determin par contain substanc becam par e f g final determin 
+but latter addit two new b c 
+telstra made number critic commiss concern draft final determin 
+first assert commiss regard incorpor code guidelin model term condit determin octob provis relev consider purpos 
+secondli telstra said draft par becam par b final determin correctli reflect provis process code guidelin commiss misunderstood natur soft dial tone misconstru terminolog intent code 
+In addit telstra criticis draft final determin fail take account matter 
+It note par b becam par e final determin suggest telstra provis ull access seeker even telstra commun wire servic premis 
+telstra submit commiss mind proceed final determin accord draft would lengthi costli system chang optu ought requir bear cost access seeker ask chang 
+telstra submiss elabor commiss misconstru natur soft dial tone 
+telstra provid commiss ibm australia limit assess chang would need implement telstra support draft final determin 
+ibm suggest three new telstra interfac would need creat comput system provid valid transfer request kind refer draft final determin 
+telstra also provid report infosi tech limit analysi assess cost involv design implement softwar system chang requir draft final determin 
+telstra Mr mcainsh provid statement commiss explain matter attach supplier estim 
+He estim cost telstra instal test propos chang 
+million 
+Mr mcainsh explain commiss actual process telstra use order provis ull respons request vacant ull ull transfer ull access seeker accord cl code 
+He explain soft dial tone indic carri servic provid line 
+He said soft dial tone present previou telstra pstn servic disconnect previou ull disconnect 
+thu previou custom mdu optu custom whose servic disconnect would soft dial tone 
+and previou custom telstra custom cancel earlier servic soft dial tone would indic path would indic whether path ull path 
+e 
+uncondit commun wire connect use pstn 
+Mr mcainsh point logic enough ull defin code one current use henc soft dial tone would present servic fulli function 
+Mr mcainsh explain statement commiss number system requir appear substant need met telstra could process vacant ull request transfer ull request manner contempl draft final determin 
+He note provis draft consist requir code guidelin 
+He said basi previou experi would take two year implement chang draft final determin 
+He said would take seven month build deploy solut need implement draft final determin 
+He assum would negoti within industri chang requir current version code guidelin 
+Mr mcainsh explain prior attempt optu telstra implement number chang lesser signific anoth industri code taken month make requir amend 
+He estim would take longer industri assess endors commiss propos chang 
+optu respond say commiss propos draft sought minimis system process chang utilis exist provis process ull transfer request pursuant code ccordingli chang system cost incur would minim purpos 
+It also submit commiss price principl ull would protect telstra interest earn commerci return enabl recov cost associ implement propos determin 
+optu assert would take three month implement chang necessari 
+telstra respond argu optu analys assert consist draft final determin exist ull provis process 
+telstra also argu commiss made final determin propos abil recoup cost would need consid ull price disput current consid commiss arbitr 
+thi provok yet anoth respons optu 
+It address telstra submiss concern cost time frame implement commiss propos 
+optu acknowledg system chang associ implement inform technolog aspect propos neither complex excess costli 
+It acknowledg Mr mcainsh descript number provis ull associ inact fnn full nation number say process 
+
+
+duplic process exist activ fnn therefor repres major IT build 
+optu said would also need build test transact set tull propos well provis process system 
+optu estim total cost work would requir three month IT develop 
+It submit commiss conclud telstra claim cost credibl 
+telstra final submiss respond among thing optu cost claim note telstra cost base upon independ outsid contractor quot 
+lastli optu respond provid statement leon Ho manag consum custom care system optu IT group support claim optu cost would approxim chang optu system would take approxim week implement 
+optu said Mr Ho statement show chang rel simpl could accommod modest cost within short time frame 
+
+ground did the commiss take into account the direct cost OF telstra provid access TO the ull 
+the commiss reason telstra argu commiss fail take account direct cost telstra would incur suppli ull accord final determin 
+telstra argu virtu failur compli requir commiss therefor fail follow procedur requir law administr decis judici review act cth adjr act b exercis power improperli fail take relev consider account adjr act e b 
+In reason commiss acknowledg telstra incur cost suppli ull conclud cost implement final determin would minimis telstra requir utilis exist provis process ull transfer request pursuant code 
+the commiss assert benefit would outweigh cost necessari chang telstra current system regulatori regim permit telstra recov effici cost suppli charg ull reason 
+the commiss made statement arriv conclus respect consider rais 
+earlier express conclus concern matter b commiss said accept telstra would incur cost implement propos 
+
+
+satisfi cost signific 
+It commiss view implement final determin involv chang exist tull procedur prevent telstra earn normal commerci return 
+emphasi ad the commiss said satisfi reason telstra build upon minimum oper requir order provis ull ull transfer code order resolv current access disput reason 
+those assert commiss express follow reason process 
+they amount statement ultim conclus 
+later commiss express conclus purpos f final determin would effect requir telstra bear unreason amount cost extend enhanc capabl facil maintain extens enhanc capabl 
+the commiss note telstra submiss would requir develop implement new process involv signific system chang substanti cost telstra industri whole purpos f reason 
+In regard commiss refer Mr mcainsh statement estim telstra cost would 
+million 
+the commiss continu reason 
+optu respons submiss draft final determin state describ craig mcainsh statement requir provis ull associ inact fnn duplic process exist activ fnn therefor repres major IT build 
+It estim cost implement commiss final determin would approxim 
+
+while commiss recognis need chang process IT system compli final determin satisfi specifi ull provis process determin burdensom telstra use current provis code cost implement neglig enhanc capabl access seeker ull 
+
+the commiss conclud final determin prescrib effect specifi section act 
+emphasi ad earlier reason address consider rais e deal valu parti extens enhanc capabl cost born someon els commiss said reason 
+for reason outlin other relev matter commiss satisfi specifi ull provis process determin burdensom telstra 
+By use current provis acif code cost implement neglig ultim enhanc capabl access seeker ull 
+emphasi ad I opinion reason person could describ telstra cost implement propos estim 
+million neglig 
+In opinion commiss either fail regard cost express reason process refer evid justifi assert 
+In submiss optu eschew suggest commiss adopt telstra cost estim respect optu cost 
+howev commiss statement reason contain reason process issu 
+the reason refer neglig cost implement final determin 
+It may neglig could describ cost optu claim would need chang system depend reason process use justifi categoris 
+but commiss explain even briefli telstra chang system achiev neglig cost chang requir compli final determin 
+If I accept optu argument refer commiss reason find commiss telstra cost commiss gave explan reject telstra estim 
+million support estim independ consult Mr mcainsh evid commiss 
+
+statutori requir take account regard In reg v hunt Ex part sean invest pti ltd hca clr mason J gibb J agre explain signific statutori requir regard cost necessarili incur provid nurs home care particular nurs home determin scale fee 
+mason J said express regard requir take cost account give weight 
+
+
+fundament element make determin sean invest clr 
+He explain case two reason construct first cost matter explicitli mention matter taken account secondli scheme provis approv given proprietor nurs home permit exceed scale fee fix 
+As mason J point section requir fix scale fee exclus refer particular cost 
+the entitl regard said relev consider 
+but function determin scale fee particular nurs home nurs home 
+thu act direct regard cost incur provid care nurs home sean invest clr 
+I opinion requir commiss make final determin take account telstra direct cost provid access ull manner commiss propos requir take matter account togeth matter refer section give weight fundament element make decis the queen v toohey Ex part menel station pti limit hca clr per gibb CJ appli mason J said sean invest clr section requir take varieti matter account 
+mason J said requir regard matter meant would becom central element consider menel station clr 
+and later explain classic judgment minist aborigin affair v peko wallsend ltd hca clr absenc statutori indic weight given variou consider gener court determin appropri weight given matter requir taken account exercis statutori power 
+mason J said court could set asid administr decis fail give adequ weight relev factor great import given excess weight relev factor great import prefer ground power exercis decis manifestli unreason 
+A person entrust discret must call attent matter bound consid clr per mason J appli associ provinci pictur hous ltd v wednesburi corp KB per lord green MR 
+A must give proper genuin realist consider merit case khan v minist immigr ethnic affair fca ald per gummow J zhang v canterburi citi council nswlr spigelman CJ collect author minist immigr multicultur affair v yusuf hca clr per kirbi J najt v minist immigr multicultur indigen affair fcafc fcr per madgwick J per conti J szejf v minist immigr multicultur indigen affair fca I appli principl 
+In tickner v chapman fcr black CJ said requir consid materi process consider 
+
+
+involv activ intellectu process direct nomin see per burchett J per kiefel J tobacco institut australia v nation health medic research council fcr per finn J australian retail associ fcr per weinberg J 
+where must consid matter prescrib law gener jettison ignor factor give cursori consider order put one side east australian pipelin pti ltd v australian competit consum commiss hca clr per gleeson CJ heydon crennan JJ 
+As gummow hayn JJ concur observ east australian pipelin clr It enough accc say final determin consid matter sens look discard 
+becaus requir take account seven specifi factor commiss give appropri consider arriv final determin 
+the number varieti factor statut requir take account regard arriv decis necessarili affect weight one factor must given delib process 
+In sean invest hca clr cost fundament foundat matter statut prescrib 
+the subject matter scope purpos statutori power provid context assess duti impos particular situat cf foster v minist custom hca clr per gleeson CJ mchugh J gaudron hayn JJ agre honour 
+here prescrib number matter consider 
+thi sure legisl indic matter must central matter commiss 
+but expressli widen rang matter commiss may consid authoris arriv final determin due consider accord weight factor factor 
+inde factor tend differ direct 
+the interest carrier b person right use declar servic c often oppos 
+If commiss give fundament weight sens telstra argu could arriv decis favour one expens cf telstra corpor limit v australian competit consum commiss fca per lindgren J 
+I opinion sens high court use express fundament weight context requir treat consider factor oppos factor central element delib process menel station clr per mason J 
+In way give appropri weight factor 
+the parliament sought ensur commiss would give proper genuin realist consider factor specifi without confin matter show 
+such consider must reflect commiss reason decis 
+In telstra fca lindgren J held factor given fundament weight name whether determin promot interest servic suppli mean carriag servic 
+thi held factor reflect sole object part xic act express see telstra fca 
+Of cours e supplement concept identifi object encourag econom effici use econom effici invest infrastructur list servic suppli 
+often object may attain infrastructur invest econom feasibl servic provid make support 
+So dint e interest may well includ servic provid forc act way econom unjustifi 
+possibl monopolist may abl forc lower price make way competit e run busi charit exercis loss 
+therefor depend fact particular arbitr one matter may becom greater lesser weight process 
+howev matter law none factor includ entitl fix weight process regardless subject matter arbitr relev factor clr per mason J foster clr per gleeson CJ mchugh J cf telstra fca per lindgren J 
+optu argu commiss telstra cost provid new form access recov access seeker rather sole optu telstra contend 
+optu argu commiss accept telstra would abl recov cost applic commiss price principl separ arbitr conduct concurr commiss reason 
+telstra argu commiss entitl defer consider telstra cost complianc final determin assert regulatori regim permit telstra recov effici cost suppli charg ull reason 
+It reli commonwealth v pharmaci guild australia alr per sheppard J per ryan J 
+optu respond telstra ask commiss consid price part final determin 
+It argu commiss entitl regard exist separ mechan telstra could recov cost provis ull caus implement final determin 
+optu argu concern direct cost provis ull rather particular cost compli commiss determin 
+It contend commiss approach basi telstra direct cost provid access ull includ cost incur caus provis access occas term final determin commiss state reason 
+I opinion mere fact telstra might seek recov cost whatev may separ process besid point 
+the exist fact elucid requir commiss name take telstra direct cost complianc account make final determin 
+the incur cost differ possibl recoveri 
+the act requir commiss give real consider telstra would requir incur directli cost implement commiss consid 
+but commiss 
+In passag reason dealt cost commiss assert telstra would fact incur cost without identifi quantifi cost assert would minimis reason neglig reason recover reason 
+and commiss refer telstra abil separ arbitr recoup cost incur implement final determin 
+those mere refer amount commiss regard telstra direct cost provid access genuin proper realist manner requir 
+the commiss made find direct cost telstra would incur provid propos new form access ull 
+telstra contend substant corrobor evid direct cost would 
+million 
+If commiss approach support optu submiss correct commiss need consid particular cost cost let alon identifi direct cost telstra would incur provid access 
+ani consider cost result descript requir commiss give reason analys telstra claim direct cost implement final determin commiss came significantli differ conclus 
+section requir commiss give reason make final determin 
+and pursuant act interpret act oblig extend set find materi question fact includ refer evid materi find base 
+those requir focu subject thought process 
+It must set find question fact consid materi decis made reason reach decis explain mchugh gummow hayn JJ yusuf clr 
+the purpos arbitr determin whether optu grant access ull manner differ current access 
+the subject matter scope purpos ss requir commiss make final determin subject matter arbitr concern access optu declar ull servic regard actual direct cost telstra would incur provid access optu requir final determin 
+the commiss accept alreadi direct cost incur telstra provid exist access 
+but commiss regard addit direct cost telstra effect consid final determin 
+thi view reinforc prohibit impos f 
+that direct commiss make final determin access telstra would requir bear unreason amount cost extend enhanc capabl facil 
+thu commiss requir regard telstra actual direct cost purpos arriv final determin prohibit cost unreason make final determin 
+In project blue ski inc v australian broadcast author hca clr mchugh gummow kirbi hayn JJ said primari object statutori construct constru relev provis consist languag purpos provis statut 
+I opinion requir commiss take account direct cost provid access declar servic make final determin must read consist oblig refrain make determin parti would requir bear unreason amount cost extend enhanc capabl facil 
+the commiss set find direct cost telstra provid access ull either gener see reason specif would incur telstra provid servic requir final determin 
+the act requir commiss regard cost give proper genuin realist consider arriv final determin 
+A mere recit submiss express unreason conclus could suffic compli commiss oblig within mean regard telstra direct cost provid access claim would 
+million 
+It regard telstra direct cost provid access requir final determin 
+whether commiss use telstra cost gave reason find telstra cost would neglig 
+the commiss either made mistak optu submit reason reject telstra estim 
+million 
+optu submiss commiss use telstra cost recognis least implicitli use would failur commiss regard telstra direct cost 
+while I think like commiss confus optu estim estim telstra cost possibl decid one way whether commiss lack reason matter palm clr per gleeson CJ gummow heydon JJ 
+I opinion defici commiss reason I discuss show reason reject telstra estim 
+million compli requir 
+
+ground did S requir the commiss TO have regard TO code AS A model term and condit telstra argu commiss approach code review adjr act 
+It contend commiss fail observ procedur requir b adjr act improperli exercis power make final determin fail take account relev consider e b adjr act 
+In essenc telstra contend octob determin substanti provis code model term condit commiss fail regard accord 
+It argu commiss regard whole cl particular model term condit made act rather mere regard industri code 
+optu argu commiss made error way appli regard provis code none import provis cl reli telstra model term condit 
+the commiss said reason care consid telstra submiss system design built carri transfer process accord agre provis code 
+It regard octob determin includ whole code 
+It state final determin utilis exist ull provis process resolv current issu disput determin specif process appli limit set circumst reason 
+the commiss reiter limit set circumst aros telstra suppli optu 
+
+
+ull mdu sic servic mdf exist commun wire telstra exchang custom premis soft dial tone ull transfer request may submit optu ull transfer process pursuant claus 
+code would appli 
+reason emphasi ad the commiss said utilis exist ull provis process code resolv access disput reason 
+In reason commiss also assert soft dial tone identif tone purpos cl 
+
+c assist identifi servic full nation number associ inact telstra pstn servic 
+It said 
+
+
+
+the presenc soft dial tone togeth provis full nation number suppli gain access seeker enabl telstra identifi commun wire telstra exchang carri subsequ transfer ull request process 
+If identifi request would need treat vacant ull request 
+the onu gain access seeker deal consequ process telstra 
+
+the commiss note concern rais inact servic soft dial tone ull servic satisfi telstra servic qualif test process could use identifi whether case 
+emphasi ad the word I emphasis reason appear relat soft dial tone commiss classifi identif tone sinc balanc sentenc refer procedur par e final determin 
+code defin servic qualif desktop process includ access provid telstra check avail ull side custom access modul locat relevantli telstra exchang properti boundari point locat near mdf see cl 
+appendix A code 
+the process contempl cl code requir access provid check valid ull request cl 
+
+
+If request correct format 
+e 
+compli minimum requir relev type request one cll 
+
+
+cl 
+
+requir telstra accept provid optu receipt 
+howev cl 
+
+provid request 
+
+
+incorrect format access provid reject request 
+accordingli telstra would perform servic qualif accord cl 
+
+first issu receipt 
+e 
+issu receipt cl 
+
+telstra would accept receiv valid request compli requir cl relev type servic 
+In regard import recal octob determin expressli adopt model term condit relev claus code concern acknowledg order servic updat progress confirm complet order see 
+the final determin commiss reason appear proceed assumpt request made par would ull transfer request cl 
+code request would nonetheless valid even though compli requir cl 
+
+e vi provid origin ull identifi 
+yet cl code structur basi evid commiss show telstra access provid exist comput system would reject ull transfer request omit origin ull identifi 
+thi field inform origin ull identifi industri accept mean verifi locat commun wire current use custom transfer 
+the commiss howev introduc concept par foreign cl 
+process name associ soft dial tone former servic number inact telstra pstn servic may may ull 
+how commiss regard provis cl inconsist new concept the commiss reason state octob determin silent order provis disput arbitr 
+It said regard determin 
+
+
+satisfi order provis issu access disput adequ dealt determin reason 
+It reiter model term dealt 
+
+
+key contenti term condit requir comprehens reason 
+It said take code account 
+
+
+satisfi done access disput reason see 
+the commiss reason octob determin 
+
+
+adopt ed claus acif code deal specif provis ull mdu reason emphasi ad 
+the commiss reason wrong 
+they show misunderstood effect octob determin 
+A reject ull transfer request acknowledg make request contemporan commun would process 
+It follow commiss regard code whole particular cl apart provis present relev cll 
+
+
+
+
+includ form part octob determin purpos 
+that section requir commiss regard earlier determin 
+
+
+requir arbitr access disput divis relat core servic cover determin emphasi ad 
+importantli emphasis core servic ull cover earlier determin model term condit 
+and section dealt access disput relat core servic 
+e 
+one cover model term condit 
+the commiss correctli observ bound model term condit sinc oper requir regard 
+the commiss reason adapt build code resolv access disput reason 
+the commiss reject telstra submiss adher strictli code say code limit arbitr power reason 
+It conclud effect effici resolut disput adopt final determin 
+
+
+base far possibl provis code reason 
+I opinion commiss taken provis code guidelin account reason treat code provid model term condit cover ull purpos 
+thi consid octob determin includ relevantli whole cl code model term condit 
+that misconstruct misunderstand purpos code octob determin sens commiss regard whole cl determin rather regard provis lesser import 
+thi result commiss fail exercis power accord cf minist immigr v gray fca fcr per french drummond JJ elliott v minist immigr fcafc fcr per ryan tamberlin middleton JJ 
+the weight commiss accord code particular cl may differ signific regard code accord 
+
+ground did the commiss final determin misconstru and misunderstand code next telstra argu commiss misconstru misunderstood code fail take code account 
+It contend various error law adjr act f failur follow procedur requir law b failur take code account relev consider give fundament weight therefor improp exercis power e b abus power therefor improp exercis power e j 
+telstra contend final determin requir follow transfer ull process context code consequ would requir reject transfer ull request requir incorrectli treat soft dial tone identif tone cf cl 
+
+c code misconceiv lose access seeker ull requir follow vacant ull process circumst code appli process impos 
+optu contend telstra argument gave signific code 
+It said commiss legal oblig regard relev part code 
+optu argu commiss could regard code unobjection arriv final determin 
+for reason follow I opinion commiss misunderstood misappli code arriv final determin 
+
+par final determin the model term condit industri code guidelin ull form context final determin oper 
+most significantli par began presumpt commun wire telstra exchang premis actual exist mean carri soft dial tone 
+howev I sought make clear presumpt unfound also provis code guidelin proceed basi 
+sinc ull request ull transfer request relat actual function servic soft dial tone present line subject either type request 
+the commiss permit optu provid ull request telstra servic number 
+e 
+telephon number address associ commun wire 
+It presumpt par alreadi commun wire subject request somehow identifi soft dial tone 
+there basi upon commiss could made presumpt made evid consid oper par e I come 
+next commiss requir telstra treat request 
+e 
+one commiss alreadi assum commun wire exist identifi soft dial tone associ telephon number subscrib address ull transfer request follow ull transfer process code 
+e 
+hypothesis commun wire exist uncondit sinc wire could ull 
+telstra made submiss commiss indic fallaci upon par base 
+telstra put expert evid commiss Mr mcainsh respons determin telstra requir process system chang support activ includ ull order provis 
+Mr mcainsh said telstra exist comput softwar design compliant code guidelin among other 
+A fundament requir cl 
+
+e vi code ull transfer request access seeker provis origin ull identifi exist ull 
+the ull identifi intern number assign telstra enabl locat identifi commun wire actual use lose access seeker telstra subject transfer request 
+In contrast par without appar basi assum commun wire alreadi exist subject optu request 
+the assumpt base fact connect 
+e 
+optu custom telstra exchang premis indic soft dial tone 
+the evid commiss demonstr even telstra provid telephon number fnn previous associ connect indic soft dial tone record could identifi whether telephon number associ ull connect 
+So fundament premis par structur name fact commun wire ull soft dial tone pass fiction 
+next par requir telstra treat request transfer ull servic optu hypothesis alreadi term par ull transfer request accord code 
+but telstra could without ull identifi provid cl 
+
+e vi would satisfi extent code appli 
+paragraph explain telstra locat identifi postul commun wire 
+instead par oper premis exist particular commun wire transfer 
+howev industri includ telstra oper basi ull transfer request would specifi ull identifi exist servic 
+code structur effect transfer 
+thu ull transfer request cl 
+code requir exist commun wire current oper servic origin ull identifi 
+A soft dial tone noth matter 
+If compli novel regim impos final determin telstra undertak consider work estim cost 
+million 
+telstra said work would take longer two year assess implement 
+It submit commiss would reconfigur comput system identifi whether request made refer telephon number address propos subscrib soft dial tone fact carri uncondit commun wire rather simpli pstn 
+the latter cours could use varieti connect path mdf telstra exchang 
+the final determin made provis need chang telstra infrastructur process new form request par 
+sinc code requir provis ull identifi transfer request one two altern construct par avail 
+first telstra contend make request would exercis futil telstra would entitl reject suppli ull identifi requir cl 
+e vi 
+the second altern posit optu presum support commiss somehow rewrit code make work practic way 
+that might possibl par found realiti 
+and note commiss reason said for purpos final determin applic type ull request restrict first type ull one servic number associ ull cancel access provid 
+emphasi ad howev final determin mention either type ull 
+the reason also said the commiss reiter limit set circumst aris name suppli telstra optu ull mdu sic servic mdf exist commun wire telstra exchang custom premis ull transfer request may submit optu ull transfer process pursuant claus 
+acif code would appli 
+emphasi ad telstra argu commiss inconsist refer passag par e transfer vacant ull request process inconsist 
+It also argu commiss incorrect regard assert soft dial tone either relev exist ull identif tone purpos cl 
+
+c 
+that claus show purpos identif tone facilit test provis ull access provid 
+telstra contend matter show commiss understand code oper confus concept final determin 
+telstra argu disput involv order provis respect vacant ull request 
+e 
+request optu alloc current unus ull 
+optu argu even commiss er constru certain term categori code give rise judici review error final determin 
+It argu properli understood par effect requir parti adapt use exist transfer ull process 
+and optu said commiss characteris soft tone affect valid final determin 
+I reject optu argument 
+the process par use exist ull provis process contain code despit commiss assert reason 
+the provis code mention use concept soft dial tone connect identifi whether ull exist 
+and identif tone use test qualiti ull identifi cl 
+
+c 
+the code oper two relevantli conceptu distinct way 
+first contempl exist current use ull could transfer either telstra exist supplier ull use ull request cl 
+anoth exist supplier ull use ull transfer request cl 
+
+secondli neither situat appli optu sought suppli new occup unit mdu cl 
+provid optu make vacant ull request 
+e 
+ask telstra find ull connect premis optu network 
+the final determin utilis process depend identifi actual exist ull either use transfer ull request telstra would look identifi vacant ull request 
+instead par reinforc par e use criterion soft dial tone convey particular connect 
+but criterion exist ull use 
+e 
+current custom access seeker access provid includ telstra optu use telecommun pathway soft dial tone carri 
+the soft dial tone indic natur pathway beyond part pstn 
+
+par e final determin the fallaci reason commiss reveal par e 
+there commiss first equat presenc soft dial tone exist commun wire ull premis telstra exchang 
+In par e final determin commiss use code defin term vacant ull request applic situat w commun wire telstra exchang custom premis 
+e 
+soft dial tone 
+that misconcept commiss part three reason 
+first request vacant ull code procedur access seeker optu request access provid telstra look exist uncondit commun wire exchang premis albeit one use 
+contrari word par e presenc soft dial tone indic exist vacant line indic whether ull although may 
+secondli par e conflict par g final determin commiss requir optu submit vacant ull request exist uncondit commun wire optu prepar accept risk qualiti exist connect 
+e 
+case telstra would request find anoth unus wire 
+thirdli said meant ull two point I found error commiss requir telstra engag vacant ull process understood pointless 
+that permit optu submit futil vacant ull request telstra search transfer par e alreadi said exist two point name commun wire 
+the commiss explain purpos par reason follow the chang necessari current whenev telstra lose access seeker process use optu gain access seeker alway vull process wherea soft dial tone present telstra gain access seeker definit gain access seeker acif code telstra may also gain access seeker access provid process may differ 
+As telstra may abl exist commun wire assum pass servic qualif test enabl gain effici provis servic avail access seeker 
+In staff opinion situat seem within spirit intent legisl attempt achiev outcom 
+emphasi ad A vacant ull request code involv telstra lose access seeker 
+A vacant ull request request telstra search find provid access seeker uncondit commun wire telstra exchang premis 
+If commiss understood code oper could made basic error impos regim work 
+the commiss assert process may differ soft dial tone present explain commiss reason misconcept dial tone demonstr ull exist 
+In opinion optu submiss commiss supposit unwork 
+the commiss misunderstood misappli code arriv final determin 
+As number matter fulli argu I set find event conclus wrong 
+
+ground wa the final determin uncertain 
+the context uncertainti argument telstra argu mix concept ambigu code oper final determin uncertain oper therefor improp exercis power adjr act e h 
+It refer c provid final determin may c specifi term condit carrier provid compli standard access oblig applic carrier provid 
+
+
+
+telstra argu par fail specifi term condit reason precis way telstra court determin whether particular request optu must dealt certain identifi way cf TV pti ltd v australian broadcast tribun hca clr per gibb CJ mason wilson dean dawson JJ 
+telstra contend par 
+
+
+vagu express either mean applic matter real uncertainti 
+
+
+
+
+
+reason certain use word kitto J televis corpor ltd v the commonwealth hca clr 
+kitto J said latter concept includ certainti express certainti oper 
+optu argu par final determin constru accord principl explain dixon J king gee cloth compani pti limit v the commonwealth hca clr cann pti limit v the commonwealth hca clr 
+gleeson CJ gummow kirbi hayn heydon JJ westfield manag limit v perpetu truste compani limit hca tran appli principl hold assert one term uncertain instrument decis made statut constru contract cp upper hunter counti district council v australian chill freez Co ltd hca clr 
+dixon J said uncertainti test valid aris natur power king gee clr 
+He distinguish ambigu uncertainti bound aris form express intricaci subject matter one hand could resolv constru interpret instrument final determin 
+dixon J point hand describ instrument howev clearli involv matter ascertain fact figur matter estim assess discretionari alloc apportion result attribut amount figur matter judgment certain object standard prescrib power exercis accord statut king gee clr see also racecours sugar associ ltd v qld hca clr per gibb J stephen mason wilson JJ agre 
+what mean par final determin first problem refer exist commun wire soft dial tone context par e say absenc soft dial tone equival commun wire 
+In fact soft dial tone indic commun wire ull connect 
+rather indic connect use avail mean may need ull pstn 
+secondli par requir telstra treat optu request ull transfer request accord code 
+but telstra follow cl code would reject ull transfer request compli cl 
+
+e vi code particular specifi origin ull identifi 
+likewis gain lose access provid situat soft dial tone indic inact servic 
+telstra argu materi alon provid ull transfer request cl 
+code would reject immedi failur compli requir cl 
+
+
+In addit par b requir telstra valid servic number telephon number correspond address specifi request base telstra cabl record exchang 
+then par c state inform incorrect telstra follow ull reject process ull transfer specifi code 
+It clear whether par c refer inform par b alon togeth par 
+If former even fact exist commun wire ull servic telstra somehow oblig provid one even though path soft dial tone present 
+how telstra would address final determin commiss reason 
+If second view oper par c correct appear accommod open word par 
+optu argu proper construct par requir assumpt requir cl 
+code satisfi condit set par met 
+In word optu argu final determin requir telstra treat provis inform specifi par ull transfer request necessari consequ telstra would process valid cl 
+code 
+It contend final determin constru practic manner requir 
+
+
+telstra modifi exist procedur exclud kind valid process specif transfer access seeker 
+It refer practic approach construct instrument enunci lord reid gill v donald humberston Co ltd wlr appli stone J australian tea tree oil research institut v industri research develop board fca fcr see per stein gile jja langton v independ commiss corrupt nswlr 
+lord reid said instrument address practic peopl skill particular trade industri ought constru light practic consider rather meticul comparison languag variou provis kind appropri construct statut 
+optu point telstra submiss Mr mcainsh evid commiss telstra would 
+
+
+modifi provis system sic remov requir ull S identifi system ordinarili configur look assess ull transfer request 
+It also argu even inconsist final determin code cl code statutori forc determin oper make final determin prevail 
+the commiss procedur final determin par presuppos exist ull actual transfer 
+where activ use line transfer access seeker includ telstra requir par easi determin whether ull uncondit commun wire provid servic origin ull identifi see cl 
+
+e vi 
+but critic piec inform miss commiss hypothesi par 
+the commiss specifi final determin reason origin ull identifi need provid although optu submit par ought understood 
+
+what mean par final determin I opinion par uncertain reason given kitto J televis corpor clr said condit impos licenc minist purportedli statutori power after power given minist prescrib condit author depriv license licenc 
+Is realli suppos parliament intend might prescrib condit word dubiou import one would sure far meant go the parliament give minist power suspend revok licenc 
+the cours took requir describ advanc formal method impos condit upon licenc conduct license would expos licenc suspens revoc 
+I see justif loos interpret act form word reason vagu fail perform function may held condit within intend scope author 
+the provis par final determin must read whole 
+thi whole par purport specifi telstra must order provis provid access 
+thu par e commiss equat presenc soft dial tone signif ull exist provid connect soft dial tone transmit 
+for reason I given fallaci 
+and fallaci fundament requir telstra par treat request valid ull transfer request optu construct correct I opinion final determin uncertain unwork 
+thi view reinforc consider par f g 
+these deal situat optu submit ull transfer request meet requir par 
+In first case optu must accept risk qualiti connect 
+
+
+exist copper path telstra exchang premis emphasi ad 
+again demonstr commiss presuppos everi case presenc soft dial tone identifi exist copper path 
+what telstra assumpt incorrect It suppli servic subject request ull servic even though soft dial tone transmit path exist path ull path 
+and optu commiss correct telstra reject transfer request must treat valid even though relat ull 
+that final determin commit telstra process ull transfer request request base exist soft dial tone provis telephon number optu new subscrib address 
+par f g address possibl soft dial tone run across connect 
+rather par f g deal possibl ull connect may may good qualiti oppos exist ull connect 
+and par e oper assumpt absenc soft dial tone establish commun wire connect telstra exchang custom premis 
+In situat case final determin made optu could make vacant ull request 
+the commiss attempt adapt exist ull transfer request process code premis presenc soft dial tone meant carri uncondit commun wire 
+the commiss recognis reason 
+there said the onu gain access seeker deal consequ process telstra 
+that reason dealt commiss provid par f g 
+but avoid real possibl inact servic soft dial tone might ull servic 
+servic one thing exist anoth 
+As fullagar J observ australian communist parti v the commonwealth hca clr A power make law respect lighthous author make law respect anyth opinion lighthous 
+A power make proclam carri legal consequ respect lighthous one thing power make similar proclam respect anyth opinion lighthous anoth thing 
+In way express commiss final determin adapt provis code presuppos fundament matter ull transfer request determin name exist ull transfer 
+thi creat fundament uncertainti final determin constru methodolog telstra follow postul par 
+If presupposit wrong respect request made optu telstra breach final determin sinc never suppli servic identifi pathway use soft dial tone altern telstra entitl reject request event omiss essenti inform ull transfer request process cl code cl guidelin name ull identifi entitl neither scenario make final determin certain 
+the presupposit take place process cl code without establish process par appli particular line soft dial fact ull 
+and notwithstand par treat everi request soft dial tone present ull transfer request telstra reject request give ull identifi process stipul final determin pointless 
+for reason I opinion final determin uncertain express oper 
+It therefor unlaw made project blue ski inc clr 
+
+ground wa the final determin illog OR unreason telstra also argu final determin unreason sens provid g adjr act name exercis power unreason reason person could exercis power therefor improp exercis power adjr act e 
+telstra argu final determin illog sens depend upon commiss evalu evid draw factual infer 
+It also contend final determin illog requir parti arbitr compli rule inconsist intern one anoth 
+thi essenc anoth way argu issu discuss 
+optu argu telstra understood practic implic propos determin commun commiss arbitr indic illog 
+It contend result final determin reason outcom circumst 
+In Re minist immigr multicultur affair Ex part applic hca alr mchugh gummow JJ said one speci known wednesburi unreason wednesburi KB identifi dixon CJ klein v domu pti ltd hca clr 
+there dixon CJ said appear domin actuat reason decis outsid scope purpos enact vitiat suppos exercis discret 
+dixon CJ said court look scope purpos provis real object determin whether exercis discret accord purpos enact 
+howev court must approach exercis perspect real object legislatur leav scope judici offic investig fact consid purpos enact give effect view justic case see alr Re minist immigr multicultur indigen affair Ex part palm hca clr per gleeson CJ gummow heydon JJ 
+A decis unreason might almost describ done bad faith absurd sensibl person could dream lay within power affect jurisdict error palm clr 
+there danger cours proceed judici review reason scrutinis 
+the reason meant inform 
+they reason person familiar subject matter need lawyer 
+they intend provid explan reason process 
+the court must turn review administr review merit decis minist immigr ethnic affair v Wu shan liang hca clr per brennan CJ toohey mchugh gummow JJ 
+In avon down pti limit v commission taxat hca clr dixon J discuss judici review administr decis give reason 
+He said the conclus reach may full consider materi found capabl explan ground misconcept 
+If result appear unreason supposit address right question correctli appli rule law took account relev consider irrelev consider may proper infer fals supposit 
+It necessari sure precis particular gone wrong 
+It enough see way must fail discharg exact function accord law 
+inadequaci materi reli administr ground prohibit circumst may support case like present infer commiss appli wrong test realiti satisfi requisit matter the queen v australian stevedor industri board Ex part melbourn stevedor Co pti limit hca clr 
+there dixon CJ william webb fullagar JJ refer import distinct mere insuffici evid materi support conclus fact function find fact commit person bodi parliament hand absenc foundat fact fulfil condit upon point law exist power depend 
+they said enough repositori power properli interpret section act confer appli correct test 
+
+
+nevertheless satisfi inadequ materi fact exist truth would fulfil condit one paragraph prescrib 
+the inadequaci materi ground prohibit 
+but circumst may support infer tribun appli wrong test realiti satisfi requisit matter 
+If indic purpos function commit tribun misconceiv short step conclus truth power arisen condit exercis exist law fact 
+In palm clr gleeson CJ gummow heydon JJ refer principl 
+they distinguish situat give reason decis court may abl infer good reason cf per gibb CJ public servic board nsw v osmond hca clr 
+As mchugh gummow JJ identifi alr principl melbourn stevedor clr depend upon unreason upon absenc factual basi power could exercis 
+for reason I given realiti commiss satisfi requisit matter upon power make final determin depend name act misconcept presenc soft dial tone demonstr exist uncondit commun wire ull 
+thi misunderstand subject matter purport deal I describ 
+the commiss determin therefor unreason improp exercis power 
+
+ground wa the final determin invalid becaus IT includ par E 
+did commiss exceed jurisdict includ par e dure cours oral argument I rais question whether par e demonstr commiss act misapprehens soft dial tone demonstr exist commun wire 
+telstra ad ground applic claim commiss act excess power confer upon includ par e 
+In essenc telstra argu commiss authoris impos requir act declar servic 
+telstra argu term par e presuppos commun wire ull proce impos requir telstra wire 
+It contend commiss power act impos term condit telstra declar servic 
+e 
+situat address commenc word par e commun wire sinc outsid scope reason construct 
+telstra argu commiss power make determin 
+
+
+access access seeker declar servic commiss exceed power make written determin access someth hypothes address par e declar servic origin emphasi 
+telstra argu determin therefor invalid liabl set asid ground state c adjr act 
+optu respond declar servic respect ull involv provis servic exist wire rather instal new commun wire facilit provis servic 
+It point cl 
+code confirmatori posit 
+It also accept commiss power limit make determin access seeker declar servic 
+optu howev contend final determin concern access ull declar act 
+It contend noth par e otherwis requir telstra instal new commun wire facilit servic request optu 
+all par e requir optu contend requir telstra follow vacant ull request procedur code reject request follow standard servic qualif process 
+optu point telstra construct would render par e effect useless proceed upon known unavail commun wire commiss could presum proceed 
+optu also argu requir par e request ull particular way determin aspect telstra provid optu access ull 
+optu recognis might redund 
+
+
+sinc applic result success request provis ull suffer vice alleg telstra determin access differ type servic origin emphasi 
+optu argu commiss taken requir parti engag pointless exercis submit vacant ull request circumst alreadi known reject 
+It point necess constru word par e way gave practic oper consist intent commiss gill wlr per lord reid 
+optu argu commiss concern specifi practic mean identifi connect particular line custom premis 
+It said par e read togeth par show exist soft dial tone indic exist continu connect particular line custom apart mdu exchang 
+It contend practic util enabl telstra provid inform par identifi particular line place allow connect jumper optu equip occur exchang without need technician visit apart build connect differ pair copper wire custom premis 
+optu argu par e appli situat par name soft dial tone possibl identifi exist continu connect 
+while submiss optu recognis practic oper final determin point fact oper ull connect rather respect presuppos situat either ull par ull par e 
+that difficulti telstra complain 
+the draft par inapt specifi term condit order provis commun wire ull practic intellig fashion 
+the commiss power confer enabl regul declar servic ull regul someth els 
+the commiss power part xic act determin access declar servic ull extend determin matter ull exist contempl par e 
+I opinion commiss exceed jurisdict includ par e final determin 
+
+sever par e final optu argu par e invalid reason could sever balanc final determin accord act interpret act cth 
+I opinion par e could sever rest final determin would oper differ without bank new south wale v the commonwealth hca clr per dixon J victoria v the commonwealth industri relat act case hca clr per brennan CJ toohey gaudron mchugh gummow JJ 
+the relev par e confirm incorrect approach commiss took signific soft dial tone par 
+sever par e would make final determin meaning give valid 
+
+conclus for reason I opinion final determin invalid quash see adjr act 
+I certifi preced one hundr number paragraph true copi reason judgment herein honour justic rare 
+associ 
