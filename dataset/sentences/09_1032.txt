@@ -1,0 +1,70 @@
+
+ This proceeding arises out of claims made by the applicant in respect of her enrolment and studies at the respondent university.In part, the applicant alleges that the respondent discriminated against her in breach of the respondent's obligations under the Disability Discrimination Act 1992 (Cth) and that the respondent engaged in misleading and deceptive conduct in breach of s 52 of the Trade Practices Act 1974 (Cth).The applicant now seeks interlocutory relief arising out of these claims.For the reasons which follow, I am of the view that the applicant's motion dated 21 July 2009 should be dismissed.THE RELIEF SOUGHT 
+ The applicant's present notice of motion seeks an injunction restraining the respondent from 
+ 
+ engaging and proposing to engage in conduct which amounts to acts or practices engaged in by the respondent that are interferences with the applicant's privacy as defined by section 13 of the PA [ Privacy Act 1988 (Cth)]...because they breach section 14 , Information Privacy Principles (PPs) 1, 2, 3,, 4, 5, 6, 7, 8, 9, 10, and 11, and the respondent is bound under the mandatory provisions of the Higher Education Support Act 2003 , in particular sections 19-60, 19-65 179- 35 of that Act ...
+ (original emphasis.) 
+ 
+ The applicant also seeks the grant of an injunction that the respondent 
+ 
+ be required to grant the applicant's entitlement to have access to her student record, because the refusal and proposed refusal is and would be an interference with the applicant's privacy as defined by section 13 of the PA [ Privacy Act 1988 (Cth)]...
+ (original emphasis.) 
+ 
+ The "student record" sought by the applicant is said to be a document "making up [her] entire student and personal record with Deakin University".The respondent's solicitor, in an affidavit dated 15 May 2009, deposed that: 
+ 
+ The Respondent does not have a centralised record-keeping system that contains the entire academic record and personal record and correspondence and miscellaneous material related to each student, including the Applicant, enrolled at the University.
+ 
+
+It is unnecessary at this stage to decide whether the applicant's "student record" exists as a single document.It is relevant only to note that it is said to contain the applicant's entire student, academic and personal record with the respondent.SUBMISSIONS 
+ The applicant seeks to support her motion by reference to the Privacy Act 1988 (Cth) ("the Act").The Act, in part, establishes a regime for access to and the protection of information held by "agencies".In respect of each injunction, the applicant claims that the conduct or proposed conduct amounts to an interference with her privacy, as defined by the Act, as the conduct is said to breach s 14 of the Act.The applicant relies also on the Higher Education Support Act 2003 (Cth) ("the HES Act") to bring the respondent within the scope of the Act.Counsel for the respondent submits that his client is not bound by the Act and that the Court has no basis on which to order the injunctions the applicant seeks.The respondent also contends that the expanded reach of the Act as a result of the HES Act is limited and applies only to information obtained in respect of the payment of debts, the provision of financial assistance or relating to units wholly consisting of work experience in industry.Counsel for the respondent submits that these provisions would not apply to the student record sought by the applicant.Following the conclusion of oral argument on 3 August 2009, the applicant was directed to file and serve any reply to the respondent's oral submissions in writing by 28 August 2009.This deadline was subsequently extended to 11 September 2009.The applicant did not file any additional submissions in reply in accordance with that order.THE APPLICATION OF THE PRIVACY ACT 
+ The applicant's notice of motion relies upon alleged interferences with her privacy by the respondent as a result of the conduct said to be in breach of the Information Privacy Principles ("IPPs") established under the Act.Section 13 of the Act relevantly states that an interference with privacy occurs when: 
+ 
+ in the case of an act or practice engaged in by an agency (whether or not the agency is also a file number recipient, credit reporting agency or credit provider)---breaches an Information Privacy Principle in relation to personal information that relates to the individual[.] 
+ 
+
+Section 13 of the Act also identifies other conduct which will constitute an interference with privacy; however none is relevant to the IPPs or present circumstances.Agencies are required to comply with the IPPs; see s 16 of the Act.The application of the IPPs is set out by s 15 of the Act.Section 15 provides that: 
+ 
+ (1) Information Privacy Principles 1, 2, 3, 10 and 11 apply only in relation to information collected after the commencement of this Act.(2) Information Privacy Principles 4 to 9, inclusive, apply in relation to information contained in a record in the possession or under the control of an agency, whether the information was collected before, or is collected after, the commencement of this Act.
+ 
+ An "agency" is defined in s 6(1) of the Act and includes: 
+ 
+ (c) a body (whether incorporated or not), or a tribunal, established or appointed for a public purpose by or under a Commonwealth enactment, not being:
+ (i) an incorporated company, society or association; or
+ (ii) an organisation that is registered under the Fair Work (Registered Organisations) Act 2009 or a branch of such an organisation; or
+ (d) a body established or appointed by the Governor-General, or by a Minister, otherwise than by or under a Commonwealth enactment[.] 
+ 
+ The respondent was established by the Deakin University Act 1974 (Vic).The respondent is not an agency within the meaning of the Act as it is not established by a Commonwealth enactment nor is it a Commonwealth body.The respondent also does not fall under any of the other categories of an agency outlined in 6(1) of the Act.Accordingly, the respondent is not required to comply with the IPPs.THE HIGHER EDUCATION SUPPORT ACT 
+ The applicant contends that the IPPs apply to the respondent as a result of the HES Act.In doing so, the applicant relies on s 19-60 of the HES Act which provides: 
+ 
+ (1) A higher education provider must comply with the information privacy principles set out in section 14 of the Privacy Act 1988 in respect of *personal information obtained for the purposes of section 36 - 22 or Chapter 3 or 4.(2) A higher education provider must have a procedure under which a student enrolled with the provider may apply to the provider for, and receive, a copy of *personal information that the provider holds in relation to that student.(3) The provider must comply with: 
+ (a) the requirements of the Higher Education Provider Guidelines relating to *personal information in relation to students; and
+ (b) the procedure referred to in subsection (2).
+ 
+ Section 19 - 60 regulates the conduct of higher education providers.A "higher education provider" includes entities that are "listed providers"; see ss 16-1 and 16-10 of the HES Act.The respondent is named as a listed provider in s 16-15 of the HES Act.The respondent must therefore comply with the requirements of s 19-60 of the HES Act.Section 19-60(1) applies only to "personal information" gathered for the purposes of s 36-22, Ch 3 or Ch 4 of the HES Act.Section 36-22 regulates the repayment of amounts in special circumstances to students who enrolled in units entirely consisting of industry work experience.Chapter 3 and Ch 4 of the HES Act regulate the provision of financial assistance to students and the repayment of loans.The student record which the applicant seeks is said to consist of her entire academic, personal and enrolment records with the respondent.As described, the applicant's student record cannot be said to have been gathered for the purposes of s 36-22, Ch 3 or Ch 4 of the HES Act.The requirements of s 19-60(2) and (3) apply only to "personal information" relating to students.Somewhat circuitously, "personal information" is defined in the Dictionary to the HES Act as having the meaning given to it by s 179-5 of that Act.Section 179-5 of the HES Act defines "personal information" as: 
+ 
+ (a) information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion; and
+ (b) obtained or created by an *officer for the purposes of Chapters 3 and 4.
+ 
+
+Not only must the personal information be information or an opinion about an individual, it must also have been obtained or created for the purposes of Ch 3 and Ch 4 of the HES Act.As noted above, Ch 3 and Ch 4 relate to the provision of financial assistance to students and the repayment of loans.There is no suggestion that the "student record" sought by the applicant is information which relates to the provision of financial assistance or to the repayment of a loan.The "student record" which the applicant seeks is said to consist of enrolment, academic and person information.It cannot be said to be "personal information" within the meaning of s 179-5 as it evidently not gathered or created for the purposes of s 36-22, Ch 3 or Ch 4 of the HES Act.As a consequence, the requirements of s 19-60 do not apply to the information described by the applicant as her "student record".The applicant also relies on ss 19-65 and 179-35 of the HES Act.Section 19-65 is of little assistance to the applicant as it simply requires a higher education provider to comply with the HES Act, its regulations and any guideline made under that Act.Section 179-35 creates an offence for the unauthorised access to or modification of personal information.This question does not arise as the information sought by the applicant is not personal information within the meaning of the HES Act.CONCLUSION 
+ An analysis of the relevant provisions of the Act makes it abundantly clear that the respondent is not required to comply with the IPPs.Similarly, the respondent is not subject to the expanded reach of the IPPs detailed in the HES Act, as the document sought by the applicant is not "personal information" for the purposes of the HES Act.Accordingly, there is no basis to issue an injunction requiring the respondent to provide the applicant with documents pursuant to the Act.There is also no basis for there to be an injunction restraining the respondent from conduct which would breach the Act.The applicant's notice of motion dated 21 July 2009 is without merit and must be dismissed.COSTS 
+ The applicant should pay the respondent's costs of the motion, to be taxed in default of agreement.I certify that the preceding twenty-two (22) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Marshall.Associate:
+ 
+ 
+Dated: 17 September 2009
+ 
+ The Applicant appeared in person.Counsel for the Respondent: Mr P Clarke 
+ 
+ Solicitor for the Respondent: McCabe Terrill 
+ Date of Hearing: 3 August 2009 
+ 
+ Last date for the filing of written submissions 11 September 2009 
+ 
+ Date of Judgment: 17 September 2009 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/1032.html 
+ 
+ 

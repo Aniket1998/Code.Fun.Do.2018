@@ -1,0 +1,144 @@
+
+ BACKGROUND 
+ 
+1 The applicant is the holder of Australian Innovation Patent No 2006100978 in respect of a certain travel pack.It claims that the respondent has infringed this patent.Presently before me is a preliminary issue which is relevant to the validity of the innovation patent.2 In its defence and cross-claim the respondent rejects the applicant's claim of infringement on the basis that the innovation patent is invalid, inter alia, because it is not a patentable invention within the meaning of s 18(1A) of the Act.The respondent alleges that, when compared with the prior art base as it existed before the priority date, the invention is not novel or does not involve an innovative step.The respondent also claims that the prior art base includes prior art information made publicly available before the priority date through the applicant offering its travel packs for sale in Australia.The applicant admits that some of its travel packs were first offered for sale in Australia in or about October 2004.3 The application for the innovation patent was filed on 22 November 2006 as a divisional application under s 79B(1) of the Patents Act 1990 (Cth), that is as an application for an invention disclosed in the specification filed with a previous standard patent application on 13 May 2005.It is assumed for the purposes of determining the preliminary issue that the invention which is the subject of the innovation patent was disclosed in the specification of the standard patent application filed by the applicant on 13 May 2005.The issue of priority dates can be put to one side because the Patents Regulations 1991 (Cth) effectively deem the priority date of the innovation patent to be that of the standard patent; cll 3.12(1)(c) and (2C).It is common ground therefore that the earliest possible priority date of the innovation patent is 13 May 2005.4 The present question arises in the context of s 24 of the Act and cll 2.2 and 2.3 of the Regulations.Unless saved by those provisions, the prior disclosure in October 2004 would render the innovation patent invalid on the basis that the prior art base included the invention as claimed.As explained in more detail below, s 24 provides that, for the purpose of deciding whether an invention is novel or involves an inventive/innovative step, the decision-maker must disregard any information made publicly available through use of the invention by the patentee in the 12 months preceding the filing of a "complete application".Statutory provisions 
+ 
+5 Section 24(1)(a) of the Act provides:
+ 24 Validity not affected by certain publication or use 
+ 
+ (1) For the purpose of deciding whether an invention is novel or involves an inventive step or an innovative step, the person making the decision must disregard: 
+ 
+ 
+ 
+ 
+ (a) any information made publicly available, through any publication or use of the invention in the prescribed circumstances, by or with the consent of the nominated person or patentee, or the predecessor in title of the nominated person or patentee; and 
+ 
+ 
+ 
+ 
+ (b) ...
+ but only if a patent application for the invention is made within the prescribed period.
+ 
+
+6 The relevant regulations include cl 2.2(1A) and cl 2.3, which provide: 
+ 2.2 Publication or use: prescribed circumstances 
+ 
+ (1A) For paragraph 24(1)(a) of the Act, the circumstance that there was a publication or use of the invention within 12 months before the filing date of the complete application, is a prescribed circumstance.
+ 
+ 2.3 Publication or use: prescribed periods 
+ 
+ (1A) For information of the kind referred to in paragraph 24 (1) (a) of the Act, if the applicant relies on the circumstance in subregulation 2.2 (1A), the prescribed period is the period of 12 months after the information was first made publicly available.
+ 
+(1) ... (2) ... (3) Subregulation (4) applies: 
+ 
+ (a) if an application for a patent is a divisional application: 
+ 
+(i) under section 79B of the Act for an invention disclosed in the specification filed with a previous application for a standard patent (the original application); ... (ii) ...; and 
+ 
+ 
+ (b) only to information disclosed in the divisional application that was disclosed in the original application.
+ 
+ 
+ 
+ 
+ (4) For determining the prescribed period for subsection 24 (1) of the Act, the filing date of the divisional application is taken to be the filing date of the original application.
+ 
+ Question for determination 
+ 
+7 The question for determination and the agreed facts were set out in orders made, with the consent of the parties by Bennett J on 11 December 2007.They are as follows:
+ 
+ Facts 
+ 
+ 
+ 1.On 13 May 2005 the applicant filed a complete application including a complete specification for a standard patent, being Australian Patent Application No.2005244456 ( Standard Patent Application ).2.On 22 November 2006 the applicant filed a complete application including a complete specification and request for expedited examination for Australian Innovation Patent No 2006100978 ( Innovation Patent ).3.The applicant's complete application for the Innovation Patent was filed as a divisional application under section 79B of the Patents Act 1990 (Cth), relying on the Standard Patent Application as the first-mentioned application for the purposes of that section.
+ 
+ 
+ 
+ Question 
+ For the purpose of determining the validity of the Innovation Patent, and on the facts stated above, is "the filing date of the complete application" within the meaning of reg 2.2(1A) of the Patent Regulations 1991 (Cth): 
+ 
+ 
+ 
+ (a) the filing date of the complete application for the Standard Patent Application on 13 May 2005; or
+ (b) the filing date of the complete application for the Innovation Patent on 22 November 2006?
+ 
+Notes The Court notes that: 
+ 
+ 1.The applicant admits that its "Astro 65" and "Astro 80" model travel packs: 
+ 
+ 
+ 
+ 
+ (a) have, at all times since they were first offered for sale to the public in Australia, embodied each of the integers of claims 1-5 of the Innovation Patent; and
+ (b) were first offered for sale to the public in or about October 2004.
+ 
+ 
+ 
+ 
+ 2.The parties agree that no issue arises on the separate question as to whether the claims in the Innovation Patent are fairly based on matter disclosed in the specification to the Standard Patent Application.(By its cross-claim, the respondent has alleged that the claims in the Innovation Patent are not so fairly based, and by its defence to the cross-claim the applicant has denied this.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+8 The applicant submits that the "filing of the complete application" has the meaning set out in paragraph (a) of the question and that, on that construction (which would give a filing date of 13 May 2005) the 12 month 'grace period' provided for in cl 2.2 would commence on 13 May 2004.This would mean that, pursuant to s 24, information made publicly available by the sale of the travel packs from October 2004 would have to be excluded from the prior art base in determining whether the invention claimed by the applicant is novel or involves an innovative step.This would be so only if the claim in the innovation patent is fairly based on the specification for the standard patent application.9 Conversely if, as the respondent contends, construction (b) is correct the filing date is 22 November 2006 and the grace period would commence on 22 November 2005.On this construction, the information made publicly available by the sale of the packs could be taken into account in assessing the prior art base.CONCLUSION 
+ 
+10 There does not appear to have been any previous judicial consideration of the present question.Both parties submit that, having regard to the context in which they appear, the ordinary and natural meaning of the provisions supports the construction for which they respectively contend.For reasons given below I have concluded that the construction for which the respondent contends is correct, namely, that where the specification filed in respect of a parent application discloses the invention claimed in a divisional application based on the parent, the "complete application" to which cl 2.2(1A) refers is the divisional application.Consequently I would answer the question for determination as follows:
+ 
+ 
+ For the purpose of determining the validity of the Australian Innovation Patent No 2006100978 (Innovation Patent), and on the facts stated in the orders made by Bennett J on 11 December 2007, "the filing date of the complete application" within the meaning of reg 2.2(1A) of the Patents Regulations 1991 (Cth) is the filing date of the complete application for the Innovation Patent on 22 November 2006.
+ 
+ REASONING 
+ Applications for patents 
+ 
+11 Reference to a "complete application" invites the question, "a complete application for what?" In the context of cl 2.2(1A) it obviously refers to patent applications.Schedule 1 to the Act provides that "patent application" means "an application for a standard patent or an application for an innovation patent".Such an application may also be a divisional application made under s 79B or s 79C.The nature of the application in any particular case must depend on context which, for present purposes, includes the text and structure of other relevant provisions taking into account the Act as a whole.12 Chapter 3 of the Act deals with applications for patents from application to acceptance.Section 29 provides that a person may apply for a patent or an invention by filing a patent request and the prescribed documents, in accordance with the regulations.Although s 29 does not distinguish between original and divisional applications, s 29(4) makes a clear distinction between complete applications and provisional applications which, respectively, must be accompanied by complete specifications and provisional specifications.This distinction is consistent with s 5 which provides that a complete application is only associated with a provisional application, if it identifies the provisional application and states that the applications are associated.It follows that any application that is not a provisional application may be a "complete application" and, theoretically, the reference to "complete application" in cl 2.2(1A) could apply to an original or a divisional application.The present context 
+ 
+13 Section 24 is concerned with the validity of patents.Where the complete application for a patent is made within a prescribed period after the first publication or use of the invention claimed in the patent, s 24 gives limited protection against reliance on that publication or use as the basis for a refusal to grant a patent or the revocation of a patent on the ground that the invention lacks novelty or an inventive step or an innovative step.The person making the decision is directed to disregard certain information made publicly available.The reference in s 24(1) to "inventive step" and "innovative step" indicates that the section applies to inventions which are the subject of an application for a standard patent or an application for an innovation patent, either of which could be a complete application.14 Section 24 is not complete in itself.The use of the terms "prescribed circumstances" and "prescribed period" in s 24 indicates that it cannot be understood without reference to cll 2.2(1A) and 2.3 of the Regulations.These provisions are discussed below.15 There are a number of circumstances when it is necessary to decide whether an invention is novel or involves any inventive/innovative step and in which, therefore, s 24 may apply.In relation to standard patents they include opposition to the grant (s 59) ; re-examination (s 97); and applications for revocation (s 138).In relation to an innovation patent they include examination or re-examination (ss 101B and 101G) and application for revocation (s 101M).That being so, the respondent submits, the reference to a "complete application" in cl 2.2(1A) should be construed as "the complete application for the patent the grant or revocation of which is in issue".In this case, that is the innovation patent.16 As previously mentioned, the application for the innovation patent was filed as a divisional application under s 79B(1) of the Act.With every divisional application there are two applications that are relevant: the earlier or parent application and the subsequent divisional application.The invention which is the subject of the divisional application must have been disclosed in the specification filed with the parent application, although it is not necessary for the earlier patent to have been granted.The divisional application will be judged on its own merits, not on whether the application has been granted.17 It is important to note that the fact that the invention which is the subject of the divisional application has been disclosed in the specification filed with parent application does not mean that information has been made publicly available through any publication or use of the invention.Whether this is the case will depend on when the parent application becomes open to public inspection.In oral submissions, Mr Darke, who appeared for the respondents, made this point: 
+ When the patent application is filed prescribed information is published and required to be published as provided by s 53 and regulation 4.1 .... that prescribed information is set out in regulation 4.1 , and includes a number of things, the application number, the name of the applicant, the title of the invention, the filing date and the particulars of any priority documents, but it does not disclose the invention of which the application has been made.That invention is disclosed only when the complete application becomes open to public inspection.Now, for a standard patent, that may happen as late as 18 months after the filing date of a complete specification or the earliest priority document ...But in any event, the critical point is that it doesn't happen when the complete application is filed, it happens at a later date.Prescribed period and prescribed circumstances 
+ 
+18 For s 24(1) to protect an application from the adverse consequences of prior publication or use to be available, the application must have been made within the "prescribed period".Clause 2.3(1A) stipulates that the prescribed period is "the period of 12 months after the information [that is the information referred to in s 24(1)(a)] was first made publicly available".Because the invention which is the subject of the divisional application must have been disclosed in the specification filed with the parent application, for divisional applications the information will be made publicly available at the latest when the parent application is open for public inspection.It could be, however, that information about the invention claimed in the divisional application has become publicly available even before the filing of the parent application.19 For the protection of s 24 to be available it is not only necessary that the application be made within the prescribed period, it is also necessary that the information be made publicly available in the "prescribed circumstances".The regulations set out a number of circumstances which are prescribed circumstances for the purpose of s 24(1)(a) of the Act.The instance that is relevant here is that given in cl 2.2(1A); see [6] above.20 In support of its submission that the "complete application" referred to in cl 2.2(1A) refers in this case to the divisional application, the respondent pointed out that s 24 applies whenever it is necessary to decide whether an invention is novel or involves an inventive/innovative step for the purpose of s 18(1A).The respondent submits that if:
+ 
+ 
+ (a) the complete application referred to in s 29 is a patent application; 
+ (b) s 24 applies where the grant or revocation of a patent is in issue; and
+ (c) the decision-maker must focus on the invention as claimed in the application, 
+ 
+
+then "the complete application" referred to in cl 2.2(1A) must mean the complete application for the patent, the grant or revocation of which is in issue, here the divisional application.21 The respondent submits that this construction is consistent with the apparent purpose of s 24 , which is to protect against non-grant or revocation of a patent for want of novelty or an inventive/innovative step, where the complete application is made within a specified period after the first use of the invention claimed in the patent.22 According to the applicant, the respondent's construction of s 24 ignores the 'initial focus' of the section which is public disclosure of the invention, and would have the anomalous effect of providing that any divisional application under s 79B would be entitled to the same priority date as its parent application (see s 43(2)(b) and cl 3.12(1)(c) of the Regulations) but would be deprived of the benefit of any grace period available to the parent which disclosed the invention.The applicant submitted:
+ There is no apparent legislative intention discernable that would provide the benefits of divisional status (in return for the disclosure of the invention on filing of the parent application) on the one hand and yet remove any grace period benefits accruing to that status on the other.23 In this regard, the applicant points to the Explanatory Statement to the Patents Amendment Regulations 2002 No 1 (SR 2002 No 59) which, inter alia, introduced cll 2.2(1A) and 2.3(1A), (3) and (4) into the Regulations.In relation to these provisions, the Explanatory Statement states: 
+ Items 5, 6 and 7 of Schedule 1 provide for the prescribed period for the grace period and make a consequential amendment to subregulation 2.3(1).For the purposes of the grace period a complete application must be filed within 12 months after the first disclosure of the invention....These new provisions ensure that divisional applications filed under s 79B or 79C of the Act are encompassed by the circumstances prescribed for by section 24(1) of the Act... (emphasis added) 
+24 These statements are said to be consistent with Parliament taking the approach that divisional applications should obtain the benefit of the grace period.25 The applicant also notes the effect of cll 3.12(1)(c) and 3.12(2C), which is that, for the purpose of allocating a priority date to the innovation patent, the specification of the innovation patent is deemed to have been included in the specification of its parent.Consideration for the grant of monopoly having been supplied by the disclosure of the invention in the parent specification, a divisional patent application with claims which are fairly based on the parent will benefit from the earlier priority date.26 The conceptual basis for this approach is that patent applications based on an earlier filed specification preserve their validity against later disclosures because the inventor may continue to take advantage of the fact that they have made an adequate description of the invention to the public in the earlier filed application.27 In response, the respondent submits that the "first disclosure" referred to in the Explanatory Statement is in the context of the prescribed period (rather than the prescribed circumstance), and relates to first disclosure by making available information in the ways s 24 describes, rather than by the filing of a complete application (see above).Furthermore, the respondent submits that the grace period is about the protection of a patent prior to its filing, whereas cll 3.12(1)(c) and 3.12(2C) protect a divisional patent from invalidity based on disclosure after the filing of the parent patent.28 I reject the applicant's argument that the respondent's construction creates an anomaly by providing the innovation patent with the benefits of divisional status whilst depriving it of the grace period benefits otherwise accruing to that status.As the respondent correctly submits, the consequence of its view is that the grace period simply runs from a later date, which may or may not extend past the priority date based on the filing of the parent application.This is said to reflect: 
+ ... a decision not to allow divisional applications to benefit more than they already do from the earlier priority date in circumstances where the divisional application is filed more than a year after the parent application.29 Furthermore, the respondent points out the applicant's arguments are based on equating the filing of a patent application with the first public disclosure of the invention claimed in it.As explained above at [17], it does not follow from the fact that the invention which is the subject of the divisional application is by definition "disclosed in the specification" filed in respect of the parent application, that the information is made publicly available when the parent application is filed.Disclosure and claiming of inventions 
+ 
+30 The applicant's view that "the complete application" is the parent application is based on the distinction it draws between disclosure of the invention (in the parent application) and claiming of the invention (in the divisional application).The applicant submits that the reference in cl 2.2(1A) is to the complete application that first discloses the invention, namely the parent application.This view is founded on what is said to be the determinative question in s 24, namely whether the invention is novel; a question involving a legal inquiry concerning first disclosure not first claiming.31 The applicant asserts that "invention" is used in two distinct senses in s 24.In the opening words of s 24 ("For the purpose of deciding whether an invention is novel or involves an inventive step or an innovative step...") it means an invention as disclosed in a complete application, that is, the embodiment around which subsequent claims may be drafted, which for a divisional application, is the parent application.On the other hand, "invention" in the closing words of s 24 ("... but only if a patent application for the invention is made within the prescribed period") means the particular patent application which claims the invention, that is, the divisional application itself.The argument, then, is that: 
+ The complete application refers to the first complete application, referable to the disclosure of the invention... And the conceptual underpinning for that submission is that it's the first disclosure of the invention that ... controls the validity of the patent.32 The respondent does not accept this view.On the contrary, it finds support for its construction in cll 2.3(3) and (4).It submits that these provisions make clear that where an invention is claimed in a divisional patent application, the patent application to which the closing words of s 24 ("...but only if a patent application for the invention is made within the prescribed period") refer is the divisional application and not the parent application.This is because if it were a reference to the parent application then there would be no need for cll 2.3(3) and (4).In addition, the respondent submits that:
+ The fact that this [deeming provision] is explicitly provided for in reg 2.3, but is not provided for at all in reg 2.2(1A), powerfully supports the conclusion that, in the case of a divisional application, "the complete application" in reg 2.2(1A) refers to the divisional application itself, not the original application.33 There is considerable force in this submission.As the respondent added in oral argument, the applicant is arguing for the filing date of the complete application in cl 2.2(1A) to be read as the priority date; and if the legislature had intended this, it would have done so explicitly, especially given that other parts of the legislation linking divisional applications back to their earlier parent application do so explicitly: e.g.cll 2.3(3) and (4) and cl 3.12.34 The respondent contends that the applicant's emphasis on disclosure, rather than on claiming, is misplaced.I agree with the respondent's submission that there is no reason why the time period in cl 2.2(1A) should be defined by reference to the application which first discloses the invention, because cll 2.2(1A) applies in circumstances where first use or publication will already have taken place prior to the filing date of the complete application.In other words, cl 2.2(1A) applies in circumstances where it will never be the complete application that first discloses the invention.35 Furthermore, the applicant's two constructions of the term "invention" in s 24 are said to be justified only by the supposed significance of the fact that the validity of a patent is dependent upon its priority date, which in turn is said to be dependent on when the invention was first disclosed.In relation to the latter concept, the respondent submits that:
+ In the ordinary case, the priority date of an invention will be the date on which a claim for a patent in respect of the invention is made; that is, the date on which the specification is filed.That is in the ordinary case and that is adjusted in the case of divisional applications by the express provisions in regulation 3.12...So, the reason for ... giving the word "invention" a different meaning in the opening words of section 24(1), appears to rest on some ... erroneous submission that what matters for the priority date of a patent is when it is first disclosed.36 Although the position put by the applicant has some force, I nevertheless find the argument put by the respondent to be the more persuasive.As the respondent submitted: 
+ To treat ... the expression "the complete application" [in reg 2.2(1A)] as referring to the original application, but in all other cases to treat it as referring to the application for the patent the grant or revocation of which is in issue, is to give the expression an ambulatory meaning, even though there is nothing in the language or context of reg 2.2(1A) to suggest that it bears one.37 For all of the above reasons, I accept that construction of cl 2.2(1A) put by the respondent and therefore will answer the question as indicated above at [10].I certify that the preceding thirty-seven (37) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Stone.Associate:
+
+Dated: 2 October 2008
+
+ Counsel for the Applicant: S Burley SC, J O'Sullivan 
+ 
+ Solicitor for the Applicant: Bennett 2amp; Philp Solicitors 
+ 
+ Counsel for the Respondent: M J Darke 
+ 
+ Solicitor for the Applicant: Hicksons Lawyers 
+
+ Date of Hearing: 11 February 2008 
+ 
+ Date of Judgment: 2 October 2008 
+
+ 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1476.html 
+ 
+ 

@@ -1,0 +1,55 @@
+validity
+patent for (+)-enantiomer of the racemate, citalopram, and for method of obtaining that enantiomer
+patentee also held previous patent for the racemate
+both the racemate and the enantiomer, drugs for the treatment of depression
+(+)-citalopram claimed to be therapeutically more effective than citalopram
+challenge to validity of claim for (+)-citalopram
+construction of claim
+whether for (+)-enantiomer as an independently existing molecule or whether also for (+)-enantiomer when part of racemate
+whether claim for (+)-enantiomer anticipated by patent for citalopram
+whether (+)-enantiomer as an independent molecule was obvious
+australian test for obviousness
+application of that test to product claims for the (+)-enantiomer, and to method claim for the method of obtaining it
+lack of utility
+product claim for a dosage that, inter alia , was less than and more than a useful dosage range. held : (1) upon its proper construction, product claimed was the independently existing enantiomer; (2) the invention of the independently existing enantiomer was not anticipated by the patent for the racemate; (3) the australian "matter of routine" test for obviousness, when applied to the invention of the product, equated to the question whether those skilled in the art, as a matter of routine, would have had the goal of obtaining separate enantiomers in the expectation that one would be a desirable drug for the treatment of depression; (4) one of the product claims relating to dosage failed test of utility; (5) on the evidence, neither the (+)-enantiomer nor the method for obtaining it was obvious at the priority date.
+extension of term
+patent for (+)-enantiomer of the racemate, citalopram, and for method of obtaining that enantiomer
+patentee also held previous patent for the racemate
+both the racemate and the enantiomer, drugs for the treatment of depression
+(+)-citalopram claimed to be therapeutically more effective than citalopram
+both cipramil (goods based on racemic citalopram) and lexapro (goods based on (+)-citalopram) entered in australian register of therapeutic goods (artg)
+application for extension of term of patent for (+)-citalopram
+commissioner of patents initially granted extension sought
+subsequently, following hearing before her delegate, decided to reduce term of extension on ground that "first regulatory approval date" was date when goods cipramil based on racemate had been entered in artg
+appeal by patentee
+opponent pharmaceutical company contending that no extension at all should have been granted because application for extension had been made outside six month period following date of first inclusion in artg of goods containing the (+)-enantiomer, namely, cipramil, of which the active pharmaceutical substance was the racemate
+questions of proper construction of patents act 1990 (cth) ss 70 , 71 , 77
+whether goods based on racemate "contain" individual enantiomer
+meaning of "first regulatory approval date" in s 70(5) of act. held : (1) cipramil contained pharmaceutical substance (+)-citalopram; (2) application for extension of term of patent had not been made within six months of first inclusion in artg of cipramil; (3) in circumstances, commissioner had lacked power to grant any extension to term of patent; (4) register of patents to be rectified by removal of particulars of extension.
+infringement
+patent for (+)-enantiomer of the racemate, citalopram, and for method of obtaining that enantiomer
+generic company applying to therapeutic goods administration (tga) for registration of generic drug based on (+)-enantiomer of citalopram
+whether doctrine of "mechanical equivalents" or "non-essential integers" applicable to method of obtaining pharmaceutical compound
+generic pharmaceutical company producing generic drug only for purpose of applying for regulatory approval
+s 78(2) of patents act 1990 (cth). held : (1) doctrine of mechanical equivalents applied so that certain different steps in method did not prevent generic company's method from infringing method the subject of patent; (2) no infringement by reason of s 78(2).
+therapeutic goods act 1989 (cth) (tg act), s 25a
+protected information
+patentee held earlier patent for racemate (citalopram) and under later patent for one of its enantiomers ((+)-citalopram)
+registration in australian register of therapeutic goods (artg) of therapeutic goods (cipramil) of which racemate was active component
+later registration in artg of therapeutic goods (lexapro) of which (+)-citalopram was active component
+generic company applying for registration in artg of goods of which (+)-citalopram was active component
+question whether information that patentee had supplied to therapeutic goods administration (tga) in connection with its application to register lexapro could be used by tga in connection with generic company's application to register generic drug
+s 25a of tg act had effect that certain information about other therapeutic goods not to be used in evaluation of therapeutic goods for registration in artg
+whether information supplied by patentee on its application for registration of lexapro was such "protected information" in respect of generic company's application to register generic drug
+question whether cipramil was goods "containing" (+)-citalopram for purposes of s 25a(2)(c) of tg act. held : (1) cipramil contained (+)-citalopram; (2) information given by patentee in relation to registration of lexapro was therefore not protected information and could be used by tga in evaluation of generic company's application to register generic drug.
+expert opinion evidence
+professor of psychiatry citing carrying out of clinical studies and their results for purpose of showing that patented enantiomer had far greater therapeutic effects than those of previously patented racemate
+clinical studies carried out after priority date
+whether surprisingly favourable results relevant
+whether citation of clinical studies and their results admissible
+whether order should be made under s 136 of evidence act 1995 (cth) limiting use to be made of psychiatrist's evidence. held : (1) carrying out of clinical studies after priority date of patent and the results of those studies irrelevant to state of common general knowledge as at priority date, and therefore not probative on issue of obviousness; (2) citation of clinical studies and their results not rendered inadmissible for failure to prove them otherwise than by psychiatrist's hearsay evidence; (3) s 60 of evidence act 1995 (cth) applied to the clinical studies and their results, cited by psychiatrist; (4) no order made under s 136 of that act.
+patents
+patents
+patents
+patents
+evidence

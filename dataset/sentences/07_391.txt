@@ -1,0 +1,110 @@
+
+ (REVISED FROM THE TRANSCRIPT) 
+ 
+1 This is an appeal from a decision of the Federal Magistrates Court ( Goo v Minister for Immigration [2006] FMCA 1157).It involves the vexed and difficult area of law introduced in the Migration Act 1958 (Cth) by s 359A and its cognate provision s 424A as to what information was given by an applicant for review to the tribunal charged with the review of the administrative decision made by the Minister or his or her delegate.2 In this case the decision-maker was the Migration Review Tribunal and the provisions of Pt 5 of Div 5 of the Act govern the manner in which it arrived at its decision.3 Mr Goo applied for a subclass 457 visa by seeking to come within the category in cl 457.223(8) of the Migration Regulations 1994 (Cth).That created a class of visa, styled 'service seller', which had the following criteria:
+ 
+ 'Service sellers 
+ 
+ (8) The applicant meets the requirements of this subclause if: 
+ 
+ (a) the applicant: 
+ 
+ 
+ (i) is a representative of a supplier of services who is located outside Australia; and 
+ 
+ (ii) proposes to represent the supplier in Australia; and 
+ 
+ 
+ 
+ 
+ (b) the representation involves negotiating, or entering into agreements, for the sale of services but does not involve the actual supply, or direct sale, of the services; and 
+ 
+ (c) the Minister is satisfied that the proposal has not been made only for the purposes of securing the entry of the applicant to Australia.' 
+ 
+ 
+ 
+
+4 Mr Goo is a national of Korea and had a business relationship with a Korean manufacturing company called Dongsung Precision Industrial Co Limited.He came to Australia in December 2000 with his wife and son, each of whom was, in effect, included as his dependants on the visa application.Mr Goo registered a business name, DSP Australia, of which he was the sole proprietor.Dongsung was involved in the production of equipment.Mr Goo sought to bring himself within the service seller visa requirements by establishing that he was a representative of Dongsung in Australia.He proposed to represent it here.He claimed that his activities here would involve negotiating or entering into agreements for the sale of Dongsung's services but would not themselves involve the actual supply or direct sale of those services.5 After a delegate of the Minister refused his application he sought review of that decision in the Tribunal.The Tribunal had the Department's file before it and in the course of its reasons set out at some length what material Mr Goo had put before the delegate in support of his initial application, even though Mr Goo had not, himself, put that very material to the Tribunal.6 One of the items which the tribunal recorded as having been put to the delegate in support of the original application was a print out (created on 4 September 2002) of the website of DSP and which identified Mr Goo as the production manager.It gave an address of DSP in Granville, New South Wales.Another item that was before the delegate and referred to by the Tribunal as such was a pithy sole agency agreement dated 10 April 2002 between Dongsung and DSP.Neither of those two documents was given by Mr Goo to the Tribunal for the purpose of his application within the meaning of s 359A(4)(b) as interpreted by the authorities culminating in SZEEU v Minister for Immigration and Multicultural and Indigenous Affairs [2006] FCAFC 2 ; (2006) 150 FCR 214.So much is common ground.7 Mr Goo's then migration agent wrote to the tribunal on 2 May 2005 enclosing, among other things, a service seller agreement dated 26 August 2003 between Dongsung and Mr Goo.Among other things, that contained an entire agreement clause specifically providing for contents of the service seller agreement to supersede any and all prior agreements or understandings between those parties.Also included in the material supplied with the letter of 2 May 2005 to the tribunal was another copy of the printout of the DSP website created on 2 May 2005 which again showed Mr Goo as the production manager.That printout gave an address for DSP's business at Riverstone in New South Wales.8 It is clear that the printout of the website before the delegate was of a different document and it contained different information from that which was provided to the Tribunal by Mr Goo in the letter of 2 May 2005.This distinction, if it had a difference, is said to be critical to the outcome of the appeal.9 The Tribunal's findings and reasons section of its decision set out, among other things, what had been put by Mr Goo to the delegate in support of his visa application and which was not provided to the Tribunal by Mr Goo for the purposes of the review.It also set out the material put to the tribunal by Mr Goo including, as I have said, the letter of 2 May 2005 which was described by the Tribunal as follows:
+ 
+ 
+ '20.A submission dated 2 May 2005 indicated that [DSP] assisted in performing negotiations for the sale of services, entered into agreements, after sales services and routine maintenance on behalf of [Dongsung].' 
+ 
+ 
+
+10 The critical part of the Tribunal's reasons is contained in the following paragraphs:
+ 
+ 
+ '22.At the hearing the visa applicant stated amongst other things that he managed the business DSP Australia.Products were shipped from Korea to the business which did further work on, and checked, the products and then the business sold the products.The visa applicant stated that he received his income from the Korean company: that company had shipped equipment to Australia and DSP Australia sold the products and he received his income from the sales.
+ 
+ 23.Available evidence shows that the visa applicant has set up a business called DSP Australia in Sydney.The visa applicant has been described as a Production Manager for that business.The business takes orders in Australia, products from Korea are shipped to DSP Australia which does further work or tests on them in a factory, and then sells them to Australian businesses.The visa applicant takes his income from DSP Australia.The Tribunal finds that the visa applicant is involved in the actual supply, or direct sale, of the services.
+ 
+ 24.After considering the legislation, policy considerations and available evidence, the Tribunal finds that the visa applicant does not satisfy clause 457.223(8)(b): 
+ 
+ 
+ 
+ 
+ 
+ (b) the representation involves negotiating, or entering into agreements, for the sale of services but does not involve the actual supply, or direct sale, of the services; and 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25.Given the findings made above, the Tribunal has no alternative but to affirm the decisions under review.' 
+ 
+ 
+ 
+
+11 Mr Goo argues that the tribunal should have given a notice in writing under s 359A(1) to him, having regard to the decision of the High Court in SAAP v Minister for Immigration and Multicultural and Indigenous Affairs [2005] HCA 24 ; (2005) 215 ALR 162 in respect of the following two documents:
+ 
+ 
+ 2#8226; The printout of the website of DSP which was before the delegate referred to in the tribunal's reasons as describing Mr Goo as 'production manager' for DSP.2#8226; The sole agency agreement dated 10 April 2002.
+ 
+
+12 It is clear that the tribunal used the information that Mr Goo had been described as a production manager for DSP as part of its reasons because it said so as set out above.Mr Goo argued that the source of the description must have been taken by the Tribunal from the material which was given to the delegate for the purposes of the original decision the subject of the review and that because he was not given particulars in writing under s 359A(1), that that document, or that the information in that document, was to be used as the reason or part of the reason of the Tribunal, he had not been accorded procedural fairness in accordance with Pt 5 Div 5 of the Act.13 Mr Goo's argument is that had the tribunal had regard to and used as the reason or part of the reason the description of Mr Goo as production manager in the printout provided as part of the submission of 2 May 2005, it would have said so.In SZEEU 150 FCR at 255 [178]-[180] Weinberg J discussed the highly refined and extraordinarily sophisticated reasoning which the analogue of s 359A (s 424A) has engendered.To say that this legislation has created a technical minefield not only for tribunals but for applicants is an understatement.However, it is the role of the Court to apply the law, not to comment on the wisdom of its provisions.14 Weinberg J indicated that the source of information may be critical to determining whether or not a notice in writing needs to be given for the purposes of the analogue of s 359A.And, he identified some odd results that can flow.Mr Goo in particular relies upon his Honour's discussion of the possible use of information given to the delegate in support of a visa applicant's case which is affirmed by the applicant for review at the hearing before the tribunal.In the example that his Honour gave (150 FCR at 255 [179]), the applicant for review repeated or adopted what he or she had said to the delegate in the course of giving evidence to the Tribunal.If the Tribunal chose the original statement, as opposed to its reaffirmation in the evidence before it, as the reason or part of the reason for its conclusion of disbelieve or lack of credibility on the basis of inconsistency between that information and some other information before it, different results would follow.He said (150 FCR at 255 [179]):
+ 
+ 
+ '[179] In the same way, the present position can lead to odd results.As can be seen from the appeal in SZEEZ , if an applicant makes a statement during the course of an airport interview that is inconsistent with later evidence given at a hearing, s 424A(1) requires that written notice be given of the possible use of that statement to draw inferences against the applicant.If, however, the applicant repeats the earlier statement at some stage during the course of the hearing, and adopts it as true, and then subsequently resiles from that statement, the Tribunal is not obliged to afford the applicant an opportunity to comment upon the discrepancy: see generally SZEFM v Minister for Immigration and Multicultural and Indigenous Affairs [2006] FCA 78 per Bennett J.This is because the adoption of the earlier statement brings it within the scope of the s 424A(3)(b) exception.If, however, the Tribunal proposes to use the earlier statement as the " reason ", or "a part of the reason " for affirming the decision under review, rather than the later adoption, it must comply with s 424A(1).' 
+ 
+ 
+
+15 Mr Goo focuses on the last sentence of this passage and says that by referring to the website description of him as production manager in [17] of its reasons, the Tribunal was using that information (i.e.the website printout of 4 September 2002) as the reason or part of the reason for affirming the decision of the delegate.He says that because the Tribunal did not set out in its reasons, in terms, the same description, albeit in a different document (i.e.the website printout of 2 May 2005) with some other different information it must have relied on the 'information' before the delegate.16 Mr Goo says that the Tribunal was under a duty under s 368(1)(d) of the Act to refer to the evidence or any other material on which its findings of fact were based and the omission to refer to the printout of the website enclosed with the letter of 2 May 2005 demonstrated that it was the earlier printout which was the information upon which the Tribunal proceeded.17 I posed the question during argument as to what a hypothetical notice under s 359A would have contained.The only substantive material which it could have contained was that:
+ 
+ 
+ (1) Mr Goo had been described on the website of DSP as 'production manager' and this could be used to suggest that: 
+ 
+ 
+ 
+ 
+ 2#8226; the business takes orders in Australia; products from Korea are shipped to DSP and DSP does further work or tests on them in a factory and then sells them to the Australian business;
+ 2#8226; Mr Goo's income is derived from DSP; 
+ 
+ 
+ 
+ 
+ (2) therefore Mr Goo is involved in the actual supply or direct sale of the services.
+ 
+
+18 In Minister for Immigration and Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; (1996) 185 CLR 259 at 271-272 Brennan CJ, Toohey, McHugh and Gummow JJ referred to the practical constraints on judicial review.They noted that a court should not be concerned with looseness in the language nor with unhappy phrasing of the reasons of an administrative decision-maker.The reasons, they said, for the decision under review are not to be construed minutely and finely with an eye keenly attuned to the perception of error.They cited an earlier decision of the Full Court of this Court: Collector of Customs v Pozzolanic (1993) 43 FCR 280 at 287.19 Brennan CJ, Toohey, McHugh and Gummow JJ also said that this was a well-settled proposition which recognised that in reality the reasons of an administrative decision-maker are meant to inform and not to be scrutinised upon overzealous judicial review by seeking to discern whether some inadequacy may be gleaned from the way in which the reasons are expressed.Their Honours warned against the Court, on judicial review, turning the process into a review on the merits of the decision.20 More recently in SZBEL v Minister for Immigration and Multicultural and Indigenous Affairs [2006] HCA 63 ; (2006) 231 ALR 592 at 598 [25] , Gleeson CJ, Kirby, Hayne, Callinan and Heydon JJ said that what is required by procedural fairness is a fair hearing, not a fair outcome and that it was not to the point to ask whether the Tribunal's factual conclusions were right.The relevant question was about whether the Tribunal's processes, not its actual decision, were in accordance with law.21 Here, there is not the slightest doubt that Mr Goo gave to the Tribunal for the purpose of his application for review the information in the website printout of 2 May 2005.It said that he was the production manager of DSP.That information was congruent with and identical to the information in the website printout of 4 September 2002, albeit that the two printouts contained other information which was different.22 The critical information to which the Tribunal had regard was Mr Goo's self-description as a production manager.Unlike the situation discussed by Weinberg J in SZEEU 150 FCR at 255 [178]-[180], there is no question here of any inconsistency in information which Mr Goo was providing as to his status of production manager.The Tribunal referred in its reasons to 'available evidence' as showing Mr Goo as production manager of DSP.It did not have to set out the source of every repetition of that evidence.I am of opinion that it would expose the Tribunal's reasons to an overzealous review to conclude that the reason or part of the reason for its decision was specifically that contained in the source of the description 'production manger' which was before the delegate.There is no reason to think that the Tribunal did not also read and consider the submission given to it on 2 May 2005 in which the same information, patently uncontroversial in the instant case, was provided to it by Mr Goo for the purposes of the review.23 I am of opinion that the Tribunal did not have to set out every reference in the material before it to a source for that description, which was uncontroversial and was a self-description.It is not suggested to be in any way inaccurate.What Weinberg J was addressing in SZEEU at 150 FCR at 255 [179] was a situation in which the Tribunal was using information given variously at an earlier occasion and later to it as a basis for not accepting that information or not accepting other information from Mr Goo that was relevant to that information.24 Here, the source of the description 'production manager' was on each occasion Mr Goo's provision of the material in the website printout, first, to the delegate and second, to the Tribunal.There was no inconsistency between that material.Mr Goo intended that the Tribunal act on the information he provided, including the website printout of 2 May 2005, and because of the operation of s 359A(4)(b)that was information which the Tribunal did not have to give back to him.25 There was no part of the reasoning of the Tribunal which relied upon any distinction between the times at which that same information was provided to the delegate or to the Tribunal.A fair reading of [20] of the Tribunal's reasons indicates that it had regard to the overall position of DSP including that it was a business name he owned and Mr Goo's relationship with Dongsung.26 For these reasons I am of the opinion that there is no jurisdictional error made out and there was no need for Mr Goo to be sent a notice under s 359A(1) in respect of his self-description as production manager on the website.27 The second basis upon which Mr Goo argued that the appeal ought to be allowed was the reference to the sole agency agreement which was before the delegate but not put before the Tribunal by him.I am unable to ascertain any part of the reasoning of the Tribunal which employed the sole agency agreement as a reason or part of the reason for affirming the decision that was under review.The mere fact that the Tribunal in the course of its reasons referred to that sole agency agreement does not mean that it had the causative operation which s 359A requires as being necessary before an obligation to give a notice under it is enlivened.28 For these reasons I do not consider that there is any jurisdictional error in what the Tribunal did in merely setting out that the sole agency agreement was before the delegate and that it had looked at it in the course of conducting its review.29 During the course of argument I raised a matter that was of concern to me.That was that the Tribunal had indicated that in reaching its decision on Mr Goo's case it had had regard to policy considerations which it had set out earlier in its reasons.The policy considerations ascribed an operation to cll 457.223(8) and (5) which did not appear to me, without the benefit of any argument or evidence, to be capable of any support in those regulations and appeared to reveal a misconstruction of what that clause provided.30 I raised with counsel that it was troubling that, if my untutored impression were correct, this decision, and maybe others, had been made on the basis of a policy that was contrary to the delegated legislation in the regulations and therefore would produce results which were not only unfair but could be unlawful.Because this point was not raised before his Honour or in any notice of appeal, I declined to allow Mr Goo to raise it now, for, indeed, it may not be one which on examination is correct.If it is correct, this would obviously be an appropriate case for the Minister to exercise his powers to reconsider the matter in accordance with law.However, my function is to determine the appeal.31 I am of opinion that the appeal must be dismissed with costs.I certify that the preceding thirty-one (31) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Rares .Associate: Dated: 20 March 2007
+
+
+ Solicitor for the Applicants: Mr N Dobbie of Parish Patience Immigration Lawyers 
+ 
+ Counsel for the Respondents: Mr B O'Donnell 
+ 
+ Solicitor for the Respondents: Ms A Nesbitt of Sparke Helmore 
+ 
+ Date of Hearing: 9 March 2007 
+ 
+ Date of Judgment: 9 March 2007 
+
+
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/391.html 
+ 
+ 

@@ -1,0 +1,353 @@
+
+ INTRODUCTION 
+ 
+1 The National Rugby League ("NRL") Competition is the premier rugby league competition in Australia and New Zealand.The NRL, a public company limited by guarantee, operates and manages the NRL Competition.The NRL Competition is made up of 16 clubs located in Queensland, New South Wales, Victoria and Auckland ("the NRL Clubs").2 Each NRL Club is bound to the NRL by the "NRL Rules", being rules adopted from time to time by the NRL to govern the NRL Competition.The NRL Rules include, as Sched 6, the NRL Playing Contract and Remuneration Rules ("the NRL Playing Rules").The objects of the NRL Playing Rules are, amongst other things, to provide a fair and even rugby league competition (rule 2(1)), to protect the interests of players who participate or may participate in the NRL Competition (rule 2(2)) and to ensure that by monitoring and enforcing the observance of a salary cap by each of the clubs, a balance is struck between the financial viability of the club and fair payment for players to enable the players to earn a living from rugby league as their primary source of income (rule 2(11)(h)).3 Under the NRL Playing Rules, any club that participates or wishes to participate in the NRL Competition must be a party to a current Club Agreement (as that expression is defined in the NRL Rules: rule 22(1)) and must ensure that the club and its players have complied with and continue to comply with the NRL Rules (including its schedules and guidelines) (rules 22(2) and (3)).4 Players must be registered to play in the NRL Competition: rules 23, 38 and 39 of the NRL Playing Rules.Application for registration is governed by rules 40 and 41 of the NRL Playing Rules.Any person who wishes to participate as a player in the NRL Competition must, amongst other things:
+ 
+ 
+ "...
+ 
+ 
+ 
+ 
+ 
+ (2) Be a party to a current NRL Playing Contract with a Club; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3) Agree with the NRL: 
+ 
+ 
+ 
+ 
+ (a) to comply with, and be bound by, the NRL Rules ... 
+ 
+ 
+ ... 
+ 
+ 
+ (f) To grant to the NRL the right to use his name and image in connection with the promotion or marketing of the NRL Competition ..." 
+ 
+ 
+ 
+ 
+ (Rule 40).
+ 
+ 
+
+5 The relationship between the NRL, each NRL Club and the NRL players is also governed by a Collective Bargaining Agreement ("CBA") negotiated by the Rugby League Professionals Association ("RLPA") with the NRL.The provisions of the CBA are expressly incorporated into the standard NRL Playing Contract.Each NRL Club is required by the NRL Playing Rules to engage players under the standard NRL Playing Contract.6 The NRL Playing Rules define a "NRL Playing Contract" as:
+ 
+ 
+ "a contract between a Club on the one hand and a Player on the other hand by which the Player agrees to play Rugby League for the Club in the NRL Competition and the Related Competitions in the terms of Form 1 or in such other terms as the Chief Executive Officer may approve pursuant to Rule 28."
+ 
+ 
+
+7 The NRL maintains a register of NRL Playing Contracts for every player registered to play: rule 31 of the NRL Playing Rules.The register records particulars of each NRL Playing Contract including the parties to it, the date it was entered into, the match fees and playing fees payable to the player and if the player was at the time of entry into the NRL Playing Contract represented by an NRL Accredited Player Agent, the name of the agent.Schedule 7 of the NRL Rules prescribes the "NRL Accredited Player Agents Rules".8 The NRL Playing Rules expressly acknowledge that a player is a sportsman and may receive "Remuneration" as well as other income in a variety of forms from a variety of sources: Pts 8.3, 8.4 and 8.5 of the NRL Playing Rules.Two matters should be noted about these Parts of the NRL Playing Rules.First, "Remuneration" is defined in rule 65 to mean any:
+ 
+ 
+ "(a) Advance;
+ 
+ (b) Allowance;
+ 
+ (c) Bonus;
+ 
+ (d) Consideration;
+ 
+ ...
+ 
+ (h) Financial benefit given or promised;
+ 
+ ...
+ 
+ (n) Money;
+ 
+ (o) Payment;
+ 
+ ...
+ 
+ (w) Reward;
+ 
+ (x) Salary or wages; ...
+ 
+ paid to a Player by a Club within the meaning of these Rules ." 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Emphasis added.)
+ 
+ 
+
+9 Secondly, the NRL Playing Rules expressly acknowledge that a player may receive "Remuneration" pursuant to a "Third Party Agreement".A "Third Party Agreement" is defined to mean " any contract, agreement or arrangement, whether entered into by a Club, a Player or some other person or entity on behalf of a Club or a Player, whereby Remuneration is paid to, or for the benefit of, a Player by a Third Party ": rule 7(1) of the NRL Playing Rules.A "Third Party" is defined to mean any person or entity other than a Club or a Player and includes an Associated Entity to a Club: rule 7(1).A Third Party Agreement will form part of a player's Remuneration (and therefore be included in calculating a Club's salary cap) unless, amongst other things, the Third Party Agreement was negotiated independently between the player and the Third Party at arm's length from the Club.In determining whether a Third Party Agreement has been made at arm's length from the employing Club, one factor to be taken into account is whether " the Player is to be promoted by the Third Party as a sportsman independent of his Club who is associated with the Third Party as opposed to a Player from his Club ": rule 100.ISSUE AND CONCLUSION 
+ 
+10 The Applicant, David Riddell ("Riddell"), is a NRL Player registered to participate in the NRL Competition.From 1998 to the present, Riddell has played in the NRL Competition on a full-time basis under 6 different NRL Playing Contracts for 3 different NRL Clubs.11 The central issue is whether a management fee of $21,175 paid by Riddell to SFX Sports Group (Australia) Pty Ltd ("SFX"), a NRL Accredited Player Agent ("the management fee"), in the year of income ended 30 June 2005 ("the 2005 Income Year") is deductible under s 8-1 of the Income Tax Assessment Act 1997 (Cth) ("the 1997 Act ").12 In particular, was the management fee:
+ 
+ 
+ (1) incurred by Riddell in gaining or producing his assessable income in the 2005 income year under s 8-1(a) of the 1997 Act ;
+ (2) incurred by Riddell in carrying on a business for the purpose of gaining or producing his assessable income in the 2005 income year under s 8-1(b) of the 1997 Act ;
+ (3) an outgoing incurred by Riddell at a point too soon to be incidental and relevant to the income producing activities of Riddell;
+ (4) a loss or outgoing of capital or of a capital nature under s 8-2(a) of the 1997 Act ?
+ 
+
+13 I consider that the management fee is deductible under s 8-1 of the 1997 Act .14 This proceeding was heard on the same day and immediately before Spriggs v Federal Commissioner of Taxation (VID 314 of 2007).To avoid unnecessary repetition in these reasons for decision, I incorporate and adopt in these reasons paras [32] to [41] of the reasons for decision in Spriggs.Those paragraphs set out the relevant legislation, the relevant principles and some general considerations concerning sport and professional sport examined by the High Court in Commissioner of Taxation v Stone [2005] HCA 21 ; (2005) 222 CLR 289 at [11] to [15].FACTS 
+ 
+15 Riddell played rugby league as a child.When he was approximately 15 or 16 years of age, he was first represented by a player agent.That relationship ended towards the end of 1997 when Riddell was approached by Darryl Mather ("Mather") of International Sports Management Pty Ltd ("ISM").16 On 29 May 1998, Riddell entered into a management agreement with ISM ("the ISM Agreement").It provided:
+ 
+ 
+ 
+ "RECITALS:
+ 
+ 1.[Riddell] competes professionally in the sport of (sic)
+ 
+ 2.[Riddell] desires to engage [ISM] to manage his affairs as hereinafter set out.The Parties Agree as follows:
+ 
+ 1.[ISM] agrees to provide the following services to [Riddell]:
+ 
+ a) Advise [Riddell] in respect of his sporting career.b) Negotiate playing contracts on behalf of [Riddell].
+ 
+ 
+ 
+ c) Negotiate product endorsements and sponsorship so far as is reasonably possible.d) Access and arrange legal, financial, superannuation, taxation, insurance and other appropriate advices and services at the request and cost of [Riddell].... 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.[ISM] will keep [Riddell] informed in relation to any dealings or negotiations undertaken on [Riddell's] behalf.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.The term of this Agreement shall be for five (5) years and shall continue thereafter until terminated in writing by either party, provided that no less than three months notice shall be given.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.ISM shall be entitled to charge [Riddell] fees in respect of its services as follows: 
+ 
+ 
+ 
+ 
+ a) Twenty per cent (20%) of all gross monies or other considerations paid to [Riddell] for sponsorship, media contracts, endorsement for goods and services, advertising or any form of promotional work and any subsequent income earned from the above monies.The said payments shall continue for a period of three years after termination of the contract in respect of any of the arrangements set out above which commence during the period of the agency.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ b) In respect of sporting events in which [Riddell] participates: 
+ 
+ 
+ 
+ 
+ 
+ (i) Eight per cent (8%) of all contract monies paid to [Riddell] including bonuses/ incentives negotiated by [ISM].(ii) Match payments shall not be included for the purpose of this clause.c) The amount payable to [ISM] shall be paid within 14 days of receipt of monies by [Riddell].
+ 
+ 
+ ...
+ 
+ 
+ 
+ 
+ 
+ 10.Outside Australia, [ISM] may assign its rights and obligations hereunder to any company with which it is affiliated, including ProServ USA, ProServ UK, ProServ Europe, ProServ Italy and ProServ Japan.11.During the first twenty four (24) months of the Period of Service [ISM] agrees to provide [Riddell] with a scholarship period.During this time, [ISM] agrees to waiver (sic) any remuneration which would otherwise be due and payable during this portion of the Period of Service as outlined in Clause 4b).This is in no way prejudices the remuneration which may become subsequently due and payable during the remainder of the Period of Service." 
+ 
+ 
+ 
+ 
+ 
+ 
+
+17 Riddell began his NRL career in 1998 when he was contracted to the Eastern Suburbs District Rugby League Football Club Limited ("Sydney City") to play for that club for the 1998 and 1999 seasons.On 18 November 1999, Riddell signed a further 1 year playing contract with Sydney City for the 2000 season.Riddell was not selected to play a first grade game with Sydney City.18 During the course of 1999, ISM was acquired by SFX.2001, 2002, 2003 and 2004 Seasons 
+ 
+19 On 27 July 2000, Riddell signed a 1 year playing contract with St George Illawarra Rugby League Football Club ("St George") for the 2001 season.On 6 June 2001, Riddell entered into a three year playing contract with St George for the 2002, 2003 and 2004 seasons.Each was a NRL Player Contract.Riddell's playing fee (including superannuation) for each of the 2002, 2003 and 2004 years was $100,000: cl 2 of sched 1.In addition, Riddell was paid $2,000 for each match won and $1,000 for each match drawn or lost: cl 1 of sched 1.20 On the same date, 6 June 2001, Riddell entered into a further management agreement with SFX ("the First SFX Agreement").That agreement contains substantially the same terms as the ISM Agreement.Five differences are to be noted.First, recital 2 was amended to record that Riddell desired to engage SFX to exclusively manage his affairs.Secondly, SFX was entitled to charge Riddell 7% (not 8%) of his payments for sporting events (cl 4b).Thirdly, as a result of the proposed introduction of the Goods and Services Tax ("GST"), a note was added to cl 4 which read:
+ 
+ 
+ "If any ... [GST] ... is introduced and that tax is payable on or in connection with any money payable by [Riddell] to [SFX] under this Agreement, [Riddell] must punctually pay the tax payable on that money."
+ 
+ 
+
+21 Fourthly, the scholarship clause was omitted and, finally, on termination on 6 June 2006, the agreement was automatically renewed for 36 months unless either party served notice of intention not to renew the agreement not later than 6 months prior to the expiration of the term.22 Before the end of the 2004 season, Mather of SFX attempted to negotiate a new playing contract for Riddell with St George.Mather proposed a new income for Riddell.St George did not consider Riddell was worth the amount sought by Mather.As a result, Riddell sought and was granted permission by St George to obtain expressions of interest from other NRL Clubs about Riddell prior to 30 June 2004.23 Between April and June 2004, Mather met with representatives of Parramatta National Rugby League Club Limited ("Parramatta") and Cronulla-Sutherland District Rugby League Football Club Limited ("Cronulla").Cronulla provided Mather with a written offer setting out proposed terms of a playing contract.The offer was withdrawn shortly afterwards.Subsequently, Parramatta proposed terms of a playing contract.Throughout this period, Riddell spoke to Mather two or three times a week about the progress of the negotiations.2005, 2006 and 2007 Seasons 
+ 
+24 On 22 June 2004, Riddell entered a playing contract with Parramatta for the 2005, 2006 and 2007 seasons.It is a standard NRL Playing Contract.The recitals of the contract recorded that:
+ 
+ 
+ 
+ "A.The NRL conducts the elite competition for the Game throughout Australasia ("the NRL Competition").
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ B.The Club is the holder of a licence to field a team in the NRL Competition.
+ 
+ 
+ 
+ 
+ 
+ C. The Player is a professional player of the Game.
+ 
+ 
+ 
+ 
+ D. The Club and the Player wish to contract with each other on the terms and conditions set out in this agreement ("the Agreement")." 
+ 
+ 
+ 
+ 
+
+25 The agreement recorded the relationship between the parties as one of employee and employer: cl 1.1.Riddell is not entitled to any match fees: sched 1.However his total annual playing fee (including leave entitlements, superannuation and fringe benefits tax) is $275,000 for each of 2005, 2006 and 2007.26 On 17 November 2004, a Tax Invoice was issued to Riddell by SFX for the management fee of $19,250, plus GST, totalling $21,175.The notation on the invoice reads "2005 management fees".It is this fee which the Federal Commissioner of Taxation ("the Commissioner") contends is not deductible in the 2005 income year.Second SFX Agreement 
+ 
+27 For completeness I should note that evidence was adduced about subsequent arrangements between Riddell and SFX.The evidence showed that on 23 October 2006.Riddell entered into a new management agreement with SFX.Neither party sought to rely either on the fact of making that agreement or the terms of it.It need not be considered further.Riddell's activities as a professional NRL player since 1998 
+ 
+28 Since 1998, Riddell has received payment of match payments or an annual playing fee under each of his contracts for playing rugby league in the NRL Competition: see [19] and [25] above.Each playing contract was negotiated by ISM or, later, SFX.Under the relevant accredited agent's agreement (the ISM Agreement or the First SFX Agreement), this income was described as payment in respect of sporting events in which Riddell participated and for which the agent was entitled to receive a percentage.29 In addition to those payments, in each income year, consistent with its obligations under the ISM Agreement and the First SFX Agreement, ISM and later SFX negotiated "sponsorship, media contracts, endorsement for goods and services, advertising or any form of promotional work" ("Additional Services").30 Additional Services secured by SFX on behalf of Riddell included: 
+ 
+ 
+ (1) on 21 February 2003 and 2 December 2004 respectively, a sponsorship agreement for one year between Puma Australia Pty Ltd ("Puma") and Riddell under which Riddell was required to wear Puma boots in finals matches and undertake prescribed general promotional appearances in exchange for the supply of Puma products and cash bonuses if Riddell won the "Dally M Award"; 
+ (2) on 24 June 2003, a licensing agreement between Legends Genuine Memorabilia and Riddell for the production of 200 signed lithographs of Riddell for which Riddell received a signing fee of $20.00 per signature, an upfront fee of $2,000 upon completion of signing the 200 lithographs and a further payment of $2,000 after the sale of 100 lithographs.The maximum fee to be paid to Riddell was $4,000;
+ (3) on 31 March 2005, a sponsorship agreement between Microsoft Pty Ltd1 (sic), SFX and Riddell under which Riddell is to endorse Microsoft Xbox products and services at scheduled media events in return for which he is to receive a sponsorship fee of $7,000 by four instalments paid on 14 August 2005, 14 February 2006, 14 August 2006 and 31 December 2006;
+ (4) on 1 January 2006, a two year agreement between Playersinc Pty Ltd and Riddell under which Riddell as a "prominent NRL Rugby League Player' would be sculptured and scanned for the production of a miniature Riddell 'Action Figurine' and for which Riddell was paid an upfront fee of $500 and ten percent of all sales;
+ (5) negotiating promotional activities including appearances on television and radio.
+ 
+
+31 In the 2005 income year, Riddell earned $11,394 from promotional activities negotiated by employees of SFX on Riddell's behalf as follows:
+ 
+(1) St George Illawarra --- Card Royalty $94
+ 
+(2) Seven Network --- Appearance $1,000
+ 
+(3) IAC Sports --- Sponsorship $3,000
+ 
+(4) Remier Media Group $1,500
+ 
+(5) Athlete Management International $1,800
+ 
+(6) Puma Boot and Training Clothing $3,000
+ 
+(7) Casio Watch Sponsorship $250
+ 
+(8) Dirty Dog Sunglasses Sponsorship $750.32 In addition, in the 2005 income year he returned as assessable income:
+ 
+ (1) $44,564 from St George;
+ 
+ (2) $175,610 from Parramatta;
+ 
+ (3) $970, being the match fee for playing rugby for New South Wales;
+ 
+ (4) $900, an appearance fee from a television station.ANALYSIS 
+ 
+33 Whether an outgoing incurred by a taxpayer satisfies one or more of the positive limbs for deductibility depends upon the facts of each case: Maryborough Newspapers Co Ltd v Federal Commissioner of Taxation [1929] HCA 16 ; (1929) 43 CLR 450 and Federal Commissioner of Taxation (Cth) v Total Holdings (Australia) Pty Ltd [1979] FCA 30 ; (1979) 43 FLR 217 at 223.Issue 1: was the management fee incurred by Riddell in gaining or producing his assessable income in the 2005 income year under s 8-1(a) of the 1997 Act ?
+ 
+34 There is no dispute that the management fee was both an "outgoing" and was "incurred".The issue is whether the management fee was incurred by Riddell in the actual course of gaining or producing assessable income.The management fee was, as the invoice stated, for " 2005 Management Fees $19,250 ".The invoice was dated 17 November 2004.35 Assessment of the first positive limb, s 8-1(a) of the 1997 Act , requires consideration of whether that management fee was relevant and incidental to Riddell's income as a NRL player.In my view, it was.36 In the 2005 income year, all of Riddell's assessable income was gained or produced from his activities as a NRL player.This income was from two sources: " in respect of sporting events in which Riddell participates " (ie playing rugby league) and "Additional Services": see [30] above.The fact that professional NRL players, such as Riddell, produce income from activities other than playing rugby league is recognised in the express terms of the NRL Playing Rules (see [8] --- [9] above) and each of the management agreements (see [16] and [20] above).37 Secondly, the relationship between the management fee and Riddell's income earning activities is direct.Riddell submitted that the services to which the management fee related were, as the invoice stated, for management fees.A label is never determinative: Commissioner of Taxation v Broken Hill Pty Co Ltd (2000) ATC 4659 at 4668; Colonial Mutual Life Assurance Society Ltd v Federal Commissioner of Taxation [1953] HCA 68 ; (1953) 89 CLR 428; Hallstroms Pty Ltd v Federal Commissioner of Taxation [1946] HCA 34 ; (1946) 72 CLR 634 and Sun Newspapers Ltd 2amp; Associated Newspapers Ltd v Federal Commissioner of Taxation [1938] HCA 72 ; (1938) 61 CLR 337.38 The management fee was charged by SFX a few months after Riddell entered into the playing contract with Parramatta for the 2005, 2006 and 2007 seasons.The fee charged by SFX was the compensation SFX was entitled to receive under the First SFX Agreement and was 7% of the $225,000 in contract money Riddell was to receive for participating in 2005 in the sporting events set out in the playing contract, namely playing rugby league in the NRL Competition.Under cl 4a) of the First SFX Agreement, the fee to be charged to Riddell by SFX for securing "Additional Services" was 20%.The activities undertaken and income earned by Riddell in the 2005 income year related to these Additional Services are set out in [31] --- [32] above.20% of those amounts would be a sum greater than the management fee in issue in these proceedings.39 The fee paid by Riddell to SFX was compensation for SFX negotiating a playing contract with Parramatta.The playing contract facilitated the generation of income from the two sources identified in [36].ISM and later SFX negotiated each of Riddell's playing contracts.That is not surprising.Mr Rodwell from the RPLA said that there are approximately 70 accredited NRL player agents and that he estimates that greater than 95% of the 25 highest paid players at any NRL club are represented by player agents.40 On 5 December 2006, Riddell's instructing solicitor informed the Commissioner by email that: 
+ 
+ 
+ "Attached is the work related items schedule for the 2005 income tax return signed by the taxpayer noting the amount for management fees that were not claimed as a deduction.I am instructed that they all relate to the negotiation of the contract with Parramatta.If the amounts related to obtaining sponsorships they would have been claimed as a deduction (as the ATO recognises this is deductible).Clearly, by noting it and not claiming it as a deduction, you should accept that it is not for sponsorship." 
+ 
+ 
+ 
+
+Mather of SFX also gave evidence that the management fee related to the negotiation of the contract with Parramatta.That evidence is both relevant and admissible: s 87 of the Evidence Act 1995 (Cth).Even in the absence of this evidence, the fee charged by SFX was of the kind described in [39] above.41 Finally, employment does not preclude expenditure from being deductible under the first positive limb.It is common for expenditure relevant and incidental to income earned under employment to be deductible.In fact, classification of any arrangement as one of employment could be distracting if that were to be seen as determinative of the issue now under consideration.This is especially so here where the "employment" (as defined by the playing contract and the NRL Playing Rules) expressly contemplates exploitation of Riddell and by Riddell as a NRL player.Issue 2: was the management fee incurred by Riddell in carrying on a business for the purpose of gaining or producing his assessable income in the 2005 income year under s 8-1(b) of the 1997 Act ?
+ 
+42 As with Spriggs , the Commissioner did not contend that it was not possible for a professional sportsperson to be carrying on a business of exploiting his or her sporting talent.It is worth restating what the High Court said in Stone (at 307):
+ 
+ 
+ "The conclusion that the taxpayer was engaged in a business during the 1998-1999 year proceeds from an acceptance of the proposition that, showing that both before and during that year, the taxpayer was paid to endorse a company or its products as an athlete demonstrated that she has turned her athletic talent to account for money." 
+ 
+ 
+ 
+
+43 Riddell's position is not distinguishable.In the 2005 income year, Riddell was carrying on a business for the purpose of gaining or producing his assessable income.He turned his rugby league talent to account for money both before and during the 2005 income year: see [30] --- [31] above.For the reasons outlined above, the management fee was incurred by Riddell in carrying on that business.44 The Commissioner contended that because "business" " includes any profession, trade, employment, vocation or calling, but does not include occupation as an employee" (s 995-1 of the 1997 Act ), an outgoing incurred in the course of employment, or to obtain an employment, is not an outgoing incurred "in carrying on a business".Accordingly, the Commissioner contended that the management fee was not deductible because:
+ 
+ (1) Riddell was an employee of Parramatta; and
+ 
+ 
+ (2) the management fee was incurred in the course of his employment with Parramatta or to obtain employment with Parramatta.
+ 
+
+45 That contention should be rejected.Riddell was an employee of Parramatta.However, the mere fact that he was an employee does not mean that he was not carrying on a business.He clearly was.The answer lies in the definition of "business" and, in particular, the exclusion."Business" includes employment.It does not include "occupation as an employee".Riddell does not have, and never has had, an "occupation as an employee".His occupation was and remains a professional sportsman who plays rugby league and who exploits his sporting talent as a NRL player " to account for money" .Whether Riddell was carrying on a business is a question of fact.As the High Court said in Martin v Federal Commissioner of Taxation [1952] HCA 36 ; (1953) 90 CLR 470 (at 479), " it is simply a question of the right conclusion to draw from the whole of the evidence ".It would be contrary to the whole of the evidence to conclude that because Riddell earned income under an employment contract he was not conducting a business.He was.Issue 3: was the management fee an outgoing incurred by Riddell at a point too soon to be incidental and relevant to the income producing activities of Riddell?
+ 
+46 As with Spriggs , the Commissioner contends that all expenditure incurred prior to an employment contract is not deductible.As a result, the Commissioner contends that the management fee was incurred at a point too soon to be an expense incurred in gaining or producing assessable income.47 I reject the Commissioner's contention that all expenditure incurred prior to the playing contract being signed was not deductible because it came " at a point too soon to be properly regarded as incurred in gaining assessable income " for the reasons set out in paras [56] to [62] of my reasons for decision in Spriggs .48 Whether an outgoing does come at a point too soon to satisfy s 8-1(a) of the 1997 Act is determined by reference to the particular facts of each case.It cannot be said that the management fee incurred by Riddell was incurred by him " at a point too soon to be properly regarded as incurred in gaining assessable income ".49 The management fee was expenditure outlayed within a framework in which Riddell, as a professional rugby league player, produced his income.That framework was the NRL Playing Rules, the ISM and the First SFX Agreement and the Playing Contracts.That framework has to be considered in context including Mr Rodwell's evidence that greater than 95% of the 25 highest paid players at any NRL club are represented by player agents.50 Moreover, the management fee was not incurred prior to the generation of the income.The income was ongoing.The income that was generated as a result of the negotiations of ISM (and later SFX) was from two sources.One of those sources was the playing contract As noted above, the management fee in the 2005 income year was charged by SFX after Riddell signed the 2005 playing contract with Parramatta, a playing contract negotiated by SFX.The fee was, consistent with the First SFX Agreement, 7% of the payment specified in that playing contract for the 2005 year.As a matter of fact, it was a fee incurred by SFX only when the playing contract was signed.Absent the playing contract, there was no fee able to be charged.In those circumstances, it cannot be said that the management fee was incurred at a point in time too soon to be properly regarded as incurred in gaining assessable income.51 Prior to the 2005 season, Riddell had not previously played for Parramatta.That the fee charged by SFX was for negotiating that playing contract does not affect the deductibility of the management fee.Riddell was a professional rugby league player.Within the identified framework, no distinction can be drawn between the signing of a new contract with the same club and the signing of a new contract with a new club.52 As I said in Spriggs, argument by analogy must never be allowed to obscure the particularity of the arrangements in question.The Commissioner's reliance upon Federal Commissioner of Taxation v Maddalena (1971) 45 ALJR 426 does just that.Maddalena concerned an era of professional sportsmen and women which bears little or no resemblance to professional sport in the twenty first century.One only has to point to the absence of the electronic media, let alone the internet, in the 1930's to make good that proposition.Secondly, as with Spriggs, the factual matrix in Maddalena is very different to the factual matrix of Riddell.53 Riddell was and remains a full time professional rugby league player.Maddalena was not.Riddell seeks to claim the management fee as a deduction.That fee was incurred after the playing contract was signed, not before, and could not be charged if no playing contract was negotiated.Maddalena sought to claim travelling expenses and legal expenses, expenses which were incurred before the playing contract and which were incurred regardless of whether or not a playing contract was secured.The management fee incurred by Riddell did not "come at a point too soon to be properly regarded as incurred in gaining assessable income".Issue 4: was the management fee a loss or outgoing of capital or of a capital nature?
+ 
+54 In relation to the "negative limb" of s 8-1 of the 1997 Act , the Commissioner submitted that even if the management fee was an outgoing incurred by Riddell in gaining or producing assessable income, it was on capital, not revenue, account and therefore not deductible under s 8-1 of the 1997 Act .This argument also fails.55 The classic test for resolving the distinction between capital and revenue is that stated by Dixon J in Sun Newspapers Ltd at 363:
+ 
+ 
+ "There are, I think, three matters to be considered, (a) the character of the advantage sought, and in this its lasting qualities may play a part, (b) the manner in which it is to be used, relied upon or enjoyed, and in this and under the former head recurrence may play its part, and (c) the means adopted to obtain it; that is, by providing a periodical reward or outlay to cover its use or enjoyment for periods commensurate with the payment or by making a final provision or payment so as to secure future use or enjoyment." 
+ 
+ 
+ 
+
+See also Federal Commissioner of Taxation v Citylink Melbourne Limited [2006] HCA 35 ; (2006) 80 ALJR 1282 at [147] and GP International Pipecoaters Pty Ltd v Federal Commissioner of Taxation [1990] HCA 25 ; (1990) 170 CLR 124 at 137.(a) The Character of the Advantage Sought 
+ 
+56 An examination of the character of the advantage sought is assisted by asking two questions: (1) what was the management fee really paid for?and (2) is what it was really paid for, in truth and in substance, a capital asset?: Colonial Mutual at 454 and Sun Newspapers Ltd at 359-360.The advantage must be identified and characterised.The answer to those questions is not assisted by an analysis of the contractual right or rights secured under the contract, as distinct from the activity itself: see Commissioner of Taxation v Raymor (NSW) Pty Ltd [1990] FCA 193 ; (1990) 24 FCR 90 at 99 (per Davies, Gummow and Hill JJ) citing Dixon J in Hallstroms at 648.As Dixon J said in Hallstroms , the answer:
+ 
+ 
+ "...depends on what the expenditure is calculated to effect from a practical and business point of view, rather than upon the juristic classification of the legal rights, if any, secured, employed or exhausted in the process."
+ 
+ 
+
+See also Citylink at [148] (per Crennan J) (with whom Gleeson CJ, Gummow, Heydon and Callinan JJ agreed).57 The Commissioner contends that the management fee was an affair of capital on the bases that:
+ 
+ 
+ (1) the advantage that the management fee secured was a structural advantage --- being the contract between Riddell and Paramatta " which provided the structure by which [Riddell] would gain or produce his future assessable income ";
+ (2) the management fee was not part of the process by which Riddell derived his salary income; and
+ (3) it was a one-off payment required to secure the contract that would provide him his principal source of income.
+ 
+
+I reject that contention.58 The management fee was paid for a particular service rendered by SFX under the First SFX Agreement.That agreement obliged SFX to advise and represent Riddell in several related aspects all of which were concerned with exploiting his talents as a NRL player.That was what the expenditure was calculated to effect from a practical and business point of view.It was not an outgoing of capital or of a capital nature.(b) and (c) the manner in which it was used and the means adopted to use it 
+ 
+59 Neither of these matters suggests the management fee is an affair of capital.The fee was only incurred if the activity for which it was charged was secured.It was an annual fee.It secured no lasting asset.CONCLUSION AND ORDERS 
+ 
+60 The management fee is deductible under s 8-1 of the 1997 Act .I would allow the appeal and order the Commissioner to pay Riddell's costs of and incidental to the appeal.I will allow the parties to submit orders to give effect to these reasons for decision.
+ 
+ I certify that the preceding sixty (60) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gordon.Associate:
+
+Dated: 23 November 2007
+
+ Counsel for the Applicant: Mr A Myers QC with Dr W Orow 
+ 
+ Solicitor for the Applicant: DLA Phillips Fox 
+ 
+ Counsel for the Respondent: Mr R Brett QC with Mr M Flynn 
+ 
+ Solicitor for the Respondent: Australian Government Solicitor 
+ 
+ Date of Hearing: 9 October 2007 
+ 
+ Date of Judgment: 23 November 2007 
+
+
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1818.html 
+ 
+ 

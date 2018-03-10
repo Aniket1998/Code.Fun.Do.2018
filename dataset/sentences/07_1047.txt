@@ -1,0 +1,530 @@
+
+ 
+1 This application is made pursuant to the Workplace Relations Act 1996 (Cth) as it stood in 2003 and the Trade Practices Act 1974 (Cth) and includes a claim for the tort of inducing a breach of contract or otherwise interfering with contractual relations.The application relates to a chain of events which took place at or in connection with a building site in Wollongong, New South Wales, during September and October 2003.2 The first applicant is A 2amp; L Silvestri Pty Ltd ("Silvestri P/L"), the family company of Mr Antonio Silvestri and his wife Mrs Laura Silvestri, which carried on business as a demolition and excavation contractor on construction sites in the Wollongong area.The second applicant, Mr Nigel Hadgkiss, was an employee of the Commonwealth at the time these proceedings were instituted and had powers delegated to him by the Employment Advocate to make an application in respect of conduct in contravention of Pt XA of the Workplace Relations Act .No point is now taken as to his standing.3 There are five respondents.The first respondent, the Construction, Forestry, Mining and Energy Union ("the CFMEU"), is an organisation registered as an organisation of employees under the Workplace Relations Act .The second respondent ("CFMEU NSW") is the New South Wales branch of the CFMEU, is registered as an organisation under the Industrial Relations Act 1996 (NSW) and is a body corporate by virtue of s 222 of that Act.The remaining respondents are individuals connected with the CFMEU and CFMEU NSW.In 2003 Mr Peter Primmer was a full-time organiser employed by CFMEU NSW.He was a member of both the CFMEU and CFMEU NSW.Mr Michael Lane was employed as a full-time organiser for the CFMEU and was an elected conference delegate of that organisation.He was a member of both the CFMEU and CFMEU NSW.Mr David Kelly was employed by CFMEU NSW and was an elected official performing duties as an organiser for each of the CFMEU and CFMEU NSW.For most purposes it is not necessary to distinguish between CFMEU and CFMEU NSW in these reasons.It is sufficient to refer to the Union.4 LGB Contracting Pty Ltd ("LGB") is not a party, but is central to the case.LGB was the developer and builder of a substantial project at 26---28 Market Street Wollongong.It had not previously built in Wollongong.Demolition and excavation works were required before construction could commence.Mr Louis Grujoski ("Grujoski") was one of the two directors of LGB --- the other being his brother, Mr Nick Grujoski.BRIEF OUTLINE OF THE CASES 
+ 
+5 The applicants' case.From about 11 September 2003 Lane had several meetings with management personnel of LGB.His objective was to cause LGB to enter into a site agreement and an enterprise bargaining agreement ("EBA") with the Union to cover the project and also to cause all subcontractors engaged on the site to have an EBA with the Union.That would effectively ensure that the project was manned only by Union members.It was made clear that only Union approved subcontractors should be engaged.Lane made threats of industrial action and general disruption to back up his demands.6 On the day of Lane's first visit, two inspectors from WorkCover NSW ("WorkCover") attended the site at his request concerning occupational health and safety policies.As a result, the site was shut down for two days.7 The first test of strength occurred when Lane learned in mid-October 2003 that LGB proposed to engage Silvestri P/L as excavation subcontractor to replace the existing subcontractor who had been sacked.Silvestri P/L had no agreement with the Union and Antonio Silvestri was not a union member.That decision had been made by the newly appointed site or project manager.Lane and Primmer attended the site on 20 October 2003 and threatened severe repercussions if Silvestri P/L attempted to work on the site.8 Early on the following day, Silvestri P/L commenced work, with Antonio Silvestri himself operating the excavator.A fleet of trucks was engaged in carting excavated material from the site.The previous excavator had operated a similar system for some time.At about 9.30 am Lane, having spoken to one of the principals of LGB, arrived by car at the site, followed later by Primmer and Kelly in another car.Lane effectively shut the site by parking his car across the vehicular entrance.Threats by the Union officials, plus action on the part of personnel from the Wollongong City Council ("the Council") (initiated by the Union officials) led to the site being shut down for some days.As a result of the threats by Union officials, on the afternoon of 21 October 2003 LGB decided to terminate the services of Silvestri P/L.During the events of 21 October 2003, Kelly told one of the truck drivers that he, and any other worker on site, had to be a member of the Union to be allowed to work on site.9 The termination took place on the following day after a further meeting of LGB personnel with Union officials where further threats were made.Silvestri P/L was replaced by a subcontractor nominated by the Union officials.The Union officials again sought to have LGB enter an EBA.Once the new excavation contractor came on site there was no Union inspection or inspection by WorkCover or Council officials.10 The applicants' claims are:
+ 
+ 2#8226; That the conduct of one or more of the individual respondents contravened s 170NC(1)(c) of the Workplace Relations Act .2#8226; That the conduct of one or more of the individual respondents contravened s 298SC(c) of the Workplace Relations Act .2#8226; In relation to Silvestri P/L's contract with LGB, that one or more of the individual respondents engaged in conduct amounting to the tort of inducing breach of contract or interference with contractual relations.2#8226; That one or more of the individual respondents contravened s 45D of the Trade Practices Act .
+ 2#8226; That either or both of the CFMEU and CFMEU NSW are liable for the conduct of the individual respondents.
+
+11 The respondents deny much of the detail of the applicants' case.Most significantly, they deny that any threats were made to LGB to support the proposal for a site agreement and EBA.They deny the meeting of 20 October 2003.The respondents deny that any action in relation to Silvestri P/L or that the events of 21 and 22 October 2003 were motivated by lack of Union membership or the non-existence of an EBA.Rather, they were concerned with matters of safety.In their opinion, Silvestri P/L was an unsatisfactory contractor in that respect.The site was closed because of deficiencies found by WorkCover and the Council, not because of any Union action or threats.The alleged conversation between Kelly and the truck driver is denied.12 The two versions of events are inconsistent in substance, cannot be reconciled and cannot stand together.As will appear, I accept the substance of the applicants' case and reject the substance of the respondents' denials.THE RELEVANT STATUTORY PROVISIONS 
+ 
+13 The principal statutory provisions are ss 170NC(1)(c), 298SC(c) and 349 of the Workplace Relations Act , and ss 45D , 45DC and 75B of the Trade Practices Act .The Workplace Relations Act 
+ 
+14 Section 170NC is found within Pt VIB of the Workplace Relations Act (entitled "Certified agreements"), specifically within Div 9 of that Part (entitled "Prohibition of coercion in relation to agreements").It states:
+ 
+ " 170NC Coercion of persons to make, vary or terminate certified agreements etc. 
+ 
+ (1) A person must not: 
+ 
+ 
+ 
+ (a) take or threaten to take any industrial action or other action; or 
+ 
+ 
+ 
+ 
+ (b) refrain or threaten to refrain from taking any action; 
+ with intent to coerce another person to agree, or not to agree, to: 
+ 
+ 
+ 
+ 
+ (c) making, varying or terminating, or extending the nominal expiry date of, an agreement under Division 2 or 3; or 
+ (d) approving any of the things mentioned in paragraph (c).
+ 
+ 
+ 
+ 
+ 
+ (2) Subsection (1) does not apply to action, or industrial action, that is protected action (within the meaning of Division 8).
+ 
+ (3) An employer must not coerce, or attempt to coerce, an employee of the employer: 
+ 
+ 
+ 
+ 
+ (a) not to make a request as mentioned in subsection 170LK(4) in relation to an agreement that the employer proposes to make; or 
+ 
+ 
+ 
+ 
+ (b) to withdraw such a request." 
+ 
+ 
+
+15 Division 2 of Pt VIB (as referred to in s 170NC(1)(c)) concerns the making of agreements with constitutional corporations or the Commonwealth.16 Section 298SC is found within Pt XA (entitled "Freedom of association"), or more specifically, within Div 5A of that Part (entitled "False or misleading representations about bargaining services fees etc").It states:
+ 
+ " 298SC False or misleading representations about bargaining services fees etc. 
+ 
+ A person must not make a false or misleading representation about: 
+ 
+ 
+ (a) another person's liability to pay a bargaining services fee; or 
+ (b) another person's obligation to enter into an agreement to pay a bargaining services fee; or 
+ (c) another person's obligation to join an industrial association." 
+ 
+ 
+
+17 An "industrial association" is defined in s 298B(1) of the Workplace Relations Act :
+ 
+ " industrial association means: 
+ 
+ 
+ (a) an association of employees and/or independent contractors, or an association of employers, that is registered or recognised as such an association (however described) under an industrial law; or 
+ (b) an association of employees and/or independent contractors a principal purpose of which is the protection and promotion of their interests in matters concerning their employment, or their interests as independent contractors, as the case requires; or 
+ (c) an association of employers a principal purpose of which is the protection and promotion of their interests in matters concerning employment and/or independent contractors; 
+ 
+ 
+ and includes a branch of such an association, and an organisation." 
+ 
+ Amendment of the Workplace Relations Act 
+ 
+18 Although s 170NC and s 298SC of the Workplace Relations Act were in force during September and October 2003, they were repealed by virtue of Schedule 1 of the Workplace Relations Amendment (Work Choices) Act 2005 (Cth).However, these two sections continue to apply to these proceedings by virtue of reg 2.19 of ch 7 of the Workplace Relations Regulations 2006 (Cth) and s 8 and s 8A of the Acts Interpretation Act 1901 (Cth).The Trade Practices Act 
+ 
+19 Section 45D of the Trade Practices Act is headed "Secondary boycotts for the purpose of causing substantial loss or damage".It is contained in Pt IV of that Act (entitled "Restrictive trade practices") and provides:
+ 
+ 
+ "(1) In the circumstances specified in subsection (3) or (4), a person must not, in concert with a second person, engage in conduct: 
+ 
+ 
+ (a) that hinders or prevents: 
+ (i) a third person supplying goods or services to a fourth person (who is not an employer of the first person or the second person); or 
+ (ii) a third person acquiring goods or services from a fourth person (who is not an employer of the first person or the second person); and 
+ (b) that is engaged in for the purpose, and would have or be likely to have the effect, of causing substantial loss or damage to the business of the fourth person.
+ 
+ 
+ 
+ (2) A person is taken to engage in conduct for a purpose mentioned in subsection (1) if the person engages in the conduct for purposes that include that purpose.
+ 
+ (3) Subsection (1) applies if the fourth person is a corporation.
+ 
+ (4) Subsection (1) also applies if: 
+ 
+ 
+ (a) the third person is a corporation and the fourth person is not a corporation; and 
+ (b) the conduct would have or be likely to have the effect of causing substantial loss or damage to the business of the third person." 
+ 
+ 
+ 
+ 
+
+20 Section 45DC (entitled "Involvement and liability of employee organisations") provides:
+ 
+ 
+ " Certain organisations taken to be acting in concert
+ (1) If 2 or more persons (the participants ), each of whom is a member or officer of the same organisation of employees, engage in conduct in concert with one another, whether or not the conduct is also engaged in in concert with another person, then, unless the organisation proves otherwise, the organisation is taken for the purposes of sections 45D , 45DA and 45DB : 
+ 
+ 
+ (a) to engage in that conduct in concert with the participants; and 
+ (b) to have engaged in that conduct for the purposes for which the participants engaged in it.
+ 
+ 
+ Consequences of organisation contravening subsection 45D(1), 45DA(1) or 45DB(1) 
+ 
+ 
+ (2) The consequences of an organisation of employees engaging, or being taken by subsection (1) to engage, in conduct in concert with any of its members or officers in contravention of subsection 45D(1), 45DA(1) or 45DB(1) are as set out in subsections (3), (4) and (5).
+ 
+ 
+ 
+ 
+ Loss or damage taken to have been caused by organisations' conduct 
+ 
+ 
+ (3) Any loss or damage suffered by a person as a result of the conduct is taken, for the purposes of this Act, to have been caused by the conduct of the organisation.
+ ..." 
+ 
+ 
+ (Original emphasis.)
+ 
+
+21 Section 75B ("Interpretation") is found within Pt VI of the Trade Practices Act (entitled "Enforcement and remedies").Section 75B provides:
+ 
+ 
+ "(1) A reference in this Part to a person involved in a contravention of a provision of Part IV, IVA, IVB, V or VC, or of section 75AU or 75AYA, shall be read as a reference to a person who: 
+ 
+ 
+ (a) has aided, abetted, counselled or procured the contravention; 
+ (b) has induced, whether by threats or promises or otherwise, the contravention; 
+ (c) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention; or 
+ (d) has conspired with others to effect the contravention.
+ 
+ 
+ ..." 
+ 
+ 
+ 
+ FACTS 
+ 
+22 The case substantially turns upon the credibility of evidence given in relation to a series of meetings and events.The point of sharpest conflict concerns 20 October 2003.Resolution of that conflict is critical to credibility in general.It needs to be considered in context.23 The project at 26---28 Market Street was the construction of a residential apartment block and commercial premises.The building, to be known as Sunrise Apartments, was to comprise a basement underground car park, an eight-storey building at the front and a six-storey building at the back with a courtyard in the middle.The overall cost of the project was about $16 million.It was due for completion in or about December 2004.11 September---19 October 2003 --- Dealings between Union and LGB 
+ 
+24 On 11 September 2003 Mr Oscar Picciau was in charge of the site pending the employment of a project manager.On 11 September 2003 he was at the site with two LGB employees, Mr Angele Srbinovski and Mr David Hill, and a demolition and excavation contractor, Mr Bruce Harris from BBI Constructions.Demolition had commenced.The site establishment --- with an equipped shed and amenities --- was not fully set up.25 On 10 September 2003 an article about the site had been published in the Illawarra Mercury newspaper, which had been seen by Lane.Lane attended the site on 11 September 2003 and met Picciau, whose evidence of what took place after the introductions (which is not disputed by Lane) was as follows:
+ 
+ 
+ 
+ "Me: 'What is the problem is there anything that I can help you with?' 
+ 
+ Mr Lane: 'Who is running the site and what is happening with the actual site.' 
+ 
+ Me: 'I am the assistant project manager, we are about 70 to 80 percent complete with the demolition and the site is under my control until we get a site manager.' 
+ 
+ Mr Lane: 'Do you have a site establishment set up such as site sheds, amenities, securing the site and so forth.' 
+ 
+ Me: 'No we do not have a full site establishment set up we are still in the process of demolition work.' 
+ 
+ 
+ 
+ ... 
+ 
+ Mr Lane pointed out some issues which he claimed were safety issues on the Site.He did not explain what was wrong.Mr Lane said that the site shed did not have any power connected and the lining on the shed floor was not in good condition.As a result, I arranged to have the shed replaced.
+ 
+ My discussion with Mr Lane continued as follows: 
+ 
+ 
+ 
+ 
+ 
+ Mr Lane: 'I do not want any more works to proceed until these safety issues are rectified.There have been a few buildings within the Wollongong area that didn't comply to any safety regulations, such as the building across the road.I hope your building isn't going to be like the site across the road.' 
+ 
+ 
+ 
+ 
+ ... 
+ 
+ 
+ 
+ 
+ Mr Lane: 'Which contractors do you propose using on the site?' 
+ 
+ Me: 'No contracts have been issued and we have no main contractors.' 
+ 
+ Mr Lane: 'Does LGB Contracting have an EBA and are any of the workers union members?' 
+ 
+ Me: 'To the best of my knowledge, I do not know if LGB does or does not have an EBA or whether any of our employees are union members or not.' 
+ 
+ Mr Lane: 'Have Grujoski call me so we can have a meeting to discuss any further issues relating to the site.' 
+ 
+ 
+ 
+ 
+ 
+ Mr Lane was on Site for about an hour or an hour and a half." 
+ 
+
+The site across the road had been closed, to the knowledge of Picciau, for approximately two years.26 Later that day two WorkCover inspectors, one of whom was Mr Barry Childs, attended the site.He had a discussion with Picciau as follows:
+ 
+ 
+ 
+ "Mr Childs: 'You do not have your occupational health and safety policies in place yet.' 
+ 
+ [Picciau] : 'Our quality assurance manager, Ron McGeoch is in the process of preparing an OH2amp;S work method statement, safety reports and so forth for the site.' 
+ 
+ Mr Childs: 'I am also concerned with types of material that are on site and it would be better if you ceased the works and clean up the site, and secure the premises after which you can continue.'" 
+ 
+ 
+ 
+ 
+
+27 Picciau stopped the demolition work, which did not recommence until the following Monday 15 September 2003 during which time the site was cleaned up, temporary power was connected to the sheds and the site was secured.28 Grujoski gave evidence of meeting Lane at the site on 12 September 2003.That was his first meeting with Lane.Grujoski gives an account summarised by counsel for the applicant as follows:
+ 
+ 
+ "(a) Lane says we are the union organisers for this region and we control this area; 
+ 
+ (b) Lane demands that LGB enter into a site agreement and Enterprise Bargaining Agreement with the CFMEU; 
+ 
+ (c) Lane demands that all contractors on the Site enter into an EBA with the CFMEU; and 
+ 
+ (d) Lane indicates that if the demands are not met it will become 'very difficult' for LGB." 
+ 
+ 
+ 
+
+29 Lane does not dispute that there was such an occasion but he does dispute that he threatened or implied a threat to disrupt the site.He denied that he said he controlled the area.He denied that he made any relevant demands.He also denied suggesting an alternative demolition and excavation contractor.His evidence was that he said (no doubt, amongst other things):
+ 
+ "Everyone who comes on site must be inducted.It would be a lot better if we could come to some sort of site agreement and everyone knows the ground rules before they come onto the job." 
+ 
+ "I would like us to sit down and talk to you about an EBA.It would be far preferable if major contractors who were to come on site were EBA'd." 
+ 
+
+30 There are two problems in relation to Grujoski's evidence.The first is that he places Picciau, Srbinovski and Hill as being present, although none of those witnesses gave evidence to that effect.That may not be crucial as the evidence he gave was consistent with them being in the vicinity although not being actual participants in the conversation.The second is that he produced with his affidavit a copy of a diary entry corroborating his version of the conversation.It was written on the page of the diary for 13 October 2003 rather than 12 September 2003.That in itself is of no great significance but when the original was produced the page differed in some respects from that which had been produced with the affidavit.Considerable attention was paid to the issue of that diary note, both at the hearing and in submissions.I am not satisfied that the explanation is sinister but no completely satisfactory explanation was given.Although the version given by Grujoski accords with Lane's later conduct and I do not accept much of Lane's evidence, a sufficient shadow is cast over Grujoski's evidence in relation to this meeting to cause me to put it aside, bearing in mind the Briginshaw standard of proof which is applicable.31 Picciau gave evidence of another meeting with Lane on site in late September or early October.Lane does not dispute the evidence given by Picciau, which was as follows:
+ 
+ "Mr Lane and I had a discussion as follows: 
+ 
+ 
+ Mr Lane: 'I am happy with the way you have progressed on site.' 
+ ... 
+ 
+ Mr Lane: 'Who are your contractors and have any contracts been issued to anyone?' 
+ 
+ Me: 'No contracts have been issued and we might be using contractors from Sydney due to the fact that we have worked with those contractors before and know their performance and their pricing.' 
+ 
+ 
+ Mr Lane laughed at that.
+ 
+ 
+ Mr Lane: 'Why wouldn't you use local people?' 
+ 
+ 
+ I cannot now recall what if any response I gave." 
+ 
+
+32 Grujoski gave evidence of two other meetings with Lane on the site prior to 20 October 2003 --- one on 18 September 2003 and another on 1 October 2003.As to the first meeting, Grujoski says that Lane gave him two one-page documents.The first was headed "New South Wales Southern Region General Construction Enterprise Bargaining Agreement" containing rates of pay for various categories of worker and details of various other payments or allowances.The second was the front sheet of what was said to be a collective bargaining agreement between LGB and employees and CFMEU NSW.Lane said that he wanted a Union EBA and a site agreement and promised to get a copy of the complete EBA to Grujoski.There was discussion about an EBA that LGB had with the CFMEU between 1997 and 1999, which Grujoski said was not for building work, but rather for a saw-cutting operation.Grujoski said that Lane said, amongst other things:
+ 
+ "Why I say that I want a union EBA and a site agreement is I don't want any situations like across the road." 
+ 
+
+And: 
+ 
+ "That building across the road is a complete disaster and I don't want this to result in that same manner." 
+ 
+
+There was also discussion about a Mr Rodney Fisher.Grujoski said that Lane had referred to Fisher in an earlier discussion as a person LGB should employ to help with the early stages of the project and to assist with inductions and with the Union.In the course of this conversation, Lane said:
+ 
+ "I need to know what happens on site.I need cooperation to be informed on who you employ on site.All contractors are to have an EBA and you must have my approval." 
+ 
+
+And:
+ 
+ "You have got to run it by me first on who you use.I would like to know who you use.I must approve of the contractors." 
+ 
+
+On Grujoski's account he did not agree to any of Lane's demands at that time.33 The parties agreed to meet again on 1 October 2003.On that occasion, Lane brought with him and gave to Grujoski three copies of a document entitled "Collective Bargaining Agreement between LGB Contracting Pty Ltd and Employees and Construction, Forestry, Mining and Energy Union Construction and General Division New South Wales Branch expiring 31 October 2005".Grujoski says that in the course of the conversation, Lane said:
+ 
+ "I have the pleasure of submitting you these draft copies.This is what an EBA looks like and I'd like to get that signed and out of the way so we can proceed with the works or I will interrupt your works programme.We will be here for a very long time." 
+ 
+
+And: 
+ 
+ "There's certain people that aren't welcome around here, I don't want to get my other union fellow and people to come here and disrupt the site.If we don't get this resolved we will be into problems and I will come here with Peter Primmer to disrupt the site and stop the work." 
+ 
+
+34 Grujoski says that he asked for a list of preferred contractors, which he was given by Lane, with telephone numbers.There was further discussion about Fisher.Lane agreed to give Grujoski time to consider the EBA and left saying:
+ 
+ "If you cooperate and sign an EBA and an agreement then we shouldn't have any problems." 
+ 
+
+They agreed to meet again when Lane returned from his holidays.35 Lane does not deny the meeting with Grujoski on these two occasions and agrees that the topics of the site agreement and the EBA were discussed and that the documents to which Grujoski refers were handed over.However, he is not sure how the single title page for the collective agreement came to be given to him.He also agrees that there was discussion about Fisher playing a role as delegate to ensure that companies on the job were bona fide and to be a go-between between the builder, the Union and whoever was coming on to the job as a subcontractor.He agrees that there was discussion about the EBA which LGB had with the CFMEU, which LGB claimed only applied to saw cutting.Lane denied making any threats of disruption.So far as the job across the road was concerned, his evidence was that he said:
+ 
+ "See that job over the road, that job was run by a complete shonk who has since gone bankrupt and has taken a number of players down with him.That job is still under contract and has been under construction since 2000." 
+ 
+
+He denies demanding that all contractors on site have an EBA or be union approved.He says he did say:
+ 
+ "I would like us to sit down and talk to you about an EBA.It would be far preferable if major contractors who were to come on site were EBA'd." 
+ 
+
+Later he said:
+ 
+ "There is a preference for major contractors with EBA's." 
+ 
+
+Grujoski said:
+ 
+ "We are using serious contractors, big players and I would expect some would have enterprise agreements." 
+ 
+
+Lane:
+ 
+ "We all know the reality and nothing like all contractors would have an EBA because not all of them do." 
+ 
+
+Lane denied giving Grujoski any list of approved contractors with telephone numbers.36 I accept the substance of Grujoski's evidence as to these meetings.There is no doubt that Lane was seeking both a site agreement and an EBA with LGB itself.There is no doubt that he was expressing a preference for at least the major contractors to have an EBA with the Union and there is no doubt that he was seeking to have a Union nominee employed to become site delegate.Based upon my observations of Lane and his evidence, and my findings as to what occurred later, I am satisfied that his objective in dealing with Grujoski was to impress upon him that the Union controlled commercial building sites in Wollongong and that all contractors on the site, including LGB, should comply with Union demands in relation to a site agreement and an EBA --- fundamentally to underpin Union membership by all the individuals involved on the job.I am satisfied that Lane clearly conveyed to Grujoski the message that if the Union demands were not met then there would be disruption of the job by whatever means were available and that the state of the site opposite was used as an example.Dealings between Silvestri P/L and LGB prior to 21 October 2003 
+ 
+37 There is no difference of substance between the evidence of Antonio and Laura Silvestri and Mr Anthony Krkovski, although the precise sequence of events is doubtful.Krkovski was the newly appointed site or project manager and was in day-to-day charge of the job.He had started by 15 October 2003.Upon starting on the site Krkovski decided that the existing excavation contractor was unsatisfactory.He telephoned Antonio Silvestri and asked him to come and have a look at the job and give him a price.Krkovski caused Mr Jovan Matlioski, a contracts administrator employed by LGB and normally based in Sydney, to make inquiries as to competence from others for whom Silvestri P/L had worked.The responses were favourable.Antonio Silvestri went to the site, met Krkovski and surveyed the site.There was some discussion about prices which were to be charged for various items.Antonio Silvestri estimated about three to four weeks would be required to carry out the excavation work, depending upon the type and quantity of rock on site.Krkovski had hoped that it would take two weeks for bulk excavation and one week for detailed excavation.Laura Silvestri prepared a price for machine and trucks, quoting per hour, except that in relation to both concrete and filling the quote was per load, and sent it to LGB by facsimile.Antonio Silvestri refused to lower his prices.Krkovski accepted the prices and on or about 16 October 2003 it was agreed that Silvestri P/L would carry out all the excavation work that was required at the site.It was agreed that the job would start on the following Monday, 20 October 2003.Antonio Silvestri was unable to start on that day as he was still working on a different site.There is no doubt there was some communication between Antonio Silvestri and Krkovski on 20 October 2003.There is a question as to the content of it which need not be resolved.20 October 2003 
+ 
+38 The applicants' witnesses speak of a visit by Lane and Primmer to the site shed on 20 October 2003 making threats of disruption if Antonio Silvestri commenced work on the site, linked with the fact that he was not a Union member and that Silvestri P/L did not have an EBA with the Union.Lane and Primmer deny that there was such a meeting on 20 October 2003 and deny making threats of that kind on any occasion.39 I am satisfied that such an occasion did occur on 20 October 2003.Evidence to that effect was given by five witnesses for the applicant.Krkovski had only recently made the decision to employ Silvestri P/L in lieu of the previous excavation subcontractor.At the time he gave evidence, he was not employed by LGB and provided no affidavit in advance of the hearing.Matlioski was a contracts administrator employed by LGB based in Sydney who was visiting the site.He was no longer employed by LGB at the time he gave evidence.Matlioski was accompanied to the site that day by one Mr Branco Riklovski, a draftsman employed by LGB based in Sydney.He was not called to give evidence.Because of the absence of that witness, counsel for the respondents sought to rely upon the principle in Jones v Dunkel [1959] HCA 8 ; (1959) 101 CLR 298.Picciau was the Assistant Project Manager employed by LGB.Srbinovski was a leading hand employed by LGB.Hill was a labourer employed by LGB who was no longer employed at the time he gave evidence and had not been employed since April 2004.There were inconsistencies in the detail of the evidence given by these witnesses and there is no contemporaneous note by any of them.There is a reasonably contemporaneous note by Matlioski but it appears to have been produced as a result of a request by the Building Industry Taskforce which was investigating Antonio Silvestri's complaints.However, each witness clearly identified and gave evidence about the same occurrence on the Monday, which was the day before the drama at the site on Tuesday 21 October 2003.Given what occurred on 21 October 2003, it is most unlikely that all of the witnesses would have been mistaken about the timing of the meeting with the Union officials about which they gave evidence.40 The WorkCover inspector, Childs, recorded in his notebook that, when he met Krkovski and Antonio Silvestri on the morning of 21 October 2003, Krkovski stated that:
+ 
+ "The issue started yesterday when they attended" [the Union and] "arrived on site Dave Kelly 2amp; Mick Lane.Issues raised by Union 1) Why was the excavation company changed ..." 
+ 
+
+Whilst Krkovski had obviously mistaken the names of Primmer and Kelly, this was significant independent and contemporaneous evidence confirming the version of the witnesses for the applicants.41 I see no reason to doubt the honesty of any of the witnesses called by the applicants as to this incident.Three had left the employ of LGB at the time they gave evidence and clearly had nothing to gain one way or the other.The newly-appointed site manager would be expected to have a good recall of the events and appeared to do so given the difficulties occasioned by the considerable lapse of time between the events and giving evidence.He presented as a competent and intelligent person.Matlioski appeared to be an honest and competent witness whose nearly contemporaneous note supported the existence of the occasion.Hill was, as his background would suggest, of limited sophistication and was, at times, quite inarticulate.Apart from a tendency to agree, perhaps too readily, to matters that were put to him, his honesty could not be questioned.Srbinovski, although still employed by LGB, appeared to me to be an honest and reliable witness.The same could be said of Picciau.It needs to be borne in mind that LGB itself had little to gain from involvement in the proceedings.It is suggested that the proceeding assists LGB in dealing with or avoiding any claim from Silvestri P/L.In my view, that possibility would rate fairly low on the scale for a developer compared with becoming embroiled in an adversary proceeding against these respondents.42 The evidence given by Lane and Primmer was far from convincing, both generally and in relation to this occurrence.Lane appeared to be an intelligent witness who, nonetheless, gave indications of both arrogance and belligerence consistent with the evidence given by witnesses for the applicants as to what occurred on this day and other days.Primmer gave evidence in an unconvincing fashion.They were both unwilling to make any concession or admission of conduct that might inculpate either of them or the Union in unlawful or inappropriate conduct.43 Apart from pointing to inconsistencies in the detail of the evidence given by the witnesses for the applicants, counsel for the respondents relied heavily upon evidence which was called as to a visit by Primmer to other sites on 20 October 2003.The evidence establishes that Primmer was present at a site safety inspection at a company called South Coast Equipment elsewhere in Wollongong from 7.00 am on 20 October 2003 for between two and three hours.Primmer also gave evidence that he attended two other sites in the afternoon including one in Nowra.Even if that were correct, there was time to have attended the site inspection at South Coast Equipment and the meeting at the LGB site before attending the other places.The site inspection at South Coast Equipment may cast doubt upon the recollections of some of the witnesses as to the time of the visit by the Union officials to the site but does not, in my opinion, cast any doubt upon the visit occurring.None of the witnesses for the applicants give any support to the evidence of Primmer and Lane that a similar meeting (but with no threats) had taken place on site previously.44 The next issue is the nature of the objections to the engagement of Silvestri P/L and the threats made in relation to that.It is clear enough, from the versions given by Lane and Primmer of the conversations they said occurred on the earlier occasion, that they voiced strong objection to the engagement of Silvestri P/L.They contend that this was based upon Antonio Silvestri's safety record rather than his lack of involvement with the Union.They deny that threats were made as to disruption if it were employed.It is also clear enough that, on that and other occasions, they were prepared to nominate contractors who might be used in lieu of Silvestri P/L.Notwithstanding the inconsistencies between the versions pointed to by counsel for the respondents, I am satisfied that it was made quite clear on 20 October 2003 to Krkovski, who was the decision maker, that the objection to Silvestri P/L and Antonio Silvestri was based upon the fact that the company did not have an EBA with the Union, that Antonio Silvestri was not a member of the Union and that only Union-approved contractors would be tolerated on the site.I am further satisfied that each of Primmer and Lane threatened serious disruption to the project if Silvestri P/L started work on the job.45 I regard Krkovski as a reliable witness as to the substance of what took place on this occasion.He was the person in charge and responsible for what was occurring.He had not met Lane or Primmer previously.In the first place, Lane was quite clear that LGB would not be allowed to use Antonio Silvestri and Silvestri P/L.His explanation was that:
+ 
+ "He is rough, he doesn't pay his contractors, he is shonky and he doesn't have an EBA." 
+ 
+
+Lane said that he wanted Krkovski to use someone who had an EBA and when he was asked "who" his response was "John Hart from J 2amp; D Excavations".Lane said that if Silvestri P/L was used he would close the site down and cause disruptions to the site --- he stated that the same thing had happened to a building site across the road.He would cause stoppages and delays.He, Lane, would drive his car across the driveway and stop trucks from entering or leaving the site.That evidence should be accepted as to the gist of the message conveyed by Lane and Primmer to LGB on 20 October 2003.Neither the variations in the other versions nor the absence of Riklovski lead me to take a different view.Riklovski was very much a bit player.His evidence is of little account in the scheme of things.46 The rejection of the evidence of Lane and Primmer about the events of 20 October 2003 has significance beyond those events.The conflict with the evidence of the other witnesses was too great and the denials of Lane and Primmer too emphatic to be accounted for by normal mistaken memory.Conscious or unconscious reconstruction of events is indicated and, on either view, that significantly shakes the credit of both witnesses as to the other events that are in issue.21 October 2003 
+ 
+47 The events of 21 October 2003 have been extensively canvassed in the written and oral submissions on behalf of the parties.A chronology has been prepared by the parties, which has some common ground but much is in dispute.Evidence was given about those events by the parties who gave evidence concerning the events of 20 October 2003 (except for Matlioski), together with a truck driver Mr Vangel Veljanov, the WorkCover Inspector Childs, Grujoski, Antonio and Laura Silvestri and the respondent Kelly.In addition to those parties, local police, officers of the Council and a crew from the local television station all attended during the morning.No evidence was called from those sources.It is not necessary to set out all that happened on that day or to resolve all conflicts and inconsistencies.The basic conflict which requires resolving is whether (as the applicants contend) the Union officials attended and took action to close the site in order to carry out the threats that had been made the day before in retaliation for LGB permitting Silvestri P/L to work on site, or whether (as contended on behalf of the respondents) the Union officials attended to inspect for safety concerns, justified by the events which happened, and that the site was shut down by the Council and WorkCover rather than the Union officials.I am satisfied that the applicants' version is correct in substance.48 I have already discussed the credibility of the witnesses to the events of 20 October 2003.Many were involved again on 21 October 2003.There were others.Veljanov was obviously an honest witness with no personal interest in the outcome who endeavoured to give evidence to the best of his recollection.Laura Silvestri has an interest in the outcome of the proceeding, but I was satisfied that she was an honest witness and was generally reliable.Antonio Silvestri is also interested in the outcome of the proceeding.He was clearly resentful and somewhat emotional as to what befell him in connection with this job, and with the Union generally.Evidence from the other witnesses indicates that he was so affected on 21 October 2003 and made his feelings known to the Union officials and others in no uncertain manner.However, generally speaking, I have no hesitation in accepting his evidence.It had the ring of truth and was consistent with the evidence of others.He had good reason to recall what occurred.The credit of Grujoski was attacked, principally (but not only) based upon alterations to the diary entry.Suffice to say at the moment that I prefer the evidence of Grujoski to that of Lane as to the substance of the events of 21 October 2003 where they are in conflict.I generally accept the evidence of WorkCover Inspector Childs, particularly where it is reflected in his notes.My findings as to the substance of what occurred, based upon the oral and written evidence, follow.Doubts as to the precise sequence of events are not important.49 Antonio Silvestri commenced operating the machine on site at about 6.30 am.Trucks were coming onto the site, being loaded with spoil and then leaving the site.One was being operated by Veljanov.Two flagmen (Hill and Srbinovski) were operating to direct traffic and watch for pedestrians.There were pedestrian signs and barriers on the footpath.The system was the same as, or similar to, that which had been in operation with the previous subcontractor.50 At about 9.30 am Lane telephoned Grujoski and told him that Antonio Silvestri was not allowed on the site and sought to arrange a meeting for LGB to sign a site agreement and EBA.Shortly thereafter, Veljanov reversed into the site to pick up another load.Lane arrived at the site in his car, got out of the car and told Veljanov that he could leave with his load but not to come back because "the job is stopped".By then, Kelly and Primmer had arrived and approached Veljanov.Having identified themselves as being from the building union, Veljanov said:
+ 
+ "What have we done wrong?Have we done anything wrong mate?" 
+ 
+
+Kelly replied:
+ 
+ "No, no, no.You haven't done anything wrong, we don't want Tony Silvestri to do the job here, we want to get some bigger people to do the job here." 
+ 
+
+51 Once Veljanov had left, Lane parked his car across the vehicular entrance to the site, so preventing the ingress and egress of trucks.The precise sequence of events is somewhat confused but consideration of the evidence of Krkovski, Veljanov and Hill indicates that the first substantive conversation with Lane at the site involved Krkovski.Lane made it clear that he was in attendance to carry out the threat that he had made the day before if Antonio Silvestri started on the job.He was present because his instructions of the day before had not been carried out.Amongst the objections that he had to Antonio Silvestri was that he did not have an EBA with the Union.Lane refused to move his car from blocking the driveway, notwithstanding a direct request that he do so by Hill on behalf of Grujoski and by Antonio Silvestri.He also declined to move the vehicle when requested by a Council ranger who had appeared.Notwithstanding direct requests on the part of both Hill and Antonio Silvestri, the Council ranger declined to take any steps to force Lane to remove the vehicle, not being prepared to act against a union official.Lane only moved the car later in the morning when directed to do so by a police officer.After the car was removed the Union officials continued to stand at the entrance barring the movement of vehicles.52 When Veljanov returned to the site with his truck, he was unable to gain entrance as Lane's car was still blocking the driveway.Lane said that no trucks were to be allowed into the site because the job was stopped.Veljanov then had a conversation with Primmer and Kelly, who were standing with Lane.The conversation was as follows:
+ 
+ 
+ 
+ " [Veljanov] : 'What's happened mate?Are we gonna start working or what?' 
+ 
+ Mr Primmer: 'We try to do the best for you people.' 
+ 
+ [Veljanov] : 'What do you mean do best for us?We got a nice little job here, we don't hurt anybody.We try to work ourselves as hard as we can.We're trying to make a few dollars to feed our family, you take my bread from my hand.What are you guys doing here?Please, let us go.What's wrong with you guys?' 
+ 
+ Mr Primmer: 'No.It's got to be a union member working on this site here.' 
+ 
+ [Veljanov] : 'Why?' 
+ 
+ Mr Kelly: 'Mate, we're wanting big people here, like Cleary brothers, Effective Services and J2amp;D.' 
+ 
+ 
+ 
+ 
+ 
+ When Mr Kelly said that I started laughing at him.
+ 
+ 
+ 
+ 
+ [Veljanov] : 'Why them?' 
+ 
+ Mr Kelly: 'They joined the union.' 
+ 
+ [Veljanov] : 'What do you mean joined the union?I'm in a union, but what's making different?Tony Silvestri paid his tax.' 
+ 
+ Mr Kelly: 'He's got to be a member of the union, otherwise he's not allowed to work on this site.' 
+ 
+ [Veljanov] : 'For a start, Cleary brothers they're not interested when it's little fish, they're after big subdivision, they can use their own material, road base, because they have their own quarry, they can use the concrete they made themselves.They don't have interest here.' 
+ 
+ Mr Kelly: 'Well if not Cleary's, we've got Effective Services, they are pretty big, J2amp;D, he's pretty big, he's a member in the union.' 
+ 
+ [Veljanov] : 'Get him mate, that's all I can say to you.As far as I know, we haven't done anything wrong here on the site.We haven't abused anybody.What's wrong, explain yourself.' 
+ 
+ Mr Kelly: 'That's the reason mate, you're not a member of the union.' 
+ 
+ [Veljanov] : 'I am.That's my badge here.' 
+ 
+ Mr Kelly: 'Well you're Transport Workers Union.'" 
+ 
+ 
+ 
+ 
+
+53 Two alleged safety issues arose that morning.The Union officials claimed that they were concerned about the safety of the traffic arrangements.They professed to be concerned about pedestrians and vehicles.I reject the contention that they were genuinely concerned about safety in that respect.The same arrangements had been in force for the previous demolition and excavation subcontractor with no intervention from the Union or anybody else.The criticisms that were advanced in evidence did not stand scrutiny.The Union officials were mistaken as to the number of persons involved in traffic control and their duties and were wrong about the nature and location of the signs.Furthermore, it was not of direct concern to them.The Union had no role to play in relation to traffic or pedestrians.It may have had a legitimate concern if there were any effect upon the safety of building workers on the site, but there was no evidence of that.It was a pretext for disruption of the carrying out of the contract by Silvestri P/L.It turned out to be an effective intervention.LGB had prepared and lodged a traffic management plan some weeks before, but the Council had not dealt with it.Notwithstanding the fact that the site had been operating for some weeks without any approval, in accordance with the plan lodged, the Council intervened to stop work until a plan was approved.There was no exploration of the question as to whether the Union officials knew of this circumstance prior to their appearance on the site.The fact that the arrangements ultimately approved by the Council differed somewhat from those operating on 21 October 2003 does not establish that the latter were unsafe.The WorkCover inspector also pointed out some damage to the footpath and deficiencies with the hoardings.These were not strictly within his domain but, rather, issues for the Council.LGB was required to attend to them.They raised no safety issues so far as the work being carried out on site was concerned.54 The other issue, which received attention on that morning and as to which a body of evidence was directed, was the state of Antonio Silvestri's machine.Primmer, who had some relevant experience and was enlisted by Lane for that reason, after some toing-and-froing, was permitted to inspect the excavator and drew attention to items that he claimed were defective.I am satisfied that none of them amounted to a safety issue on the site on that morning.To the extent that rectification was required in due course, there is nothing to suggest that it could not have been attended to in a timely fashion.What is more, from a practical point of view, the only person at risk from the items concerned was Antonio Silvestri who was operating the machine on his own.The WorkCover inspector did not give any directions in relation to the machine, although Antonio Silvestri later reported to him the steps that he was taking in relation to the machine.Indeed, the WorkCover inspector did not stop the job on any account on that day.Such intervention as there was was by the Council.The state of Antonio Silvestri's machine was not a bona fide safety concern but, rather, was a pretext for disruption of work on the site.55 I reject the proposition that the Union officials were bona fide in investigating breaches of the Occupational Health and Safety Act 2000 (NSW) and the Occupational Health and Safety Regulations 2001, even if they had a proper role in relation to this site where no members were working.The appropriateness of such a role has not been demonstrated.56 At about 1.30 pm there was a meeting involving LGB personnel, Lane and Primmer.Grujoski and Picciau place it in the site shed attended by Grujoski, Krkovski, Picciau, Lane and Primmer.Krkovski gave evidence of a similar conversation but placed it outside the sheds with other people present.I am satisfied that the evidence of Picciau, corroborated by Grujoski, should be accepted in that respect.During the meeting, Lane and Primmer made it clear that they would not tolerate Antonio Silvestri being on site.Silvestri P/L would need to be replaced by a contractor recommended by the Union with an EBA with the Union.The contractor J2amp;D Excavations was nominated after some inquiry by Primmer.There was a threat of disruption including picketing if this did not take place.It was also made clear that the Union was pursuing an EBA and a site agreement with LGB.Arrangements were made for Krkovski to attend the Union offices at 9.00 am on the following morning.57 During the course of the afternoon it was agreed between Grujoski and Krkovski that, because of the Union demands, Silvestri P/L would be replaced with another contractor.Krkovski said he made the decision and was intimidated by the Union attitude.His focus was on getting the job done.Picciau and Hill gave evidence that that decision was conveyed to Antonio Silvestri on that afternoon.I think they must be mistaken.Antonio Silvestri, who would have the best recollection of that matter, gave no such evidence.Krkovski conceded in cross-examination that he could have conveyed the decision to Antonio Silvestri on that afternoon, although he had no independent recollection of having done so.58 Antonio Silvestri went to the WorkCover office to meet Childs concerning the excavator on the afternoon of 21 October 2003 and followed up with a visit on 22 October 2003 during which he handed Childs a document dated 21 October 2003 setting out his position as far as the machine was concerned and contending that there was no existing safety problem with it.A correction to that document was sent on 4 November 2003 --- the mistake was obvious.22 October 2003 
+ 
+59 Antonio Silvestri's version of 22 October 2003 is that Krkovski telephoned him between 8.00 am and 8.30 am on 22 October 2003 and arranged to meet him at the site later in the morning.Krkovski attended the Union offices at Wollongong at 9.00 am on that day.He says that he met with Primmer, Lane, Kelly and Fisher and that he was told to use contractors recommended by the Union and, if not, there would be stoppages.Lane says that the conversation was with Krkovski and a Mr Ron McGeogh concerning occupational health and safety matters and that Kelly and Primmer were not present.McGeogh had been engaged by LGB as to occupational health and safety issues.He was not called to give evidence.Primmer and Kelly deny being present.Fisher was not called.Krkovski accepted that there was a meeting involving McGeogh but placed it on another later day.He was firm in his evidence that the meeting on 22 October 2003 was as he had described it.It included threats of stoppages such as there had been on other sites in Wollongong and involved a demand for use of Union recommended subcontractors as well as a site EBA.The absence of Krkovski from the site that morning for a meeting with the Union was known to others on site.I accept that it took place.It is less clear who was present.I am satisfied to the requisite standard that Lane was present and that he made the threats and demands to which Krkovski referred, no matter what else might have been discussed.I make no finding that either Primmer or Kelly was present.60 On that morning, Antonio Silvestri told Childs that his contract with LGB had been terminated.The sequence of events as to the termination is not entirely clear.Krkovski gave instructions to Matlioski to draft a letter to Silvestri P/L terminating the contract.The first communication was by facsimile at 9.42 am and was signed by Matlioski which, omitting formal parts, was as follows:
+ 
+ "Please be advised due to unforeseen circumstances and obligations that have arisen on the above mentioned project, we have no alternative, but to terminate our hire agreement of the 25 ton excavator.
+ 
+ Therefore, can you please kindly organize for your machinery to be removed from the site, by the end of today Wednesday the 22 nd of October by 4pm.
+ 
+ We will contact you should we require your services in the future." 
+ 
+
+61 That was followed by another facsimile, again signed by Matlioski, at 10.11 am which, omitting formal parts, was as follows:
+ 
+ "A2amp;L Silvestri have been terminated from providing LGB Contracting Excavation work at 26---28 Market street Wollongong.Work was stopped by the CFMEU on the 21 st of October 2003.A opinion from one of the Union delegates was given that Tony Silvestri's excavation was deemed unsafe, and that defects were spotted on numerous places, and in particular of safety pins near the bucket.
+ 
+ The CFMEU used heavy handed and intimidating approach to Tony Silvestri to shut down his equipment, as witnessed by our Site Manager Tony Krkovski." 
+ 
+
+62 At 1.11 pm on that day, McAneny Lawyers from Woonona, near Wollongong, forwarded a letter to LGB referring to the earlier communications.That letter was in the following terms:
+ 
+ "We act for A 2amp; L Silvestri Pty Ltd. 
+ 
+ We refer to your letters of the 22 October 2003 wherein you inter alia purport to unilaterally terminate the Hire Agreement with our client.
+ 
+ We note that the reason given was that the 'Union delegate gave an opinion that Tony Silvestri's excavation was deemed unsafe, and that defects were spotted on numerous places and in particular of safety pins near the bucket' 
+ 
+ Our client denies these allegations and confirms that the company is ready, willing and able to comply with their obligations pursuant to the Hire Agreement.Further as you are aware WorkCover was called to the site and Barry Childs the Chief WorkCover inspector confirmed that there were no safety issues requiring addressing in respect to the work of our client company or Mr Silvestri personally.
+ 
+ Our client has rectified the minor matter referred to by the Union in respect to the pins near the bucket and is ready to continue the work.
+ 
+ We note that you require our client's machinery to be removed to enable the Union appointed contractor J 2amp; D Earthmovers to commence work.
+ 
+ If you do not allow our client to comply with the terms of the Hire Agreement we are instructed to commence proceedings in Court to protect our clients rights and if appropriate sue for damages." 
+ 
+
+63 At 2.42 pm a handwritten note signed by Krkovski was sent by LGB by facsimile to Silvestri P/L in the following terms:
+ 
+ "A 2amp; L Silvestri were made to remove there equipment from 26---28 Market St Wollongong The reason for this was made clear to us from the local CFMEU, that if we did not have A 2amp; L Silvestri removed from the site and if we didn't employ a recommded contractor that the CFMEU specified we (LGB Contracting) were threatend with shutdowns 2amp; disputes which were made by the local CFMEU on the 21-10-03.We LGB Contracting have not had any problems with A 2amp; L Silvestri performing or undertaking particular works that need to be done.He performed professional worked in with our specified requests." 
+ 
+
+64 The evidence of Antonio and Laura Silvestri, Matlioski, Krkovski, Lane and Childs contain some inconsistencies as to the timing of events.It is not necessary to resolve all of those inconsistencies.The end result was that the contract with Silvestri P/L was terminated by LGB and Antonio Silvestri was ordered to remove the excavator from the site.The excavator was removed early on the following morning.I am satisfied that the handwritten note by Krkovski reflected the true reasons for the termination of the services of Silvestri P/L, the earlier communications having been drafted in more guarded terms.23 October 2003 
+ 
+65 On 23 October 2003 Antonio Silvestri telephoned the CFMEU office in Sydney to complain about the events of 21 and 22 October 2003 and a copy of the second communication signed by Matlioski on 22 October 2003, together with the handwritten document of Krkovski of the same date, were sent to the Union.He subsequently had a conversation with the State President of the CFMEU Construction and General Division.In response, the CFMEU forwarded to Antonio Silvestri a copy of a letter of 28 October 2003 written to McGeogh which, omitting formal parts, was as follows:
+ 
+ "Following our telephone conversations of the 23 rd and 24 th of October and receiving copies of correspondence forwarded to A 2amp; L Silvestri Pty Ltd by LGB Contracting Pty Ltd I have discussed with our Wollongong officials the concerns and allegations contained in said correspondence and concluded that: 
+ 
+ 
+ 
+ 1.The excavation plant being operated on the 26 Market Street Wollongong project did not meet operational requirements and relevant Acts and regulations.Our officials drew this to the attention of the site manager.
+ 2.There was no approved traffic management plan in place 
+ 3.The above was accepted as accurate by WorkCover Authority Inspector Barry Childs who was contacted by our officials and was present on site during their visit 
+ 4.Our officials deny that they demanded that the A2amp;L Silvestri Pty Ltd contract be terminated 
+ 5.Our officials deny that they demanded that LGB Contracting Pty Ltd were to engage subcontractors recommended by them or the project would be industrially disrupted 
+ 
+ 
+ 
+ This union takes seriously the allegations made which are damaging to the good name of the CFMEU and seeks a meeting to resolve the matter.
+ 
+ Our Assistant Secretary Peter Zaboyak will involve himself in any future meeting in this regard and it would be hoped that LGB Contracting Pty Ltd would be represented by its senior management." 
+ 
+
+66 The applicants' case, based on the evidence of Grujoski, is that there was a meeting on the site on 23 October 2003 between Grujoski, Krkovski, Picciau, McGeogh and Lane at which LGB agreed to pay a site allowance but refused to agree to an EBA.Grujoski gave evidence that Lane made further threats of disruption.Lane denies the meeting but gave evidence of a meeting with Grujoski in a caf2eacute; in Wollongong with no other parties present.Neither Krkovski nor Picciau gave evidence as to the site meeting and McGeogh was not called.There undoubtedly was a meeting between Grujoski and Lane.I cannot be satisfied as to where or when that took place or precisely what was discussed.It is clear enough that the topics of a site allowance and an EBA were discussed.I cannot be satisfied to the requisite degree, bearing in mind the nature of the proceedings, that there were any further threats issued.In one sense, of course, no further threats were necessary.A demonstration had occurred.Furthermore, it is clear enough that ultimately Grujoski agreed to a site allowance but did not agree to an EBA.It would have been apparent to all concerned by then that Antonio Silvestri was pursuing his rights, legal proceedings were likely to ensue and an investigation by the Building Industry Taskforce was on the cards.On an occasion after 21 October 2003, Lane warned Grujoski not to speak to the Building Industry Taskforce.67 On 23 October 2003, Primmer told Veljanov that he would be employed by J 2amp; D Excavations and should turn up for work at the site on 24 October 2003.He did so and was engaged.LIABILITY 
+ Section 170NC Workplace Relations Act 
+ 
+68 There is no doubt that Lane was concerned to have LGB enter an EBA with the Union along the lines of the document provided by him to Grujoski prior to 20 October 2003.That was clearly to be an agreement pursuant to Div 2 of Pt VIB.That objective was actively pursued by Lane from the first meeting with Picciau to the last meeting with Grujoski.It follows from the findings already made that Lane made a number of explicit threats to disrupt the progress of work on the site if an EBA were not entered into.The threats were general and particular.In other words, disruption would occur by whatever means were available.Some means were mentioned, including obstruction and picketing.There was no threat of industrial action as such because there were no Union members on site.The reality of the threats of other action was backed up on several occasions by reference to the fate of the site across the road, which had remained closed for a long period.It does not matter why that site was closed.The reference to that fact was significant.The threats were also backed up by conduct.The first visit by Lane to the site was followed within hours by a visit from two WorkCover inspectors as a result of which the site was closed for several days.What occurred on 21 October 2003 was also a striking example of the reality of the threats.The intervention by the Council again led to the closure of the site for some days.It is no answer to say that there were legitimate reasons on each occasion for the site ultimately being closed.It was important that the power to give effect to disruption by whatever means were at hand was demonstrated.On 21 October 2003 Lane took direct action by blocking vehicular access.Primmer, in effect, forced his way into an inspection of Antonio Silvestri's machine.Whilst action on 21 October 2003 was primarily aimed at Silvestri P/L, it was also a potent demonstration of the reality of the threats made by Lane to LGB.69 The threat of disruption was a threat of "other action" ( National Tertiary Education Industry Union v Commonwealth of Australia [2002] FCA 441 ; (2002) 117 FCR 114 at [95] ; Laing v Construction, Forestry, Mining and Energy Union [2003] FCA 1018 at [7] and [12]---[13]).It can safely be concluded that Lane's intent in making the threats was to coerce the officers of LGB into agreeing to an EBA.The threat of disruption to work on the project by any available means was pressure that was illegitimate and unconscionable.LGB had completion of a project of some $16 million at stake.Any disruption to progress would have significant adverse financial consequences.It was clear enough that the threats also envisaged unlawful action.Threats of picketing were made.There would appear to be no lawful basis for picketing in relation to this site (cf Australian Builders' Labourers' Federated Union of Workers --- Western Australian Branch v J-Corp Pty Limited (1993) 42 FCR 452 per Lockhart and Gummow JJ at 456---458, although on different legislation).Unlawful conduct had taken place.The direct action by Lane and Primmer on 21 October 2003 fell into that category.The conduct in breach of s 45D and the inducement of breach of contract to be found were unlawful as well as illegitimate and unconscionable.(See generally Finance Sector Union of Australia v Commonwealth Bank of Australia [2000] FCA 1468 ; (2000) 106 FCR 16 at [19] ---[25]; Seven Network (Operations) Ltd v Communications, Electrical, Electronic, Energy, Information, Postal, Plumbing and Allied Services Union of Australia [2001] FCA 456 ; (2001) 109 FCR 378 at [41] ; and National Tertiary Education Industry Union [2002] FCA 441 ; 117 FCR 114 at [97] ---[103].) 
+ 
+70 I am not satisfied to the requisite standard that either Primmer or Kelly was involved in threats or conduct aimed at securing an EBA with LGB.The involvement of Primmer on 20 and 21 October 2003 was aimed at Silvestri P/L.He had knowledge of machine operation that Lane did not.Kelly was very much a bit player.I am not satisfied to the requisite standard that Primmer or Kelly was present at any relevant meeting after 21 October 2003 or that, if either of them were present, that he was responsible for any relevant threat.71 The next question is whether either or both of CFMEU and CFMEU NSW are liable for the conduct of Lane.The leading Full Court authority as to that question in relation to these provisions is Hanley v Automotive, Food, Metals, Engineering, Printing and Kindred Industries Union [2000] FCA 1188 ; (2000) 100 FCR 530, particularly at [48]---[85].It is not necessary to set that passage out.Lane's conduct was within the scope of his employment and his inferred actual and apparent authority as an officer of CFMEU.He was not on a frolic of his own.He was accompanied by other officials.Meetings took place at the Union office.The objective of entering into an EBA with LGB was a normal Union objective.The position in relation to CFMEU NSW is not quite so clear.Lane is a conference delegate.The later correspondence with the State President of CFMEU NSW did not repudiate his authority and it described those concerned collectively as "our Wollongong officials".The draft EBA proffered by Lane was with the CFMEU NSW.I am satisfied that he represented both organisations.72 In my opinion, consistently with the reasons of the Full Court in Hanley [2000] FCA 1188 ; 100 FCR 530, each of CFMEU and CFMEU NSW was liable for breach of s 170NC by reason of the actions of Lane, both under the general law and pursuant to s 349 of the Act.I am also satisfied that Lane and those organisations can all be liable.The reasoning of Merkel J in Seven Network (Operations) Ltd [2001] FCA 456 ; 109 FCR 378 at [45] ---[47] to that effect receives support from the decision of the High Court in Houghton v Arms [2006] HCA 59 ; (2006) 225 CLR 553.Section 298SC Workplace Relations Act 
+ 
+73 This contravention is based upon the statements by Kelly to Veljanov on 21 October 2003:
+ 
+ "He's [Silvestri's] got to be a member of the union, otherwise he's not allowed to work on this site." 
+ 
+
+And:
+ 
+ "That's the reason mate, you're not a member of the union." 
+ 
+
+I am not satisfied that those statements, in the context in which they were made, contravened s 298SC.74 There are some questions as to the proper construction of the section.It is contended for the respondents that intention to make a false and misleading representation is a necessary element of the offence.There is no direct authority in favour of that proposition.It is submitted that the reasoning in relation to other sections included in Pt 10A would be applicable (cf BHP Iron Ore Pty Ltd v Australian Workers' Union [2000] FCA 430 ; (2000) 102 FCR 97 at [77] ; Australian Workers' Union v BHP Iron-Ore Pty Ltd [2001] FCA 3 ; (2001) 106 FCR 482 at [70] ---[78]).Indeed, such authority as exists is against the proposition contended for by the respondents ( Hadgkiss v Sunland Constructions Pty Ltd [2007] FCA 346 at [31] ---[34]; Hadgkiss v Construction, Forestry, Mining and Energy Union (No 3) (2007) 160 IR 263, [2007] FCA 87 at [288] ---[289]; see also Riley McKay Pty Ltd v Bannerman (1977) 15 ALR 561; (1977) 31 FLR 129 per Bowen CJ at 134; Given v CV Holland (Holdings) Pty Ltd (1977) 15 ALR 439; (1977) 29 FLR 212).The presence of s 4(7) also tends against it.There is also a question as to whether the section only applies where the false or misleading representation about another's obligation to join an industrial association must be made to that other person.Graham J was of the opinion that the section was not so limited ( Hadgkiss v Construction, Forestry, Mining and Energy Union (No 3) (2007) 160 IR 263; [2007] FCA 87 at [287] ---[291]).Although not raised here, there may also be a question as to the meaning of "obligation" --- does it refer to legal obligation or practical obligation?75 It is not necessary for me to come to any independent view about those issues.Counsel for the respondents points out that it is only conduct which falls within the scope of s 298D---s 298H (inclusive) that is proscribed.Authority is hardly necessary for that proposition in view of s 298C, but, cf Rowe v Transport Workers' Union of Australia (1998) 90 FCR 95 at 106G.The only hook to hang this proceeding upon would be s 298D(c) providing that the Part applied to:
+ 
+ "conduct carried out with a purpose or intent relating to a person's membership or non-membership of an organisation." 
+ 
+
+76 In my opinion, that hook is not available.The statements by Kelly to Veljanov were an explanation of, or commentary upon, what was occurring.They were answers to inquiries with no intent or purpose as such relating to the membership of the Union either by Veljanov or Antonio Silvestri.That conclusion is assisted by bearing in mind that Kelly was only a casual participant in the events, having been brought along by Primmer.77 Even if it were not for Div 2 of Pt 10A , I would have been inclined to construe s 298SC as requiring a greater connection between the false or misleading representation and the obligation than established by these facts.Section 45D Trade Practices Act 
+ 
+78 The factual findings that I have made require further findings that: 
+ 
+ (1) Lane and Primmer, on 20 and 21 October 2003, engaged in conduct that hindered and prevented LGB from acquiring services from Silvestri P/L.Threats and verbal intimidation, as well as physical interference, can constitute hindering or preventing the supply or acquisition of services ( Australian Broadcasting Commission v Parish (1980) 29 ALR 228; (1980) 43 FLR 129; J-Corp Pty Limited 42 FCR 452 per Lockhart and Gummow JJ at 459---460).Services for these purposes include benefits to be provided under a contract for the performance of work ( Trade Practices Act , s 4).It was submitted on behalf of the respondents that, in any event, the conduct could not extend beyond the blocking of the driveway by Lane.That is too limited a view of the situation.The aim of Lane and Primmer was to prevent Silvestri P/L from carrying out any work on site by LGB.They succeeded.Work was stopped and the contract was terminated.The blocking of the driveway was a small step toward that objective.It was not of great significance in itself.It was significant in the wider context by demonstrating the extent to which Union officials would go to target Antonio Silvestri and Silvestri P/L.(2) The conduct was engaged in for the purpose and would have, or be likely to have, the effect of causing substantial loss or damage to the business of Silvestri P/L.It is enough if one of the purposes of engaging in the conduct was the proscribed purpose (s 45D(2)).A purpose of the conduct was plainly to inflict such injury to Silvestri P/L that it would enter into an EBA with the Union and Antonio Silvestri would become a Union member.The evidence as to what Lane, Primmer and Kelly said to LGB employees, consistently with the evidence of Antonio Silvestri, was that this was not an isolated instance of pursuit of Antonio Silvestri by the Union.That circumstance gives colour to the particular facts relied upon in this case.This is not a case, such as J-Corp Pty Limited 42 FCR 452, where damage was collateral in the sense that, although predictable, the infliction of harm or damage was not a purpose in itself.Here, the two were inextricably linked.It is significant in this, and a number of other respects, that no endeavour was made by the Union to establish the genuineness of the complaints made by its officials about the safety record and commercial morality of Antonio Silvestri and Silvestri P/L.Loss or damage to Silvestri P/L was inevitable."Substantial" in the context of s 45D means real or of substance rather than large ( Tillmanns Butcheries Pty Ltd v Australasian Meat Industry Employees' Union (1979) 27 ALR 367; (1979) 42 FLR 331 at 348; Building Workers' Industrial Union of Australia v Odco Pty Ltd (1991) 29 FCR 104 at 140).Being prevented from carrying out a contract for reward is substantial in this sense.The arrangement between Antonio Silvestri and LGB was that Silvestri P/L would provide those services necessary to carry out the whole of the excavation work required on the site.Preventing that outcome would cause substantial loss or damage.
+
+79 No submission was made that, if the facts were as alleged by the applicants, then Lane and Primmer did not act in concert.They plainly did on both 20 and 21 October 2003.It was submitted that, in any event, there was no sufficient evidence that Kelly acted in concert in the relevant sense or that he had the requisite intention.I reject that submission.I have referred to the limited role played by Kelly on 21 October 2003.Nonetheless, he was an active participant in the events of that day aimed (inter alia) at Silvestri P/L.The evidence of what he said is sufficient to buttress the inference, which would, in any event, be available, that he was well aware that one purpose of what took place was to prevent Silvestri P/L from carrying out any work on the site pursuant to the arrangements that it had with LGB.He was an active principal participant.Even if he were not, he would be picked up by s 75B.80 That gives rise to the issue of the liability of the Union for these breaches.The principles applying to a union's direct liability for breach of s 45D of the Trade Practices Act are broadly similar to those discussed in Hanley [2000] FCA 1188 ; 100 FCR 530, substituting s 45DC and s 75B of the Trade Practices Act for s 349 of the Workplace Relations Act .The Union argues that s 45DC was not pleaded and that reliance upon it is not open.The applicants do not accept that it needed to be pleaded or that failure to plead it has had any adverse evidentiary or forensic consequences to the respondents.Whether s 45DC should be pleaded is a difficult question, somewhat similar to that as to whether s 51A of the Trade Practices Act should be pleaded.However, on any view, the intention to rely upon it should be made clear in some way to avoid forensic disadvantage.Whether or not the section should have been pleaded, reliance upon it by the applicants was flagged in time for any adverse consequence to have been cured by the Union.It can be taken that all of the available evidence relevant to that provision has been led.No adjournment to lead further evidence was sought.The question of costs can be left open.81 In my opinion, s 45DC is clearly applicable and catches both CFMEU and CFMEU NSW.Lane and Primmer were officials and members of the organisations in the way previously discussed.No attempt was made to rely upon s 45DD.I note that there is a conflict between the respondents as to this point.If s 45DC is applied, Lane and Primmer are relieved of liability for damages for the breaches (s 45DC(4)).82 It is unnecessary to explore the difficulties in the way of establishing liability in the Union for this particular offence, absent s 349 (cf Australian Competition and Consumer Commission v IPM Operation and Maintenance Loy Yang Pty Ltd (2006) 157 FCR 162).Inducing breach of contract 
+ 
+83 I find that the contract between LGB and Silvestri P/L was to carry out the whole of the excavation works required at the site for the works being conducted by LGB, subject to implied terms as to competence and progress.The fact that the remuneration was to be calculated on a per hour or per load basis does not detract from that conclusion.84 It is quite clear that each of Lane, Primmer and Kelly knew that Silvestri P/L had been engaged to do the excavation work.The opening exchange on 20 October 2003 showed that Lane was aware that the existing contractor had been sacked.Lane and Primmer knew of Antonio Silvestri's proposed involvement on 20 October 2003 and each of them saw Antonio Silvestri working on the site on 21 October 2003.It was obvious that that was the result of a contract for reward with LGB.Silvestri P/L was not a charitable organisation and LGB was not a mendicant.It is not necessary to prove that Lane, Primmer and Kelly had knowledge of the precise terms of the agreement ( J T Stratford 2amp; Son Ltd v Lindley [1965] AC 269 per Lord Pearce at 332F---G; Schindler Lifts Australia Pty Ltd v Debelak (1989) 89 ALR 275 at 293).The findings that I have already made involve each of Lane, Primmer and Kelly in deliberately taking steps to hinder or prevent Silvestri P/L from carrying out its contract with LGB and were, in fact, intended to cause Silvestri P/L and Antonio Silvestri to be banned from the site and the contract to be terminated.There could not be a clearer case than this of interference with contractual relations.There was no attempt to pursue a defence of justification.(See, generally, Williams v Hursey [1959] HCA 51 ; (1959) 103 CLR 30; Allstate Life Insurance Company v Australia and New Zealand Banking Group Ltd (1995) 58 FCR 26; Ansett Transport Industries (Operations) Pty Ltd v Australian Federation of Air Pilots (1989) 95 ALR 211; and Odco Pty Ltd 29 FCR 104 and the authorities referred to in those cases.) 
+ 
+85 Each of the individual respondents was a full time official of either the CFMEU or CFMEU NSW.Each was engaged in what may broadly be called union business on the days in question.No one was on a frolic of his own.For relevant purposes, officers of each organisation were cooperating or acting in concert to achieve a result.The conduct of each was in the course of employment.Each organisation is liable on ordinary principles of vicarious liability in tort ( New South Wales v Lepore [2003] HCA 4 ; (2003) 212 CLR 511 per Gleeson CJ at [40]---[41]).86 I reject the submission that the interference with contract was limited to the couple of hours for which the car was parked across the vehicular access to the site on 21 October 2003.It follows from the findings previously made that the intention of the officials of the Union was to ensure that the contract was terminated and that Silvestri P/L did not return to the site.Whilst closure of the site on 21 October 2003 might be directly attributed to the Council, the closure of the site for that reason was not the effective cause of the termination of the contract with Silvestri P/L.That result was achieved by the concerted action of the Union officials.Summary of liability 
+ 
+87 Liability can be summarised as follows:
+ 
+ (1) Lane, CFMEU and CFMEU NSW contravened s 170NC.(2) Lane, Primmer, Kelly, CFMEU and CFMEU NSW contravened s 45D.(3) Lane, Primmer, Kelly, CFMEU and CFMEU NSW induced a breach of the contract between LGB and Silvestri P/L.
+ REMEDIES 
+ 
+88 Penalties are sought in relation to the breach of s 170NC.No penalty is sought in relation to breach of s 45D.Damages are sought for breach of s 45D.Damages are sought for inducing breach of contract.The damages, being awarded on tortious principles, would seem to be the same as those appropriate in this case for breach of s 45D.No claim is made for exemplary damages ( Musca v Astle Corporation Pty Ltd (1988) 80 ALR 251; Harris v Digital Pulse Pty Ltd [2003] NSWCA 10 ; (2003) 56 NSWLR 298; (2003) 197 ALR 626).89 Evidence and submissions as to damages are complete.A further hearing on penalties will be necessary.I will make no declarations or orders until all issues have been determined (cf Australian Building Construction Employees and Builders' Labourers' Federation v Employment Advocate [2001] FCA 1443 ; (2001) 114 FCR 22 at [7] ).The proceeding will stand over to a date to be fixed.I certify that the preceding eighty-nine (89) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gyles.Associate:
+ 
+Dated: 13 July 2007
+
+ Counsel for the Applicants: Mr RM Goot AM SC, Mr MJ Heath 
+ 
+ Solicitor for the Applicants: Minter Ellison Lawyers 
+ 
+ Counsel for the Respondents: Mr JH Pearce 
+ 
+ Solicitor for the Respondents: Taylor 2amp; Scott 
+ 
+ Dates of Hearing: 9---13 and 19---20 October 2006 and 7---8 November 2006 
+ 
+ Date of Last Submission: 5 December 2006 
+ 
+ Date of Judgment: 13 July 2007 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1047.html 
+ 
+ 
