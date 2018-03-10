@@ -1,0 +1,942 @@
+
+ 
+1 This case concerns the financial consequences of a failed investment in what was known as the Queen Victoria Project.The first plaintiff, John Tosich, was the investor.Tosich was a client of the first defendant, Tasman Investment Management Limited, formerly Warne Investment Management Limited, ("Tasman Investment") that carried on business as a financial planner.The second defendant, Colin Warne, was managing director of Tasman Investment and was personally involved in its dealings with Tosich.Warne recommended the investment in the Queen Victoria Project to Tosich.It was a failure.Tosich sues Tasman Investment and Warne for his loss.All Saints Investments Pty Limited ("All Saints") claims to be an assignee of Tosich's cause of action against Tasman Investment and Warne.American Home Assurance Company ("AIG") is an insurer and issued an Investment Managers Insurance Policy 85550 that Tasman Investment and Warne claim will indemnify them in relation to claims arising out of the failure of the Queen Victoria Project.Aon Risk Services Australia Limited ("Aon") was an insurance broker and acted as such for Tasman Investment.If the AIG policy does not provide cover, then the defendants sue Aon.These relationships have given rise to a plethora of claims and cross-claims that need to be examined with some care.The parties have agreed on a chronology of events that fleshes out the issues to be determined.In order to better match issues with events I have edited and split the chronology under the following headings: history related to Warne entities; Queen Victoria Project; dealings between Tosich and Warne; dealings between Warne entities and Aon; dealings between Aon and AIG; and dealings between Warne entities and AIG.The split is somewhat arbitrary and there is some overlap.The chronology so organised is the first schedule to this judgment.The second schedule is a dramatis personae.2 The fundamental transaction was the purchase of a site of some 404 ha at Tableland Road, Wentworth Falls in the New South Wales Blue Mountains area, the registered proprietor of which was the Wentworth Area Health Service, a branch of the New South Wales Health Department.It was the site of the former Queen Victoria Hospital.The site was zoned part Bushland Conservation (No Subdivision) (Hospital), part Bushland Conservation (No Subdivision) and part Environmental Protection under the City of Blue Mountains LEP 1991.Longevity Management Systems Pty Ltd (LMS) was interested in acquiring the site to develop a retirement village.The project was introduced to Warne.3 On 10 May 2000 Tasman Investment (by Warne) provided LMS with a written commitment to provide the funds required for acquisition of the property by 28 June 2000 based on a bid price of $1.52 million.That letter was provided to the Department of Public Works --- Services, which was handling the sale on behalf of the vendor, with the bid by LMS.A further offer of $2,012,000 was made on 25 May 2000 and accepted on 29 May 2000 with settlement on or before 28 June 2000.Settlement occurred on 27 June 2000.Tasman Investment provided the funds and LMS took title.4 So, the defendants were committed to the project on 3 June 2000 when Tosich received a letter from Warne on behalf of Tasman Investment as follows:
+ 
+ "It is not everyday I have the opportunity to offer you a Residential Property Development Investment , to build a Retirement Village at Wentworth Falls (Blue Mountains).
+ 
+ We have been researching this type of Property Development for some time and we believe it could generate returns of approximately 20% pa over a 5 year period .
+ 
+ Full details of the project are enclosed.Please read it and arrange an appointment with Sandra, Laurie or Peter to discuss the suitability of this investment.
+ 
+ A seminar will be held on Wednesday 14 th June 2000, details enclosed.
+ 
+ I will be in Canada from Friday 2 nd June returning Tuesday 27 th June." 
+ (Original emphasis.)
+ (the "Initial Offer Letter")
+ 
+
+5 It is unnecessary to set out the full terms of the proposal (the "Initial Offer Proposal"), although some parts of it bear particular relevance:
+ 
+ " Retirement Village Development Overview 
+ 
+ 2#61912; Research Phase --- 2.5 years to complete 
+ 2#61912; Development Potential --- 150 to 200 units 
+ 2#61912; Timing of development approval --- 1 year 
+ 2#61912; 5 stages over 48 months 
+ 2#61912; Marketing *Bucklands waiting list and people living in Sydney 
+ 2#61912; Pre-sales expected to be significant 
+ 2#61912; Strong Management at each phase 
+ 2#61912; Construction costs --- average --- $100,000 per unit 
+ 2#61912; Retail pricing --- $255,000 (3 bedroom) 
+ --- $230,000 (2 bedroom) 
+ 
+ * have 60 years experience in Aged care and administration 
+ 
+ Investment 
+ 
+ 2#61912; Ownership --- Longevity Management Systems P/L 
+ 2#61912; Investor's Vehicle --- Direct 
+ 2#61912; Investment Breakdown: 
+ Percentage of Development Profit 
+ 70% investors 
+ 30% LMS (Longevity Management Systems Pty Ltd) 
+ ... 
+ 
+ Design and Development Approvals 
+ 
+ DESIGN 2amp; ZONING 
+ 2#61912; Tom Simmat 2amp; Assoc --- experienced Age care Architects 
+ 2#61912; No rezoning required 
+ 2#61912; Development approval by Alderman is necessary --- Mayor is supportive 
+ ... 
+ 
+ Financing 
+ 
+ ACTIVITY SOURCE 
+ 2#61912; Research LMs 
+ 2#61912; Land Acquisition Investors 
+ 2#61912; Construction Bank/Pre sales 
+ 2#61912; Operations Bucklands 
+ 
+ INVESTORS ASSUMPTIONS 
+ 2#61912; Investors entry June 2000 
+ 2#61912; Entry amount $10,000 units 
+ 2#61912; Investment Period 60 months 
+ 2#61912; Capital Returned within 2.5 years 
+ 2#61912; Exit timing up to June 2005 
+ 2#61912; Expected Annual Return 21% pa 
+ 2#61912; Investors position underpinned by anticipation of increasing land values 
+ 
+ Project Risks 
+ ... 
+ DEVELOPMENT APPROVALS 
+ 2#61912; No zoning required 
+ 2#61912; SEPP 5 applies --- enables retirement villages to be built 
+ 2#61912; Able to go to Land 2amp; Environment Court 
+ 2#61912; Financial Contingency for extra cost factored into financial plan 
+ ... 
+ 
+ Investment Risks 
+ ... 
+ 2#61912; This investment should be proportioned at a rate of no more than 10% of Total assets for retirees.
+ ... 
+ 
+ SUMMARY 
+ In summary, risk can be defined as the possibility that the actual return of an investment will be different from the expected returns.
+ Any investment in Property Development carries with it a higher than average level of risk especially where construction costs may expose the investor.As a consequence, investment in Property Development should only play a role in a portfolio where risk exposure is consciously accepted.(Refer risk analysis) Property Development, while carrying risk, can still be a fundamentally sound investment, provided costs are adequately controlled and confidence exists in the particular investment.This project provides a unique opportunity to participate in the strongly growing aged accommodation industry.
+ 
+ I have participated in this investment for our clients because of the significant profit potential and the very low cost of the land.(approximately $10,000 per unit with a construction cost of approximately $100,000 per unit).If for unforeseen reasons we decided to terminate the investment and sell all units at cost I believe we should recover our capital.I believe the site is quite exceptional as the mountains provide limited opportunities for this type of investment.
+ 
+ The land will settle on 28 th June 2000, consequently funds need to be in by that date.Cheques should be made payable to Longevity Management Systems Pty Ltd.I will be in Canada from Friday 2 nd June returning to work Tuesday 27 th June.Please contact Laurie, Sandra or Peter in my absence to discuss this project.
+ 
+ We will be conducting a seminar at the Fairways Resort, Primbee on Wednesday 14 th June at 5.30pm, please call Vanessa or Genny by Tuesday 13 th June to confirm your booking.The seminar will be led by Executive Directors of Longevity Management Systems Pty Ltd Mr Peter Barnes and Mr Tim Brennan.
+ 
+ I am very enthusiastic about the prospects of this new project and I look forward to participating in it with you." 
+ (Original emphasis.)
+ 
+
+6 No significant difference in the proposal was indicated at a September meeting between Tosich and Warne where Warne continued to commend the project.As a result, Tosich invested $125,000 on or about 6 November 2000.7 Leaving aside matters of detail (important as they may have been) and the commercial merits of the proposal, there were two fundamental problems with the proposal that were never solved --- zoning of the land and the legal structure of the investment.8 The proposal was presented as a retirement village, with individual units available for sale.There is no doubt that the zoning of the land did not permit that use.It is clear that there was never any chance of obtaining approval of the scheme as proposed to investors.Considerable later modification of the proposal to seek to qualify as a "hospital" did not overcome the difficulties that were spelt out by the Blue Mountains City Council in its letter of 17 April 2002.Even when radical amendments, including the removal of all independent living/low care cottages, were proposed, Council officers maintained objections.The directors of Tasman Investment accepted by 13 August 2002 that the project as had been proposed to investors was not a permissible use.9 By 22 August 2000 LMS had received advice from Chris Lonergan 2amp; Associates of significant concerns as to permissibility of the development.The only valuation of the site in the possession of LMS in evidence was $500,000---$1,000,000 on an "as is" basis.At no time before the end of 2000 the defendants neither obtained an independent valuation of the property nor sighted any valuation that LMS had obtained.Before the end of 2000 the defendants did not obtain any independent town planning advice as to the permissibility of a retirement village on the property and did not ascertain the attitude of Blue Mountains City Council to such a development.The defendants also did not prepare any cash flow statements to ascertain whether the capital invested into the project could be returned if development approval was not granted.The defendants simply accepted and passed on to Tosich what had been put by LMS without any independent verification.10 The other problem was the inchoate basis of the investment of the funds as put forward in the Initial Offer Proposal, with no material change before the funds were paid and received in November.It is simply not possible to ascertain what rights were to be acquired and from whom.That situation was never satisfactorily resolved.It is not necessary to trace the tortuous path of the negotiations between the defendants and LMS as to that.PLAINTIFFS' CLAIM AGAINST TASMAN INVESTMENT AND WARNE (THIRD AMENDED STATEMENT OF CLAIM) 
+ 
+11 The parties are identified and the relationship between Tasman Investment and Warne pleaded leading to a duty of care pleaded as follows:
+ 
+ "In the premises, Warne Investments and Warne jointly and severally owed to Mr Tosich a duty of care in relation to the provision of advice as to Mr Tosich's financial affairs including, without limitation, investments suitable for him.
+ 
+ In the premises, at all material times, Mr Tosich was a person who might reasonably have been expected to rely on any recommendation in relation to securities made by Warne Investment or Warne." 
+ 
+
+12 The Initial Offer Letter and the Initial Offer Proposal are pleaded.It is then alleged that the project described was a managed investment scheme within the meaning of s 9 of the Corporations Law (as it then applied) and the project had to be registered on or before 1 July 2000 in the manner prescribed in Ch 5C of the Corporations Law as required by s 601ED of the Corporations Law and had to be operated by a responsible entity by the same time (s 601FB), but that it was neither registered nor operated by a responsible entity as required.It is alleged that Tasman Investment was required to provide Tosich with an offer information statement within the meaning of s 715 of the Corporations Law and lodge a copy with the Australian Securities and Investments Commission (ASIC), but did not do so as the Initial Offer Letter did not comply as it omitted material information.The non-compliance was materially adverse from the point of view of Tosich such that s 724(1) applied.13 It is alleged that representations were made by Tasman Investment in the Initial Offer Letter, the Initial Offer Proposal and at a meeting between Tosich and Warne in September 2000.It is alleged that each of the representations was made in, or in connection with, a dealing in securities and/or the making of a securities recommendation within the meaning of s 851 of the Corporations Law and that certain of them were with respect to future matters within the meaning of s 765(1) of the Corporations Law .Reliance, by investing $125,000, is pleaded, together with related allegations.The misleading and deceptive nature of the various representations is pleaded and causation related to that is pleaded.14 Negligence consisting of breach of the duty set out in para 11 above causing loss or damage is alleged.Various contraventions of the Corporations Law are alleged --- breach of Ch 5C, contravention of Pt 7.11 , contravention of s 728(1) and s 851.Damage, being the investment of $125,000 less a first and final dividend of $25,608.38, is claimed.15 To summarise, Tosich relies upon a claim in negligence and upon various breaches of the Corporations Law .16 All Saints pleads the acquisition of all the rights of Tosich as against the defendants by virtue of a deed of assignment dated 16 June 2005 and pleads all facts and matters pleaded by Tosich.17 Tasman Investment and Warne make a number of admissions in their defence to the claim but deny any liability.They also ultimately relied upon certain grounds of defence that are pleaded by Aon, it having been joined in order that those grounds be taken.The first of those grounds puts in issue the enforceability of the assignment of the causes of action whilst purporting to admit the assignment.Three points are taken:
+ 
+(1) All Saints did not have a "genuine and substantial" or "genuine commercial interest" in the chose in action immediately prior to the time of the assignment.(2) The chose in action was not annexed to a right of property assigned at the same time as the assignment.(3) Neither the statutory causes of action nor the cause of action in tort was capable of being assigned.The second ground is that, for present purposes, Tosich only became a plaintiff on 18 May 2007 by which time all causes of action were statute barred.Primary liability 
+ 
+18 Each of Tasman Investment and Warne admits owing the pleaded duty of care to Tosich.That was inevitable in view of the history of the relationship between Warne and Tasman Investment and Tosich.They do not admit breach of that duty of care.19 The defendants admit that had they been aware in June 2000 that a retirement village was not going to be possible for the property, they would not have advised Tosich to make the investment.They also admit that had they been made aware of the concerns expressed by Lonergan in August 2000, they would not have encouraged Tosich to make the investment.The advice given was misleading.The lack of proper investigation of the project prior to recommending investment to clients was a serious breach of the duty of care and skill owed by a financial planner.The commitment by Warne to LMS to provide substantial funds was undoubtedly a major factor in the imprudent advice to clients.However, I am satisfied that Warne was convinced of the merits of the proposal, and invested some of his own money.He did not consciously mislead Tosich.Recommending and receiving an investment with no fixed and appropriate structure was also a serious breach of duty.To recommend such an investment was negligent.20 The next problem was the failure to comply with the requirements of the Corporations Law applicable at the time.The proposal was undoubtedly a "managed investment scheme" as defined in s 9 of the Corporations Law .Whilst this case has concentrated upon three investors, more than 20 investors contributed approximately $4 million in total.Prima facie, registration was required (s 601ED(1)).It could not be established that all of the issues of interests did not need disclosure to investors under Pt 6D.2 when made (see s 706 and s 708).Registration would have required the production to ASIC of documents that did not exist and a responsible entity to operate the scheme being a public company that held a dealer's licence to operate a managed investment scheme.The responsible entity would be subject to a number of statutory obligations.There was no responsible entity.These breaches were admitted in collateral proceedings in the Supreme Court of New South Wales and formed the basis of orders made in those proceedings ( Australian Securities and Investments Commission v Tasman Investment Management Ltd (2004) 183 FLR 294; Australian Securities and Investment Commission v Tasman Investment Management Ltd (2006) 202 FLR 343).It follows that Tosich had none of the protections provided for by the Corporations Law flowing from registration and the existence of a responsible entity.The proposal should not have been made to Tosich (or others) at all by a responsible financial planner.21 In addition, the provisions relating to disclosure to investors about securities (Pt 6D.2) were ignored by the defendants.They required provision of an offer information statement in the circumstances of this case (s 709(4)).The contents of such a statement were governed by s 715 as follows:
+ 
+ 
+ "(1) An offer information statement for the issue of a body's securities must: 
+ 
+ 
+ 
+ 
+ (a) identify the body and the nature of the securities; and 
+ (b) describe the body's business; and 
+ (c) describe what the funds raised by the offers are to be used for; and 
+ (d) state the nature of the risks involved in investing in the securities; and 
+ (e) give details of all amounts payable in respect of the securities (including any amounts by way of fee, commission or charge); and 
+ (f) state that: 
+ 
+ 
+ 
+ (i) a copy of the statement has been lodged with ASIC; and 
+ (ii) ASIC takes no responsibility for the content of the statement; and 
+ 
+ 
+ 
+ (g) state that the statement is not a prospectus and that it has a lower level of disclosure requirements than a prospectus; and 
+ (h) state that investors should obtain professional investment advice before accepting the offer; and 
+ (i) include a copy of a financial report for the body; and 
+ (j) include any other information that the regulations require to be included in the statement." 
+ 
+ 
+ 
+ 
+
+22 Section 728 relevantly provides:
+ 
+ 
+ " (1) Misleading or deceptive statements, omissions and new matters A person must not offer securities under a disclosure document if there is: 
+ (a) a misleading or deceptive statement in: 
+ 
+ 
+ (i) the disclosure document; or 
+ (ii) any application form that accompanies the disclosure document; or 
+ (iii) any document that contains the offer if the offer is not in the disclosure document or the application form; or 
+ 
+ 
+ 
+ (b) an omission from the disclosure document of material required by section 710 , 711 , 712 , 713 , 714 or 715; or 
+ 
+ 
+ 
+ (c) a new circumstance that: 
+ (i) has arisen since the disclosure document was lodged; and 
+ (ii) would have been required by section 710 , 711 , 712 , 713 , 714 or 715 to be included in the disclosure document if it had arisen before the disclosure document was lodged.
+ 
+ 
+ (2) Forecasts and other forward-looking statements A person is taken to make a misleading statement about a future matter (including the doing of, or refusing to do, an act) if they do not have reasonable grounds for making the statement.This subsection does not limit the meaning of a reference to a misleading statement or a statement that is misleading in a material particular." 
+ 
+ 
+ (Original emphasis.) 
+ 
+ 
+ 
+ 
+
+23 It is clear enough that the proposal circulated by the defendants was seriously deficient compared with a proper offer information statement and was misleading or deceptive in a number of respects, although, as I have said, that was not deliberate.24 I am satisfied that all of the pleaded statutory contraventions are established.I am satisfied that there is a remedy sounding in damages for the contraventions save for the failure to register the scheme pursuant to Ch 5C and the failure to have the scheme operated by a responsible entity.Those contraventions are relevant to the claim in negligence, but I cannot find a basis for a direct claim for damages.25 There can be no doubt that there was a causal connection between the negligence and each of the identified statutory breaches, and the loss making investment by Tosich.Each cause of action is established against Tasman Investments.There is no doubt about Warne's personal liability for all causes of action so established.He was the moving force for Tasman Investments in all respects relevant to the investment in the Queen Victoria Project and is responsible for all acts and omissions giving rise to the liability of the company ( Houghton v Arms [2006] HCA 59 ; (2006) 225 CLR 553).Assignment 
+ 
+26 The deed of assignment was executed on 16 June 2005 between Tosich as assignor and All Saints as assignee.At that time this proceeding was on foot, and a receiver had been appointed to the Queen Victoria Project by the Supreme Court of New South Wales in proceedings brought by ASIC.The substantive operative provisions of the deed were as follows:
+ 
+ 
+ "1.The assignee will pay to the assignors by bank or trust account cheque the sum of One-Hundred and Fifty Thousand Dollars ($150,000) on the exchange of this Deed.
+ 2.The assignors hereby transfer set-over and assign to the assignee absolutely all of their right, title and interest both at law and in equity in:- 
+ 
+ 
+ 
+ 
+ (a) the investment in their names in the Queen Victoria Project referred to in recital A; 
+ (b) all rights to receive any dividend or other monies from or by virtue of the receivership of the Queen Victoria Project referred to in recital C; 
+ (c) all claims demands causes of action and rights of action maintainable by the assignors or either of them arising out of or connected with the facts matters and circumstances referred to in the statement of claim filed in the Tosich proceedings;" 
+ 
+ 
+ 
+ 
+
+27 There are other features of the deed to note.The first is that the defendants Tasman Investment and Warne were each party to the deed and gave joint and several warranties as to the financial position of the assignee and Warne.They also (together with the assignee) indemnified the assignors against future legal costs and expenses in the proceeding, and covenant that they will not seek costs or expenses from the assignors in relation to this proceeding.Then there are clauses dealing with later recovery as follows:
+ 
+ 
+ "11.If the receiver declares and pays a dividend in respect of the Queen Victoria Project prior to the conclusion of the Tosich proceedings and the connected proceedings, that dividend will be paid to the assignors once the Tosich proceedings and the connected proceedings have been finally concluded.If the receiver declares and pays a dividend in respect of the Queen Victoria Project once the Tosich proceedings and the connected proceedings have been finally concluded, that dividend will be paid to the assignors forthwith.
+ 12.In circumstances where the assignors become entitled to any further payments consequent upon any award or judgment obtained by it, Tasman and/or Warne, the assignors shall be entitled to a further payment equivalent to: 
+ 
+ 
+ (a) $125,000; 
+ (b) plus interest which is hereby agreed in the amount of $54,225; plus 
+ (c) costs and disbursements which are hereby agreed in the amount of $55,000 inclusive of GST; 
+ less any amount paid pursuant to this Deed." 
+ 
+ 
+ 
+ 
+
+28 Aon directly challenges the effectiveness of the assignment and AIG takes the point indirectly.It is submitted that each of the causes of actions is personal to Tosich (and any other like investor) and is not capable of assignment.The plaintiffs submit that each cause of action is incidental to a property right viz the interest in the project and also that there was a genuine commercial interest in the enforcement of the claim by All Saints.29 This area of the law is controversial.Choses in action in general are assignable (eg s 12 Conveyancing Act 1919 (NSW)).However, a bare right to litigate requires special consideration.Although maintenance was referred to in this context, no submissions were directed to the effect of the Maintenance, Champerty and Barratry Abolition Act 1993 (NSW) (cf Campbell J in Mid-City Skin Cancer and Laser Centre Pty Ltd v Zahedi-Anarak (2006) 67 NSWLR 569 at [194]).It is convenient to discuss the cause of action in negligence first.In 1953 the High Court, in Poulton v Commonwealth (1953) 89 CLR 540 at 602, in relation to a claim in conversion, baldly said:
+ 
+ "... according to well-established principle, the right was incapable of assignment either at law or in equity".
+ 
+
+Lord Roskill said in Trendtex Trading Corporation v Credit Suisse [1982] AC 679 at 702C:
+ 
+ "Though in general choses in action were assignable, yet causes of action which were essentially personal in their character, such as claims for defamation or personal injury, were incapable of assignment..." 
+ 
+
+30 One well established category where an assignment is valid (recognised by the authorities cited in Poulton 89 CLR 540 at 602) is an assignment of property, even though the property may be incapable of being recovered without litigation --- or, as it was put by Lord Roskill in Trendtex [1982] AC 679 at 703, where the cause of action is incidental to a right of property that has been acquired.There is no reason why such a cause of action could not include tort in an appropriate case eg detinue or conversion.However, based upon the submissions in this case, examples of the practical application of the principle are sparse.Re Daley; Ex parte National Australia Bank Ltd (1992) 37 FCR 390 was cited but the decision turned on what was held to be the assignment of a debt (37 FCR at 394---395).In Monk v Australian and New Zealand Banking Group Ltd (1994) 34 NSWLR 148 there had been no assignment of the cheques that would have constituted the necessary property.In that case, Cohen J referred to the decision of Gault J in First City Corporation Ltd v Downsview Nominees Ltd [1989] 3 NZLR 710 where it was held (at 757) that the assignment of a debenture by a parent company to a subsidiary included an assignment of causes of action in tort against a receiver of the company that issued the debenture and that the causes of action in tort were ancillary to the assignment of the debenture and so valid.The effect of that decision is somewhat clouded by the subsequent appellate history of the case ( First City Corporation Ltd v Downsview Nominees Ltd [1990] 3 NZLR 265; Downsview Nominees Ltd v First City Corporation Ltd [1993] AC 295) although the appeals did not turn upon the point in issue here.31 The decision of Finkelstein J in TS 2amp; B Retail Systems Pty Ltd v 3Fold Resources Pty Ltd (No 3) (2007) 158 FCR 444 may be seen as an example of the category of connection with property.There, the assignment of a cause of action for breach of confidential information, connected with or relating to rights of property that were assigned, was upheld (see particularly 158 FCR 444 at [79]---[81]).However, that decision, and others since 1982, have been influenced by dicta of Lord Wilberforce and Lord Roskill in Trendtex [1982] AC 679 indicating another basis for exception from the general rule --- whether the assignee has a "genuine and substantial interest in the success of the ... litigation" (per Lord Wilberforce at 694D) or has a "genuine commercial interest in the enforcement of the claim of another" (per Lord Roskill at 703D).32 There have been varied opinions as to whether that basis can be applied by Australian courts without the High Court qualifying Poulton 89 CLR 540.As it happens, most negative opinions have been expressed by judges of this Court, eg Allstate Life Insurance Company v Australia and New Zealand Banking Group Ltd [1994] FCA 814 ; National Mutual Property Services (Aust) Pty Ltd v Citibank Savings Ltd (1995) 132 ALR 514 ; Chapman v Luminis Pty Ltd (No 4) [2001] FCA 1106 ; (2001) 123 FCR 62 ; Deloitte Touche Tohmatsu v Cridlands Pty Ltd [2003] FCA 1413 ; (2003) 134 FCR 474 ; and Boston Commercial Services Pty Ltd v GE Capital Finance Australasia Pty Ltd [2006] FCA 1352 ; (2006) 236 ALR 720 ; (2006) 70 IPR 146.A number of those and other authorities are analysed by McDougall J, who took the wider view, in Rickard Constructions Pty Ltd v Rickard Hails Moretti Pty Ltd [2004] NSWSC 1041 ; (2004) 220 ALR 267.33 Finkelstein J took the wider view in TS 2amp; B Retail Systems Pty Ltd 158 FCR 444 and suggested that the High Court in Campbell's Cash and Carry Pty Ltd v Fostif Pty Ltd [2006] HCA 41 ; (2006) 229 CLR 386 had approved the effect of the statements by Lords Wilberforce and Roskill in Trendtex [1982] AC 679.The precise point that arises here did not arise in Campbell's Cash and Carry Pty Ltd [2006] HCA 41 ; 229 CLR 386.However, the reasoning of Gummow, Hayne and Crennan JJ at [68]---[82] and Callinan and Heydon JJ at [258]---[261] supports the opinion of Finkelstein J.In my opinion, the principle enunciated in Trendtex [1982] AC 679 can be taken to be established for Australia.It needs to be borne in mind that the statement in Poulton 89 CLR 540 was not the centre of controversy in that case.34 Did All Saints have a genuine commercial interest in the enforcement of Tosich's claim?There is no direct evidence concerning the position of All Saints prior to the transaction.The inescapable inference from all the circumstances, including the structure of the transaction, is that All Saints was under the control of the Warne interests and that the transaction was to ensure that this proceeding continued notwithstanding a reluctance to pursue it on the part of Tosich.In particular, it seems to be aimed at removing or minimising Tosich's risk as to costs.It may be inferred that the purpose was to provide a vehicle for the defendants to pursue their cross-claims with the benefit of a claim proved by a plaintiff.That would remove the kind of problem exemplified by CGU Insurance Ltd v AMP Financial Planning Pty Ltd [2007] HCA 36 ; (2007) 237 ALR 420 ; (2007) 81 ALJR 1551 ; (2007) 62 ACSR 609.Indeed, as much was made clear by counsel for the plaintiffs and for the defendants on various occasions.I do not see anything objectionable about that purpose or about the structure of the transaction.All Saints could not profit from the arrangement.It is not "trafficking" in causes of actions in any real sense.Facilitation of cross-claims to be determined on their merits is not objectionable as such.However, it seems to me that the dicta in Trendtex [1982] AC 679 would have to be extended to include these circumstances within the permissible categories of assignment.The assignee is not shown to have had any interest in the claim prior to, or regardless of, the assignment.In view of the controversy surrounding the topic, an extension of the categories is not the province of a single judge.35 What, then, of the connection with property?Austin J found that there were property interests created by the scheme.The deed purports to assign those interests and causes of action, including the present.In one sense, there is a clear connection.The intention is to recover the loss of property invested.However, the claim in negligence is not to recover the property that existed at the time of the transaction --- it is to recover the loss by way of damages.In my opinion, that is not the kind of claim connected with property that is covered by the traditional exception to the rule against assignment of causes of action, assuming, as I do, that the exception can include claims in tort where appropriate.The assignment of the cause of action in tort is not effective.36 In the course of argument, counsel for the plaintiffs referred to a claim for money had and received.The Third Amended Originating Process claims, inter alia:
+ 
+ "Orders in the nature of restitutionary orders for the refund to the Plaintiffs of the moneys originally invested in the Queen Victoria Project by the First Plaintiff and interest." 
+ 
+
+The Third Amended Statement of Claim does not include pleading to support that claim and no amendment has been sought.Such a claim can be ignored for present purposes.37 The statutory claims remain to be considered.Counsel for the plaintiffs ultimately conceded that he could find no support for assignability of these causes of action.That is correct.That relieves me from deciding the point.I should say that the concession would follow, directly or indirectly, from a long line of authority in this Court that is against assignment of a claim for damages pursuant to s 82 of the Trade Practices Act 1974 (Cth) commencing with Park v Allied Mortgages Corp Ltd (1993) ATPR (Digest) 46-105.Those cases were recently reviewed and followed by Rares J in Boston Commercial Services Pty Ltd v GE Capital Finance Australasia Pty Ltd [2006] FCA 1352 ; (2006) 236 ALR 720 ; (2006) 70 IPR 146 at [50] ---[58] in relation to claims made pursuant to s 82 for breaches of s 52 and s 51AC of the Trade Practices Act .38 It follows that the purported assignment of each cause of action is ineffective.I should add that if the assignment is ineffective, it is so for all purposes.It follows that Tosich retains the causes of action regardless of the deed.That transaction has no relevant impact upon his claims.There is no evidence as to the arrangements between Tosich and All Saints in the eventuality of the assignment being ineffective.Such evidence would be as irrelevant to this case as would any other side arrangements between parties such as insurance.Limitation 
+ 
+39 Aon directly pleads limitation defences.The defendants adopt a "coat-tails" approach.Aon has taken the running on the issue.The starting point is that Tosich was reintroduced to the proceeding as a plaintiff by amendment on 18 May 2007.The next step is that 18 May 2007 is taken to be the date of the commencement of the proceeding by Tosich by virtue of O 6 r 11(3) of the Federal Court Rules .It is then contended that all relevant causes of action accrued on or about 6 November 2000 when the money was paid by Tosich.The last step is that each cause of action is barred, either by particular limitations in the Corporations Law or by the Limitation Act 1969 (NSW), applicable by virtue of s 79 of the Judiciary Act 1903 (Cth).There is little to recommend such a result.It would be a triumph of form over substance.Tosich commenced the proceeding on 27 November 2003, well within all potential limitation periods.All Saints was substituted for Tosich as plaintiff by order of the Court on 19 April 2006 claiming to be an assignee of the Tosich causes of action.The substantive causes of action remained the same at all times.Thus, the defendants faced the same causes of action at all times.The cross-defendants faced the same cross-claims at all times.However, lack of merit alone is not an answer to the point.40 The first two steps are common to all causes of action.There has been much debate about amendment and limitation since Weldon v Neal (1887) 19 QBD 394.Many of the authorities were considered by the New South Wales Court of Appeal, presided over by Gleeson CJ, in relation to a rule similar to O 6 r 11(3) in Fernance v Nominal Defendant (1989) 17 NSWLR 710, particularly concerning the relationship between that rule and the New South Wales equivalent of the present O 13 r 2 of the Federal Court Rules .In this Court, see eg Zoneff v Elcom Credit Union Ltd [1990] ATPR 41-058 at 51,746---51,747.The introduction of s 59(2B) to the Federal Court of Australia Act 1976 (Cth) in 1994 and the consequent amendments to O 13 r 2 changed the landscape.Here, no argument was directed to those changes and their significance and, in particular, as to the interplay between O 6 r 11 and O 13 r 2.There was no discussion of the power to dispense with the Rules (O 1 r 8) (cf Karam v Australia and New Zealand Banking Group Ltd [2000] NSWSC 596 ; (2000) 34 ACSR 545).41 However, even if O 6 r 11(3) alone is considered and operates according to its terms, there is a real issue in this case as to the last step --- the effect of the limitation provisions.In Martinus v Kidd [1982] HCA 64 ; (1982) 150 CLR 648 it was pointed out that no new cause of action comes into being against the personal representative of a deceased tortfeasor --- the existing cause of action survives.In that case, time runs for limitation purposes from accrual of the cause of action against the deceased (see per Gibbs CJ, Murphy and Wilson JJ at 652; Mason J at 659).The same principle must be applicable in relation to a cause of action that survives for the benefit of the personal representation of the deceased estate, absent any special provisions.That principle applies to an action by a trustee in bankruptcy to enforce a liability of the bankrupt ( Re Mansell; Ex parte Norton (1892) 66 LT 245).The same principle should apply in the case of the assignment of a cause of action.The original cause of action remains the foundation of the action (although not directly applicable, see " The Jordan Nicolov" [1990] 2 Lloyds Reps 11 per Hobhouse J at 19; Lefevre v White [1990] 1 Lloyd's Reps 569 per Popplewell J at 577 citing Post Office v Norwich Fire Insurance Ltd [1967] 2 QB 363 per Lord Denning at 373; cf per Jacobs J in Re Harry Simpson 2amp; Company Pty Ltd and Companies Act 1936 [1964-5] NSWR 603 at 605; (1963) 81 WN (Pt 1) (NSW) 207 at 209.In the present case, the same causes of action have been pursued at all times.42 All of the limitation provisions relied upon by way of defence, with one exception, speak in terms of causes of action.The exception is s 1317K of the Corporations Act 2001 (Cth), which provides for a limit of six years "after the contravention".The institution of a proceeding for a compensation order (as in this case) satisfies the section.As I have said, commencement of this proceeding was well within all time limits.It is thus unnecessary to consider the vexed question as to when the various causes of action accrued for limitation purposes.THE CROSS-CLAIM AGAINST AIG 
+ 
+43 This claim is made pursuant to policy number 85550 being styled an Investment Managers Insurance Policy in respect of the period 31 October 2001 to 31 October 2002 issued by AIG to Tasman Capital Group Ltd (Tasman Capital).Tasman Investment was deemed an "insured entity" under the Policy pursuant to an endorsement.Warne claims to be an insured by reason of being an "Individual Insured".The cross-claim is for indemnity in relation to the claims by Tosich and All Saints and two other investors whose claims had been paid out --- Kotwal and Roach.44 AIG denies that the policy responds to the claims; denies that there was a valid notification of any circumstance or of the claim as required; raises estoppels leading to rectification; relies upon certain exclusions and non-disclosure; and says that the cross-claimants settled certain claims other than that by Tosich contrary to the terms of the policy.AIG now accepts that the Tosich claim was made and notified during the period of insurance as required.Policy coverage 
+ 
+45 The principal insuring clause was as follows:
+ 
+ " INSURING CLAUSE A --- PROFESSIONAL INDEMNITY 
+ This policy shall pay on behalf of each Insured all Loss resulting from any Claim first made against the Insured during the Period of Insurance for any Wrongful Act of the Insured or of any other person for whose Wrongful Act the Insured is legally responsible, by reason of rendering or failing to render Investment Advisory Services ." 
+ (Original emphasis.)
+ 
+
+46 The highlighted terms that are relevant are defined as follows:
+ 
+ " 'Claim' means any suit or proceeding, including an civil or arbitration proceedings, brought by any person or entity against an Insured for monetary damages or other relief, including non-pecuniary relief, or any written demand from any person or organisation that it is the intention of the person or entity to hold an Insured responsible for the results of any specified Wrongful Act .
+ 
+ Moreover, with respect to Insuring Clause B only, Claim shall also mean any criminal prosecution brought against an Individual Insured, or any administrative or regulatory proceeding or official investigation regarding any specified Wrongful Act of an Individual Insured .
+ 
+ All Claims arising out of, based upon or attributable to a Single Wrongful Act shall be considered to be a single Claim for the purposes of this policy.
+ ... 
+ 'Insured' means the Insured Entity and the Individual Insured .
+ ... 
+ 'Investment Advisory Services' means those financial, economic or investment advisory services regarding investments in Securities and/or rendering investment management services including in connection with interests in the Fund of the Insured Entity furnished pursuant to a written contract and permitted by law or regulation and which services the Insured is duly authorised and/or licensed and/or approved to carry out where required by law or regulation to be so authorised and/or licensed and/or approved, rendered by an Insured at any time whether before, on or after the inception date of this policy, pursuant to an agreement as long as such service is rendered to a customer or client of the Insured Entity : 
+ 
+ (a) in return for a fee, commission or other compensation, or 
+ 
+ 
+ 
+ (b) without compensation as long as such non-compensated services are rendered in conjunction with services rendered for compensation.
+ 
+ 
+ ... 
+ 
+ 'Wrongful Act' , for purposes of Insuring Clause A, shall mean any: 
+ 
+ 
+ 
+ (a) any actual or alleged breach of duty, breach of trust, neglect, act, error, omission, misstatement, misleading or deceptive conduct (including any breach of the Trade Practices Act 1974 (Cth) or of the Fair Trading Acts); or 
+ 
+ 
+ 
+ 
+ 
+ (b) the publication or utterance of a libel or slander or of other defamatory or actionable material, or publication or utterance in violation of an individual's right of privacy; or 
+ 
+ 
+ 
+ 
+ 
+ (c) the fraudulent or dishonest conduct of any Employee of the Insured , for which the Insured is legally liable, provided that conduct or conduct of a similar type, has not been condoned by the Insured .Cover is not provided to the person committing the fraudulent or dishonest conduct; 
+ 
+ 
+ 
+ or other act by the Insured in the rendering of or failure to render Investment Advisory Services .
+ 
+ 'Wrongful Act' , for purposes of Insuring Clause B, shall mean any breach of duty, breach of trust, neglect, error, misstatement, misleading statement, omission, breach of warranty of authority or other act by the Individual Insured in their respective capacities as Directors or Officers , partners, or trustees of the Insured Entity or any matter claimed against them solely by reason of their status as Directors or Officers , partners or trustees of the Insured Entity.
+ 
+ Related, continuous or repeated Wrongful Acts shall constitute a Single Wrongful Act for the purpose of the of the cover provided by this policy." 
+ (Original emphasis.)
+ 
+
+47 The policy recites that the written proposal and documentation supplementing and supporting it are the basis of the contract and are incorporated in, and form part of, the contract.The pro forma proposal indicates that the insured is a fund manager.The Wollongong Prime Property Fund was the only Fund identified as such in the proposal.A statement was provided with the proposal, relevant portions being as follows:
+ " Tasman Capital Ltd and Subsidiaries 
+ 
+ Tasman Capital Ltd was established in February 2001 with the aim of purchasing 100% of the share capital In Warne Investment Management Ltd and its subsidiary Tasman Financial Planning Pty.Ltd. 
+ 
+ Warne Investment Management Ltd was established by Mr Colin Warne in September of 1994.Mr Warne was the sole shareholder until April 2000 when Mr Warne sold 33.3% of the company to Mrs J McCoughy a nominee of Mr Stephen Harrison.
+ 
+ At this time both Mr Warne and Mr Harrison injected funds into the business and Warne Investment Management Ltd purchased Court 2amp; Co Financial Services Pty Ltd. from the Chartered Accounting firm Court 2amp; Co in Sydney.Court 2amp; Co Financial Services Pty Ltd. has since changed its name to Tasman Financial Planning Pty.Ltd. 
+ 
+ In March Tasman Capital Ltd purchased the shareholding in Warne Investment Management Ltd from Mr Warne and Mrs McCoughy.Also at this time Mason Investments NV purchased 25% of the share capital of Tasman Capital Ltd. Mason Investments NV is the nominee company of the Cullen Group of New Zealand.Mr Cullen is better known to Australians as the owner of the New Zealand Warriors rugby league team.
+ 
+ Warne Investment Management Ltd. has now changed its name to Tasman Investment Management Ltd. 
+ 
+ Both Tasman Investment Management Ltd and Tasman Financial Planning Pty.Ltd act as financial planners.Tasman Investment Management Ltd. is also the responsible entity for the Wollongong Prime Property Trust the owners of buildings in Wollongong and Parramatta with a current value of $26.0 million.From1 July 2001 the group has been restructured.All financial planning will now be done by Tasman Financial Planning Pty.Ltd. Tasman Investment Management Ltd. will become the property arm of the group and will concentrate on the Wollongong Prime Property Trust as well as other property investment schemes.All staff will be employed by Tasman Capital Ltd. 
+ 
+ The company structure is therefore as follows : 
+ 
+ Tasman Capital Ltd 
+ 
+ 
+ 100% 
+ Tasman Investment Management Ltd 
+ 
+ 
+ 100% 
+ Tasman Financial Planning Pty.Ltd. 
+ 
+ 
+ It is planned that eventually Tasman Financial Planning Pty.Ltd. will become a direct subsidiary of Tasman Capital Ltd. 
+ 
+ The shareholders of Tasman Capital Ltd are ... 
+ 
+ The Directors of Tasman Capital Ltd are ... 
+ 
+ The Directors of Warne Investment Management Ltd are ... 
+ 
+ The Directors of Tasman Financial Planning Pty.Ltd. are ... 
+ 
+ During the 2000/2001 year the group has concentrated its efforts on consolidating the Court and Co acquisition.On establishing a presence in Sydney and in acquiring the services of suitable financial planners to support the future aims of the group.These aims being to supply an above average level of financial planning services to high net worth clients.The profit for 2000/2001 has been affected by these extra costs without commensurate revenue increases.
+ 
+ Substantial increases in revenues and profits are now forecast as a result of the efforts during 2000/2001.
+ 
+ The Tasman Capital group currently has $350 million of funds under management.It aims to increase this to $1 billion within three years.This increase will be obtained by natural increase, from referrals and by further acquisitions.The funds injected into the group by Cullen have been earmarked for these acquisitions." 
+ (Original emphasis.)
+ 
+
+48 Accounts for the Wollongong Prime Property Fund to June 2001 were provided with the proposal.49 One of the questions and answers in the proposal is:
+ 
+ "Has the Fund Manager any of the following types of insurance currently in force: 
+ Directors and Officers Liability?2#61809; Yes 2#61950; No 
+ Professional Indemnity?2#61950; Yes 2#61809; No 
+ Crime/Fidelity Guarantee?2#61809; Yes 2#61950; No 
+ If the answer to any of the forgoing is "Yes", please give details.P.I.--- Macquarie Underwriting --- Expires 31.3.02." 
+ 
+
+50 AIG contends that the policy does not cover advice regarding investments other than Securities as defined, those being limited to securities of the "Insured Entity" being Tasman Capital Limited (and subsidiaries) and the Wollongong Prime Property Trust.The defendants contend that this construction is too restrictive and would deny commercial efficacy.It is submitted that construing the clause "contra proferentem" the words "of the Insured Entity" in the definition of "Securities" governs either "debt security" only or, at most, "share or other equity or debt security".It is submitted that if "Securities" had to be of the Insured Entity, that would be inconsistent with Investment Advisory Services "including" (but not being limited to) "in connection with interests in the Fund of the Insured Entity".51 In my opinion, AIG's construction of "Securities" is clearly correct.It reflects the ordinary meaning of the language.Furthermore, it is consistent with the policy being an Investment Manager Policy and with the emphasis in the Proposal upon the insured as a fund manager.52 However, some issues of construction of the phrase "Investment Advisory Services" remain.That definition is not easy to construe.For example, it is not at all clear whether rendering investment management services is deemed to be an advisory service.The two concepts would not normally be regarded in that way.It is not clear to what the phrase "including in connection with interests in the Fund of the Insured Entity" relates.In my opinion, the better view is they are limited to "Securities" as defined but that rendering investment management services is a distinct activity, not limited to (but including) in connection with interests in the Fund of the Insured Entity.This is consistent with the core activity being the rendering of such services.However, the cover does not relate to those services as such, but to financial, economic or investment advisory services regarding those services."Investment management services" are not defined.Can the services provided by Tasman Investment to Tosich be described as the management of investments and, if so, was the advice given regarding that management included in "Investment Advisory Services" within the meaning of the policy?In my opinion, this is stretching the clause too far.53 However, in any event, the services in question were not provided pursuant to a written contract.There is no evidence of any document in the nature of a retainer, formal or informal.Written advice was tendered from time to time, but that is not what was required.Exclusion 
+ 
+54 Endorsement No 4 to the policy is another problem for the defendants.It provides that the insurer is not liable for payment of loss in connection with a claim "arising out of, based on or attributable to" any Wrongful Act committed or alleged to have been committed prior to 31 October 2000.It is submitted that the payment of $125,000 by Tosich and the consequent losses arose out of, were based upon and were attributable to the misleading representations contained in the Initial Offer Letter and Initial Offer Proposal made on or about 3 June 2000 and made at the meeting in September 2000.Those representations constituted Wrongful Acts.On the other hand, counsel for the defendants submits that the receipt of the money on or about 6 November and the payment over to LMS was the ultimate, and relevant, Wrongful Act, and so not excluded from cover.55 In my opinion, the loss and the claim did arise out of the June and September misleading representations and so fall within (a) of the definition of Wrongful Act.The connection is not broken by the receipt and payment of the money, whether or not that constituted a separate Wrongful Act.No claim can be made pursuant to Insuring Clause A by either defendant.Insuring Clause B 
+ 
+56 Insuring Clause B is as follows:
+ 
+ "INSURING CLAUSE B --- DIRECTORS AND OFFICERS LIABILITY 
+ The Insurer shall pay on behalf of each Individual Insured , or the Insured Entity when it is legally required or permitted to indemnify the Individual Insured , all Loss of the Individual Insured resulting from any Claim first made against the Individual Insured during the Period of Insurance for any Wrongful Act in the Insured's capacity as an Individual Insured ." 
+ (Original emphasis.)
+ 
+
+57 The definition of "Individual Insured" will be recalled:
+ 
+ 'Individual Insured' means a natural person who is a past, present or future Director , Officer , partner or trustee of the Insured Entity and any member of a Compliance Committee established for the purposes of Chapter 5C of the Australian Corporations Law.
+ 
+ 'Individual Insured' shall also mean any Employee of the Insured Entity with respect to Insuring Clause A, and any Employee in a managerial or supervisory capacity with respect to Insuring Clause B.Furthermore, Individual Insured with respect to Insuring Clause B does not include any externally appointed officers, such as receivers, managers, liquidators, administrators, mortgagees, in possession and the like." 
+ (Original emphasis.)
+ 
+
+58 "Director or Officer" means:
+ 
+ "any natural person duly appointed or elected as a director, secretary or executive officer of the Insured Entity .
+ (Original emphasis.)
+ 
+
+59 "Employee" relevantly means:
+ 
+ "any natural person employed by the Insured Entity in the ordinary course of the business of the Insured Entity and whom the Insured Entity compensates by way of salary or wages and has the right to govern and direct the performance of that person's duties.Employee shall also include an Individual Insured while performing acts coming within the scope of the regular duties of an Employee ." 
+ (Original emphasis.)
+ 
+
+60 AIG raises a threshold issue.It contends that Insuring Clause B only covers a claim against the director or officer personally for default in that capacity, rather than a claim based upon conduct for which the corporate insured is liable vicariously or as principal.It contends that the latter is covered by Insuring Clause A rather than B.No doubt the former is covered by Insuring Clause B, but it is not so clear that it is all that is covered.61 Some assistance might be obtained from considering those provisions that distinguish between the two.One is the definition of "Individual Insured".Any employee is covered with respect to Insuring Clause A and any employee in a managerial or supervisory capacity with respect to Insuring Clause B.That gives some support to AIG's argument.Another, the clause concerning Retention, is of no particular significance.Endorsement 3 applies only in respect of Insuring Clause B.It excludes liability for claims by past or present shareholders controlling 15% or more of the voting rights of the insured corporation.This supports the view that Insuring Clause B relates to those duties or liabilities imposed upon a director or senior officer as such, rather than all conduct in the course of employment.Endorsement 5 is significant, but the rationale for distinguishing between Insuring Clause A and Insuring Clause B in relation to this exclusion is not immediately obvious.The effect of the clause is that individual duties and responsibilities as a director or senior officer in relation to fundraising are not covered, but that actions carried out on behalf of the insured are covered.This gives some support to the contention of AIG as to scope of Insuring Clause B.All in all, the contentions of AIG as to the scope of Insuring Clause B should be accepted.62 Thus, it becomes necessary to examine whether any of the causes of action against Warne would fall into that category.All of the causes of action that flow from the direct dealings between Warne and Tosich --- whether in person or by correspondence --- fall within Insuring Clause A.They do not depend upon his position as a director or senior manager as such.A claim concerning the failure to register the scheme and all that flowed from that failure would fall within Insuring Clause B.If there is such a duty it would be on the basis of Warne's personal liability because of his office.That would involve some but not all of the statutory breaches.However, Endorsement 5 would exclude cover.In my opinion, Warne was engaged in the raising of capital by equity, debt or other means, and the liability would arise out of, or be in connection with, that endeavour.Warne cannot rely upon Insuring Clause B.63 It is now accepted by the defendants that the claim for cover in respect of Kotwal and Roach cannot succeed.64 As all claims for cover fail, it is not necessary to consider the estoppel and rectification claims by AIG or the issue of non-disclosure.CROSS CLAIM AGAINST AON 
+ 
+65 The gist of the cross-claim is that Aon breached its retainer as broker in not taking all reasonable steps to procure cover for Tasman Investment against liabilities incurred as a financial planner and investment adviser.The claim covers the liability to Tosich and to other investors, namely John and Denise Roach and Archana Kotwal.The first issue for determination, in view of my previous findings, is whether Aon was in breach of duty to Tasman Investments in connection with the failure to procure Professional Indemnity (PI) insurance for it to take effect after 31 March 2002 when the cover by Macquarie Underwriting expired.66 The issue relates to the nature of PI insurance.That form of insurance is generally (as here) offered on a "claims made" basis, ie for claims made upon the insured in the current period of insurance.Such insurance is usually offered on an annual basis.A claims made policy may or may not respond to claims arising out of circumstances occurring before the year of claim.Furthermore, if circumstances that may give rise to a claim are known to the insured prior to the relevant period, they must be disclosed to the insurer.This may cause the insurer to decline to review cover, or to exclude the risk that is disclosed.The Australian Law Reform Commission discussed some of the ramifications of this structure in Report No 20 on Insurance Contracts, eg para 47 and para 265.Section 40 and s 58 of the Insurance Contracts Act 1984 (Cth) are a partial response.(See, generally, Derrington D, Ashton RS, The Law of Liability Insurance, 2 nd ed, LexisNexis, Australia, 2005.)
+ 
+67 Aon was an insurance broker with a substantial business.It had dealt with the Warne companies since early 2000.Mr Schuyler Elia was the employee who usually dealt with the Warne companies.68 The claim in this case was made on behalf of Tosich on or about 10 December 2002.Leaving aside the AIG policy, the only PI policy in force in relation to the Warne companies in December 2002 was the policy with Dexta Corporation entered into in April 2002 through Aon.That policy did not cover Tasman Investment at all.By then Tasman Investment was not engaged in financial planning and advisory services.It had been covered by a PI policy with Macquarie Underwriting, taken out effective from 30 June 2000 to 31 March 2001, and renewed for another year, expiring on 31 March 2002.As that was a claims made policy, it did not respond to the claims made after the expiry of the policy.Thus, Tasman Underwriting had no "run off" or retrospective insurance in relation to the financial planning and advisory business it had carried on.That is the cause of the complaint.It is contended by the defendants that Aon should not have caused or permitted that to occur.69 On 5 March 2002 Tasman Capital Limited sent to Aon (per Mr Schuyler Elia) completed proposal forms for PI insurance for it and its subsidiaries with Macquarie Underwriting.This amounted in substance to a proposal to renew.Tasman Investment was named as an insured.Although financial planning was stated as an activity of the group, the details described Tasman Investment Management Ltd only as the responsible entity of Wollongong Prime Project Trust.A financial planner's addendum was forwarded on 13 March 2002 on behalf of Tasman Capital Ltd and its subsidiaries.Tasman Financial Planning Pty Ltd was identified as the company through which insurance agent agreements are held.70 Aon, by Elena Kazakova, described as an account broker and one of a service team consisting of herself, Schuyler Elia and Nerida Wallace, sought clarification of some issues arising out of the proposal for renewal.One question was:
+ 
+ "Tasman Investment Management Limited ('Warne') can still be named as an Insured under any new policy, however, they will not be covered for conducting a managed Property Trust.Please advise what you require." 
+ 
+
+The answer, provided by Mr Brian Johnson, was 
+ 
+ "Suggest you talk to Schyuler about whether or not we need this.If there is no extra cost I suggest we include them." 
+ 
+
+There is no evidence as to whether this request was followed up.71 In the meantime, Aon, by Elena Kazakova, obtained a quote for PI insurance from AIG.The "non-binding indication" covered breaches as a licensed security dealer only.The principal terms of what were described as option one were:
+ 
+2#8226; a limit of $2 million on any one claim and in the aggregate;
+ 
+2#8226; a retention (excess) of $50,000 inclusive of costs for each and every claim;
+ 
+2#8226; a premium of $25,000 plus GST and stamp duty.The proposed retroactive date was "Policy Inception".No option two was included.72 On 27 March 2002 Dexta Corporation Ltd responded to Schuyler Elia with a non-binding indication.The insured were Tasman Capital Ltd and Tasman Financial Planning Pty Ltd and the business was described as "Financial Planner".As clarified later, the basis was for a limit of $1 million and $3 million aggregate and an excess of $20,000, a premium of $23,800 plus GST and stamp duty was quoted, alternatively, for a limit of $2 million and $6 million aggregate and an excess of $20,000, a premium of $30,950 plus GST and stamp duty was quoted.The terms included:
+ 
+ " 2) Financial Relationship Endorsement 
+ There is no indemnity under this Policy for any Claim made against You: 
+ 
+ 
+ (a) by any person advised or induced by You or Your employees to invest or lend money to You or any firm or corporation operated or controlled by You or by any of Your employees nominees or trustees and in which You or any member of Your family has a direct or indirect financial interest; 
+ (b) arising out of the provision by You of any advice, inducement, recommendation, endorsement or opinion regarding the investment of interest, capital or personal endeavour in an investment facility or service in which You or any member of Your family has a direct or indirect control or financial interest.
+ 
+ 
+ 
+ 
+ 
+ For the purpose of this exclusion only: 
+ 
+ 
+ Financial Interest shall not exclude any Nominal Financial Interest in a corporation listed on a stock exchange being a member of the associated Australian stock exchanges.
+ 
+ Nominal Financial Interest shall mean less than 10% of the issued capital in a public company.
+ 
+ 
+ 
+ 3) Conflict of Interest Endorsement 
+ 
+ 
+ There is no indemnity for any Claim made against You or any claim by You for indemnity under this Policy directly or indirectly arising from an actual or alleged conflict of interest.
+ 
+ 
+ However this exclusion shall not apply where: 
+ (a) prior to providing professional services, You have obtained from a party relying on Your professional services a signed and dated document wherein the party acknowledges that You are also involved with another party whose interests may differ to those of the party relying on Your professional services, or 
+ (b) after investigation, Dexta Corporation Ltd is satisfied that a conflict of interest does not exist.
+ 4) Managed Investment Schemes 
+ 
+ 
+ There is no indemnity for any Claim made against You or any claim by You for indemnity under this Policy directly or indirectly arising from investments in managed investment schemes other than schemes which invest in equities, property, fixed interest or cash.
+ 
+ 
+ ... 
+ 
+ 9) Amended continuity clause 
+ Clause 1.8 of this policy is deleted in full and replaced by the following: 
+ 1.8 Continuous cover 
+ 
+ 
+ Notwithstanding exclusion 3.7 (prior Claims or circumstances), and in the absence of fraudulent non-disclosure by You, We agree to extend indemnity under insuring clauses 1.1 and 1.2 to any Claim arising from or attributable to or in consequence of any fact or circumstance which could have been, but which was not, notified under a previous professional indemnity insurance policy ('Previous Policy') PROVIDED THAT: 
+ 
+ 
+ (a) if the fact or circumstance had been notified under the Previous Policy, You would have been entitled to indemnity under the Previous Policy; 
+ (b) apart from Our right to refuse indemnity due to: 
+ 
+ 
+ 
+ 
+ (i) Your failure to disclose the fact or circumstance to Us before this Policy was entered into; or 
+ (ii) the application of exclusion 3.7 (prior Claims or circumstances); 
+ You are entitled to indemnity under this Policy; and 
+ 
+ 
+ 
+ 
+ (c) You have continued without interruption to be insured under a professional indemnity insurance policy with Us from the time when the fact or circumstance could have been notified under the Previous Policy until the time when the Claim, fact or circumstance is notified to Us.
+ 
+ 
+ Our liability for the Claim shall not exceed the amount of indemnity which would have been available under the Previous Policy if the fact or circumstance had been notified under the Previous Policy or the available Limit of Liability under this Policy, whichever is the lesser." 
+ (Original emphasis.) 
+ 
+ 
+ 
+ 
+
+73 On 3 April 2002 Schuyler Elia of Aon reported to Johnson advising that Macquarie had requested further information and that he had asked for an indicative quotation based on the information on file.The report included:
+ 
+ "I must apologise for the inconvenience this has caused with Elena not aware of your other insurance in place with AIG ..." 
+ 
+
+The report summarised the key elements of the AIG and Dexta quotes.AIG was recommended.Neither the analysis nor the recommendation discusses the question of "run off" cover for the financial planning activities of Tasman Investment, although reference was made to "additional reinstatement of the sum insured".74 Johnson favoured the second Dexta alternative, but elected to wait for a response from Macquarie.After several prompts from Johnson to Aon with no response, on 17 April 2002 Johnson instructed Elia to proceed with Dexta Option 2, confirmed by email on 18 April 2002 at 9.31 am.At 12.29 pm on that day, Elia sent an email to Johnson reporting that Macquarie had quoted $2 million on one claim with $6 million aggregate, with a deductible of $20,000 each and every claim with a premium of $65,000 before charges.He recommended Dexta.The reasons did not include any reference to the position of Tasman Investment.75 Dexta required further information.Johnson forwarded that information, signed by Warne.It included the material earlier provided for the Macquarie renewal.The insured were identified as Tasman Capital Ltd and Tasman Financial Planning Pty Ltd.The policy issued in due course.76 In my opinion, Aon was clearly in breach of its duty to the defendants to exercise due care and skill in arranging insurance cover in not drawing to the attention of Johnson the need for cover for the previous financial planning and advisory activities by Tasman Investment, including the officers of Tasman Investment, having in mind the rearrangement of corporate responsibilities within the group.Aon, by Elia, had been closely involved in the details of professional indemnity cover for the group since May 2000, and was well aware of the details of the corporate rearrangement of responsibilities.Aon was involved in effecting PI insurance for all entities in the group, including directors' and officers' cover.It had effected the cover with AIG.The lack of "run off" cover for the prior financial planning and advisory services of the group was a critical feature of the insurance rearrangements and very material to decision making as to that cover.However, there is no evidence of the issue having been raised by anybody on behalf of Aon at any time.Neither Warne nor Johnson was cross-examined to suggest that they had been given any advice by Aon concerning the run off of liabilities of Tasman Investment or, indeed, that there was any discussion by anyone on behalf of Aon about that factor to be taken into account when making a decision about PI insurance.There was no cross-examination of Johnson to suggest that the query concerning Tasman Investment being a party, the subject of the correspondence, was discussed by any officer of Aon with him.What is more, no explanation for the omission has been given by those involved.Indeed, those involved for Aon, particularly Elia and Kazakova, were not called to give evidence.77 Counsel for AON cross-examined Warne and Johnson to suggest that a conscious choice was made to exclude Tasman Investments from PI insurance.He submitted that Aon's role was limited to executing specific instructions.He also pointed to the absence of evidence from Blackett, who had a role in relation to effecting insurance.There were unsatisfactory features of the evidence of Warne and Johnson, principally because of their attempts to bolster the case against AIG on the Investment Managers Policy.However, the decision making by Warne and Johnson took place without any attention paid to the "run off" of the group's financial planning and advisory services preceding the change of role of Tasman Investment within the group.Blackett's absence is of no significance.Aon has not led any evidence of any relevant communication with Blackett.There is no suggestion that Blackett was aware of the "run off" problem.He was not a decision maker.Johnson gave evidence that, had he been aware at the time of renewing PI insurance after 31 March 2002 that Tasman Investment would be exposed for its past financial planning activities and investment advice, he would have addressed with Aon what needed to be done to protect Tasman Investment against that risk.I accept that evidence.Commercial reality compels the conclusion that, if Warne and Johnson had been made aware of the problem, they would have paid attention to the solution of it.Warne, in particular, had potential personal liability and a considerable stake in the fortunes of the companies.I do not accept that a conscious choice was made to exclude cover for the run off of financial planning liability or that Aon's role, as broker, was restricted to merely executing instructions.78 The unexplained omission by Aon to draw the attention of the client to such an important consequence of the overall insurance arrangements that were in contemplation was a breach of the duty of Aon to exercise care and skill in carrying out its role as broker ( Caldwell v JA Neilson Investments Pty Ltd (2007) 14 ANZ Ins Cas 61-724; [2007] NSWCA 3 ; per Ipp JA at [103]---[104]).No expert evidence is necessary to come to that conclusion (cf Geoffrey W Hill 2amp; Associates (Insurance Brokers) Pty Ltd v Squash Centre (Allawah North) Pty Ltd (1990) 6 ANZ Ins Cas 61-012 per Kirby P at 76768).79 The next question is what loss flowed from the breach.The role of damages in a case such as the present is to place the wronged party in the position it would have been in if there had been no breach of duty, ie if correct and timely advice had been given.The defendants lost the benefit of that advice.They were never in the position of having the advantage of it.That much is clear.That amounts to a loss caused by the breach sufficient to complete the cause of action (if it is viewed as tort) ( Poseidon Ltd 2amp; Sellars v Adelaide Petroleum NL (1994) 179 CLR 332 per Mason CJ, Dawson, Toohey and Gaudron JJ at 355 and Brennan J at 362 and 368).80 Quantification of damages is a different matter.It has been said that the defendants have to establish that, absent the breach of duty, relevant cover would have been obtained, eg Ferrcom Pty Ltd v Inbush (NSW) Pty Ltd (1997) 9 ANZ Ins Cas 61-339 per Cole JA at 76732.That is so if full indemnity is to be awarded, cf Gates v City Mutual Life Assurance Society Ltd [1986] HCA 3 ; (1986) 160 CLR 1 per Mason, Wilson and Dawson JJ at 13.The position is different if less than full indemnity is considered.Reconstruction of what would have occurred if the correct advice had been given involves a hypothetical set of past circumstances.As explained in Malec v JC Hutton Pty Ltd [1990] HCA 20 ; (1990) 169 CLR 638 , particularly per Brennan and Dawson JJ at 639---640 and Deane, Gaudron, McHugh JJ at 642---643, this is not decided as if it were an assessment on the balance of probabilities as to whether an event did or did not happen.Furthermore, in considering this case, it is to be borne in mind that Aon prevented the posited situation occurring and that it, not the defendants, was the expert in the field.See, generally, Cee Bee Marine Ltd v Lombard Insurance Co Ltd [1990] 2 NZLR 1 at 5---6.The reconstruction of events in this case does not depend upon what the defendants would have done in a particular situation in the sense discussed by Buchanan JA in Crown Insurance Services Pty Ltd v National Mutual Life Association of Australasia Ltd (2005) 13 ANZ Ins Cas 61-659 at [9]---[14].It principally (but not entirely) depends upon the assessment as to what others would have done.It is to be noted that the discussion of this question by Ashley J in TBI Pty Ltd v Aon Financial Planning Ltd (2004) 13 ANZ Ins Cas 61-601 at [213]---[218] was tentative obiter dicta.81 The defendants relied upon the evidence concerning Macquarie Underwriting to support the availability of appropriate insurance.That company had been the underwriter for the financial planning and investment advice activities of the group for 2000---2001 and 2001---2002 years.The renewal for 2001---2002 on 3 August 2001 was on the basis that the policy was unlimited as to retroactive date of the circumstances giving rise to the claim without any express exclusion of known claims and/or circumstances.The policy when first issued had an unlimited retroactive date.The communication from Stuart Coleman of Macquarie Underwriting to Elena Kazakova of Aon on 15 March 2002 indicated that Tasman Investment could be named as an insured, however, it would not be covered for conducting a managed property trust.It will be recalled that Johnson's response was to suggest Elena Kazakova talk to Schuyler Elia about whether it was necessary.There is no indication that the policy would not be framed as to the retroactive date in accordance with the then current policy.The only material given by Aon to Johnson at that time made no reference to retroactive cover.82 An unidentified handwritten note on a Macquarie Underwriting communication with the initials SE (no doubt Schuyler Elia) and dated 18 April 2002 says:
+ 
+ "MACQ --- S.C. -2gt; $62,000 --- (new bus premium) --- retro inception" 
+ 
+
+That note requires explanation.The absence of evidence from either Elia or Kazakova from Aon is significant on this aspect, particularly as there is no evidence from Macquarie that proves or explains a change in its attitude to retroactive cover.83 It was submitted for Aon that Johnson had rejected Macquarie's quote out of hand because of cost and it might therefore be put to one side.I do not agree.There was no explanation of the Macquarie quote by Aon in the context of the "run off" problem and it was never considered by Johnson or Warne in that context.I am satisfied that disclosure of that factor would have compelled close consideration of the Macquarie quote.84 Aon called evidence from two underwriters as to PI insurance, principally in relation to non-disclosure, but some of that evidence was relevant to the instant issue.One common factor was the impact of the collapse of HIH and its withdrawal from the PI insurance market for financial planners by March 2001.Up until then, it had been the dominant local underwriter in the field.It had a large market share and offered low premium rates.It is interesting in this connection to note that Macquarie Underwriting's original quote in 2000 for the Warne companies was less in premium and deductible than HIH.The principal competition was from two agents for Lloyd's syndicates, one of which was Markel Australia and the other Resource Underwriting.By March 2001 Resource Underwriting was reducing its exposure to the Australian market.As a result, it was said that a sellers market developed in PI insurance, including that for financial planners.Markel Australia declined many financial planning PI proposals in 2001 and 2002.Markel Australia was not approached by Aon in respect of Tasman Investment or the Warne group in March/April 2002.85 Ian Williams, an underwriter from QBE, was called by Aon to give evidence of guidelines prepared by QBE in 2001---2002 concerning PI cover for financial planners.It is not clear when they actually came into force.Those guidelines are silent as to both renewals and run off cover.QBE had formerly provided professional indemnity cover to the Warne group that was cancelled in July 2000 after the Macquarie Underwriting quote had been accepted.The nature of that cover was not explored.There is no evidence that Aon approached QBE for PI cover in 2002.It can be deduced from the cross-examination of the witness upon particular files that QBE provided cover retroactive to the inception of business to a former client of HIH that had made known claims upon HIH.In another case, Aon had submitted a proposal for renewal to QBE on the basis that it was to be a run off policy.Williams confirmed that QBE would normally afford run off or retroactive cover provided it was already the insurer.86 That is consistent with the experience with Macquarie Underwriting to which reference has been made.It is also consistent with the experience upon renewal of the Investment Managers Policy with AIG in October 2001.Although it did not cover Tasman Investment for its financial planning activities, it was a PI policy.General Condition 5 was as follows:
+ 
+ " Continuity 
+ Cover is provided under Insuring Clauses A and B of this policy for any Claim , fact, matter or circumstance which could or should have been notified under any earlier policy.Provided always that: 
+ 
+ 
+ (a) the Claim , fact, matter or circumstance could and should have been notified after the Continuity Date ; and 
+ (b) the cover provided by this Condition shall be on the same terms, exceptions and conditions as the policy under which the Claim , fact, matter or circumstance could and should have been notified." 
+ (Original emphasis.)
+ 
+ 
+
+The continuity date was 31 October 2000.87 Based upon the evidence, it can be inferred that if Aon had approached Macquarie Underwriting on the basis that the financial planning business was in truth a continuing business, although carried on by another entity, that PI insurance would have been issued as if it were a renewal on terms no less favourable than the quote given as to premium and with retroactive cover to Tasman Investment and Warne to at least the inception of business and on the basis that prior known circumstances would be covered.At the very least, the evidence required an explanation from Aon as to precisely what occurred between it and Macquarie Underwriting.That explanation may, in turn, have required an explanation from Macquarie Underwriting.Counsel for the defendants is on strong ground in relying upon the unexplained failure of Aon to call any witness of its own, particularly either or both of Elia and Kazakova.A clear Jones v Dunkel inference is to be drawn ( Jones v Dunkel (1959) 101 CLR 298).The consequence is that the inference available from the evidence that a renewal on suitable terms to cover the Tasman Investment run off would have been available from Macquarie Underwriting can be more readily, and is, drawn.88 In my opinion, counsel for the defendants is correct in submitting that a Jones v Dunkel inference is also available because of the failure by Aon to call evidence from those involved in the negotiations for Macquarie Underwriting, particularly Stuart Coleman.The availability of a Jones v Dunkel inference in the case of a witness who is a third party can be a difficult issue.Macquarie and Aon are not in the "same camp" and Coleman is not under the control of Aon.In a sense, he was available to both parties.However, only the broker, Aon, had dealings with the potential insurer.The client was not, and would never be, directly in that loop.Between the parties here, it was natural for Aon rather than the defendants to call the evidence from those at Macquarie Underwriting who were involved in the dealings between Aon and Macquarie from the inception of business and in the subsequent management of the business including the proposed renewal.The failure to lead this evidence further buttresses the inference in favour of the defendants ( Payne v Parker [1976] 1 NSWLR 191 per Glass JA at 201---202; Prasad v Minister for Immigration, Local Government and Ethnic Affairs [1991] FCA 133 ; (1991) 101 ALR 109 at 123; Turbo Tek Enterprises Inc v Sperling Enterprises Pty Ltd [1989] FCA 275 ; (1989) 23 FCR 331 at 343---344; Ayoub v Euphoric Pty Ltd (2004) 12 BPR 22,735; [2004] NSWCA 457 per McClellan AJA at [62]---[64]).89 I am also satisfied that Johnson and Warne, if properly advised by Aon, would have accepted Macquarie's terms if Tasman Investment was a party and satisfactory run off cover was included, unless Aon was able to arrange more favourable insurance.Aon simply did not analyse the offers with the run off as a factor.If that issue had been pointed out, the commercial reality was that the risk had to be covered.Non-disclosure 
+ 
+90 Aon pleaded the following defence to the second amended cross-claim:
+ 
+ "In further answer to the whole of the Second Amended Cross-Claim, Aon: 
+ 
+ 
+ 
+ (a) says that it was a duty imposed upon TIML and Warne prior to the entry of any contract of insurance, including: 
+ 
+ 
+ 
+ 
+ (i) any investment management insurance contract entered into on or about 31 October 2001; or 
+ (ii) any professional indemnity insurance contract entered into on or about 30 March 2002, 
+ 
+ 
+ 
+ 
+ (31 October 2001 and 30 March 2002 being respectively 'relevant dates') to disclose to any prospective insurer every matter that: 
+ 
+ 
+ 
+ 
+ (i) TIML and/or Warne knew to be a matter relevant to the decision of the prospective insurer whether to accept the risk the subject of the proposed contract of insurance and, if so, on what terms; or 
+ (ii) a reasonable person in the circumstances TIML and/or Warne could be expected to know to be a matter so relevant.
+ Particulars 
+ 
+ 
+ 
+ 
+ The duty was imposed by virtue of the operation of s 21 of the Insurance Contracts Act .To the extent that the Cross-Claimants were named parties under any contract of insurance pursuant to s 48 of the Insurance Contracts Act , the obligation arises under s 48(2)(a) , s 48(3) or on the basis that the rights under s 48 carry with them a relevant duty of disclosure.
+ (b) says that in the periods preceding the relevant dates, TIML and Warne knew: 
+ 
+ 
+ 
+ 
+ (i) that TIML (then known as Warne Investment Management Limited) had raised money from clients of TIML ('clients') for use by Longevity Management Systems Pty Limited ('LMS') in the purchase and development of the Queen Victoria Nursing Home and hospital site at Wentworth Falls, Blue Mountains ('QV project') in circumstances where the form of the interest to be purchased by the clients had not been settled upon; 
+ (ii) that the fundraising was based upon an information memorandum prepared by TIML ('information memorandum') being sent by TIML to a large number of its clients; 
+ (iii) that any fundraising had to comply with the provisions of Part 6D.2 of the Corporations Act unless exempted; 
+ (iv) that it was intended by TIML and Warne that the fundraising fall within the 'sophisticated investors' exemption to the fundraising provisions of the Corporations Act (s 708(8)-(10)); 
+ (v) that unless the fundraising fell within the 'sophisticated investors' exemption to the fundraising provisions of the Corporations Act , the fundraising would be in breach of the Corporations Act ;
+ (vi) that a draft agreement had been prepared for use by TIML, LMS and the clients ('draft agreement'); 
+ (vii) that it was a term of the draft agreement that initially the client monies that were the subject of the fundraising would be deposited by the clients into a trust account in the name of Warne Investment Management Limited; 
+ (viii) that it was a term of the draft agreement that the release of client monies by TIML to LMS from the TIML trust account was subject to each of TIML and LMS being satisfied that the advance by the client to LMS was an excluded issue under s 708 of the Corporations Act ; 
+ (ix) either or both: 
+ 
+ 
+ 
+ (A) the conditions that needed to be satisfied to meet the 'sophisticated investors' provisions; and/or 
+ (B) that they had not satisfied themselves at the time of the fundraising as to the conditions that needed to be satisfied to meet those provisions; 
+ 
+ 
+ 
+ (x) either or both that: 
+ 
+ 
+ 
+ (A) at least Mr Tosich, and perhaps other clients of TIML who had been sent the information memorandum, did not satisfy the criteria to qualify as a 'sophisticated investor'; and/or 
+ (B) the information memorandum had been sent out to clients without the Cross-Claimants then being satisfied that each of those clients met the criteria to qualify as a 'sophisticated investor', or, alternatively without then knowing what that criteria was; 
+ 
+ 
+ 
+ (xi) either or both that: 
+ 
+ 
+ 
+ (A) a written statement required by s 708(10)(c) of the Corporations Act had not been provided to each of the clients and none of the clients had signed an acknowledgement required by s 708(10)(d) of the Corporations Act before or at the time when the offer to invest (by way of the information memorandum) had been made to each of the clients; or 
+ (B) the information memorandum had been sent out to clients without the Cross-Claimants then being satisfied if there were any information disclosure requirements under the 'sophisticated investors' provisions of the Corporations Act , 
+ 
+ 
+ 
+ (xii) all client monies that had been agreed by the clients to be invested had been paid over to LMS; 
+ (xiii) that the said monies had been raised and invested: 
+ 
+ 
+ 
+ (A) in breach of the Corporations Act and the draft loan agreement; 
+ (B) alternatively, without TIML taking steps to satisfy itself as to whether the Corporations Act and the terms of the draft loan agreement had been breached; 
+ 
+ 
+ 
+ (xiv) that the information memorandum had calculated both the costs and timing of the investment by the clients on the basis that development approval would be received by June 2001, allowing construction to commence in July 2001; 
+ (xv) that at each relevant date: 
+ 
+ 
+ 
+ (A) development approval had not yet been obtained; 
+ (B) construction had not yet commenced; 
+ 
+ 
+ 
+ (xvi) that, as a consequence of (xiv) and (xv) above, even if construction did ultimately progress, it was unlikely that the clients would receive the anticipated returns at the anticipated times identified in the information memorandum.
+ 
+ 
+ 
+ 
+ (c) says that each of the above matters individually were matters that: 
+ 
+ 
+ 
+ 
+ (i) TIML and Warne knew to be matters relevant to the decision of the prospective insurer whether to accept the risk the subject of the proposed contract of insurance and, if so, on what terms; or 
+ (ii) a reasonable person in the circumstances could be expected to know to be a matter so relevant; 
+ 
+ 
+ 
+ 
+ (d) says that if TIML and Warne had complied with their statutory duties and disclosed the above matters to any potential insurer from the relevant dates, then TIML and Warne would not have been protected by insurance that would have been indemnified them in respect of claims arising out of: 
+ 
+ 
+ 
+ 
+ (i) the said fundraising; 
+ (ii) the QV project; 
+ 
+ 
+ 
+ 
+ (e) further, and in the alternative to (d), says that in the circumstances described in (a)-(c) above, an insurer that had provided investment management insurance or professional indemnity insurance for TIML and Warne for the period from the relevant dates would have been entitled pursuant to s 28(3) of the Insurance Contracts Act to reduce to nil its exposure to any claim for indemnity from TIML and/or Warne in respect of the said fundraising and/or the QV project; 
+ (f) says that if, which is denied, Aon breached its retainer as alleged by TIML and Warne, Aon says that any such breach is not causative of loss to TIML and/or Warne." 
+ 
+ 
+ (Original emphasis.) 
+ 
+ 
+ 
+ 
+
+91 This defence is principally based upon s 21 of the Insurance Contracts Act 1984 (Cth) that provides, so far as presently relevant, as follows:
+ 
+ 
+ "(1) Subject to this Act, an insured has a duty to disclose to the insurer, before the relevant contract of insurance is entered into, every matter that is known to the insured, being a matter that: 
+ 
+ 
+ 
+ 
+ (a) the insured knows to be a matter relevant to the decision of the insurer whether to accept the risk and, if so, on what terms; or 
+ (b) a reasonable person in the circumstances could be expected to know to be a matter so relevant." 
+ 
+ 
+ 
+
+92 The topic is contended to be relevant in two ways: in the first place, if proper disclosure had been made, the risk would not have been accepted; and, in the second place, if the risk had been accepted and the policy issued, it would have been liable to cancellation once the true circumstances emerged.93 Some basic propositions about s 21 should be borne in mind before approaching the detail of the issue.(1) "Knows" and "known" are strong words.They mean considerably more than "believes" or "suspects" or even "strongly suspects" (per McHugh, Kirby and Callinan JJ in Permanent Trustee Australia Ltd v FAI General Insurance Co Ltd (in liq) [2003] HCA 25 ; (2003) 214 CLR 514 at 531; see also Commercial Union Assurance Co of Australia Ltd v Beard (1999) 47 NSWLR 735; (2000) 11 ANZ Ins Cas 61-458 per Davies A-JA at 75259).(2) The "matter" must be known to the insured.(3) On one alternative, the "matter" must also be known to be relevant to the decision of the particular insurer whether to accept risk, and, if so, on what terms --- in this case, on the basis put forward, by Macquarie Underwriting.As Gummow and Hayne JJ said in Permanent Trustee Australia Ltd [2003] HCA 25 ; 214 CLR 514 at [70] :
+ 
+ 
+ "Under the Act, attention is shifted from the prudent insurer to the particular insurer." 
+ 
+ 
+ 
+
+Although their Honours were in dissent in the result, this statement is obviously correct.(See also Twenty-First Maylux Pty Ltd v Mercantile Mutual Insurance (Aust) Ltd [1990] VR 919 ; (1989) 92 ALR 661.) 
+ 
+(4) Relevance to the acceptance of the risk in the sense of the particular insurance hazard is required (McHugh, Kirby and Callinan JJ in Permanent Trustee Australia Ltd [2003] HCA 25 ; 214 CLR 514 at [32] ).(5) In the other alternative, it must be found that a reasonable person in the circumstances could be expected to know that the matter was relevant to the decision of the particular insurer.There is some debate about the meaning of the words "the circumstances".Although they plainly mean the circumstances of the particular case, the debate is said to be between subjective and extrinsic circumstances (see the discussion in Mann P, Annotated Insurance Contracts Act (4 th ed, Lawbook Co, 2003), para 21.10.8).(6) There is a debate as to whether an insured can "know" a matter by its agent cf McHugh, Kirby and Callinan JJ at [30] with Gummow and Hayne JJ in Permanent Trustee Australia Ltd [2003] HCA 25 ; 214 CLR 514 at [82] ---[89].Pending further clarification by the High Court, the wider view should be taken following Macquarie Bank Ltd v National Mutual Life Association of Australasia Ltd (1996) 40 NSWLR 543 per Powell JA at 610---611 (agreed with by Priestley JA and Clarke JA).(7) The obligation applies to renewal of a contract (s 11(9)(b)) ( Alexander Stenhouse Ltd v Austcan Investments Pty Ltd [1993] HCA 22 ; (1993) 112 ALR 353).94 It follows from (3), (4) and (5) above that a claim of non-disclosure by an insurer would rarely succeed without that insurer giving evidence as to the relevance and significance of the matter not disclosed to it.It would be curious, to say the least, if the particular insurer led evidence as to the practice of other insurers but not from its own camp.Of course, this is not a claim against an insurer but, rather, a claim against the broker.However, the broker led evidence from the other insurers but not from Macquarie Underwriting, which was the particular potential insurer, or from any other insurer that had actually been approached for cover in 2002, including Dexta, which granted cover.No explanation was tendered for that omission.The difficulty is all the greater because of the absence of any witness from the broker itself.It is not uncommon for a broker to be qualified to give evidence as to the state of a particular insurance market at a particular time, assuming a satisfactory actual knowledge of the practices of a sufficient cross-section of insurers.95 Evidence from the other insurers has little, if any, probative value upon the point at issue.Each insurer is a commercial entity competing for custom with differing business policies and practices.For this reason, it is dangerous for the Court to substitute its own opinion for evidence as to the practice of the relevant insurer.An insurer actively seeking certain types of business will have very different attitudes from an insurer who is not keen to attract that type of business.It will be recalled that in 2000 Macquarie Underwriting was competing actively with HIH for PI business at levels considered to be uneconomic by the witnesses for the insurers that were called.Furthermore, it is clear from the cross-examination of the witnesses from the other insurers, based upon particular files, that general guidelines apparently laying down strict prudential standards by no means govern the consideration of every proposal.There may be all manner of reasons why an insurer may wish to accommodate a particular proposal, notwithstanding the guidelines.96 Warne, who was effectively the decision maker, was of the view that there was no occasion to give notice of circumstances that might give rise to a claim until the second half of 2002 when it became clear that the application for a retirement village would not succeed and that there had to be a radical recasting of the proposed venture.At that stage, the investors were notified accordingly and the claim from Tosich followed shortly thereafter.Notification was then given to AIG as the insurer claimed to be responsible.Warne's evidence in this respect was somewhat confused, partly because the cross-examination was conducted by counsel for AIG who had objectives relevant to its client in mind.A particular difficulty arose for Warne because of an answer given in relation to renewal of the AIG policy in October 2002 where an answer "No" was given to the question:
+ 
+ "Does the Fund Manager or any of its Directors, officers or employees have any knowledge of any fact or circumstances which might give rise to a claim." 
+ 
+
+Warne conceded that he should have advised the insurer at that time if the insured had been aware of the potential Corporations Law breaches and potential loss of capital in the Queen Victoria Project.In my opinion, counsel for AIG is correct in putting that the true explanation of that answer is that the AIG policy was, in truth, regarded by Warne as only relevant to the Wollongong Prime Property Trust and not to the Queen Victoria Project.By the time of the AIG renewal, all of the material matters concerning the Queen Victoria Trust were all too clear to the defendants.97 The real question is whether a duty of disclosure arose before or at the time that PI insurance was to be renewed in March/April 2002.The pleading essentially relies upon breaches of the Corporations Law and the defendants' knowledge about them, together with delay in relation to the project.That was also the foundation of the evidence led from the witnesses from the other insurers.98 I am satisfied that the defendants knew of the likelihood of breaches of the Corporations Law in relation to the fundraising for the Queen Victoria Project from at least late 2001 after the first Phillips Fox letter.I am also satisfied that Johnson was also aware of that circumstance.I am satisfied that Harrison drew Warne's attention to the potential problem and that knowledge of the first Phillips Fox letter would have come to the attention of both Johnson and Warne.It was significant enough not to be forgotten.In particular, I find that Warne knew of the substance of that letter and that it remained present to his mind.On the other hand, I am not satisfied that it was a matter of particular concern to Johnson and Warne until after March 2002.99 The pleading relies upon the fact that the progress of the Queen Victoria Project was slower than had been represented by the time of renewal of the PI insurance in 2002.However, there is no evidence of active investor concern at that time.Warne had circulated a progress report to investors including Tosich in 2001.That indicated a program that would take some time to complete.Tosich expressed concern to Warne some weeks thereafter about progress, but did not follow the matter up with Warne until about August 2002.By then, the withdrawal of the Development Application was public and Tasman Investment had recognised the inevitable.The first record of a complaint from an investor was in early July 2002.The critical letter from the Council to Chris Lonergan 2amp; Associates was not sent until 17 April 2002.The pleading does not allege that Warne knew of the impending failure of the project at the time of effecting PI insurance in 2002.There is no evidence of any real concern on the part of Warne about the project up to the time of the renewal, notwithstanding that he was an investor in his own right as well as being, in effect, responsible for the investments by his clients.In short, Warne appears to have remained a true believer until after March 2002.His draft letter to investors was dated 13 May 2002.That timing explains his lack of concern about potential breaches of the Corporations Law during the relevant period.It can be concluded that Warne would not have known that the disclosure would be relevant to Macquarie Underwriting in March/April 2002.Neither Johnson nor Warne was cross-examined on the part of Aon on the topic of non-disclosure.100 Aon seeks to sidestep this aspect of the matter by aggregating the knowledge of all relevant officers of the Warne group, including Harrison's knowledge through his LMS connection.Even if that doubtful proposition be legitimate in this context, it could not rise higher than the pleaded circumstances --- likely breach of the Corporations Law and delay in the Queen Victoria Project.Those circumstances were known to Warne in substance and have been dealt with.101 Thus, the issue of non-disclosure is to be decided without any evidence from any relevant potential insurer, from the insurance broker actually involved and without any relevant admissions on the part of the potential insured.102 I have adverted to the problem confronting Aon in the absence of evidence from Macquarie Underwriting or Aon itself on this point.It cannot be doubted that the existence of the pleaded circumstances might be regarded by an insurer as relevant to the decision as to whether to accept the risk in question.But that does not establish that this insurer would so regard it, let alone that this insured, or a reasonable person in the circumstances, would know it to be so relevant.103 There could, no doubt, be a case where the circumstances are such that it can be taken that any reasonable insured would know that any insurer would regard them as relevant to cover of the risk proposed without the benefit of evidence from the insurer or broker.It may be that the position arrived at by September/October 2002 would fall into that category so far as PI insurance in relation to run off insurance for Tasman Investments was concerned.A fund raising that was advised to be likely to be in breach of the Corporations Law was clearly failing, with the investors likely to suffer considerable losses.In my opinion, the same cannot be said of the circumstances in March/early April 2002.The likelihood of loss on the investment was not known.The possibility of breaches of the law in relation to the fund raising was known, but that is as high as it reached at that point.That was likely to be academic if the project succeeded.The relevance of that circumstance to a particular insurer needs to be established by evidence.It is conceivable that such evidence could have been led, but it was not.For the Court to fill that gap and make a finding as to that issue would amount to speculation.I conclude that it has not been established that a failure to disclose the pleaded circumstances would have given rise to any relief in relation to the hypothetical Macquarie Underwriting policy.The same reasoning would apply in relation to the application of s 28(3) ( Manchester Unity Total Care Building Society v MGICA Ltd (1991) 6 ANZ Ins Cas 61-062).104 I am, thus, satisfied that the proper basis for quantification of loss is to assume that a Macquarie Underwriting policy would have issued based upon the proposal it received, including Tasman Investment as an insured with a retroactive date at least back to the inception of the business in 2000.The policy would, thus, have responded to claims made in the period from March 2002 to March 2003 arising from circumstances occurring in June---November 2000.Such claims would have clearly fallen clearly within the insured risk and there has been no suggestion of any relevant exception.Allowance will have to be made for the proposed deductible of $20,000 per claim.Some allowance should be made for the higher premium proposed by Macquarie Underwriting.It would not be right in principle to allocate all of that increase to the one claim by Tosich.The amount recovered of $25,608.38 should be deducted.There should also be a modest discount to reflect the possibility that a policy on appropriate terms might not have issued.All in all, the cross-claimants should recover the sum of $70,000 plus interest in relation to Tosich.105 Little attention was paid to the claims in relation to Roach and Kotwal and no special defence was raised in relation to them.The fact that they were paid out is of no consequence as there was no relevant policy in force at the time.The only distinction is that they were made later than that by Tosich.If proper insurance had been obtained, that should not have been relevant.The quantification of these claims needs to be further considered.SUMMARY 
+ 
+106 The first plaintiff Tosich succeeds on his claim against the defendants.The cross-claim by the defendants against AIG fails.The cross-claim by the defendants against Aon succeeds to the extent indicated.107 The proceeding will stand over to enable draft minutes of order to be brought in to give effect to these reasons, to deal with costs and to enable my attention to be drawn to any failure to deal with a necessary issue.I certify that the preceding One hundred and seven (107) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gyles.Associate:
+
+Dated: 20 March 2008
+
+ Counsel for the Plaintiffs: Mr D Talintyre 
+ 
+ Solicitor for the Plaintiffs: Fernie GB 2amp; Co 
+ 
+ Counsel for Tasman Investment Management Limited and Colin Philip Warne: Mr VR Gray 
+ 
+ Solicitor for Tasman Investment Management Limited: Deacons 
+ 
+ Counsel for Colin Philip Warne: Mr VR Gray 
+ 
+ Solicitor for Colin Philip Warne: Moloney Lawyers 
+ 
+ Counsel for Aon Risk Services Australia Limited: Mr MA Jones 
+ 
+ Solicitor for Aon Risk Services Australia Limited: Ebsworth 2amp; Ebsworth 
+ 
+ Counsel for American Home Assurance Company: Mr ST White SC 
+ 
+ Solicitor for American Home Assurance Company: Wotton 2amp; Kearney 
+ 
+ Dates of Hearing: 2, 3, 4, 5, 6, 9, 10, 11 and 12 July 2007 
+ 
+ Date of Judgment: 20 March 2008 
+
+ 
+ 
+ SCHEDULE 1 
+ 
+ CHRONOLOGY 
+ 
+
+ HISTORY RELATED TO WARNE ENTITIES 
+ 
+
+ 
+ Date 
+ 
+ Event 
+ 
+ 1994 
+ 
+ Warne establishes Tasman Investment under name Warne Investment Management Ltd. Warne Managing Director 
+ 
+ 14.11.1994 
+ 
+ Tasman Investment becomes licensed securities dealer under the Corporations Law 
+ 
+ 07.12.1994 
+ 
+ Warne becomes licensed securities industry representative of Tasman Investment 
+ 
+ 16.05.1997 
+ 
+ Johnson appointed company secretary of Tasman Investment 
+ 
+ 21.07.1997 
+ 
+ Tasman Investment renews Dealer's Licence issued under the Corporations Law.
+ 2#8226; Licence requires holding of insurance as required by ASC 
+ 14.12.1998 
+ 
+ Johnson appointed director of Tasman Investment 
+ 
+ 15.02.2000 
+ 
+ Harrison appointed director of Tasman Investment 
+ 
+ 18.04.2000 
+ 
+ Warne becomes director of Tasman Financial Services Pty Ltd 
+ 08.05.2000 ASIC letter to Court 2amp; Co re proof of insurance for licence under the Insurance (Agents and Brokers Act) 02.06.2000 Warne leaves for Canada 25.08.2000 Tasman Investment applies to ASIC to become responsible entity for the Wollongong Prime Property Trust.Blackett to take up the role of compliance officer as well as duties as a financial planner 
+ 06.09.2000 
+ 
+ ASIC advise Warne of requirements to vary dealer's licence re Wollongong Prime Property Trust, including minimum insurance requirements 
+ 18.10.2000 Johnson ceases to be a director of Tasman Investment, continues as company secretary 18.10.2000 Spice appointed director of Tasman Investment 18.10.2000 Ford appointed director of Tasman Investment 10.11.2000 Amended Dealer's Licence issued by ASIC 
+ 26.03.2001 
+ 
+ Tasman Investment Directors Meeting.
+ 2#8226; Resolved to change company name to Tasman Investment 
+ About 16.05.2001 
+ 
+ Tasman Investment ceased financial planning activity 
+ 
+ 11.07.2001 
+ 
+ Warne Investment Management Limited changes name to Tasman Investment 
+ 18.03.2002 Tasman Investment Management Limited extract from Minutes of Directors Meeting 13.08.2002 Minutes of Directors Meeting for Tasman Investment Management Limited.09.10.2003 Minutes of Directors Meeting for Tasman Investment Management Limited 
+
+ QUEEN VICTORIA PROJECT 
+ 
+
+ Date Event XX.XX.2000 Warne meets Brennan (LMS) who is seeking finance for retirement village and nursing home projects 14.03.2000 LMS Expression of Interest for Queen Victoria Hospital 19.04.2000 Property report prepared by Longevity Management System Pty Limited re The Queen Victoria Residential Community, Wentworth Falls, NSW.2#8226; Disclaimer.2#8226; Risk factors recorded as Appendix 5.2#8226; Intention of Longevity Management Systems --- QV Pty Ltd to redevelop the Queen Victoria Nursing Home and hospital site as a retirement village.2#8226; Seeking to raise project finance (equity and debt) to complete the land acquisition, and to build the retirement village.2#8226; Tender closes 11.05.00.2#8226; Expected Stage 1 (48 units) will commence in February 2001, following development approval.2#8226; Rest in four stages, each stage commencing after 65% of prior stage sold.2#8226; Expect completion in January 2003.2#8226; Section 6.2 - Zoning and Development Approvals.The portion of the site on which the development is proposed is zoned Bushland Conservation --- Hospital.A development application will be submitted to the Blue Mountains Council as soon as the Contract for the purchase has been agreed with the vendor.Development approval should be straightforward as SEPP5 applies to the site.Strong support is evident from the Mayor, Jim Angel, and his councillors.Also, the local member, Mr Bob Debus, has expressed his full support.2#8226; Residents will pay a once only licence fee under a Residential Licence.2#8226; Deferred management fees (if resident leaves).2#8226; Service fees (depend upon standard of case required).2#8226; Summary --- The Project Company and LMS believe that the Project, located in a market area where there is strong demand, and providing residents quality accommodation, with access to additional unique services will prove an exciting venture.It will return a substantial development project over a three or four year period and will yield ongoing profit in perpetuity.2#8226; Appendix 6 --- Project Risk Analysis.Includes:
+Risk: Development Approval not achieved.Mitigant: LMS-QV will obtain DA-SEPP5 applies, strong support from local council, and right of access to Land 2amp; Environment Court.May 2000 Queen Victoria Retirement Village Project Review 04.05.2000 Tasman Investment receives LMS's feasibility study for the Queen Victoria site 10.05.2000 Letter Tasman Investment (Warne) to LMS-QV.10.05.2000 LMS tenders for the Queen Victoria site About February/ March or May 2000 Discussions between Warne and Harrison concerning proposed means of fundraising 18.05.2000 Queen Victoria Retirement Village, Wentworth Falls, NSW.Project Review for Tasman Investment May 2000.Prepared by Longevity Management Systems Pty Ltd.
+ Investment 2#8226; Ownership --- Longevity Management Systems Pty Ltd. 2#8226; Investor's Vehicle --- 2#9642; Direct 2#9642; Noble Investment Management Ltd. 2#8226; Investment Breakdown: Percentage of development profit ** 70% investors 30% LMS ** sliding scale above 21% pa ROI.NB: LMS receives management fees.2#8226; Investor's entry --- June 2000.2#8226; Investor units --- $10,000.2#8226; Investor's return of capital --- June 2002.2#8226; Investor's ROI --- approximately 21% pa. 2#8226; Investor's exit --- by June 2005 or earlier.Design and Development Approvals Design and Zoning: ... 2#8226; No rezoning required --- as Bushland Conservation (Hospital) --- SEPP5 applies --- which enables retirement villages to be built.2#8226; Development approval by Alderman is necessary --- Mayor is supportive....
+ Financing 
+ Activity Source 2#8226; Research LMS 2#8226; Land acquisition LMS 2#8226; Construction Bank/Pre-sales 2#8226; Operations Bucklands
+
+ Investor's Assumptions 2#8226; Investment period 60 months 2#8226; Entry amount $10,000 unit 2#8226; Capital returned Within 2 years 2#8226; Exit timing Up to June 2005 2#8226; Expected annual return 21% pa 2#8226; Investor's position underpinned by increasing value of land at all times.29.05.2000 LMS successful in tender for Queen Victoria site (refers to LMS last tender 25.5.2000) XX.05.2000 Brennan tells Warne that LMS successful bidder for Queen Victoria site XX.06.2000 Tasman Investment prepares information memorandum on Queen Victoria Project 01.06.2000 Letter from Tasman Investment (Warne) to Tasman Investment client enclosing information memorandum on Queen Victoria Project 14.06.2000 Tasman Investment conducts seminar for clients interested in investing in Queen Victoria Project 22.06.2000 --- 26.06.2000 Drafts of syndication agreement prepared 26.06.2000 Fax from the Argyle Partnership to Investec Australia 26.06.2000 Kotwal (investor) drew cheque in favour of Warne Investment Management Services Ltd Trust Account for $30,000 XX.06.2000 Tasman Investment clients invest $1.6m in Queen Victoria Project 27.06.2000 Queen Victoria Land transferred to LMS 28.06.2000 Argyle Partnership circulates "execution" copies of syndication agreement XX.06.2000 Brennan commences reporting to Warne on progress of Queen Victoria Project development applications 06.07.2000 Tasman Investment directors meeting.Time for conversion of Wollongong Prime Property Trust to single reporting entity extended by ASIC to 31.10.2000 17.08.2000 Letter from Stirling Warton Williams Pty Limited to LMS 22.08.2000 Letter from Chris Lonergan to Carson Group and Tim Brennan 01.09.2000 Kotwal signs acknowledgment of risk in investing in Queen Victoria project 08.09.2000 Roach provides instructions to Warne to proceed to invest funds 21.09.2000 Tasman Investment introduces Roaches to Queen Victoria project 23.09.2000 LMS board resolve to allow Warnes to hold title deeds 10.10.2000 Tasman Investment provides recommendations to Roaches 22.11.2000 Queen Victoria Aged Care Village Funders Status Report 23.11.2000 Warne receives: 2#8226; Queen Victoria Aged Care Village, Agenda of Progress Report 2#8226; Queen Victoria Aged Care Village, Funders Status Report, 22nd November 2000 Intended development described as: 2#8226; restore heritage buildings 2#8226; combined nursing home and hostel 2#8226; wellness centre 2#8226; dementia unit 2#8226; hospital 2#8226; day care centre 2#8226; self care units (approx 200) Position in relation to development application set out 24.11.2000 Warne sends letter to Tasman Investment investors: 2#8226; met with directors of LMS yesterday 2#8226; tax lawyers advised preferable for investors to hold preference shares 28.11.2000 Roaches provide $29,500 to invest in Queen Victoria project 22.12.2000 Letter Teys McMahon to LMS Meeting with Warne of Tasman Investment, Harrison of Investec, Wells of Agpura and Brennan of LMS on 20.12.00.Advice on funding methods.Should complete first stage of fundraising as begun, by investor loans to LMS.Should form an investment company and issue a prospectus for the issue of shares to fund the completion and if necessary for some time, the operation of the Queen Victoria Hospital site including the hostel, nursing home and wellness centre and the related longevity management centre at Currawong.This should enable you to achieve your preferred position of being the long term owner and operator of these facilities.Note instructions: 2#8226; June 2000 a fundraising campaign was undertaken by LMS to raise the funds necessary to settle the Queen Victoria site.The Queen Victoria site was acquired by LMS pursuant to a winning tender and there was only a matter of weeks between communication of the winning tender and settlement which occurred on 28 June 2000.2#8226; Approximately $3.2m had been raised from clients of Tasman Investment on the basis of a presentation which accompanied the project overview, dated June 2000.2#8226; Further sum of $800,000 required to complete work contemplated by proposal put to the Investors.2#8226; Proposed documentation for first tranche fundraising is a loan agreement between LMS and Tasman Investment which presently exists in draft form.The parties contemplated that this fundraising would be exempt from the provisions of the Corporations Law under the sophisticated investor provisions (s 708(8)-(9) Corporations Law ) where an offer is made through a licensed dealer satisfied on reasonable grounds the investors have been able to properly assess the merits, value, risks and information needs and adequacy of information given in relation to the fundraising.However, you are uncertain if written statements have been made by the dealer and the investors acknowledging these things as required by the Corporations Law .Note in first recommendation: 2#8226; Complete first tranche as it has begun.2#8226; Remain true to representations made to the Investors as recorded in the project overview dated June 2000.2#8226; I am not retained to advise (Tasman Investment), nor am I in a position to advise whether it might enjoy exemption from the Corporations Law for this or other reasons.Warne intended to rely upon the sophisticated investor provisions of the Corporations Law .To effectively do this, there must be acknowledgements in writing signed by each of the investors as to certain matters prescribed by the Corporations Law.I do not know whether or not the investors have made these acknowledgments in writing.2#8226; You should take advice on the terms of the draft loan agreement.For example, clause 4.2 requires you to be satisfied about investors being excluded under s 708 of the Corporations Law before the money is released.You obviously can now not agree to this clause.Note in third recommendation: 2#8226; Form investment company and issue prospectus.2#8226; Type of shares --- redeemable preference (not voting) shares discussed.10.01.2001 Letter from Blue Mountains City Council to Chris Lonergan 2amp; Associates Pty Ltd 27.03.2001 Letter from LMS to Tasman Investment "as per our arrangements" Tasman Investment will continue to raise the funds required to meet the project expenses over the next 12 months 04.04.2001 PKF send facsimile to Teys with a fee proposal Part of the proposal refers to "reviewing your draft advice of 22.12.00 on legal issues" Document annotated with notes from Warne 13.06.2001 Letter Tasman Financial Planning Pty Ltd to investors.2#8226; Providing update on progress of DA for QV project.2#8226; DA is proceeding well and should be lodged in June (section 1) and July (section 2).2#8226; Enclosing June 2001 progress report 16.08.2001 Phillips Fox provided to Mr Spice Please find attaches confidential advice for the attention of you and Colin as requested in your meeting with Andrew last Friday.Would you mind ensuring that Colin also receives a copy.Attachment: 2#8226; records advice sought regarding existing arrangements 2#8226; identifies categories of investors who can be included in a scheme without the need to comply with the prospectus provisions 2#8226; review way investors invited to invest 2#8226; identifies understanding as to current situation (including fact that Tasman entered into agreement with LMS but no document had been executed) 2#8226; non compliance with disclosure document requirements 2#8226; identifies exemption categories 04.09.2001 Email advice of Phillips Fox to Tasman Investment.2#8226; Tasman Investment, on behalf of certain investors, has lent money to LMS (on the basis of a profit share) for the purpose of developing the land.2#8226; LMS and Tasman Investment want to investigate most appropriate structure to take project to next stage; involve seeking equity from institutions, such as superannuation funds.2#8226; Institutional investors prefer, from an internal prudential viewpoint, to invest in registered managed investment schemes.2#8226; Proposal: - Tasman Investment establish new registered MIS; - Fund will be unit trust; - Land will be transferred into fund; - Institutional investors invest in fund before land transfer; - Tasman investors could also become unit holders.If they did not profit sharing arrangements could also be transferred into fund, or they could be paid out; - LMS project manager.20.09.2001 Letter from Andrew Mutton of Phillips Fox to the Commonwealth Department of Health 2amp; Aged Care re: Residential Care Places --- September 2001 --- Queen Victoria --- Wentworth Falls, New South Wales 08.10.2001 Letter from Vic Hawse of Blue Mountains Council to Chris Lonergan 2amp; Associates Pty Ltd regarding Development Application No.1013/01 08.10.2001 Letter from Andrew Mutton of Phillips Fox to the Directors of Tasman Investments re Taxation Considerations 15.10.2001 Letter from Chris Lonergan of Chris Lonergan 2amp; Associates Pty Ltd to the General Manager of Blue Mountain City Council 26.10.2001 Document prepared by Theresa Kramer of Stan Manning 2amp; Associates 28.10.2001 Letter from Chris Lonergan to Chris Lonergan 2amp; Associates Pty Ltd to Blue Mountains City Council 29.10.2001 Letter from Michael Stratton of Colliers Jardine to Vic Hawse of Blue Mountains City Council 16.11.2001 Letter from Chris Brogan of Blue Mountains City Council to Chris Lonergan 2amp; Associates Pty Ltd 08.01.2002 Valuation report from Nelson Partners 30.01.2002 Letter from Chris Lonergan to Longevity 26.02.2002 Trust deed of the QV Trust between the "Initial Founders" (Dianne Brennan and Timothy Brennan) and the "First Trustee" (LMS).2#8226; QV Trust.2#8226; Beneficial interest in trust divided into 4 classes of units, having an undivided part of the beneficial interest in the Trust in accordance with the rights of each claim of Unit as set out in Schedule 1: - Tasman Investor Units.- Founder Units.- Consultant Units.- Ordinary Units.2#8226; Tasman Investors --- those persons who have invested in the Project via the Tasman Investor Agreement.2#8226; Tasman Investor Agreement --- the undated agreement between LMS, Tasman Investment and each individual, company or the trustee of any trust which has become a party to that agreement and has accepted an option to convert their investment into Tasman Investor Units.The Tasman Investor Agreement means the form of that agreement as it stood as at the date of this document except for any changes to it approved by way of an Ordinary Resolution of the holders of the Tasman Investor Units.2#8226; Tasman Investors will be allotted the Tasman Investor Units, upon acceptance of an option to convert their investment in Tasman Investment into Tasman Investor Units.2#8226; Tasman Investor Units entitled to "Specified Proportion" of the Project Net Profit.2#8226; Note transfers of "Founder Units" to various participants including Mr Warne, personally and Tasman Capital Limited.26.02.2002 Letter from Brennan of Longevity Management Systems Pty Ltd to Wayne Spice of Tasman Investment Management Limited 27.02.2002 Deed of Retirement and Appointment of Trustee 07.03.2002 Further advice of Brian Preston SC 13.03.2002 Deed Poll for Tasman Investment Management Limited and the QV Trust --- prepared by Phillips Fox 17.04.2002 Letter from Chris Brogan of Blue Mountains City Council to Chris Lonergan 2amp; Associates Pty Ltd 25.04.2002 Letter from Chris Lonergan to Blue Mountain City Council 10.05.2002 Letter from Tim Brennan of Longevity Management Systems Pty Ltd to Jim Angel --- Mayor --- Blue Mountains City Council 13.05.2002 Draft letter from Colin Warne to Investors 13.05.2002 Letter from Chris Lonergan to Longevity 24.05.2002 Letter from Chris Lonergan to Blue Mountain City Council XX.06.2002 Tasman Investment board meeting when Brennan advises Tasman Investment that Blue Mountains Council will not approve Queen Victoria project as a retirement village 03.06.2002 Letter from Tim Brennan of Longevity Management Systems Pty Ltd to Mr M Willis of Blue Mountains City Council 06.06.2002 Letter from Chris Brogan of Blue Mountains City Council to Tim Brennan of Longevity Management Systems Pty Ltd re recommended withdrawal of Development Application 19.06.2002 Minutes of Tasman Investment directors' meeting noting QV project "on hold" at Blue Mountains city Council until 30 June XX.07.2002 Longevity Management Systems issues press release announcing withdrawal of DA for QV development 10.07.2002 Blue Mountains gazette article re: Longevity Management Systems withdrawing application for DA for QV project 06.08.2002 Brennan proposes to Tasman Investment that Queen Victoria project proceed as a nursing home 13.08.2002 Minutes of Directors Meeting for Tasman Investment Management Limited.20.08.2002 Email from Andrew Mutton of Phillips Fox to Kevin Wallace of Tasman Capital.21.08.2002 Phillips Fox advice 26.08.2002 Phillips Fox advice 27.08.2002 Letter from Tim Brennan of Longevity Management Systems Pty Ltd to Kevin Wallace of Tasman 06.09.2002 Email from Amber Matthews of Phillips Fox to Wayne Spice and Kevin Wallace of Tasman.06.09.2002 Phillips Fox advice 09.09.2002 Offer to Warne Investors to Extinguish Debt Early 10.09.2002 Phillips Fox advice 12.09.2002 Tasman Investment directors meeting.2#8226; K Wallace requested that C Warne excuse himself from the meeting when the Board discussed issues of "disclosure" and possible related breaches in the capital raising for the project.2#8226; K Wallace and A Mutton presented Phillips Fox legal opinion and accompanying board paper.2#8226; It was resolved that the Tasman Investment trustee and CEO be instructed to: 1.Follow up and conclude a buy out by LMS on the basis of: - repayment of investor's capital plus 10% by 30 June 2003 or upon DA, whichever is the sooner.- LMS/buyer hold Tasman harmless from creditors.- LMS has 15 calendar days from Monday, 16 September to pay a non-refundable option fee of $25,000 to secure an exclusive due diligence period of 45 days from Monday, 16 September.
+ 
+ 2.Tasman Investment to meet on Tuesday, 1 October to review progress with LMS and other prospective party.
+ 
+ 13.09.2002 Letter from Wayne Spice of Tasman Investment Management Limited to Tim Brennan of LMS re QV Project 28.10.2002 Email from Spice to Aon: The Board of Tasman Investment Management Limited (TIML) would like to advise that there may be a possibility of a claim against the company in relation to the Queen Victoria project.14.11.2002 Letter from Tim Brennan of Longevity Management Systems Pty Ltd to Stephen Harrison of Tasman Capital.02.12.2002 Draft Heads of Agreement prepared by Phillips Fox 10.12.2002 Letter from Mark Green of Verekers Lawyers to Tim Brennan of LMS 20.12.2002 Project funding and Exit Agreement between Tasman Investment, LMS, BFT and Timothy Brennan.2#8226; BFT pay all costs associated with QV project from date of document.2#8226; Brennan guarantees BFT's performance.2#8226; Tasman Investment will retire as trustee in favour of new trustee (company nominated by BFT; special purpose vehicle).2#8226; Tasman Investment grants to LMS option to pay out Tasman Investors.2#8226; Tasman Investment may rescind if condition not satisfied by 31.12.02.23.12.2002 Deed of Retirement and Appointment of Trustee 17.03.2003 Colliers International advises Tasman Capital Limited that LMS offer to Tasman Investment to pay out Tasman investors was acceptable.01.04.2003 LMS writes to Tasman 04.04.2003 Draft letter from Colin Warne of Tasman to Investors 12.06.2003 Brennan tells Warne that he is seeking alternative funding to repay Tasman Investment 25.06.2003 Tasman Investment sends to Tosich copy of Colliers International letter 17 March 01.07.2003 LMS writes to Tasman Investment 03.07.2003 Brennan writes to Warne re repayment of Tasman Investment funding 04.07.2003 Tasman Investment writes to Tosich enclosing LMS letter 1 July 24.07.2003 Minutes of Board Meeting for Tasman Investment Management Limited.04.09.2003 Minutes of Directors Meeting for Tasman Investment Management Limited.10.09.2003 Brennan writes to Warne re repayment of Tasman Investment funding 12.09.2003 Letter from Tim Brennan of LMS to Colin Warne of Tasman Investment re Queen Victoria --- Trust Distribution 09.10.2003 Minutes of Directors Meeting for Tasman Investment Management Limited 17.10.2003 Brennan writes to Warne re repayment of Tasman Investment funding 21.11.2003 Investment and Unitholders Agreement XX.12.2003 Brennan tells Warne that he has a contract with alternative financier in NY but cannot show it to Warne 16.12.2003 Brennan sends email to Tasman Investment re repayment 30.01.2004 ASIC Notice Requiring the Production of Books to Tasman Investment Management Limited 09.02.2004 Letter from Nick Shannon of Shannon 2amp; Co to Tim Walker of ASIC 22.02.2004 Nelson partners valuation of QV site 05.03.2004 Affidavit of Timothy Walker filed in the ASIC Proceedings.09.03.2004 ASIC commences proceedings to wind up QV project 09.03.2004 Interlocutory Process filed by ASIC in the Supreme Court of NSW.12.03.2004 Affidavit of Colin Warne filed in the ASIC Proceedings.25.03.2004 Roach threatens legal action against Warne over QV project 02.04.2004 Affidavit of Timothy Walker filed in the ASIC Proceedings.22.04.2004 David Nelson and Partners --- Consultancy Valuation Report 23.04.2004 Letter from Shannon 2amp; Co Report to Investors 29.04.2004 The QV Project Investment Scheme Minutes of Meeting of Investors.02.07.2004 Mrs Kotwal demands repayment of her investment in the Queen Victoria project 09.07.2004 Roach writes to Warne that he expects Warne to "protect me against loss" in the Queen Victoria project 11.10.2004 Report of SJ Parbery of PPB addressed to the Supreme Court of NSW.11.10.2004 Consent Orders of the Supreme Court filed in the ASIC Proceedings 16.11.2005 Affidavit of Stephen James Parbery sworn 16 November 2005 12.04.2006 Letter from Stephen James Parbery of PPB to Investors of The Queen Victoria Project 29.01.2007 Letter from Stephen James Parbery to All Saints Investments Pty Limited --- Tosich received a dividend of $25,608.38 (representing 20.49 cents in the dollar) 15.02.2007 Orders in Federal Court Proceedings NSD 2328 of 2006 
+
+ DEALINGS BETWEEN TOSICH AND WARNE 
+ 
+
+ Date Event 
+ October 1994 
+ 
+ Tasman Investment and Warne commence providing investment advice to Tosich for superannuation Fund portfolio 
+ 
+ 1995 
+ 
+ Tosich obtains employment first with ABB and then freelance leading hand and site supervisor 
+ 
+ Towards end 1999 
+ 
+ Tosich sells Burwood family home providing funds for investment.
+ 
+ 17.02.2000 
+ 
+ Portfolio Valuation of Mr J Tosich 
+ 
+ 21.02.2000 
+ 
+ Tosich consults Tasman Investment re investment of funds 
+ 
+ 04.03.2000 
+ 
+ Warne prepares outline investment strategy for Tosich 
+ 
+ 29.03.2000 
+ 
+ Letter from Tasman Investment to Mr J and Mrs N Tosich 
+ XX.06.2000 Tosich receives "Initial Offer Proposal" 23.08.2000 Warne raises with Tosich Queen Victoria project as a possible investment Sept 2000 Meeting between Warne and Mr 2amp; Mrs Tosich at their Ormond Street, Ashfield home.Tosich alleges that he decided to go into the investment straight away.At that stage he did not fill out any forms.
+ 09.10.2000 
+ 
+ Warne tells Tosiches that Queen Victoria project is a great opportunity but $250,000 is too much for them.Tosich decides to invest $125,000.
+ 
+ 31.10.2000 
+ 
+ Tosich signs QV application form.
+ 06.11.2000 Date of Tosich cheque for $125,000 13.11.2000 Tosich cheque presented 23.11.2000 Tasman Investment writes to Tosich 
+ 23.11.2000 
+ 
+ Letter from Tasman Investment to J 2amp; N Tosich 
+ 
+ 08.12.2000 
+ 
+ Commonwealth Bank Cash Management Call Account Statement 
+ 
+ 20.12.2000 
+ 
+ Tasman Investment writes to Tosich 
+ 
+ 20.12.2000 
+ 
+ Letter from Colin Warne to Mr J Tosich enclosing Portfolio Valuation 
+ 
+ 04.01.2001 
+ 
+ Tasman Investment writes to Tosich 
+ 
+ 04.07.2001 
+ 
+ Tasman Investment writes to Tosich 
+ 
+ Many weeks after 04.07.2001 
+ 
+ Conversation between Tosich and Warne 
+ 
+ Late August or early September 2002 
+ 
+ Meeting between Warne and Tosich at Tosich's house in Putney 
+ 
+ 20.09.2002 
+ 
+ Spice conversation with Tosich.
+ 
+ 27.09.2002 
+ 
+ Letter Tasman Capital Limited to Tosich re status of investment: 
+ 
+ 02.12.2002 
+ 
+ Letter Tasman Financial Planning Pty Ltd (Planning) to Tosich --- update.
+ 
+ 10.12.2002 
+ 
+ Verekers to Warne --- letter of demand.
+ 2#8226; Refers to his provision of the document on 01.06.00 for the purpose of soliciting funds.
+ 24.02.2003 
+ 
+ Warne writes to Tosich's solicitor 
+ 
+ 04.04.2003 
+ 
+ Tasman Investment sends letter to Tosich enclosing LMS letter 
+ 25.06.2003 Tasman Investment sends to Tosich copy of Colliers International letter 17 March 04.07.2003 Tasman Investment writes to Tosich enclosing LMS letter 1 July 12.09.2003 Warne writes to Tosich enclosing copy of Brennan's letter 10 September 25.09.2003 Tasman Investment writes to Tosich enclosing copy of Brennan's letter 10 September 27.11.2003 Tosich commences these proceedings against Tasman Investment and Warne 16.06.2005 Deed of Assignment between All Saints, Tosich, Mrs Tosich, Tasman Investment and Warne 19.04.2006 All Saints substituted for Tosich as applicant in these proceedings by filing of Amended Statement of Claim 18.5.2007 Tosich joined as an applicant to the proceedings by the filing of the Third Amended Originating Process 
+
+
+ DEALINGS BETWEEN WARNE ENTITIES AND AON 
+ 
+
+ Date Event 23.05.2000 Warne completes proposal for PI insurance 24.05.2000 Aon requests Professional Indemnity quotation Aon Macquarie Underwriting "can you look at the attached Financial Planner form and advise terms for insurance".26.05.2000 Aon to Tasman Investment noticing that Aon did not appear to have received from Tasman Investment a completed professional indemnity proposal form.30.05.2000 Aon (Elia) to Tasman Investment providing comparative professional indemnity quotes for financial planning business 2#8226; enclosing comparative professional indemnity quotations 2#8226; Financial Planners Scheme with HIH 2#8226; Macquarie Underwriting 2#8226; HIH is more expensive 2#8226; HIH has higher deductible ($9700 vs $5000) 30.06.2000 Warne accepts Macquarie Underwriting quotation for professional indemnity insurance for financial planning business expiring 31.3.2001 07.07.2000 Warne cancels QBE professional indemnity policy 11.07.2000 Tasman Investment confirms to Aon that proposal dated 23.5.00 remains accurate save that the company insured should include Court 2amp; Co 31.08.2000 Aon provides Tasman Investment with copy of Macquarie Underwriting policy Business: Financial Planner Insured: Tasman Investment and Court 2amp; Co Period: 30.6.00 to 31.3.2001 Sum insured: $2m Excess: $5000 10.10.2000 Facsimile from Aon (Elia) to Tasman Investment (Blackett) 2#8226; Macquarie Underwriting policy not specifically made to MIA standards 2#8226; Enclosed IMI insurance proposal 2#8226; Identified insurers AIG, Chubb and Liberty 2#8226; Upon receipt of documentation Aon would arrange to market 2#8226; When cover bound will cancel existing insurance and transfer credit due to new cover 20.10.2000 IMI insurance proposal signed by Warne and Johnson 24.10.2000 IMI insurance proposal provided by Aon to AIG 24.10.2000 IMI insurance proposal provided to Liberty 24.10.2000 IMI insurance proposal provided to Chubb 27.10.2000 Email from Aon (Elia) to Blackett (peter @ warne.com.au) requesting further information in relation to the unitholders meeting.Email headed "Professional Indemnity for Responsible Entity" 27.10.2000 Letter from Tasman Investment (Blackett/Johnson) to Aon (Elia) re "Professional Indemnity for Responsible Entity" responding to enquiries 30.10.2000 Chubb declines to provide IMI terms 30.10.2000 Liberty declines to provide IMI terms 31.10.2000 AIG provide 30 day terms for IMI insurance 31.10.2000 Warne accepts 30 day terms for IMI insurance 31.10.2000 Retroactive date for AIG policies entered into for years 31.10.00 to 31.10.01 and 31.10.01 to 31.10.02 02.11.2000 Liberty declines to provide IMI terms.08.11.2000 AIG provide revised (12 months) terms 
+ 09.11.2000 
+ 
+ Warne accepts AIG revised (12 months) terms 
+ 13.11.2000 Aon confirms to Tasman Investment that IMI policy extended to 31.10.2001 16.01.2001 AIG issues certificate of currency Insured: Tasman Investment Business: Investment Management Services Limit: $5m in the aggregate Deductible: $50,000 each and every claim 07.02.2001 Letter from Aon (Elia) to Tasman Investment (Warne) re Professional Indemnity Insurance Renewal 2001/2002 company professional indemnity insurance policy due to expire at 4 pm on 31 March 2001 2#8226; requesting completion of enclosed proposal form 2#8226; "Due to the "claims made" nature of this insurance, policy obligation require that all claims (or circumstances which may give rise to a claim) must be reported to your insurer prior to the expiry date.If you have not previously advised insurers of a claim(s) or circumstance(s), please ensure prompt notification is made to this office in order that your right to indemnity is not prejudiced".02.03.2001 Similar letter to above sent by Aon (Elia) to Tasman Investment (Warne) re Financial Planners Professional Indemnity Scheme Renewal.13.03.2001 Letter from Tasman Investment (Johnson) to Aon (Elia) enclosing proposal for professional indemnity insurance renewal (stamped as received 19.3.01).Letter requests best quotes for both $2m and $5m with varying excess levels Proposal records: (a) Proposed insured were Tasman Investment and Tasman Financial Planning Pty Ltd (b) precise nature of activities etc 2#8226; recorded "Financial Planning and Advisory Services" 2#8226; initially recorded but deleted "Responsible Entity for Wollongong Prime Property Trust" (c) percentage of fees for each activity 2#8226; financial advisory services --- 100% (originally recorded as 90% with 10% allocated to "Property Management Services") (d) fees for five largest contracts --- initially recorded but deleted "Fee as Manager and Now Responsible Entity for Wollongong Prime Property Trust".(e) Only professional indemnity insurance nominated was the Macquarie Underwriting expiring cover (f) Nominates sum insured $2m (g) Nominates excess $5000 (h) signed off by Johnson (i) attaches example financial plan prepared by Warne 
+ 26.03.2001 
+ 
+ Tasman Investment Directors Meeting.- Wollongong Prime Property Trust 
+ 2#8226; Board agrees to approach other insurers re PI insurance with a view to reducing premiums.2#8226; Spice confirmed that the trust is liable to pay for PI insurance of the scheme.
+ - Directors indemnity/insurance.Action --- the secretary was asked to obtain quotations for this as soon as possible.- Resolved to change company name to Tasman Investment.
+ 31.03.2001 Aon procures for Tasman Investment and Court 2amp; Co renewal terms for Macquarie Underwriting professional indemnity policy expiring 31.3.2001 06.04.2001 Facsimile from Tasman Investment (Johnson) to Aon (Elia) 2#8226; quotation accepted and signed 2#8226; requesting certificate of currency be organised ASAP.Quote acceptance is signed by Warne.Quote refers to: 2#8226; Insured: Tasman Investment 2#8226; Indemnity limit: $2m any one claim and $6m in the aggregate 2#8226; Period 31.3.01 to 31.3.02 2#8226; Insurer: Macquarie Underwriting 2#8226; Cost: $18,243.50 17.04.2001 Tasman Investment advise ASIC that chasing certificate of currency from Macquarie Underwriting 27.04.2001 IMI policy wording sent to Blackett 
+ 01.05.2001 
+ 
+ Tasman Investment (Johnson) forwards proposal for directors and officers insurance to Philsure: 
+ 2#8226; both Tasman Investment and Tasman Financial Planning Pty Ltd act as financial planners 2#8226; "Please note that as part of our Professional Indemnity insurance coverage as responsible entity for the Wollongong Prime Property Trust we have Directors and Officers Liability coverage for this part of our operations.For this proposal we are therefore only seeking Directors and Officers liability insurance for our financial planning operations." 
+ 06.06.2001 
+ 
+ Tasman Investment directors meeting.Minutes record:
+ - Directors insurance --- proposals sent out.Brokers have trouble placing insurance.B Johnson to speak to AON (and others?).ACTION 
+ OFFICER RESPONSIBLE 
+ DUE DATE 
+ 
+ Comparable insurance quote for responsible entity business
+ WS
+ May 2001, update next meeting 
+ 
+ Directors indemnity/insurance
+ BJ
+ Update next meeting 
+ 21.06.2001 Tasman Capital Limited send completed D 2amp; O proposal to Aon, providing instructions in the same terms as those previously provided to Philsure.Attached proposal refers to: 2#8226; applicants --- Tasman Capital Ltd and subsidiaries 2#8226; Principal activities --- Financial Planners 09.08.2001 Facsimile from Tasman Investment (Johnson) to Aon (Sinclair/Elia) 2#8226; requesting advice on status of D 2amp; O application 2#8226; requesting quotes for Investment Management Insurance by 1.9.01 "We note that the Investment Management Insurance in place for the Wollongong Prime Property Trust expires October 31 st ....." 29.08.2001 Aon send proposal to AIG to quote for directors and officers insurance "for their Financial Planning Operations only" 05.09.2001 Email from AIG to Aon (Elia) 18.09.2001 Letter from Tasman Capital Limited (Johnson) to Aon (Elia) re Investment Managers Insurance/Directors 2amp; Officers Liability Insurance 2#8226; enclosing material for IMI renewal (no draft financial plan documents enclosed) 2#8226; requesting quotations "As discussed we are interested in AIG's proposal to include D 2amp; O insurance with the IMI insurance provided this does not preclude us from getting competitive quotes from other insurers.We also need to be able to dissect the cost of the IMI insurance so that we can claim reimbursement from the Trust." 15.10.2001 AIG email to Aon: 2#8226; please provide details regarding the PI policy that is covering the Financial Planning arm 18.10.2001 AIG email to Aon following information: 2#8226; a CV for Bill Tootill 2#8226; details of the 350m funds under management of Tasman Capital Group.31.10.2001 Email from AIG to Aon (Elia) @ 3.13pm For good order, please confirm that: 2#8226; confirmation that Tasman Capital Ltd do not undertake and (sic) operations besides the ownership of Warne Investment Ltd 2#8226; confirmation that the intention of this policy is not provide any cover in relation to Tasman Capital Group having $350m funds under management 31.10.2001 @ 4.47 pm Email from Aon (Elia) to AIG We confirm that the Financial Planning activities of Warne Investments and Tasman Capital are covered under a separate cover with another insurer.The client is aware that this policy is for the Trust only.31.10.2001 AIG fax to Aon Commencement of AIG IMI cover (At this point the Macquarie Underwriting professional indemnity policy was still in force until 31.3.2002) 01.11.2001 AIG confirm cover bound 02.11.2001 Blackett forwards CV to Aon as requested (part of the information required by AIG) 03.12.2001 Email from Aon (Elia) to Johnson ..... What AIG have done: (1) D 2amp; O Warne IMI now in the name of Tasman Capital --- covering the Property Trust only.AIG can extend this to cover wrongful acts by Directors in relation to not just the Property Trust but the company of Tasman Capital Ltd, excluding Investec, excluding Financial Planning activities (2) Macquarie Underwriting insure the Financial Planning activities of Tasman Capital and the old Warne.... 20.02.2002 Aon provides IMI contract for 31.10.2001 to 31.10.2002 to Johnson, recommending "read it carefully" 05.03.2002 Tasman Capital Limited forward professional indemnity insurance proposal to Aon.2#8226; Names four applicants: Tasman Capital Limited, Tasman Financial Planning Pty Ltd, Tasman Investment and Ryan Property Investments 2#8226; Identifies in details of insurance the expiring Macquarie Underwriting cover 2#8226; Seeks coverage of $2m, excess $5000 2#8226; Signed by Warne 2#8226; Attaches draft financial plan 15.03.2002 Letter from Macquarie Underwriting to Aon Re: Warne Investment Management Limited 2amp; Tasman Financial Planning Pty Limited Policy No 65M00090001818 "There are some issues that need clarification before I can consider offering terms on this risk.We currently insure Warne Investment Management Limited ("Warne") 2amp; Tasman Financial Planning Pty Limited in respect to Financial Planning 2amp; Life Insurance Broking activities.I note that "Warne" has now changed its name to Tasman Investment Management Limited.It would appear from the submission that "Warne" and now Tasman Investment Management is in fact a Single Responsible Entity under the Managed Investments Act and is conducting a managed Property Trust.Please note that Macquarie does not cover the conduction/management of the Property Trust under this policy.There are further entities listed on the proposal that are not currently insured.Please clarify the following: - Tasman Capital Limited is listed as being the "management company".This is not a very comprehensive description.What professional services/consulting does this entity provide that they require PI cover for?And whom do they provide it to?- Tasman Investment Management Limited (formerly "Warne") can still be named as an insured under any new policy, however they will NOT be covered for conducting a managed Property Trust.Please advice what you require.- Ryan Property Investments Pty Limited previously known as Tasman Property Investments Pty Ltd.This entity is not covered under the current policy.If they require cover please provide details of the professional services that this entity provides.- We are currently providing cover for Life Insurance Broking activities.I note there is no reference made to this on the current proposal form.Please advise what happened to this activity.- Do any of the entities to be insured issue Proper Authorities to Advisers?If so which entity?Do they provide ongoing services to these Proper Authority Holders?Does your client require the individual Proper Authority Holders to be insured under the policy?Or just pick up the vicarious liability?As the policy currently stands there is no cover for either unless the Proper Authority Holders fall within Definition 6.14 "You".Please also have your client answer the following question: "Do you comply with all statutory, government and semi-government laws, regulations and requirements, relevant to your businesses, including the Financial Services Reform Act 2001 and the Privacy Act 19888 (as amended)?Yes No If "No", please explain why." I await your advices.Regards Stuart Coleman 18.03.2002 Tasman Investment Management Limited extract from Minutes of Directors Meeting 20.03.2002 AIG provide non binding indication for professional indemnity (financial planners) renewal 20.03.2002 Aon (Kazakova) to Tasman Capital Limited (Johnson) re application for professional indemnity insurance.There are some issues that need clarification before the Underwriter considers offering terms..... Please also clarify the following: .... 2.Tasman Investment Management Limited ("Warne") can still be named as an Insured under any new policy, however, they will not be covered for conducting a managed Property Trust.Please advise what you require....... 20.03.2002 Tasman Financial Planning Pty Ltd (Johnson) to Aon (Kazakova) re professional indemnity insurance: Tasman Investment Management Ltd (TIML) has Investment Managers Insurance organised by Schyuler.Please talk to him about this.TIML no longer conducts financial planning or life insurance broking activities.These have all been transferred to Tasman Financial Planning.For your other queries: ..... Suggest you talk to Schyuler about whether or not we need this.If there is no extra cost I suggest we include them...... 27.03.2002 Dexta provide non binding indication of terms 31.03.2002 Expiry of Macquarie Underwriting policy 02.04.2002 Tasman Capital Limited (Johnson) request situation re renewal of PI insurance for Tasman Group (expired 31.3.02).03.04.2002 Email Aon (Elia) to Tasman Capital Limited (Johnson) re PI insurance.2#8226; Macquarie Underwriting request further information 2#8226; requested indicative costing from Macquarie Underwriting 2#8226; no current held covered arrangement in place pending Macquarie Underwriting's review 2#8226; alternative quotes from AIG and Dexta 2#8226; identifies differences between AIG and Dexta quotes 2#8226; recommend the AIG terms because of the current situation with no cover and the fact they have other business insured 2#8226; asks if Tasman Capital Limited would like to wait for Macquarie Underwriting's response or proceed with one of the AIG or Dexta quotes.04.04.2002 Email Tasman Capital Limited (Johnson) to Aon (Elia) 2#8226; can afford to wait until tomorrow if Macquarie can get back by then 2#8226; at moment favour Dexta's option 2 2#8226; let's see what Macquarie can do 2#8226; will call Elia after lunch tomorrow 08.04.2002 Email Tasman Capital Limited (Johnson) to Aon (Elia) 2#8226; have we heard from Macquarie yet 2#8226; if not, please advise on thoughts of accepting the Dexta option 2 10.04.2002 Email Tasman Capital Limited (Johnson) to Aon (Elia) asking for urgent advise on what is happening with PI insurance 11.04.2002 Email Tasman Capital Limited (Johnson) to Aon (Elia) re PI insurance Can you please call me on 0407 409 173 re the above.URGENT 17.04.2002 Email Tasman Capital Limited (Johnson) to Aon (Elia) re PI insurance As discussed I have Board meeting tomorrow and need to finalise PI insurance today.Please advise urgently what is happening.18.04.2002 @ 9.31 am Email Tasman Financial Planning Pty Ltd (Blackett) to Aon (Elia) re PI for Tasman Capital Limited.2#8226; confirming conversation with Johnson of previous night 2#8226; proceed with Dexta, failing that go with AIG 2#8226; imperative cover is in place today 2#8226; backdate cover to 31.3.02 18.04.2002 File note of Elia (see end of 15.3.02 fax) DEXTA-MC will review costs and get back to me MACQ --- SC -2gt; $62,000 --- (new bvs premium) --- retro inception AIG --- PH to look at X/S $50K = $25K 35000 18.04.2002 @ 12.29 pm Email Aon (Elia) to Tasman Capital Limited (Johnson/Blackett) re Tasman Financial Planning Pty Ltd professional indemnity 2#8226; approached AIG and Dexta again to review their insurance costs 2#8226; Dexta unable to reduce costs on $2m limit; premium remains at $31,950 2#8226; AIG have looked at the deductible and offer an alternative $25,000 each and every claim for a base premium of $35,000 pre charges 2#8226; Macquarie Underwriting provide terms 2#8226; Macquarie Underwriting - $2m any one claim, $6m aggregate - $20,000 per claim deductible - cost $65,000 pre charges - excludes proper authority holders AIG - $2m any one claim, $2m aggregate - $25,000 per claim deductible - Costs $32,000 + GST + stamp duty - Covers employee proper authority holders automatically, others subject to additional charge Dexta - $2m any one claim, $6m aggregate - $20,000 per claim deductible - cost $31,950 + GST + stamp duty - other activity exclusion - other entity exclusion - covers employee and five other proper authority holders at no additional cost The Dexta Corporation quotation is recommended because of costings in relation to the Deductible.They will also pick up some PAH but in turn can offer separate cover for each adviser, if required.With this in mind we will bind cover w/e immediately with Dexta and arrange a certificate of currency to be forwarded to your office this afternoon.18.04.2002 @ 1.44 pm Email Aon (Elia) to Tasman Capital Limited (Johnson/Blackett) re Tasman Financial Planning Pty Ltd professional indemnity 2#8226; re Dexta quote --- cancellation clause/loading 2#8226; AIG have same terms written not their policy wordings.18.04.2002 Aon provided instructions to accept Dexta terms 18.04.2002 Aon provides Dexta proposal forms for completion 19.04.2002 Johnson sends completed proposal forms to Aon 2#8226; insured entities --- Tasman Capital Limited, Tasman Financial Planning Pty Ltd 2#8226; did not include Tasman Investment or Ryan Property 26.04.2002 Aon send Certificate of Currency re Dexta cover to Tasman Capital Limited Insured: Tasman Capital Ltd and Tasman Financial Planning Pty Ltd 01.05.2002 Facsimile from Aon to Johnson enclosing application to pay premium over 12 months 02.05.2002 Dexta issue policy wording 2#8226; Insured: Tasman Capital Limited, Tasman Financial Planning Pty Ltd 2#8226; Professional Business: Financial Planner 2#8226; Previous Business: Nil 2#8226; no indemnity for claims directly or indirectly arising from any actual or alleged act, error or omission as a responsible entity 2#8226; no indemnity for claims directly or indirectly arising from work performed by or on behalf of Tasman Investment 2#8226; no indemnity for claims directly or indirectly arising from investments in managed investment schemes other than schemes which invest in equities, property, fixed interest or cash.2#8226; wording does not include retroactive date exclusion.
+ 28.10.2002 
+ 
+ Aon requests details of the notification 
+ 
+ 30.10.2002 
+ 2#8226; Tasman sends details of circumstance to Aon 2#8226; Aon forwards details on to AIG 2#8226; Aon forwards further account to AIG 2#8226; AIG seeks further information re claim circumstance 31.10.2002 Expiry of AIG policy 31.10.2002 Tasman Investment sends to Aon response to AIG further request for information Aon forwards the information on to AIG 01.11.2002 Email Tasman Capital Limited (Harrison) to Aon (Thompson): I refer to our conversation regarding the confusion on this matter.As discussed the monies raised were done so by Warne Investment Management (now Tasman Investment Management) under their Financial Planning/Investment advice hat.The investors were not grouped together as part of a registered managed investment scheme....... As part of this process we only recently picked up the irregularity regarding the raising of capital.Hence it really falls under a different area and not this policy.
+
+ DEALINGS BETWEEN AON AND AIG 
+ 
+
+ Date Event 29.08.2001 Aon send proposal to AIG to quote for directors and officers insurance "for their Financial Planning Operations only" 05.09.2001 Email from AIG to Aon (Elia) 15.10.2001 AIG email to Aon: 2#8226; please provide details regarding the PI policy that is covering the Financial Planning arm 18.10.2001 AIG email to Aon following information: 2#8226; a CV for Bill Toothill 2#8226; details of the 350m funds under management of Tasman Capital Group.31.10.2001 Email from AIG to Aon (Elia) @ 3.13pm For good order, please confirm that: 2#8226; confirmation that Tasman Capital Ltd do not undertake and (sic) operations besides the ownership of Warne Investment Ltd 2#8226; confirmation that the intention of this policy is not provide any cover in relation to Tasman Capital Group having $350m funds under management 31.10.2001 @ 4.47 pm Email from Aon (Elia) to AIG We confirm that the Financial Planning activities of Warne Investments and Tasman Capital are covered under a separate cover with another insurer.The client is aware that this policy is for the Trust only.01.11.2001 AIG confirm cover bound 18.04.2002 @ 12.29 pm Email Aon (Elia) to Tasman Capital Limited (Johnson/Blackett) re Tasman Financial Planning Pty Ltd professional indemnity 2#8226; approached AIG and Dexta again to review their insurance costs 2#8226; Dexta unable to reduce costs on $2m limit; premium remains at $31,950 2#8226; AIG have looked at the deductible and offer an alternative $25,000 each and every claim for a base premium of $35,000 pre charges 2#8226; Macquarie Underwriting provide terms Macquarie Underwriting - $2m any one claim, $6m aggregate - $20,000 per claim deductible - cost $65,000 pre charges - excludes proper authority holders AIG - $2m any one claim, $2m aggregate - $25,000 per claim deductible - Costs $32,000 + GST + stamp duty - Covers employee proper authority holders automatically, others subject to additional charge Dexta - $2m any one claim, $6m aggregate - $20,000 per claim deductible - cost $31,950 + GST + stamp duty - other activity exclusion - other entity exclusion - covers employee and five other proper authority holders at no additional cost The Dexta Corporation quotation is recommended because of costings in relation to the Deductible.They will also pick up some PAH but in turn can offer separate cover for each adviser, if required.With this in mind we will bind cover w/e immediately with Dexta and arrange a certificate of currency to be forwarded to your office this afternoon.
+ 30.10.2002 
+ 2#8226; Tasman sends details of circumstance to Aon 2#8226; Aon forwards details on to AIG 2#8226; Aon forwards further account to AIG 2#8226; AIG seeks further information re claim circumstance 31.10.2002 Expiry of AIG policy 31.10.2002 Tasman Investment sends to Aon response to AIG further request for information Aon forwards the information on to AIG 
+
+ DEALINGS BETWEEN WARNE ENTITIES AND AIG 
+ 
+
+ Date Event 10.10.2000 Facsimile from Aon (Elia) to Tasman Investment (Blackett) 2#8226; Macquarie Underwriting policy not specifically made to MIA standards 2#8226; Enclosed IMI insurance proposal 2#8226; Identified insurers AIG, Chubb and Liberty 2#8226; Upon receipt of documentation Aon would arrange to market 2#8226; When cover bound will cancel existing insurance and transfer credit due to new cover 24.10.2000 IMI insurance proposal provided by Aon to AIG 31.10.2000 AIG provide 30 day terms for IMI insurance 08.11.2000 AIG provide revised (12 months) terms 16.01.2001 AIG issues certificate of currency Insured: Tasman Investment Business: Investment Management Services Limit: $5m in the aggregate Deductible: $50,000 each and every claim 31.10.2001 AIG fax to Aon Commencement of AIG IMI cover (At this point the Macquarie Underwriting professional indemnity policy was still in force until 31.3.2002) 01.11.2001 AIG confirm cover bound 20.03.2002 AIG provide non binding indication for professional indemnity (financial planners) renewal 31.03.2002 Expiry of Macquarie Underwriting policy 
+ 30.10.2002 
+ 2#8226; Tasman sends details of circumstance to Aon 2#8226; Aon forwards details on to AIG 2#8226; Aon forwards further account to AIG 2#8226; AIG seeks further information re claim circumstance 31.10.2002 Expiry of AIG policy SCHEDULE 2 
+ 
+
+ DRAMATIS PERSONAE 
+ 
+
+
+This Schedule of dramatis personae is structured as follows:
+
+A.Parties
+B. Non-party witnesses and deponents
+C. Other persons
+D. Other entities
+E. Structure of Tasman Capital group
+
+
+ A.PARTIES 
+
+ Name of person or entity Details John Tosich ( Tosich ) First plaintiff.Investor in the Queen Victoria Project.All Saints Investment Pty Limited
+( All Saints ) Second plaintiff.Pleads the acquisition of all the rights of Tosich as against the defendants by virtue of a deed of assignment and pleads all facts and matters pleaded by Tosich.Tasman Investment Management Limited ( Tasman Investment ) First defendant, first cross-claimant and first cross-defendant to the third cross-claim.Carried on financial planning business.Formerly Warne Investment Management Limited ( WIML ).Undertook financial planning within the Tasman Group until 1 July 2001, when all financial planning began to be undertaken by Tasman Financial Planning Ltd. From 1 July 2001, Tasman Investment operated only as responsible entity for the Wollongong Prime Property Trust.See part E below for details of structure of Tasman Capital group.Colin Philip Warne ( Warne ) Second defendant, second cross-claimant and second cross-defendant to the third cross-claim.Managing director of various companies including Tasman Investment.Aon Risk Services Australia Limited ( Aon ) Third defendant, second cross-defendant and cross-defendant to the fourth cross-claim.Insurance broker and acted as such for Tasman Investment Management Limited and other Warne companies.American Home Assurance Company ( AIG ) First cross-defendant, third cross-claimant and fourth cross-claimant.Provided an Investment Managers Insurance Policy to Tasman Investment and Warne.B. NON-PARTY WITNESSES AND DEPONENTS (alphabetical by surname) 
+
+ Name of witness Details James Patrick Boardman Solicitor with Wotton 2amp; Kearney acting for AIG.Philip Chiu Regional Manager with AIG.Adrian Gamble Former professional indemnity underwriter.Stephen James Harrison Company director.Former director of Tasman Investment.Former Executive Chairman of Tasman Capital Limited.Brian Johnson Certified Practising Accountant.Former director of, company secretary and accountant for, Tasman Investment/WIML.Joanne Lindsay-Eschbank Professional indemnity underwriter.Christopher Ian McLean Underwriter with Liberty International Underwriters.Jeremy Douglas Scott-Mackenzie Assistant Vice-President, Financial Services Division, AIG.Ian Williams Professional indemnity underwriter with QBE.C. OTHER PERSONS (alphabetical by surname) 
+
+ Name of person Details Jim Angel Mayor of Blue Mountains City Council at relevant times.Peter Barnes Principal of LMS with Timothy Brennan.Peter Blackett Tasman Investment/WIML employee.Dianne Brennan Initial founder (with Timothy Brennan) of the Queen Victoria Trust.Timothy Brennan Principal of LMS with Peter Barnes.Bob Debus Local member for Blue Mountains at relevant times.Schuyler Elia Aon employee who dealt usually with the Warne companies.Andrew Ford Former director of Tasman Investment.Elena Kazakova Aon account broker.Archana Kotwal Investors in the Queen Victoria Project.Chris Lonergan Principal of Chris Lonergan 2amp; Associates Pty Ltd. Andrew Mutton Solicitor with Phillips Fox.Stephen James Parbery Receiver and Manager with PPB.Brian Preston SC Barrister.Provided advice to LMS in relation to the Queen Victoria Project.John and Denise Roach Investor in the Queen Victoria Project.James Sinclair Aon employee.Wayne Spice Former director and CEO of Tasman Investment.Michael Teys Solicitor with Teys McMahon.Bill Tootill CV requested by AIG.Timothy Walker Senior Investigator, Australian Securities and Investments Commission.Kevin Wallace Former CEO of Tasman Capital Limited.Nerida Wallace Aon employee.Part of service team with Schuyler Elia and Elena Kazakova.Geoff Wells Agpura employee.D. OTHER ENTITIES (alphabetical) 
+
+ Name of entity Details Agpura Finance and corporate planning for the Queen Victoria Project.Argyle Partnership Solicitors for LMS.Blue Mountains City Council Local council for the area containing the Queen Victoria Memorial Hospital.Carson Group Pty.Ltd. Project manager for the Queen Victoria Project.Chris Lonergan 2amp; Associates Pty Ltd Planning consultants advising LMS in relation to the Queen Victoria Project.Chubb Insurance Company of Australia Limited Approached by WIML in relation to investment management insurance.Colliers International/Colliers Jardine Consultancy and Valuation Advised in relation to the Queen Victoria Project.Court 2amp; Co Financial Services Pty Limited Former name of Warne Financial Services Pty Limited.See part E below for details of structure of Tasman Capital group.David Nelson 2amp; Partners Pty Limited Advised LMS in relation to valuation of the Queen Victoria Land.Dexta Corporation Professional indemnity insurer.Investec Australia Funding consultant in relation to the Queen Victoria Project.Liberty International Underwriters Approached by WIML in relation to investment management insurance.Longevity Management Systems Pty Limited ( LMS ) Successfully tendered for Queen Victoria land.Macquarie Underwriting Pty Limited Professional indemnity insurer.Markel Australia Pty Limited Professional indemnity insurer.Nelson 2amp; Partners See David Nelson 2amp; Partners Pty Limited.Phillips Fox Solicitors advising in relation to the Queen Victoria Project.Philsure Former Warne group insurance broker.PKF Chartered accountants and business advisers advising in relation to the Queen Victoria Project.PPB Chartered accountants and business reconstruction specialists advising in relation to investment in the Queen Victoria Project.QBE Insurance Limited Sometime provider of professional indemnity insurance to Warne.Ryan Property Investments Pty Limited Formerly Tasman Property Investments Pty Ltd. Shannon 2amp; Co AC Accountants advising in relation to investment in the Queen Victoria Project.Stan Manning 2amp; Associates Advised in relation to "independent living" components of the Queen Victoria Project.Stirling Warton Williams Pty Limited Chartered Accountants advising LMS.Tasman Capital Limited Former name of Tasman Capital Pty Ltd. See part E below for details of structure of Tasman Capital group.Tasman Capital Pty Ltd Formerly Tasman Capital Limited.See part E below for details of structure of Tasman Capital group.Tasman Financial Planning Pty Ltd Former name of Warne Financial Services Pty Limited.From 1 July 2001, undertook all financing planning activities of the Tasman Capital group previously undertaken by Tasman Investment.See part E below for details of structure of Tasman Capital group.Tasman Property Investments Pty Ltd Former name of Ryan Property Investments Pty Limited.Teys McMahon Solicitors advising LMS in relation to the Queen Victoria Project.Warne Financial Services Pty Limited Formerly Tasman Financial Planning Pty Ltd. See part E below for details of structure of Tasman Capital group.Warne Investment Management Limited ( WIML ).Former name of Tasman Investment.See part E below for details of structure of Tasman Capital group.Wollongong Prime Property Trust ( WPPT ) Managed investment trust.Responsible entity from 1 July 2001 was Tasman Investment (also responsible for other property investment schemes).E. STRUCTURE OF TASMAN CAPITAL GROUP 
+
+ 
+2#8226; Group structure as at 1 July 2001 :
+
+ Tasman Capital Limited 
+ 100% Tasman Investment Management Limited (formerly Warne Investment Management Limited) 
+ 100% Tasman Financial Planning Pty Ltd (formerly Court 2amp; Co Financial Services Pty Limited) 
+
+ 
+2#8226; Alterations to names of entities in group structure after 1 July 2001 :
+ 
+ o Tasman Capital Limited changed its name to Tasman Capital Pty Ltd.
+ 
+ o Tasman Financial Planning Pty Ltd changed its name to Warne Financial Services Pty Limited.AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/377.html 
+ 
+ 

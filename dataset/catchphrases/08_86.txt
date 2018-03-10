@@ -1,0 +1,6 @@
+pleading
+whether statement of claim adequately pleaded causation between misleading or deceptive misrepresentations and loss suffered
+applicants pleaded they were induced by misrepresentations to enter into transaction by which they bought shares in a company and lent money to that company, and that absent the representations they would not have done so
+applicants also pleaded that after entering into the transaction, they took various subsequent steps involving dealings with their shares and debt, and that those steps caused the applicants to incur further losses
+whether pleading adequate as pleading of a "no transaction" case. held : the causal link between either the representations or the principal transaction, and the subsequent steps and losses, must be pleaded.
+practice and procedure

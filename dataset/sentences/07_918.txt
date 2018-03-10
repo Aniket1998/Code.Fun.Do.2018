@@ -1,0 +1,34 @@
+
+ 
+1 ASIC is continuing its investigation into the fraudulent trading scheme that is described in ASIC v Lee [2007] FCA 508.To recapitulate, Australian investors were induced into purchasing non-existent commodity options on non-existent foreign commodities exchanges and lost more than $8 million.Some of the stolen money (approximately $139,000) was transferred into bank accounts maintained by Mr Lee with the Australia and New Zealand Banking Group Limited and Westpac Banking Corporation Limited.Mr Lee has over $2 million in those accounts.On 11 April 2007 I made an order under s 1323(3) of the Corporations Act 2001 (Cth) that, pending trial, the money in those accounts be frozen.Now, following the trial, ASIC seeks a continuation of that order.2 An order s 1323(1) can be made if, and only if, the following conditions are satisfied.First, relevantly, that ASIC is carrying on an investigation under the Australian Securities and Investments Commision Act 2001 (Cth) or the Corporations Act 2001 into whether a person (a "relevant person") has acted in contravention of the Corporations Act .It is common ground that ASIC is conducting an investigation of that kind in relation to the activities of Mr Lee.He is, therefore a "relevant person" for the purposes of s 1323.He may not be the only "relevant person".Others are being investigated, but their identity is not presently known.3 The second condition is that it is "necessary or desirable" to make the order for the purpose of protecting an "aggrieved person" to whom the "relevant person" may become liable in debt damages or for compensation or otherwise.I will return to this condition later.4 Third, ASIC must establish that the money (strictly we are dealing with a chose in action namely the debt owed by the bank to its customer) the subject of an order either belongs to a "relevant person" (s 1323(1)(f)) or is held on behalf of a relevant person (s 1323(1)(e)).The evidence regarding the "ownership" of the money in the accounts is sparse.The reason is that, as on the interim application, Mr Lee refused to give any evidence.Thus as regards "ownership", all I know is that the accounts exist and that they are maintained by Mr Lee.He is, therefore, legally entitled to the money in the accounts in that he is the legal owner of the chose in action.To go any further and decide whether the money (strictly the chose) is held by Mr Lee on behalf of someone else, who may also be a "relevant person", would be to engage in speculation.5 This brings me back to the second condition.It has two elements.The first (though not in the order it appears in the section) is that the relevant person (Mr Lee) is or may be liable to pay damages or compensation to an aggrieved person, that is a person who lost money in the scheme.Mr Lee would obviously be liable to an aggrieved person if he were involved in putting the illegal scheme into effect.Even if not involved, Mr Lee may be liable in an action in restitution to account for any stolen money that has come into his possession.6 On the facts presently known to it, ASIC cannot show that Mr Lee is liable in debt or damages to any aggrieved person.There is no evidence that establishes that he was a party to the illegal scheme.On the other hand, there is plainly a connection between Mr Lee and the scheme.He received some of the stolen money.It may not be much, but it is enough to show a connection.And then there is the fact that Mr Lee simply refuses to explain how he came by that money.I find this to be quite extraordinary.Here we have a man who has millions of dollars in Australian bank accounts.If he could satisfactorily explain that he came by that money honestly it would be released to him.Yet he refuses to tell anyone about the funds.The overwhelming impression I am left with is that Mr Lee refused to give evidence because he is concerned for his personal position.Or, to adopt the language of the High Court in RPS v The Queen [2000] HCA 3 ; (2000) 199 CLR 620, 632: "In a civil trial there will very often be a reasonable expectation that a party would give or call relevant evidence.It will, therefore, be open in such a case to conclude that the failure of a party (or someone in the party's camp) to give evidence leads rationally to an inference that the evidence of that party or witness would not help the party's case." I can only conclude that there is a strong case that Mr Lee may (I emphasise the word "may") be liable in debt or damages to an aggrieved person.7 In reaching this conclusion I have not overlooked the fact that ASIC's investigation thus far has led it to the position that many of the payments made out of the Bank of China account, where the stolen money was deposited and which is the source of approximately the $190,000 that was paid into Mr Lee's accounts, were payments to persons who had no connection with the fraudsters.That, however, does not exonerate Mr Lee.Even thieves have legitimate bills to pay.That ASIC is satisfied that some payments out of the Bank of China account were legitimate does not mean that is true for all the payments out of that account.I emphasise again that if the money paid to Mr Lee was a legitimate payment all he had to do was come forward and say so.That he has not invites suspicion.8 The second element of the second condition is that it is "necessary and desirable" to make the order.I think an order is both necessary and desirable, but not for an inordinate period.ASIC's investigation has taken them to many overseas jurisdictions.Their investigation requires the cooperation of overseas regulatory authorities.Little can be done quickly.Moreover, ASIC has no control over the speed with which its inquiries are dealt with.As well, one must not lose sight of the fact that these kinds of international frauds are difficult to investigate.Tracking down the culprits and locating the stolen money takes hard work and a lot of time.9 In all the circumstances I propose to continue the freezing order until 31 July 2007.If the order is to be continued thereafter a further application will need to be made.
+ 
+
+
+
+
+ I certify that the preceding nine (9) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Finkelstein.Associate:
+
+Dated: 15 June 2007
+
+
+ Counsel for the Plaintiff: M. L. Sifris SC 
+ 
+ Solicitor for the Plaintiff: J.P. Moore 
+ 
+ Counsel for the Defendant: J. Delany SC 
+ 
+ Solicitor for the Defendant: A. Hanak 
+ 
+ Date of Hearing: 18 April 2007 
+ 
+ Date of Judgment: 15 June 2007 
+
+
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/918.html 
+ 
+ 

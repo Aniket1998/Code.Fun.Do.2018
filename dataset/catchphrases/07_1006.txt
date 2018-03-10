@@ -1,0 +1,13 @@
+deemed dividends
+div 7a of pt iii of the income tax assessment act 1936 (cth)
+trustee (t) of unit trust purchases land and constructs business premises upon it, borrowing from bank (anz) for the purpose
+related trading company (c) pays some of the liabilities incurred by t on the purchase and the construction, debiting a "loan account" of t in c's general ledger
+advances by anz and other amounts payable to t are credited to the loan account
+t has no bank account of its own, all payments and receipts on account of t taking place in c's bank account and being reflected in t's running loan account with c
+factual dispute as to whether loans by c to t within s 109d of the act or payments by c to t within s 109c of the act
+whether ss 109c and 109d operated only to deem payments and loans made to persons beneficially to be dividends
+whether the loans or payments made by c should be seen to be deemed dividends paid to the unitholders, c and another family company (f). held : (1) the amounts paid by c were loans to t; (2) div 7a was not limited to amounts lent or paid to an entity in a non-trustee capacity; (3) div 7a operated to deem the loans or payments to be dividends paid to t as trustee; (4) div 6 of pt iii of the act made the deemed dividends assessable income of the unitholders, c and f, as persons presently entitled to income of the unit trust fund.
+109ze ) esp ss 109c , 109d , 109j , 109k , 109z , 109zd , 109ze income tax assessment act 1997 (cth) ss 2
+45 , 960-100
+income tax
+income tax assessment act 1936 (cth) pt iii , div 7a (ss 109a

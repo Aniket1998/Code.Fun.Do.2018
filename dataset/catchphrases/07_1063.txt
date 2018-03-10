@@ -1,0 +1,14 @@
+withholding tax under div 11a of pt iii of income tax assessment act 1936 (cth)
+australian resident company wholly owned subsidiary of swiss parent company
+australian company declares dividend payable 22 days after date of declaration
+swiss parent contracts to sell right to receive dividend to english company
+english company contracts to sell right to receive dividend to australian resident company
+swiss company directs australian subsidiary to pay dividend to end purchaser australian resident company by paying into its bank account in sydney
+when date for payment arrives, australian subsidiary does so
+whether income consisting of dividend was "derived" by swiss parent upon declaration of dividend
+in alternative, whether swiss company derived income consisting of dividend by payment made to end purchaser australian resident company
+relevance of evidence of business and accounting practice relating to derivation of dividend income
+whether liability to withholding tax can be avoided by assignment of assignment of right to receive dividend without assignment of underlying shares. held : (1) evidence of business and accounting practice admissible; (2) income consisting of dividend derived by swiss parent upon declaration of dividend by australian subsidiary; (3) alternatively, income consisting of dividend derived by swiss parent upon payment to australian end buyer.
+" paid ", " derived "
+income tax
+words and phrases

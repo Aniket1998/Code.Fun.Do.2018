@@ -1,0 +1,6 @@
+privilege
+client legal privilege
+common interest privilege
+time at which common interest assessed
+whether joint venturers have common interest
+evidence

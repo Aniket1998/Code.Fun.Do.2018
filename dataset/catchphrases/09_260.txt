@@ -1,0 +1,4 @@
+whether a transfer is void against the applicant pursuant to s 120 of the bankruptcy act 1966 (cth)
+whether the transfer of property was effected for less than market value
+whether the bankrupt was solvent at the date of the transfer
+bankruptcy

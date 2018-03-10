@@ -1,0 +1,4 @@
+application to inspect company's books
+whether 'acting in good faith and inspection for a proper purpose'
+whether an inspection should be ordered pursuant to s 247a of the corporations act.
+corporations

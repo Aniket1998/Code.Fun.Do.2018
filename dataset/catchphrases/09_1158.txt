@@ -1,0 +1,7 @@
+deed of company arrangement (doca)
+doca obliged doca administrator to cause company to convene general meeting of members for the purpose of their electing a new board of directors
+s 249h(1) of corporations act 2001 (cth) (the act) required that at least 21 days' notice be given of a meeting of a company's members
+company's constitution required that members have at least until 21 days before annual general meeting (agm) to nominate persons for election as directors at agm
+s 444g of the act (within pt 5.3a) made doca binding on doca administrator
+doca administrator could not comply with both s 249h(1) and s 444g and doca in so far as doca incorporated, by reference, company's constitution and its requirement touching agms. held : order made under s 447a of the act providing for closing of nominations earlier than 21 days before date fixed for agm.
+corporations

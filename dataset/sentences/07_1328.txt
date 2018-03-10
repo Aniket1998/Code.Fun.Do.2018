@@ -1,0 +1,143 @@
+
+ 
+1 On 12 June last I made orders under s 447A of the Corporations Act 2001 (Cth) (the Act) in relation to an extension of the "decision period" provided for by s 441A(1)(b) ( Australian Capital Reserve Limited (Administrators Appointed) v High Tower Investments Pty Limited (Administrators Appointed); in the matter of High Tower Investments Pty Limited (Administrators Appointed) [2007] FCA 1028).On 15 June last I made orders extending the convening period for the meeting of creditors required to be held under s 439A of the Act to midnight on 23 July 2007.I reserved consideration of any application to further extend that period indicating that, if a case were made out, I would exercise the power provided for by s 447A to achieve that end.Reasons for that decision were given together with reasons in relation to an extension of the convening period in relation to the related Estate Property group of companies (the Group) ( Hayes, in the matter of Estate Property Group Ltd (Administrators Appointed) [2007] FCA 935).Those various judgments, together with the judgment relating to the Estate Property group of companies to be handed down contemporaneously with these reasons ( Hayes, in the matter of Estate Property Group Limited (Administrators Appointed) [2007] FCA 1329) , explain the background to this application, which need not be repeated here.2 On 13 July 2007 I made the following orders:
+ 
+ 
+ "1.Pursuant to section 447A(1) of the Corporations Act 2001 (Cth) (the Act ), Part 5.3A of the Act is to operate in respect of Australian Capital Reserve Limited (administrators appointed) as if the convening period for the meeting of creditors of Australian Capital Reserve Limited (administrators appointed) required to be held under section 439A of the Act is extended to midnight on 31 August 2007.
+ 
+ 2.Pursuant to section 447A(1) of the Act, Part 5.3A of the Act is to operate in respect of Australian Capital Reserve Limited (administrators appointed), as if: 
+ 
+ 
+ 
+ 
+ 
+ (a) section 439A(1) also provided that the meeting of creditors required by that section may be convened and held within the convening period (including within the convening period as extended pursuant to subsection 439A(6)); 
+ 
+ (b) section 439A(2) of the Act provided that the meeting must be held within five business days from being convened in accordance with subsections 439A(3) and (4), being a date not necessarily within five business days from the end of the convening period (including the convening period as extended pursuant to subsection 439A(6)); and 
+ 
+ (c) section 439A of the Act operated generally to permit the convening and holding of the meeting of creditors during the convening period (including the convening period as extended pursuant to section 439A(6)) provided the requirements of subsection 439A(3) and (4) are complied with.
+ 
+ 
+ 
+ 
+ 
+ 3.Direct that the Applicants e-mail by 9.00 pm today a copy of these orders to each of: 
+ 
+ 
+ 
+ 
+ 
+ (a) Michael Britton at Permanent Nominees (Aust) Limited; 
+ 
+ (b) Scott Kershaw at McGrath Nicol in his capacity as administrator of Estate Constructions of Australia Pty Limited (administrators appointed); and 
+ 
+ (c) Tim Mullaly of the Australian Securities and Investments Commission.
+ 
+ 
+ 
+ 
+ 
+ 4.As soon as practicable, the Applicants post a copy of these orders on the pwcrecovery webpage, in respect of Australian Capital Reserve Limited (administrators appointed) and publish in The Australian newspaper notification of the substance of these orders.
+ 
+ 5.The Applicants' costs of the proceedings be paid as a cost of the administration of Australian Capital Reserve Limited (administrators appointed).
+ 
+ 6.Costs of Permanent Nominees (Aust) Limited be reserved.
+ 
+ 7.Adjourn the proceedings for mention on 13 August 2007 at 9.30 am.
+ 
+ 8.The Applicants have liberty to apply on 24 hours notice.
+ 
+ 9.Direct that these orders be passed and entered forthwith." 
+ 
+ 
+ 
+
+I said I would give reasons later.These are those reasons.3 The fate of this company, Australian Capital Reserve Limited (Administrators Appointed) (ACR) depends entirely upon the recoverability of loans made by it to other companies in the Group for the purposes of real estate development.It virtually follows that the convening period for the second meeting of the creditors of ACR should be extended in line with that of the Group as it is only when there is a report as to those companies that the administrators of ACR (the Administrators) can prepare a meaningful report.However, there are two special features pertaining to ACR which require consideration.4 The first is that ACR is a secured creditor in relation to the loans to other companies in the Group, albeit usually ranking after other mortgagees.As such, the Administrators have been involved, together with other secured lenders, in the investigations and deliberations by the administrators of the Group of companies and have taken their own expert real estate advice.They, thus, have sources of information not available to ordinary creditors of the Group.Nonetheless, there is a good case for coordinating the administrations as all companies are members of the same corporate group with the same information relevant to all.5 The second feature is that the only creditor of ACR in the strict sense in respect of public investors is Permanent Nominees (Aust) Limited (Permanent) which is trustee for the holders of notes (noteholders) issued to the public by ACR pursuant to an unsecured note trust deed dated 10 March 2000 and a deed of amendment of unsecured notes trust deed dated 28 March 2001.The consent of Permanent to the successive extensions of the convening period, as overwhelmingly the largest creditor of ACR, was put forward as an important factor in favour of approval of the extension sought.The proof of debt lodged by Permanent on behalf of noteholders was in an amount of $331,010,805.70, and that on its own behalf was in the amount of $100,000.00.The number of noteholders is in the vicinity of 7,000.6 When the matter first came on, the gist of the evidence on behalf of Permanent was that a relevant officer had reviewed the evidence to be relied upon by the Administrators in seeking a further extension and supported that extension.I indicated that a fuller account of what was being done by Permanent, particularly in relation to communications with noteholders, should be provided and that it would be appropriate for Permanent to be represented to explain the position.That led to the filing of further evidence and the appearance of senior counsel for Permanent thereafter.7 The requirement for a trustee in situations like the present comes from Pt 2L.1 of Ch 2L of the Act.In short, a body offering debentures in the stated circumstances must enter into a trust deed that complies with s 283AB and appoint a trustee that complies with s 283AC (s 283AA )."Debenture" is defined in s 9 to mean:
+ 
+ "a chose in action that includes an undertaking by the [company] to repay as a debt money deposited with or lent to the [company]." 
+ 
+
+8 Section 283AB(1) provides as follows:
+ 
+ 
+ "(1) The trust deed must provide that the following are held in trust by the trustee for the benefit of the debenture holders: 
+ 
+ 
+ 
+ 
+ (a) the right to enforce the borrower's duty to repay; 
+ (b) any charge or security for repayment; 
+ (c) the right to enforce any other duties that the borrower and any guarantor have under: 
+ (i) the terms of the debentures; or 
+ (ii) the provisions of the trust deed or this Chapter.
+ 
+ 
+ 
+ Note: For information about the duties that the borrower and any guarantor body have under this Chapter, see sections 283BB to 283CE ." 
+ 
+
+9 Section 283AC(1) specifies the parties that can be a trustee and s 283AC(2) provides a general prohibition of appointment which will result in a conflict of interest or duty.10 The duties of a borrower company pursuant to Pt 2L.2 include making its financial and other records available for inspection by the trustee or persons appointed by the trustee (s 283BB(c)) , a duty to notify the Australian Securities and Investments Commission (ASIC) of the name of the trustee within 14 days (s 283BC) , a duty to replace the trustee in the event of a vacancy (s 283BD) , a duty to inform the trustee about charges (s 283BE) and the duty to give the trustee and ASIC quarterly reports (s 283BF).11 The trustee's duties are set out in Pt 2L.4 and, in particular, s 283DA.Amongst those duties are the following:
+ 
+ "The trustee of a trust deed entered into under section 283AA must: 
+ 
+ 
+ (a) exercise reasonable diligence to ascertain whether the property of the borrower and of each guarantor that is or should be available (whether by way of security or otherwise) will be sufficient to repay the amount deposited or lent when it becomes due; and 
+ (b) exercise reasonable diligence to ascertain whether the borrower or any guarantor has committed any breach of: 
+ 
+ 
+ 
+ 
+ (i) the terms of the debentures; or 
+ (ii) the provisions of the trust deed or this Chapter; and 
+ 
+ 
+ 
+ 
+ (c) do everything in its power to ensure that the borrower or a guarantor remedies any breach known to the trustee of: 
+ 
+ 
+ 
+ 
+ (i) any term of the debentures; or 
+ (ii) any provision of the trust deed or this Chapter; 
+ 
+ 
+ 
+ 
+ unless the trustee is satisfied that the breach will not materially prejudice the debenture holders' interests or any security for the debentures; and 
+ (d) ensure that the borrower and each guarantor complies with Part 2K to the extent that it applies to the debentures; and 
+ (e) notify ASIC as soon as practicable if: 
+ 
+ 
+ 
+ 
+ (i) the borrower has not complied with section 283BE , 283BF or subsection 318(1) or (4); or 
+ (ii) a guarantor has not complied with section 283CC ; ..." 
+ 
+ 
+ 
+
+12 Part 2L.5 deals with meetings of debenture holders, covering the borrower's duty to call a meeting (s 283EA) , the trustee's power to call a meeting (s 283EB) --- which is triggered by a failure by the borrower or guarantor to remedy any breach of the terms of the debentures or the provisions of the trust deed or Chapter 2L --- and the Court's discretion to call a meeting (s 283EC) --- which includes calling of a meeting to give directions to the trustee of the kind specified in the section.13 Part 2L.8 deals with the powers of the Court --- s 283HA provides a general power to give directions and determine questions and s 283HB sets out specific Court powers.14 Clause 4 of the trust deed between Permanent and ACR contains an acknowledgement by ACR that it is indebted to Permanent for the amount owing in relation to each note.The power to issue notes is limited to a total of $25 million without the written consent of Permanent and there are obligations as to backing of notes by the holding of net tangible assets.Clause 9 gives power to Permanent to institute proceedings to enforce the payment of the amount owing and provides that "a noteholder is not competent to, and must not institute the proceedings for, the enforcement of this Deed".All of the reporting by ACR is to Permanent and all inspection of records of ACR is by Permanent.There is no requirement for information to be provided by Permanent to noteholders and no provision for meetings of noteholders, except on application by persons holding not less than 10 per cent in value of all notes then on issue.There are a number of provisions which purport to limit the duties of the Trustee or limit or exclude liability on the part of the Trustee.The remuneration of the Trustee was $5,000 upon acceptance and an annual fee in relation to principal amounts of more than $50 million of $20,000 plus $125 per additional $1 million plus payment of various expenses.15 This analysis supports the position taken by the Administrators that, so far as ACR is concerned, the only creditor is Permanent, a position supported by Permanent.That is of enormous practical convenience to ACR and its Administrators but leaves individual noteholders in the hands of Permanent with no provision for, or requirement of, communication by it to noteholders.Permanent has statutory, contractual and fiduciary duties and is subject to direction in some respects by meetings of noteholders and by the Court.Enforcement of those duties by individual noteholders is, of course, another matter.16 There has been no communication by Permanent to noteholders since the administration commenced.A meeting of creditors was held on the afternoon of 4 June 2007 simultaneously in each of Sydney, Melbourne and Brisbane, having been convened by the administrators originally appointed to ACR but ultimately chaired by Mr Greg Hall, one of the then newly appointed Administrators.A number of noteholders attended.It is said that that meeting was called in consultation with Permanent.At the meeting the Chairman said that the Administrators would report to noteholders in writing within a month, that they would maintain a website on which information relevant to noteholders would be available and that the Administrators and their staff would be available to deal with noteholder queries.17 The Administrators have maintained a website since about 4 June 2007 with information which would be of interest to noteholders.It includes a noteholder change of address procedure and an email address for queries.Although it is said that Permanent could utilise the website, it has not done so.On or about 3 July 2007 a document entitled "ACR Noteholder Update --- 2 July 2007" with a document entitled "Frequently Asked Questions --- Dated: 2/7/2007" and a personalised covering letter to each noteholder seeking confirmation as to the details of their investment as compared with the records of ACR was sent by the Administrators to noteholders.The draft was provided to Permanent prior to them being sent and copies have been posted on the website.The Administrators maintain an "infoline" telephone number which noteholders can ring and speak to a member of staff.18 Permanent has liaised closely with the Administrators and it has been satisfied at a responsible level that the further extension of the convening period is appropriate.It has taken the view that it is not necessary that there be any endeavour to seek directions as to the decision to be made, either from noteholders or otherwise.It takes the view that the supply of information to the noteholders from the Administrators is adequate and that the costs of independent notification by it are not justified.It is understood by Permanent that voting as to the fate of ACR at the second meeting will be a different matter.19 I was persuaded that an extension could properly be granted without further communication to noteholders principally because Permanent took the initial step of facilitating the appointment of separate administrators for ACR, in place of the administrators who were appointed to all of the companies in the Group, because of the special position that ACR played in the structure and the significance of the interests of the members of the public who, as noteholders, had provided the finance for the operations of the Group.Those Administrators are able to concentrate on the interests of ACR alone.Thus, in a practical sense, the Administrators and Permanent have similar interests at this stage in maximising the position of ACR and so the position of noteholders who comprise the overwhelming body of creditors.20 Permanent's costs of appearing were reserved.They were incurred as the result of a suggestion by the Court and can be seen as part and parcel of the application by the Administrator.On the other hand, Permanent has statutory (and other) duties in relation to a vast number of investors without any other voice that made an appearance appropriate.On that basis, the costs can be seen to be incurred as part of Permanent's duty as a trustee and best dealt with between trustee and beneficiaries.However, as Permanent supported the Administrator's position, and was effectively brought to Court, the costs of doing so should be regarded as costs of the administration.That should not include costs connected with the affidavits that were filed.I certify that the preceding twenty (20) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gyles.Associate:
+Dated: 29 August 2007
+
+ Counsel for the Applicants: Mr CRC Newlinds SC; Ms S Mirzabegian 
+ 
+ Solicitor for the Applicants: Baker 2amp; McKenzie 
+ 
+ Counsel for Permanent Nominees (Aust) Limited: Mr LG Foster SC on 11 and 13 July 2007 
+ 
+ Solicitor for Permanent Nominees (Aust) Limited: Baker 2amp; McKenzie 
+ 
+ Dates of Hearing: 6, 11 and 13 July 2007 
+ 
+ Dates of Orders: 13 July 2007 and 29 August 2007 
+ 
+ Date of Reasons: 29 August 2007 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1328.html 
+ 
+ 

@@ -1,0 +1,5 @@
+interpleader suit
+order 44 rules 2
+ocean carrier of cargo interpleads after threat of suit by someone claiming to be the owner of cargo
+no letter of indemnity proffered by consignee and bill of lading holder.
+practice and procedure

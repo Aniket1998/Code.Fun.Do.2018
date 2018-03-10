@@ -1,0 +1,11 @@
+application for request for assistance in a criminal matter to be declared invalid, set aside or quashed
+whether the request lawfully made
+whether the request was made by the attorney general (cth) or the attorney general's delegate
+whether the maker of a request is under an obligation to disclose all material facts
+whether alleged factual defects in the request rendered the request invalid
+whether reasonable grounds to believe the preconditions for making the request were satisfied
+whether inclusion of allegedly privileged material rendered the request invalid
+whether the involvement of the director of public prosecutions rendered the request unlawful
+whether the involvement of the australian crime commission rendered the request unlawful
+application dismissed
+administrative law
