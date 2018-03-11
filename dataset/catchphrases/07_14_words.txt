@@ -1,0 +1,7 @@
+applic set asid subpoena 
+cost applic 
+order solicitor client 
+mean 
+distinct method assess cost 
+cost 
+

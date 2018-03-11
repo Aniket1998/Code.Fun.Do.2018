@@ -1,0 +1,28 @@
+admiss 
+expert evid 
+econom evid 
+account evid 
+whether relev applic statut 
+whether purport interpret statut 
+whether extrins materi 
+evid purpos petroleum resourc rent tax assess act tax rent 
+evid elucid purpos act 
+applic ambulatori express relat 
+
+relev account practic applic gener term act 
+evid held admiss 
+petroleum resourc rent tax 
+taxabl profit 
+assess receipt 
+deduct expenditur 
+expens payabl relat sale petroleum 
+natur tax 
+whether tax econom rent 
+relev econom expert evid characteris therefor purpos act 
+relev account expert evid treatment deduct 
+claim deduct 
+hedg loss 
+whether deduct expens 
+evid 
+taxat 
+

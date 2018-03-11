@@ -1,0 +1,7 @@
+delay commenc trial 
+default delay part applic 
+effect delay one half day 
+cost thrown away reason late commenc order 
+order cost payabl forthwith 
+cost 
+

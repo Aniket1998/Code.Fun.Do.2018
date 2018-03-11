@@ -1,0 +1,22 @@
+whether debt incur relev period 
+whether compani insolv time debt incur becam insolv incur debt 
+whether director awar ground suspect insolv 
+whether reason ground suspect insolv 
+whether reason person posit director compani circumst would awar insolv 
+failur director prevent compani incur debt 
+creditor suffer loss damag 
+whether reason ground expect solvenc 
+whether reason ground believ compet reliabl person respons provid adequ inform compani solvenc 
+whether director ought fairli excus contravent 
+trade insolv 
+whether director awar ground suspect insolv 
+whether reason ground suspect insolv 
+whether reason person posit director compani circumst would awar insolv 
+failur director prevent compani incur debt 
+creditor suffer loss damag 
+whether reason ground expect solvenc 
+whether reason ground believ compet reliabl person respons provid adequ inform compani solvenc 
+whether director ought fairli excus contravent 
+bankruptci insolv 
+corpor 
+

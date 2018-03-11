@@ -1,0 +1,17 @@
+regist organis 
+elect 
+nomin 
+whether valid 
+applic nomin multipl offic elect 
+rule prohibit nomin elect one offic 
+whether rule appli concurr elect multipl offic 
+whether nomin subsequ nomin receiv first time invalid 
+whether multipl nomin invalid 
+whether nomin receiv last time brought impli surrend prior nomin 
+principl surrend implic 
+whether return offic power declin accept withdraw nomin 
+whether withdraw subsequ nomin could reviv invalid nomin receiv first time 
+elect 
+industri law 
+word phrase 
+

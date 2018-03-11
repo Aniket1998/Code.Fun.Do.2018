@@ -1,0 +1,5 @@
+fix cost 
+discret fix cost 
+relev consider 
+practic procedur 
+

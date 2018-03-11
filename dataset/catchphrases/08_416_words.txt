@@ -1,0 +1,16 @@
+expert evid 
+opinion rule 
+admiss expert report section evid act cth 
+whether evid base specialis knowledg base train studi experi 
+whether fact assumpt upon opinion base adequ 
+whether evid bare ips dixit 
+gener discret exclud evid 
+section evid act cth 
+leav file evid time 
+whether prob valu substanti outweigh prejudici effect 
+whether admiss opinion evid signific prob valu fact assumpt upon opinion base inadequ detail expert report 
+effect expert involv prepar one parti case includ involv draft parti statement claim 
+whether expert suffici independ 
+evid 
+evid 
+
