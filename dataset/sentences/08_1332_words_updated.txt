@@ -1,0 +1,969 @@
+introduct the applic rwwa seek declar associ injunct relief 
+It seek confirm breach licenc agreement enter parti make instal copi softwar system subject licenc agreement 
+It also seek declar respond sag entitl paid addit fee pursuant licenc agreement 
+sag cross claim contrari sum equival fee say would paid sale licenc rwwa 
+the disput relat rwwa use softwar system suppli sag rwwa mainfram comput 
+It help understand case appreci evid natur mainfram industri australia 
+rel speak mainfram comput australia 
+obvious stand signific contrast person comput mani 
+In mainfram industri avail mean mainfram comput unlik person comput expect avail 
+the level reliabl expect mainfram comput consist volum valu busi carri enterpris use mainfram 
+the reliabl mainfram comput cours commensur cost 
+the world person comput simpli smaller version world mainfram 
+for exampl practic mainfram rare person comput may 
+the concept instal load softwar differ 
+with mainfram substanti configur necessari cours process 
+for like sag creat sophist valuabl softwar small select market protect right use softwar jealous guard 
+failur mainfram said extrem rare highli qualifi expert year experi industri known one australia 
+the consequ failur failur caus extern disast nevertheless would signific 
+accordingli substanti resourc appli provid backup system resort timefram would much quicker whole system 
+I say due cours technic mean term function refer 
+there also follow conveni short dictionari term deriv evid given 
+the context OF the disput rwwa regulatori bodi bet totalis race wager industri western australia 
+sag busi licens proprietari softwar system 
+histor seri agreement commenc made predecessor rwwa totalis agenc board tab softwar AG north america inc agent spl australia pti ltd grant tab licenc use databas manag softwar known 
+also licens relat comput languag product known togeth necessari associ product 
+On januari pursuant race gambl legisl amend repeal act WA rwwa succeed right liabil tab turn previous establish totalis agenc board bet act WA see ss 
+On june follow describ tab chang becam necessari execut written agreement licenc agreement subject disput proceed 
+the licenc agreement grant rwwa perpetu licenc use system softwar describ system attach licenc agreement 
+the licenc agreement set term condit grant licenc 
+On plead parti agre licenc agreement forc effect januari rwwa made relev copi known disast recoveri copi DR copi 
+It also common ground licenc agreement govern relationship parti materi time follow make DR copi 
+rwwa transact consider volum busi race wager industri 
+it annual turnov time establish DR site excess 
+It requir highli sophist system high level depend system order ensur continu busi oper 
+under licenc agreement necessari specifi design locat hardwar store softwar suppli sag 
+the osborn park head offic rwwa alway design locat licenc agreement 
+the system suppli rwwa form consist mostli load modul precompil execut file capabl independ execut 
+In addit file sourc code format suppli 
+In configur instal system design locat head offic sourc code file compil creat object code file form load modul 
+these step necessari order system function 
+On septemb rwwa reach agreement kaz technolog servic pti ltd kaz kaz agre provid disast recoveri site rwwa premis kaz bennett street east perth 
+thi site known DR site 
+the purpos DR site content rwwa say sole purpos enabl rwwa emerg recoveri system place deal disast 
+In addit agre provid site kaz also agre assist conduct disast recoveri test DR site 
+have reach agreement rwwa made copi system instal configur mainfram head offic 
+the copi effect process mirror explain greater detail shortli 
+Up time rwwa kept backup copi tape also held locat apart head offic locat 
+To use tape rather disk mirror disast recoveri system case emerg would taken substanti longer period time use DR site DR copi 
+materi gener head offic site process disk mirror instantan replic DR site activ form could enabl use DR site step taken 
+the DR copi kept DR site agreement rwwa kaz 
+It store disk part storag area network known san 
+It also therefor part environ DR site 
+unless actual use real emerg restart scenario use cours specif test conduct DR copi never load memori mainfram comput locat DR site 
+thi process explain shortli mainfram comput DR copi 
+the partit mainfram DR site activ emerg requir occur test conduct 
+there four test conduct attempt test purpos demonstr process person involv litig 
+that attempt test unsuccess reason present relev 
+the mirror link rwwa mainfram head offic DR copi 
+thi mean data copi DR copi way 
+In order DR copi use either case emerg test oper rwwa databas manag system connect must broken rwwa activ partit load DR copi memori mainfram held DR site 
+the primari claim rwwa contend DR copi permit cl 
+licenc agreement altern copyright act cth CA 
+By origin sag alleg rwwa breach cl 
+licenc agreement instal system second machin locat design locat without consent sag 
+further sag say rwwa breach cl 
+licenc agreement oper system kaz 
+sag claim damag amount one licenc fee sum mainten fee 
+altern claim amount court may conclud would paid negoti sale discount rwwa licenc DR copi 
+In origin defenc rwwa say 
+It claim system perman temporarili move instal locat design locat 
+further rwwa say entitl keep copi system disast recoveri site DR site emerg restart purpos 
+dictionari the evid case reveal follow mean variou term use reason 
+definit adaba databas manag softwar suppli sag licenc agreement 
+assembl languag low level program languag languag tell comput precis detail 
+cold warm hot disast recoveri site descriptor refer speed recoveri take place current facil unus 
+A hot site broadli defin fulli equip site abl resum oper immedi 
+A cold site broadli defin site minim facil contain facil quick duplic recoveri 
+A warm site defin categori usual contain backup equip readi use 
+the term particularli precis 
+compil sourc code refer process program languag translat execut program 
+daf intern sag deal approv form 
+design locat prescrib locat system function case osborn park head offic rwwa licenc agreement 
+disk mirror case rwwa system instal disk system head offic use hd util known truecopi hd disk system locat DR site 
+from disk connect ibm seri mainfram comput DR site DR copi instal DR mainfram sole kept disk 
+rwwa partit DR mainfram activ 
+the DR copi unabl use execut unless rwwa activ partit load system backup disk memori DR mainfram conduct test 
+rwwa therebi mirror data contain adaba databas continu DR site 
+rwwa compon DR mainfram would activ copi would termin DR copi would load DR mainfram event emerg restart scenario test 
+distribut tape mean tape origin suppli sag rwwa contain gener softwar system configur use 
+DR copi mean copi made DR site system instal configur mainfram comput rwwa head offic disk mirror 
+disast recoveri site offsit locat backup copi system store away design locat 
+DR site mean specif locat rwwa DR copi store premis kaz technolog servic pti ltd locat bennett street east perth 
+kaz provid disast recoveri site rwwa 
+librari storag file group togeth precompil routin perform predefin task 
+link process combin part comput program execut code run program 
+link edit link object code sourc code see human readabl form comput program input compil translat convers equival object code 
+it function translat humanli readabl sourc code machin 
+comput readabl form known machin code 
+To end compil view program translat high level languag absolut code assembl languag 
+the output compil known object code 
+object code program written languag capabl understood machin execut later time 
+howev execut occur necessari object code link 
+while object code machin readabl form necessarili state allow readili load comput memori execut 
+the step involv link bind object code 
+object code need link case comput program involv larg number routin 
+load modul mean part program machin languag form suitabl load memori execut 
+the load modul gener linker link editor 
+lpar acronym logic partit effect partit portion machin capac case readi use rwwa 
+machin code see object code 
+mainfram mean larg high perform comput support mani user simultan comput capac store larg volum data run wide varieti applic one time 
+mip million instruct per second msu million servic unit measur amount process work comput perform one hour 
+It common mainfram softwar vendor charg msu consum msu system capac 
+natur comput languag product suppli sag licenc agreement 
+object code mean program compil machin readabl binari code execut without need translat 
+object code gener sourc code assembl compil 
+prise sag intern price discount determin programm 
+recal prior establish DR site rwwa transact record back tape held offsit locat describ recal 
+san storag area network 
+sap sag core financi system 
+sourc code mean set instruct comput carri variou task perform program express program languag yet compil translat machin languag object code 
+sourc code input compil assembl order deriv object code machin code 
+the system compris databas manag softwar known adaba comput languag product call five associ product 
+It locat head offic rwwa 
+further the origin follow alleg breach licenc agreement effect rwwa licens sag use deal system manner plead sag would requir payment addit licenc fee relat DR copi b associ annual upgrad mainten servic fee 
+the sum refer total million particularis amend file octob 
+By amend foreshadow shortli prior trial articul second day trial altern particular damag plead sag follow 
+cross respond sought licenc cross claimant use deal system 
+cross claimant would prepar negoti licenc within follow framework 
+one licenc fee reflect discount maximum figur shown 
+would requir payment back mainten servic fee period januari say septemb 
+would prepar reduc mainten servic fee shown 
+b c e reflect amount base negoti one licenc fee shown 
+As explain counsel sag cours close address amend claim sag contend essenti su price say full price licenc variou servic fee origin plead altern sum discount 
+To support discount price practic sag produc agreement deal approv form daf parti 
+those agreement argu show standard intern commerci process sag like practic sag custom 
+In essenc effect intern process author within sag approv minimum price sag would permit softwar licens also maximum discount rate 
+there would follow negoti client sag 
+those negoti behalf sag would tri obtain least possibl discount price word would tri recov highest price possibl sag 
+the permit discount vari consider 
+sag say mean discount shown daf produc approxim 
+accordingli altern plea effect court satisfi breach one would entitl sag recov full licenc fee servic fee plead open court arriv figur base cours deal conduct sag client like price sag would abl negoti discount 
+the licenc agreement It necessari examin detail licenc agreement 
+essenti case involv decid whether rwwa action authoris cl 
+the licenc agreement recit sag australian distributor proprietari softwar system set system attach attach incorpor licenc agreement system 
+It point sag case assert owner copyright system 
+there certain key element contract fallen consider case 
+the first cl set grant licenc 
+In consider licenc fee set system attach attach incorpor agreement softwar AG grant license licenc use system specifi system attach togeth data carrier contain system manual document provid time time softwar AG document durat specifi system attach sole conduct license intern busi defin claus 
+the license licens use system design locat one singl machin hardwar make model within design softwar AG hardwar class indic system attach design instal b maximum number concurr user equal number indic column head qti system attach relat system whose price type indic relev system attach user whose hardwar class indic relev system attach concurr purpos user mean individu employe license concurr use mean simultan use system one user c maximum number user equal number indic column head qti system attach relat system whose price type indic relev system attach user whose hardwar class indic relev system attach regist purpos user mean individu employe license regist use system singl machin design locat contain number processor indic column head qti system attach relat system whose price type indic relev system attach processor e upon oper system indic system attach 
+the license shall entitl use system upgrad machin oper system without prior written consent softwar AG issu addit amend system attach togeth payment addit licenc fee due current softwar AG price list 
+the license shall notifi softwar AG least day prior propos chang machin oper system license 
+the license use system shall sole purpos intern administr license license busi process license license data provid type bureau rental facil manag similar type servic use system behalf benefit third parti includ subsidiari hold compani associ license way trade otherwis similar manner 
+the license shall use system connect sale leas comput servic develop softwar sale leas extern distribut train purpos save respect license employe 
+the license shall perman temporarili move system instal system locat design locat without prior written consent softwar AG 
+such consent may grant altern locat oper license within australia softwar AG absolut discret upon issu addit amend system attach payment addit licenc fee due current softwar AG price list 
+the license shall assign sell leas encumb charg otherwis manner attempt transfer licenc right oblig hereund 
+the license may allow third parti oper system behalf part outsourc facil manag applic servic provis similar type arrang 
+By agreement license obtain right use system specifi durat acquir right ownership whatsoev system document data carrier copi enhanc modif thereof 
+the license shall entitl use system manner purpos expressli permit term agreement 
+the next import claus cl read follow softwar AG shall oblig provid system license sourc code form 
+for part system provid license sourc code form softwar AG may procur deposit third parti system sourc code facilit mainten modif correct product 
+the entireti cl read follow confidenti 
+the license agre copyright intellectu properti right system document data carrier remain properti softwar AG relev owner thereof 
+the license agre confidenti commerci technic inform data copyright intellectu properti right provid license agreement confidenti inform remain properti softwar AG relev owner thereof 
+the license undertak system document confidenti inform shall held confid secret 
+license herebi undertak license access run use whole part system document confidenti inform save expressli permit agreement b save permit claus 
+copi whether cours run copi system purpos system design otherwis reproduc adapt modifi interfac whole part system document confidenti inform combin incorpor system softwar c permit claus 
+sell disclos commun system document confidenti inform permit sold disclos commun access copi reproduc way modifi interfac part whole person respect treat system document confidenti inform like manner license confidenti valuabl inform take necessari precaut prevent unauthoris person access copi reproduc e save extent expressli permit law system whole part otherwis attempt creat gener sourc code sourc code version part system 
+softwar AG herebi expressli authoris license copi system object code document archiv emerg restart purpos provid that copi made license current system version shall exist time old version shall destroy 
+emphasi ad the remaind cl licenc agreement inconsequenti disput 
+howev system attach annex specifi licenc number attach number date license rwwa design locat osborn park premis contain text read term applic TO all system licens under thi system attach the licenc use system set system attach permit use system design locat design hardwar make model oper system 
+the term licenc system attach attach shall appli system licens system attach togeth term set herein 
+In event conflict licenc system attach term term system attach shall prevail 
+the licenc type specifi perpetu suggest use system limit use busi previous carri totalis agenc board western australia purpos whatsoev 
+upgrad msu msu previous licens name totalis agenc board western australia 
+the licenc start date specifi june mainten servic fee start date juli 
+the system attach set system name oper system respect compon refer msu capac 
+the system attach goe specifi licenc fee mainten servic fee mainten servic renew detail 
+It common ground system compris databas manag softwar known adaba rel comput languag product call five associ product 
+licenc agreement sag grant rwwa licenc use system term restrict usag singl machin design locat 
+It common ground rwwa permit either perman temporarili move system instal system locat design locat without prior written consent sag cl 
+No written consent sought obtain relat DR site subject disput 
+may grant altern locat oper rwwa within australia absolut discret sag circumst addit licenc grant respect would usual licenc fee payabl 
+the licenc fee payabl pursuant circumst contract refer current sag price list subject discount 
+rwwa contend entitl cl 
+set disast recoveri site inde maintain also entitl test facil disast recoveri site set without test capac function would pointless highli riski exercis littl valu 
+rwwa preclud allow third parti oper system behalf part outsourc facil manag applic servic provis similar type arrang sag contend rwwa breach claus 
+On januari rwwa made copi system instal configur mainfram head offic disk process disk mirror set known disast recoveri DR copi 
+the first question whether breach provis licenc agreement 
+the DR copi kept premis kaz bennett street east perth agreement rwwa kaz 
+not great deal attent direct agreement clear kaz charg substanti fee rwwa facil premis kaz consider sophist valu rwwa 
+the DR copi maintain well away head offic purpos DR site ensur mainfram head offic destroy fire terror unforeseen event far enough away DR copi make chanc DR copi similarli damag unlik 
+rwwa say DR copi made sole purpos disast recoveri emerg restart system event head offic mainfram comput fail due lost destroy render unus 
+the concept disast recoveri emerg restart say synonym 
+insofar instal concern sag argu cl 
+rwwa instal emphasi ad system design locat 
+insofar copi emphasi ad concern entitl given licenc agreement right copi cl 
+As distinct right grant sag emphasis licenc agreement impos rang prohibit rwwa relat system 
+It agreement addit usag system payment requir 
+rwwa permit use system manner purpos expressli permit licenc agreement cl 
+rwwa use system machin oper system except issu addit licenc cl 
+rwwa move system instal system locat cl 
+rwwa may allow third parti oper system behalf emphasi ad 
+c rwwa entitl sell disclos commun system parti cl 
+rwwa oblig treat system document confidenti inform confidenti inform 
+sag emphasis doubt correctli system suppli consider valu 
+It valuabl sens cost produc also backup system great import rwwa 
+sag also emphasis correctli drive factor rwwa establish DR site great save abl recov disast within matter hour rather week 
+all consider sag contend lead least support conclus rwwa requir pay sag licenc fee servic fee copi instal usag system DR site 
+In respons rwwa say cl 
+licenc agreement CA must given sensibl commerci mean matter strictli liter contract constru 
+rwwa argu contract made peopl industri 
+It argu permit test emerg recoveri site know practic function would mean except confer cl 
+would practic commerci advantag 
+If system could test DR site rwwa would know better wait week system could restor event emerg 
+rwwa say notion one could disast recoveri site without capac test would unheard mainfram industri 
+the statutori framework In addit contractu right rwwa submit make DR copi permit CA 
+the concept comput program backup well recognis CA 
+part iii div CA set number activ deem constitut copyright infring even though reproduct involv 
+relevantli permit reproduct purpos make subject certain limit follow copi comput program subject subsect copyright literari work comput program infring make reproduct work reproduct made behalf owner license copi origin copi reproduct made b reproduct made use behalf owner license origin copi c reproduct made follow purpos enabl owner license origin copi use reproduct lieu origin copi store origin copi ii enabl owner license origin copi store reproduct use lieu origin copi origin copi lost destroy render unus iii enabl owner license origin copi use reproduct lieu origin copi anoth reproduct made subsect origin copi reproduct lost destroy render unus 
+subject subsect copyright literari work comput program work held togeth program comput system infring make reproduct program work reproduct made behalf owner license copi origin copi reproduct made b make reproduct part normal copi data secur purpos 
+subsect appli relat reproduct work made purpos refer subparagraph c iii whether reproduct work previous made purpos copi 
+As sub appli infring copi comput program 
+copi made program design prevent make copi licenc use origin copi given time acquir expir termin b c 
+rwwa say made keep DR copi use behalf rwwa enabl use lieu system system destroy render unus 
+It also say DR copi made kept rwwa part normal copi data secur purpos 
+rwwa refer reli extrins materi explanatori memorandum copyright amend comput program bill support proposit restrict view adopt 
+section reproduc comput program secur test rwwa also submit permit CA copi reproduc system purpos test DR copi 
+section relevantli provid copyright comput program infring make reproduct adapt extent reason necessari test good faith secur origin copi comput system network copi part 
+To fall within except certain requir must met 
+first reproduct adapt must made behalf owner license origin copi test investig correct secondli inform result make reproduct adapt must readili avail owner license made thirdli copi test must infring copi 
+rwwa argu conduct test DR copi may juli februari august third parti site kaz 
+rwwa say virtu fact DR copi mirror copi origin system test DR copi rwwa effect test origin system 
+sag submit test process test within ordinari technic mean express 
+sag say even test process constitut secur test conduct would permit DR copi made sole purpos secur test also backup copi 
+jurisdict the relief sought rwwa declaratori 
+It clear virtu feder court australia act cth court may relat matter origin jurisdict make bind declar right whether consequenti relief could claim suit open object ground declaratori order sought 
+the refer origin jurisdict feder court australia act includ accru jurisdict court bond v sulan fca fcr gummow J said accordingli jurisdict court far injunct relief claim applic attract judiciari act relat matter court origin jurisdict may make bind declar right provid feder court australia act cth regard distinct drawn accru primari jurisdict court orison pti ltd v strateg miner corp NL alr 
+In far respond seen exercis function repos state law would foundat accru jurisdict declaratori relief sought cth v queensland fcr 
+the disput rwwa sag undoubtedli real 
+the sag damag effect million dollar 
+the jurisdict court grant declaratori relief confin consider mark boundari judici power ainsworth v crimin justic commiss hca clr 
+the evid Mr michael john meehan Mr michael john meehan manag inform system rwwa 
+He first commenc deal sag western australian resel 
+He deal directli sag support personnel sydney melbourn 
+He explain tab involv sag earli sag product becom entrench key databas within rwwa system 
+the first contract implement sag product made august 
+that contract tab predecessor sag 
+each time tab subsequ rwwa upgrad mainfram comput softwar contract also updat reflect new hardwar 
+In Mr meehan experi common practis industri 
+In Mr meehan time rwwa rwwa predecessor tab alway work mainfram 
+Mr meehan work mainfram system sinc variou govern privat posit 
+the major type databas may use mainfram ibm ibm im softwar AG adaba oracl 
+He describ databas databas manag system whose role hold data use applic run comput includ mainfram comput 
+adaba suppli sag licenc agreement hold inform relat rwwa core busi system 
+thi includ rwwa data bet account inform account journal account bet transact unpaid win bet ticket 
+origin bet ticket written ibm file certain amount time usual three week unpaid win ticket transfer adaba ticket file 
+the primari use adaba ticket file enabl payout win ticket claim within three week 
+natur notion languag suppli sag 
+It use creat program interfac allow rwwa staff manag race day system exampl jump race enter result perform function necessari rwwa busi 
+sag deliv basic system distribut tape rwwa follow form sourc code modul b load modul form modul c other file jcl sampl job inpl adaba data etc 
+the distribut tape contain modul load modul form four edit 
+I explain concept consid expert evid import consid mean cl 
+licenc agreement confin right rwwa copi system object code 
+from rwwa predecessor tab ran two small mainfram comput adjoin room 
+those mainfram kept main build osborn park occupi rwwa formerli tab 
+both tab rwwa ran product one machin develop machin 
+eventu product back machin amalgam singl big machin 
+Mr meehan confirm system sag instal distribut tape onto rwwa hd disk system locat premis osborn park 
+He involv board discuss may rwwa board resolv creat separ disast recoveri site distanc rwwa main premis osborn park 
+He howev provid inform paper present board chief inform offic Mr glen fee also gave evid 
+He say howev one key busi reason decis high risk associ backup disast recoveri comput locat room adjac room contain product machin 
+the purpos shift differ locat backup plan massiv destruct build fire caus 
+Mr meehan said great deal plan involv creat DR site 
+the DR site establish kaz data centr east perth 
+prior establish DR site backup exist way tape held offsit locat describ recal 
+after establish DR site rwwa initi back databas tape DR site 
+At stage rwwa commenc process disk mirror 
+from earli januari implement board decis Mr meehan commenc arrang DR site mirror data osborn park product site organis rent fibr link rwwa head offic DR site 
+the aspect arrang mirror process becom activ 
+the process disk mirror meant rwwa databas written primari site osborn park time written disk DR site creat DR copi 
+the DR copi made kept DR site time rwwa live end januari 
+In disk mirror process product file rwwa mainfram osborn park mirror use hd util known hd disk system locat DR site 
+the disk connect ibm seri mainfram comput DR site importantli DR copi instal mainfram DR site sole kept disk 
+rwwa partit mainfram DR site activ 
+As describ lay term Mr meehan effect 
+the DR copi unabl use execut unless rwwa activ partit load system backup disk memori mainfram DR site 
+rwwa partit DR mainfram activ DR copi system load onto memori event emerg restart scenario 
+the process continu rwwa mirror data contain adaba databas continu DR site ensur backup copi DR site alway date 
+Mr meehan say rwwa made DR copi sag softwar purpos emerg restart databas manag system event rwwa mainfram head offic fail due destroy render unus 
+accord Mr meehan kaz time time oper rwwa compon DR environ 
+off duti rwwa oper staff would take control process 
+besid provid ibm mainfram hd disk kaz provid environment support power etc 
+Mr meehan say mainfram DR site never activ except rwwa conduct schedul DR test 
+rwwa intent establish safe DR site test twice year 
+It unabl meet schedul 
+four test conduct first two may juli test februari august 
+these event commenc execut licenc agreement 
+It june Mr meehan behalf rwwa execut licenc agreement sag 
+sinc time last upgrad sag product complet march 
+that simpli upgrad chang sag product product sinc januari 
+It follow certain sag librari affect upgrad product therefor chang mirror DR site 
+sinc march upgrad chang made sag load modul product disk therefor chang made mirror disk DR site 
+Mr meehan confirm sag becam awar DR site result email contain technic queri sent Mr dan martin sag june 
+He previous deal Mr martin 
+Mr martin respond email seek detail DR site 
+those detail provid Mr meehan receiv email correspond essenti rais question whether breach licenc agreement 
+differ reason given sag variou time relat basi upon contend breach 
+On juli Mr meehan Mr charl mcniven rwwa senior system engin met Mr martin Mr blair hard senior technic consult sag 
+minut meet prepar Mr meehan 
+On august Mr martin email Mr meehan suggest would valu repres rwwa discuss DR site Mr colin brook countri manag sag 
+accordingli august Mr fee chief inform offic rwwa Mr meehan spoke Mr brook sag 
+In convers messr fee meehan confirm rwwa posit softwar instal DR site load librari DR site use backup copi purpos emerg restart 
+He also provid request detail clarifi rwwa posit email sent Mr martin day august 
+As step could taken rwwa concern sag softwar Mr meehan say three possibl direct could take DR site 
+the first maintain current situat backup disk via mirror process 
+the second backup sag claim authoris licenc agreement copi distribut tape 
+Mr meehan say standard industri practic would step process would take least week introduc risk newli creat environ could differ origin 
+the third possibl mirror rwwa data except sag system would back tape 
+that backup would sag load librari databas 
+Mr meehan say would add approxim minut recoveri process 
+Mr meehan say awar sag view rwwa backup process would implement mirror process sag compon rwwa product environ 
+the backup would remain tape occur prior setup DR site 
+dure test DR site done mirror point data product site written mirror way onto disk DR site 
+the test conduct swiftli possibl test data overwritten soon test end 
+In word term data usag ongo basi test data distinct process valu rwwa futur busi 
+test DR site necessari procedur accord Mr meehan ensur DR site actual like work event disast 
+follow rwwa four test test conduct april presenc Mr rodney mckemmish 
+Mr mckemmish expert wit call sag 
+also attend occas Mr steven fink Mr richard adam expert rwwa certain legal repres 
+the purpos test demonstr process light pend trial proceed 
+that test actual fail reason beyond control rwwa serv part purpos provid demonstr process expert wit other 
+when test conduct requisit process notifi DR site rwwa intent carri disast test ensur DR site oper readi room rwwa termin equip recal offsit canist recal form technic oper team notifi extern organis bank etc notifi telstra activ busi resumpt plan switch frame relay network internet select number DR site 
+the mainfram equip inspect activ requir disast recoveri mainfram devic set state stop mirror 
+thi step process includ oper repli variou autom messag perform numer check 
+In actual true disast recoveri scenario Mr meehan say rwwa reinstal sag distribut tape would delay recoveri process much week 
+By standard industri practic would unaccept backup distribut librari enabl process would norm 
+use mirror backup copi system DR test take least one even involv rwwa softwar support staff technic support staff test servic staff comput oper 
+No personnel DR site say kaz involv process 
+the DR mainfram kept separ lock room rwwa partit activ unless emerg restart scenario rwwa undertak DR test 
+dure test product function perform 
+accord Mr meehan DR site essenti purpos ensur within hour rwwa system readi take bet event disast 
+He say rwwa DR test date unabl meet target 
+On occas rwwa use DR site real life situat 
+Mr meehan gave extrem detail technic evid process involv test reinstal tape necessari 
+As challeng detail unnecessari repeat 
+inde sag freeli acknowledg would good sens avoid old process backup tape 
+it argument simpli rwwa without sag approv licenc payment fee sag 
+the kaz contract contempl provis site 
+Mr meehan consid site actual 
+Mr meehan reason say rwwa achiev target hour turnaround 
+He confirm time issu least one reason DR copi certainli import issu rwwa 
+He accept DR copi instal kaz mainfram DR test 
+He contend emerg restart mainfram industri synonym disast recoveri 
+howev Mr meehan put forward expert wit reason doubt verac evid ampl explan independ expert highli technic aspect involv mainfram comput 
+the object achiev emerg restart within hour turnaround busi financi decis 
+the turnov rwwa septemb 
+billion equat mean week 
+there consider fluctuat certain time 
+later calendar year time carniv melbourn weekli bet revenu would lost event breakdown mainfram system would far mean weekli amount 
+Mr meehan question meet attend juli preced substanti amount email exchang 
+He confirm time meet equivoc whatsoev part rwwa refus purchas licenc sag 
+that posit chang meet view taken Mr meehan posit taken sag argument relat construct licenc agreement entitl 
+Mr meehan also accept person rwwa whose job agre term correspond rwwa solicitor sag 
+other organis also involv 
+thi question went amongst thing authoris term expert brief 
+Mr meehan also accept small mainfram rel insignific minor problem oper mainfram may possibl restart mainfram basic turn reinstal copi softwar build origin copi softwar 
+He accept may technic possibl depend complic configur link 
+It could take short period time case small mainfram could take week case rwwa mainfram 
+Mr meehan accept would constitut instanc use backup copi emerg restart stress practic would done way 
+I indic Mr meehan put forward expert wit year expertis mainfram industri 
+He accept sinc commenc enorm chang sort respect term softwar hardwar period 
+the concept disast recoveri site rather wide employ year ago 
+He accept kaz option offer rwwa sophist simpli back current version tape leav safe locat use disast 
+Mr meehan intent engag kaz provid warm DR site longer accept rwwa noth backup tape simpli store order disast 
+million sag servic year septemb 
+Mr meehan accept decid pay five year million million kaz order improv disast recoveri system 
+Mr meehan howev made point open rwwa backup distribut tape rwwa would go full instal process includ configur test compil etc ensur end result destroy 
+In relat evid back would way Mr meehan said standard practic data centr backup load librari load librari would restor corrupt sort failur 
+He said restor distribut tape redo work alreadi done 
+Mr meehan evid hypothet obtain legal advic would acquir new licenc sag DR test would proceed differ basi rather pay addit licenc 
+sag submit I reject evid driven larg hostil reaction demand sag Mr meehan consid 
+I refer assess evid submiss due cours 
+Mr meehan deni rwwa could pay licenc 
+He simpli posit discuss financi would would done 
+He also accept rwwa deriv someth benefit gone test process particular proven DR copi work 
+He accept percept unjustifi contractu demand sag view figur sought sag matter rwwa would never agre pay addit licenc fee 
+Mr glen michael fee Mr fee also call rwwa 
+He chief inform offic rwwa 
+He held posit sinc 
+He respons set overal strateg technolog direct rwwa establish implement program work agre rwwa board director review implement current technolog support rwwa busi intern extern develop manag overal technolog budget 
+In addit review technic perform implement technolog relat impact busi object ensur appropri action taken predict unsatisfactori result 
+hi first deal sag june contact Mr meehan 
+As result discuss Mr meehan becam awar issu sag concern softwar licens DR site 
+On june copi email Mr meehan wrote Mr martin sag earli august Mr meehan request involv telephon confer Mr brook sag 
+Mr meehan kept Mr fee inform discuss repres sag relat issu aris connect DR site 
+Mr fee involv telephon confer august mainli Mr meehan Mr brook 
+follow august telephon confer Mr fee copi Mr meehan email sent Mr martin sag august Mr fee receiv letter Mr steve key sale director sag august follow phone call august Mr martin 
+In phone call Mr martin ask whether rwwa would like meet repres sag whether legal approach would adopt 
+Mr fee inform Mr martin would get back end week 
+On august Mr fee spoke Mr martin advis rwwa consid sag option either meet discuss situat embark legal process 
+He suggest Mr martin sag come across perth follow week lawyer discuss matter Mr martin ask Mr fee whether understood sag posit 
+Mr fee confirm rwwa agre posit 
+Mr martin suggest sag rwwa speak person level rather involv lawyer 
+Mr fee inform Mr martin rwwa intend legal represent propos meet rwwa sag would product sag well 
+Mr martin said would discuss propos meet intern sag get back Mr fee 
+On septemb Mr martin telephon Mr fee suggest sag propos way forward rwwa legal repres speak sag contract person arriv agre understand situat sag meet perth rwwa reach agre outcom 
+Mr martin inform Mr fee would send email rwwa contact number contract person sag 
+Mr fee togeth solicitor telephon convers Mr martin stella adam gener manag busi secretari sag Mr key 
+Mr fee say discuss took place Mr stewart adam loudspeak telephon 
+their discuss essenti relat legal interpret contract rwwa sag resolut reach meet 
+On septemb receiv letter Mr martin septemb rwwa solicitor respons sent sag 
+Mr fee like Mr meehan also confirm consid claim sag simpli wrong reason view rwwa pay anyth addit licenc 
+Mr fee also say although rwwa time consid entitl maintain DR copi sag januari claim fee plu mainten cost per year rwwa would agre pay fee rwwa would continu simpli backup tape sinc prior set DR site 
+again whether contenti issu accord sag light risk loss larg amount busi period week 
+On novemb rwwa solicitor issu proceed sag 
+Mr bruce andrew beddo Mr bruce andrew beddo employ sag sinc march 
+He director extend right manag australia asia 
+He role two year 
+He commenc sag sale move manag 
+He explain sag subsidiari softwar AG publicli list compani frankfurt tecdax stock exchang head quarter darmstadt germani 
+Mr beddo respons sag sale revenu australia asia japan 
+In carri respons work sag sale director across region sale team identifi revenu opportun requir extend usag right sag system 
+such identif say usual lead negoti process result addit contractu term condit 
+In role involv formul approv price correspond sent custom 
+from januari earli australian sale director respons australian revenu australian sale team 
+He manag team six salesperson 
+amongst Mr martin account manag respons rwwa contract 
+Mr martin report Mr beddo 
+Mr beddo explain charg sag would rais rwwa januari base assumpt januari rwwa made second instal system differ locat much larger mainfram differ make model refer licenc agreement within logic partit lpar 
+It effect partit portion machin capac use rwwa 
+the full capac lpar msu mip 
+mip acronym million instruct per second 
+b januari rwwa outsourc mainten oper second instal system third parti c januari rwwa use second instal system disast recoveri site classifi 
+Mr beddo produc busi oper manual decemb said design answer day question regard softwar licens polici 
+It use conjunct current sag price list 
+the busi oper manual use sag updat 
+In januari sag intern current price list contain sap sag core financi system 
+It access stage via vantiv price server 
+sag price set board 
+As price chang price adjust sap 
+the vantiv price server sat secur intranet avail sag staff 
+Mr beddo use vantiv price server almost daili time commenc sag april familiar 
+that system replac prise 
+He use prise everi day 
+It function vantiv requir input data order determin licenc fee payabl license 
+base frequent use vantiv replac prise frequent use prise immedi changeov believ prise replic detail previous produc vantiv prise produc price amount produc vantiv 
+He demonstr busi tool could use order explain view sag rwwa would requir pay DR copi DR site basi 
+onc standard licenc fee mainten fee calcul sag work custom determin addit extend usag right requir correctli licenc use sag system 
+extend usag right addit usag right standard product licenc term condit 
+He explain gener custom take current view futur view depend tactic strateg direct busi elect includ addit contractu term agreement reflect addit usag right 
+one document Mr beddo follow licens rule document prepar stella adam 
+He use licens rule document readi reckon calcul fee extend usag right period august august 
+accord document one year mainten fee calcul list price licenc fee b lpar licens addit list price licenc fee licens sag system c outsourc addit list price licenc fee licens sag system system use standbi custom would obtain discount licenc mainten fee 
+Mr beddo said use price rule describ fee euro lpar extend usag right list price addit fee lpar fee 
+the lpar fee use base amount calcul fee outsourc applic second instal 
+the fee outsourc extend usag right lpar fee fee 
+He use total lpar fee outsourc fee base amount list price licenc fee appli fee warm disast recoveri warm disast recoveri applic outsourc second instal design instal 
+accordingli appli price rule fee warm disast recoveri extend usag right sum lpar fee outsourc fee fee warm disast recoveri fee 
+In summari total list price licenc fee extend use system would allow rwwa warm disast recoveri standbi oper second machin within lpar oper mainten system maintain oper third parti sum lpar fee outsourc fee warm disast recoveri fee 
+On basi exchang rate equat australian dollar 
+In addit amount accord Mr beddo mainten fee payabl rwwa 
+He calcul total list price mainten servic fee grant extend usag right australian dollar total DR licenc fee 
+therefor mainten servic fee januari januari said 
+It amount follow year slight increas next year basi global price list increas 
+thu total mainten servic fee januari addit total DR licenc fee 
+thi price said would sought sag DR instal 
+He acknowledg custom gener endeavour negoti discount 
+Mr beddo gave detail evid busi oper manual price discount calcul sag 
+He confirm licenc rwwa perpetu licenc licenc held rwwa price basi variou paramet includ capac msu DR test maximum extent kaz comput power msu 
+He explain sag price polici price capac machin actual oper capac 
+the price instanc calcul msu basi 
+the reason price basi msu even though ever power msu lpar kaz machin allow mip anoth way say msu 
+If disast rwwa would requir amount capac 
+Mr beddo produc ask explain method usag sag daf 
+these daf submit author within sag fix price discount paramet 
+He explain system refer anoth identifi client particular bank 
+He observ bank capac msu mainfram prior agreement put place extend right 
+that bank like rwwa said standard licenc agreement sag 
+the bank engag sag discuss strateg decis made relat disast recoveri requir reflect daf includ outsourc third parti access variou requir 
+By refer daf Mr beddo identifi price 
+He explain target price price sag believ licenc relat fee could sold custom 
+In case discount bank client 
+after intern discuss work variou team sag decid believ minimum price would accept particular set extend right 
+Mr beddo identifi variou peopl divis involv reach conclus 
+It lengthi process could sometim take month mani meet discuss 
+clearli said custom anoth view figur paid enter discuss eventu arriv figur 
+ultim figur contract client bank exampl reflect discount figur authoris intern basi sag 
+Mr beddo produc two document first spreadsheet show calcul 
+the second schedul percentag discount agreement attach second statement 
+thi statement produc amend claim made second day trial sag alleg lost opportun negoti least discount figur payment licenc 
+Of agreement produc second statement Mr beddo person involv negoti 
+also agreement produc three involv licens disast recoveri usag 
+He point effect unless good deal struck conclud price negoti client usual somewher sag ask price sag minimum price daf 
+In negoti client practic sag seek much inform possibl formul price go back client price 
+By juli sag awar disk mirror use synchron process relat rwwa disast recoveri mainfram held offsit least assumpt 
+sag stage know offsit locat kaz site 
+after Mr hard Mr martin return melbourn perth meet held juli report difficulti obtain inform rwwa issu includ DR site detail 
+Mr beddo direct knowledg term contractu relationship sag head compani germani entiti concern right sag licenc softwar product 
+late discoveri sag real price A critic daf produc sag cours Mr beddo fourth second last day trial 
+It relat actual fee charg rwwa propos warm site extens septemb 
+that daf show propos maximum permit discount relat rwwa DR site 
+sag fact hope achiev price licenc fee warm DR site 
+In actual octob offer made sag discount mainten fee DR site 
+but within intern record sag belatedli produc daf discount mainten site fee also shown 
+further suggest daf addit load 
+these sum stand contrast claim exceed million 
+Mr beddo repeat explan substanti lower contemporan intern figur sum fix prior knowledg site locat involv kaz 
+I persuad given extent sag knowledg DR copi stage rwwa open detail sag unawar would made signific differ price may seek negoti 
+It absolut clear sag awar DR site locat design locat 
+precis locat design locat immateri 
+further I conclud time manner term use licenc agreement 
+the precis term contract kaz made differ sag 
+thi also clear fact seek inform relat 
+In version busi oper manual applic time DR site consider sag refer warm standbi 
+Mr beddo also identifi rule document use regular basi carri purpos negoti 
+when refer DR site warm standbi refer definit contain licens rule document 
+By time litig commenc subsequ copi busi oper manual tabl identifi warm standbi 
+It also identifi warm standbi categori respect softwar instal backup system 
+It also indic one qualiti distinguish warm site hot site whether licens product instal not continu oper machin 
+In later version busi oper manual came effect octob similar tabl print 
+In document beneath tabl head standbi 
+In second line head standbi par 
+read custom also grant right instal softwar backup system disast recoveri test purpos day per year cost 
+the system would instal purpos test 
+If intens disast recoveri test day per year requir custom acquir addit right rate licenc list price mainten upcharg due Mr beddo accept meant one want test five day year one could buy licenc cost licenc 
+but someon licenc use sag softwar without disast recoveri extens sought agre sag accord later version manual custom could without addit licenc fee test instal softwar five time year purpos test disast recoveri 
+although Mr beddo sure addit licenc would grant test tabl appear suggest otherwis 
+Mr beddo ultim agre base chart contain busi oper manual sag requir addit licenc obtain simpli allow instal purpos disast recoveri test five time per year consider test conduct rwwa 
+howev said guidelin busi oper manual chang alter updat 
+He accept howev noth chang relat way sag treat cold disast recoveri date busi oper manual date negoti rwwa 
+final Mr beddo acknowledg agreement anoth govern agenc sag treat mean transfer manag day day oper entir busi function extern servic provid 
+for avoid doubt neither engag third parti part cold disast recoveri strategi purpos perform specif task specif project engag contractor assist variou aspect comput oper constitut outsourc 
+although Mr beddo view outsourc usual uplift taken agreement variou entiti respect one provid addit outsourc allow 
+further occas discount given licenc fee 
+He taken anoth insur client respect DR environ discount shown disast recoveri licenc daf much 
+In summari view evid sag fell well short demonstr fee would recov would attempt recov amount anywher near sum claim either contemporan origin 
+It clear evid Mr beddo sag believ standard agreement entitl negoti client extend right respect entitl payment appropri circumst 
+It unnecessari comment gener practic belief within sag 
+sag may abl negoti payment fee mani case 
+but impress evid although question squar put sum rwwa would pay believ time requir pay licenc far less even lowest price sag consid could obtain 
+It one thing sag emphasis possibl loss week turnov busi consider loss would weigh actual likelihood risk turnov lost 
+the likelihood appear low 
+from rwwa perspect disk mirror pay kaz certainti abl recov busi oper within matter hour worth sever year million mayb million pay sag addit larg sum addit amount would unattract 
+Mr timothi melsom sag call Mr melsom give evid 
+He employe kaz sag involv DR test conduct rwwa 
+He thought present four test 
+they start sunday gener finish tuesday 
+He could recal see technician carri particular task describ plead 
+He could recal peopl thing could recal 
+He technic comment carri technic task whether fact perform 
+In particular could recal whether test task taken task carri kaz personnel rwwa personnel 
+there evid involv kaz personnel test process sens would constitut outsourc 
+thi conclus certainli critic Mr melsom evid 
+He simpli posit give evid sought adduc 
+principl OF construct gener speak parti express similar view proper approach law construct licenc agreement particular cl 
+but applic approach certainli given rise complet differ outcom 
+rwwa base entitl oper DR site carri test said construct reflect reason person posit parti would understood mean 
+modern author restrict approach construct exclus text contract case licenc agreement requir surround circumst known parti purpos object contract taken account 
+In toll fgct pti ltd v alphapharm pti ltd hca clr joint judgment high court said thi court pacif carrier ltd v bnp pariba recent reaffirm principl object right liabil parti contract determin 
+It subject belief understand parti right liabil govern contractu relat 
+what matter parti word conduct would led reason person posit parti believ 
+refer common intent parti contract understood refer reason person would understand languag parti express agreement 
+the mean term contractu document determin reason person would understood mean 
+that normal requir consider text also surround circumst known parti purpos object transact 
+footnot omit the written instrument consid entireti 
+sag point fact context contract take mean includ histori contract 
+In intern air transport associ v ansett australia hold ltd hca alr gleeson CJ said In give commerci contract interpret necessari consid languag use parti circumst address contract object intend secur 
+An appreci commerci purpos contract call understand genesi transact background market 
+thi case court gener understand background purpos supplement specif inform genesi transact 
+the agreement histori histori part context contract take mean 
+befor consid histori necessari explain refer text issu construct aris 
+footnot omit extrins evid may admit identifi subject matter contract natur scope even linguist ambigu lion nathan australia pti ltd v cooper breweri ltd other fcafc fcr 
+As also establish clearli necessari order avoid absurd inconsist word may suppli omit correct within instrument fitzgerald v master hca clr 
+A recent exampl docksid hold pti ltd v rakio pti ltd sasr william J said In constru document without order rectif said someth differ I follow cours adopt new south wale court appeal tanzon 
+the present case like tanzon involv extrem set fact upon evid someth must gone wrong draft cf per lord hoffmann ic 
+the liter approach landlord contend produc ridicul commerci result base upon review process flout common sens 
+the natur mistak intend suffici clear justifi court read document appropri languag use reflect intent parti 
+adopt approach sag point structur licenc agreement term basic right grant 
+sag say licenc agreement grant basic right rwwa use emphasi ad system design locat singl machin specifi type specifi maximum number concurr user 
+In particular sag emphasis right grant licenc agreement limit within sag hierarchi right usag softwar 
+It point licenc agreement contempl extend possibl use respect licenc must grant absent licenc use permit 
+On four occas rwwa caus system test kaz premis DR site accord sag breach cl 
+I consid test central key issu even rwwa accept four occas test system conduct process instal system 
+accordingli process test system high point alleg sag cl 
+licenc agreement authoris instal system manner instal test rwwa DR site 
+If sag fail content respect admiss instal system driven assert rwwa instal system DR site occas apart test system system way contraven licenc agreement 
+from rwwa perspect show cl 
+permit instal system purpos test system emerg recoveri DR site would breach licenc agreement 
+sag damag claim fall determin breach 
+It follow although I consid argument rais parti need born mind high point case sag rwwa test four occas kaz site authoris cl 
+expert evid the cooper parti signific assist court 
+the expert confer result conferr certain central issu regard common ground 
+befor explain common ground lie necessari identifi expert say someth deal fundament relat build instal comput softwar 
+Of three expert wit gave concurr evid Mr fink call rwwa greatest experi mainfram industri 
+Mr fink year experi mainfram industri australia view deal relev issu precis person experi 
+Mr fink experi practic natur involv IT industri year primarili mainfram environ mani technic manag sale market area 
+rwwa also call Mr richard adam deloitt forens senior engin produc softwar machin code assembl high level languag system oper mainfram environ 
+sag call Mr rodney mckemmish 
+He hold bachelor busi degre rmit 
+have work victoria queensland polic kpmg australia head e 
+He extens experi forens comput lectur univers topic 
+As matter conveni I summaris follow technic materi part expert report Mr mckemmish expert sag 
+I understand technic materi contenti 
+certainli relat plead case disput issu I satisfi contenti 
+creation softwar the underli process comput softwar creat entail number step 
+these import understand constru cl 
+those step includ step creation sourc code step compil sourc code step link object code step load execut 
+sourc code compris instruct data definit express form suitabl input assembl compil translat ieee standard glossari softwar engin terminolog 
+sourc code simpl term human readabl form comput program input compil translat convers equival object code 
+the compil also comput program 
+it function translat humanli readabl sourc code machin 
+comput readabl form known machin code 
+To end compil view program translat high level languag absolut code assembl languag 
+the output compil known object code 
+object code program written languag capabl understood machin execut later time 
+howev execut occur necessari object code link 
+while object code machin readabl form necessarili state allow readili load comput memori execut 
+the step involv link bind object code 
+object code need link case comput program involv larg number routin 
+each perform differ function 
+the larger complex program routin function requir 
+In order make program process easier manag mani routin develop separ sourc code file 
+A program broken modul repres separ sourc code file 
+the compil phase produc discret object code file sourc code file 
+for program function necessari combin individu object code file singl execut file 
+A util program combin sever separ compil modul one resolv intern refer 
+As well link bind individu object code occas necessari includ precompil routin perform predefin task 
+typic precompil routin group togeth store file known librari 
+the advantag librari elimin need programm develop new sourc code time common function requir 
+one advantag use librari permit greater code 
+thi reduc overal develop time 
+accordingli result execut machin code constitut amalgam object code modul librari file 
+onc variou object code file link form execut file file load comput memori run 
+from seen differ object code execut code result link process 
+the link object code creat load modul carri loader program 
+A loader program amongst thing read machin code main memori comput prepar execut 
+area agreement differ expert wit definit system the expert agre the sag distribut tape contain gener softwar configur use rwwa inde custom sag 
+the softwar need configur use particular custom case rwwa 
+the distribut tape suppli sag includ load modul sourc code file 
+base customari definit load modul compris link object code file 
+the custom case rwwa use sourc code file configur softwar use 
+the distribut tape load onto rwwa mainfram system configur use sag sourc code suppli sag produc load modul 
+On topic follow area expert unabl agre Mr adam Mr fink opinion system cl 
+licenc agreement refer softwar instal configur custom mainfram 
+Mr adam Mr fink opin copi system suitabl emerg restart instal configur softwar 
+Mr fink Mr adam view although option restor system origin distribut tape suppli sag backup tape copi distribut tape time requir reconfigur softwar mean view reason option backup unconfigur softwar suppli sag 
+Mr mckemmish opinion system uninstal unconfigur softwar contain distribut tape 
+Mr mckemmish opinion necessari order oper softwar restart scenario copi configur load librari softwar copi distribut tape reconfigur instal 
+accordingli Mr mckemmish believ purpos cl 
+necessari copi system capabl use emerg restart purpos within particular time frame 
+In Mr mckemmish opinion necessari determin minimum requir achiev restart 
+He view express contempl two element 
+hi view minimum requir copi emerg use restart system 
+therefor consid copi uninstal unconfigur system tape possibl form licenc agreement constru authoris copi uninstal unconfigur system 
+In view back tape common form backup 
+He agre howev issu media use case exampl disk versu tape 
+Is DR copi code the expert agre On customari definit within comput industri code includ load modul load modul consist one object code modul link togeth 
+howev mani context term modul use refer state object code file exampl organis load modul 
+the softwar suppli sag addit sourc code compil produc load modul instal configur softwar rwwa mainfram suppli form load modul object code customari definit refer second definit refer 
+It possibl copi softwar system suppli sag code unless load librari suppli sag treat code accord customari definit refer 
+If one adopt customari definit code refer leav asid issu system DR copi code within mean cl 
+what purpos DR copi the expert agre sole purpos make DR copi emerg restart purpos within mean cl 
+I would take opinion sole appar purpos obviou purpos 
+while agreement expert matter sag submit correctli view question rwwa purpos make DR copi matter expert could express particularli help opinion 
+Is DR copi second instal the expert agre the disk DR copi kept part DR san part environ DR site 
+the DR copi load memori mainfram DR site partit mainfram DR site activ except event test DR copi b emerg restart scenario 
+Mr mckemmish alon consid instal import issu reach opinion the fact disk DR copi kept part san therefor part mainfram environ DR site b the fact DR copi kept third parti site 
+the follow area expert unabl agre In Mr mckemmish opinion consid whether occur entir mainfram environ must taken account 
+As mirror copi sit hitachi disk part mainfram environ link product system san DR site san broken abl load DR mainfram memori view DR copi therefor instal DR site 
+In Mr mckemmish opinion necessari DR copi load mainfram memori partit activ 
+Mr fink Mr adam opinion mirror copi backup copi product load librari 
+thi standard industri practic 
+rwwa never gone instal process DR site DR test partit activ except DR test case actual emerg restart scenario 
+In opinion function essenti instal unless DR copi load memori mainfram DR site 
+the fact DR copi part san part mainfram environ mean 
+In opinion DR copi instal DR site 
+Is make DR copi carri test process second machin DR site system breach licenc agreement the expert agre mainfram comput partit assign rwwa kaz site activ DR copi fact load mainfram memori except event DR test actual emerg restart scenario 
+On topic follow area expert unabl agre In Mr mckemmish opinion necessari DR copi load mainfram memori constitut system particular mainfram environ DR copi kept 
+In view rwwa use system DR site 
+Mr fink Mr adam opinion system directli relat carri rwwa intern busi case DR site system back via mirror process disk DR site mainfram comput partit assign rwwa activ program use unless load memori system said use DR site 
+resolut OF issu IN disput the broad natur disput outlin introduct distil plead various amend left specif issu trial parti direct evid argument 
+the parti also make aspect case agreement issu concurr examin expert wit produc economi time cost 
+what within mean cl 
+licenc agreement In particular mean the unconfigur uninstal softwar contain distribut tape cartridg suppli sag rwwa altern b the softwar instal configur rwwa mainfram design locat rwwa head offic 
+sag argu determin system question construct expert evid occas assist court constru contractu term case said unhelp 
+It suggest Mr adam Mr fink guid definit system direct letter engag inform issu disput 
+sag reli fact Mr meehan settl letter instruct 
+I accept submiss sag determin system purpos critic cl 
+licenc agreement must question contractu construct court 
+howev claus employ technic term 
+It follow expert evid assist determin mean cl 
+In opinion doubt three expert best provid frank assist equal clear Mr fink view entir plausibl support substanti background experi specif industri 
+sag expert Mr mckemmish limit experi mainfram comput environ 
+In comparison Mr fink work year mainfram industri work mani organis australia oper mainfram comput 
+I accept evid Mr fink Mr adam system mainfram industri mean system instal 
+most importantli would also requir word object code appear cl 
+To would substanti violenc mean section properli understood 
+object view purpos permit license reproduc softwar extent may requir emerg restart purpos 
+To mere copi distribut tape cartridg would limit practic use purpos 
+thi common ground amongst expert 
+confin simpli copi tape cartridg unconfigur uninstal system would construct least unreason inconveni would also unjust 
+It common ground system suppli includ sourc code 
+when sourc code convert object code link creat load modul instal system system instal configur becom copi object code copi system emerg restart purpos 
+To limit right cl 
+right copi tape cartridg suppli would requir part copi copi sourc code 
+In view copi sourc code expressli preclud licenc agreement 
+nevertheless except circumst four success test hypothet circumst actual emerg restart system oper accordingli instal 
+I base view evid Mr adam Mr fink 
+the approach Mr fink support Mr adam practic function approach view rather academ approach 
+Mr mckemmish hand accept definit system mean unconfigur uninstal system simpli approach took mean term base relev technic concept widespread industri usag mainfram industri 
+the consequ inabl copi system configur instal would rwwa would littl better simpli back tape data done prior establish DR site 
+In emerg situat lose avail mainfram osborn park would take someth order week rwwa fulli function supersed backup system 
+each expert wit rwwa Mr fink Mr adam express view express emerg appear cl 
+suggest time critic urgenc 
+there doubt accord ordinari mean word 
+the primari definit emerg macquari dictionari unforeseen occurr sudden urgent occas action 
+In new shorter oxford english dictionari primari definit situat especi danger conflict aris unexpectedli requir urgent action 
+for sag contend emerg constitut loss access system 
+the respons emerg part emerg 
+I unabl accept submiss 
+the ordinari understand emerg pertain event requir urgent respons 
+In context disput week far urgent 
+An urgent respons someth achiev aid disk mirror within matter hour least theoret target 
+the entir purpos establish DR site avoid huge financi cost would occas event disast busi inoper period week 
+Mr mckemmish tend agre proposit practic perspect also agre function step taken rwwa 
+hi posit simpli view licenc agreement rwwa pay addit licenc benefit instal system way 
+He accept carri emerg restart use uninstal distribut tape would less accept unaccept cold site scenario 
+He also thought emerg restart critic 
+Mr mckemmish said make copi distribut tape would definit involv copi sourc code would case one copi system instal configur 
+expressli logic permit copi system object code 
+licenc agreement rwwa entitl copi again sag also contend answer question determin court expert address issu 
+the topic howev cover answer first issu 
+Is DR copi copi within mean cl 
+licenc agreement there doubt DR copi copi reproduct system 
+inde evid Mr mckemmish DR copi consid instal system well copi system 
+neither Mr fink Mr adam agre instal system 
+wa make DR copi system within mean cl 
+licenc agreement sag contend heart issu disput requir cl 
+rwwa take licenc instal 
+that licenc must lpar msu circumst involv warm DR site outsourc 
+sag reli upon view Mr mckemmish make DR copi system 
+Mr fink Mr adam consid mean word system industri context usual relat carri one ordinari busi 
+It common ground busi carri relev way DR site 
+Mr fink Mr adam contend system simpli back via mirror process DR site DR mainfram activ program use unless actual load memori system said use DR site 
+Mr fink Mr adam reject suggest system use DR site sens express might gener understood industri 
+As express appear particular technic mean industri 
+As technic mean question one construct licenc agreement 
+In view sensibl construct licenc agreement refer mean use system within rwwa ordinari busi busi occasion test one DR site 
+thi must view DR copi DR site authoris cl 
+A function mean reflect protect sag need licenc agreement 
+It alreadi protect copi instal system otherwis accord licenc agreement 
+In view construct make commerci sens 
+If use rwwa DR site authoris cl 
+question whether system otherwis use cl 
+I consid use authoris 
+what meant emerg restart purpos cl 
+licenc agreement again sag contend question construct 
+sag make point rwwa consid emerg restart mean least includ set disast recoveri site instal DR copi site part test process 
+there doubt evid agreement expert wit object constru least whole sole purpos DR site abl reactiv system case emerg 
+ani debat whether emerg restart disast recoveri view somewhat semant 
+the notion emerg restart specialist mean within industri mean conflict normal usag 
+It necessari look dictionari definit emerg see ordinari sens emerg equat requir urgenc 
+thi come back fundament issu case whole reason rwwa establish consider expens DR site I accept belief could avoid loss data risk delay week abl recomm oper 
+In busi extrem high turnov transact substanti financi turnov day delay signific 
+In view scope argument emerg restart simpli mean busi sustain disast emerg requir restart leisur pace week 
+In opinion whole concept emerg restart mean essenti part highli sophist busi environ restart requir quickli reason possibl 
+while Mr fink Mr adam conclud restart synonym recoveri Mr fink also express view restart common use term mainfram environ ever occur disast recoveri site 
+that locat remov primari mainfram 
+A failur relev sens mainfram environ extrem rare Mr fink experi year could recal one failur 
+Mr fink explain avail mainfram system meant expect avail 
+It customari switch like person comput simpli reboot temporari freez 
+Mr mckemmish took view disast recoveri form emerg restart event earlier concur follow conferr expert wit sole purpos DR site emerg restart 
+did rwwa make DR copi restart purpos emphasi ad clearli issu backup tape capabl use restart system 
+the evid Mr meehan purpos establish DR site achiev emerg restart hour simpli would accept wait week restart tape 
+there disput simpli busi commerci approach 
+I satisfi evid sole purpos DR site archiv emerg restart purpos 
+In regard I also given consider contemporan document effect constitut submiss board made Mr meehan agreement rwwa kaz 
+Do use rwwa made DR copi come within restart purpos cl 
+licenc agreement emphasi ad the first question whether use sens contempl licenc agreement 
+the purpos clearli defin previou issu name restart 
+the question whether sens parti taken intend licenc agreement 
+In view system sens would contraven licenc agreement 
+the sens use system rwwa store DR copi san order allow avail emerg test rwwa could confid would avail event emerg 
+usag system appear licenc agreement opinion mean usag busi purpos 
+No action rwwa DR site constitut usag 
+In view construct accord industri practic common sens 
+ha rwwa DR copi DR site within mean cl 
+licenc agreement follow make DR copi process disk mirror b store DR copi disk part san part environ DR site c test occas may juli februari august rwwa partit DR mainfram activ DR copi load memori DR mainfram 
+emphasi ad As relat make DR copi necessarili follow disk mirror constitut copi instal system DR copi DR site instal 
+In view instal need read light usag read licenc agreement name instanc licenc agreement instal system way oper conduct rwwa busi 
+Mr mckemmish took view system fulli instal 
+hi approach describ instal depend fact DR copi held san part mainfram environ 
+Mr fink Mr adam took differ view opinion success challeng 
+the central basi opinion Mr mckemmish DR copi part mainfram environ 
+the logic challeng cours basi san could quit easili unplug move adjac room 
+It would longer part mainfram environ accord Mr mckemmish would locat ceas instal 
+the distinct respect somewhat artifici 
+Mr mckemmish seek attempt justifi view basi person experi mainfram industri 
+As b storag DR copi also fall away make DR copi reason 
+As c test process view high point sag case breach licenc agreement test DR copi 
+rwwa also accept test conduct instal system mainfram DR site 
+the question determin whether instal system DR site authoris cl 
+constitut except gener prohibit licenc agreement use copi instal 
+Is rwwa breach licenc agreement In light conclus relat issu possibl breach would process test 
+for reason express relat test breach 
+wa rwwa permit make DR copi CA In light conclus breach licenc agreement unnecessari determin whether make DR copi also authoris CA 
+for complet howev I record I consid follow reason make DR copi authoris CA 
+divis Pt iii CA includ ss 
+It introduc copyright amend comput program act cth 
+addit amend made copyright amend digit agenda act cth 
+section relevantli provid copi comput program subject subsect copyright literari work comput program infring make reproduct work reproduct made behalf owner license copi origin copi reproduct made b reproduct made use behalf owner license origin copi c reproduct made follow purpos enabl owner license origin copi use reproduct lieu origin copi store origin copi ii enabl owner license origin copi store reproduct use lieu origin copi origin copi lost destroy render unus iii enabl owner license origin copi use reproduct lieu origin copi anoth reproduct made subsect origin copi reproduct lost destroy render unus 
+emphasi ad subject subsect copyright literari work comput program work held togeth program comput system infring make reproduct program work reproduct made behalf owner license copi origin copi reproduct made b make reproduct part normal copi data secur purpos 
+emphasi ad subsect appli relat reproduct work made purpos refer subparagraph c iii whether reproduct work previous made purpos copi 
+subsect appli make reproduct comput program infring copi comput program b owner copyright comput program design program copi made without modifi program c licenc use origin copi given behalf owner copyright comput program owner origin copi owner copi acquir expir termin 
+for purpos section refer copi comput program refer articl comput program reproduc materi form 
+provid requir sub b met sub c impos limit right reproduct comput program refer purpos copi parti 
+As I alreadi conclud issu rwwa purpos 
+It clear view purpos fall within c ii iii CA 
+I consid clarif necessari permiss event least seek confirm plain mean word use take account extrins materi capabl assist ascertain mean statutori provis whether provis ambigu act interpret act cth cic insur ltd v bankstown footbal club ltd hca clr 
+the copyright amend comput program act enact follow report copyright law review committe comput softwar protect releas 
+both report also revis explanatori memorandum copyright amend digit agenda bill par provid support restrict view CA see 
+see also explanatori memorandum copyright amend comput program bill par 
+the content secondari materi confirm plain mean CA 
+the process disk mirror context CA appear subject detail judici consider although pass refer interlocutori level spatialinfo pti ltd v telstra corpor ltd fca sundberg J consid submiss disk mirror facil authoris CA 
+In deal honour observ one requisit circumst reproduct made purpos back disk mirror commonli employ sub c 
+the issu honour howev involv alleg reproduct made infring copi 
+rwwa contend entitl test CA regard c iii 
+In view establish test DR copi clearli enabl rwwa use DR copi lieu origin copi system origin lost destroy render unus 
+the entitl test accord rwwa consist liter read c iii CA purpos approach statutori interpret project blue ski inc v australian broadcast author hca clr 
+rwwa also reli Mr mckemmish readi accept reason best practic test one disast recoveri strategi 
+He would expect person test disast recoveri arrang would surpris 
+As previous observ howev I consid Mr mckemmish simpli describ best practic 
+He necessarili make concess purport constru contract effect CA relat contract question whether permiss conduct test DR site 
+nevertheless accept purpos good practic accord intent CA 
+for reason I conclud make DR copi includ test permit CA 
+similarli requir sub met reproduct made license part normal backup copi data secur purpos 
+In relat sag stress secur test term gener understood industri exampl test ensur system safe virus etc 
+the explanatori memorandum copyright amend comput program bill par relevantli provid 
+allow make temporari copi comput program part data comput comput system commonli done secur possibl damag destruct comput system 
+emphasi ad It note amend CA use broader sens secur electron invas system 
+see exampl copyright law review committe report comput softwar protect 
+provid ephemer copi BY busi 
+there one form copi comput program committe believ deserv special mention name ephemer copi busi 
+the committe understand common practic mani busi back work day 
+thi usual mean everyth store busi comput includ data program load onto anoth form storag magnet tape floppi disc 
+thi copi store safe place precaut unforeseen disast fire earthquak even terrorist attack 
+such copi usual retain limit period use short live 
+nonetheless like busi may keep copi number day reus tape disc materi store 
+such copi insofar includ comput program togeth busi data ought infring copyright program 
+accordingli committe recommend make ephemer copi comput program incident normal copi busi data secur purpos infring copyright recommend 
+emphasi ad section CA provid subject divis copyright literari work comput program infring make reproduct adapt work reproduct adapt made behalf owner license copi program origin copi use make reproduct adapt b reproduct adapt made purpos test good faith secur origin copi comput system network origin copi part ii investig correct good faith secur flaw vulner unauthoris access origin copi comput system network origin copi part c reproduct adapt made extent reason necessari achiev purpos refer paragraph b inform result make reproduct adapt readili avail owner license anoth sourc reproduct adapt made 
+subsect appli make reproduct adapt comput program infring copi comput program 
+emphasi ad from CA follow view process reproduct DR copi authoris reproduct carri accord requir subsect reproduct made purpos test good faith secur origin copi say origin system see par b reproduct made extent reason necessari achiev purpos test secur origin copi see par c inform make reproduct readili avail anoth sourc reproduct made 
+In word test necessari order sure system main premis osborn park destroy secur origin copi system test 
+the purpos test purpos good faith secur origin copi 
+the test done extent reason necessari purpos inform result test reproduct purpos test otherwis readili avail 
+while express good faith secur origin copi might one view given restrict mean appear legisl purpos taken entireti context includ emphasis passag appear copyright law review committe report cite 
+In view accordingli CA also appli protect test process carri rwwa 
+test direct toward possibl failur system network origin copi part 
+test possibl failur system name DR copi purpos test DR site 
+accordingli CA also appli protect rwwa 
+A possibl concess sag CA the make copi alway issu disput plead written submiss initi exchang parti 
+At open case rwwa howev concess made counsel sag taken counsel rwwa indic sag rais issu rwwa right make DR copi CA subject question whether lost right reason carri DR test light CA provid If reproduct adapt literari work comput program made prescrib provis b reproduct adapt inform deriv without consent owner copyright comput program use sold otherwis suppli person purpos purpos specifi prescrib provis prescrib provis appli taken never appli make reproduct adapt 
+for purpos section section prescrib provis 
+follow complet hear counsel parti file detail written submiss whether concess made relat issu 
+It unnecessari resolv question light conclus I reach test 
+As I made clear relat licenc agreement reason express seem right confer cl 
+licenc agreement necessarili confer right carri test perform rwwa 
+regardless variou argument advanc I hold view CA 
+In view natur test involv reason part process copi 
+ha rwwa made use DR copi specifi use CA virtu CA rwwa must taken made DR copi either section emphasi ad for reason explain use DR copi use specifi use purpos 
+wa rwwa permit copi reproduc system purpos test DR copi test process pursuant CA emphasi ad inher issu suggest copi made purpos prescrib CA also test whether copi would suitabl purpos 
+doe test go beyond permit statutori purpos In view reason express 
+ha rwwa made use DR copi specifi use CA virtu CA rwwa must taken made DR copi thi issu also cover 
+If test permit extent therebi use must also permit 
+licenc agreement proper construct permit rwwa copi reproduc system purpos test DR copi test process set statement claim altern impli term licenc agreement rwwa permit copi reproduc system purpos In view entitl cl 
+licenc agreement design protect must given benefici construct accord commerci common sens 
+On view evid emerg restart recoveri site disast recoveri site without opportun test function site would pointless except prohibit restrict provis licenc agreement 
+such construct would provid littl scope achiev obviou purpos direct 
+inde intern document produc late piec cours trial support amend advanc sag clear sag approach client permit test limit degre consist view 
+It content licenc requir test limit five time year 
+It unnecessari resort impli term 
+If I wrong construct cl 
+would littl scope impli term manner contend rwwa I would context comprehens commerci agreement 
+ha rwwa outsourc oper system breach cl 
+licenc agreement one follow contract kaz provis disast recoveri test servic includ use DR mainfram b make DR copi process disk mirror c store DR copi disk part san part environ DR site occas may juli februari august part test process rwwa partit DR mainfram activ DR copi load memori DR mainfram e involv kaz staff test process conduct may juli februari august 
+evid given Mr melsom kaz 
+Mr melsom employe kaz call sag order give evid degre kaz involv DR test process 
+Mr melsom gave evid recal kaz technician involv function relat specif oper system 
+He accept kaz technician may involv sever link DR site rwwa site 
+Mr fink extens experi mainfram industri reject suggest arrang contract kaz rwwa one constitut outsourc sens 
+rather matter practic accord natur arrang kaz rwwa contractu document kaz provid rwwa environ equip DR copi load emerg occur 
+rwwa retain respons DR process 
+there evidentiari basi suggest kaz way involv oper system 
+without evid avail may closest none suggest action could constitut use licenc agreement 
+were term document refer par defenc incorpor refer licenc agreement these document follow sag current price list licenc fee payabl addit licenc cl 
+licenc agreement current mainten fee ascertain 
+sag web base program known 
+sag busi oper manual date decemb 
+sag document head softwar AG licens rule neapsa It clear evid document entir intern 
+they stage refer rwwa view incorpor licenc agreement 
+In event breach occas resort document could aris 
+If rwwa breach licenc agreement amount sag loss damag As view breach find issu express complet 
+I refer evid given Mr beddo sag relat price sag would endeavour negoti rwwa take DR copi establish DR site 
+thi evid relat amend sag claim maximum price contend would recov entitl recov bring altern claim respect discount price 
+thi discount said order list price would reflect busi practic sag client rwwa relev time 
+sag contend negoti variou parti period time discount list fee addit licens grant origin licens agre 
+plead discount practic gave rise need produc agreement said support practic 
+Of agreement produc three reflect licenc fee negoti addit DR use 
+No evid instanc prior produc 
+the evid gener support practic wholli inadequ support conclus balanc probabl sag lost opportun negoti rwwa agreement would given discount price establish DR site 
+To contrari analysi evid Mr beddo refer I consid unlik agreement would negoti 
+there assert copyright claim breach copyright 
+rwwa contend principl law would prevent anyon use softwar without licenc aris subject copyright 
+rwwa submit fact sag claim neither owner exclus license copyright mean suffer loss rwwa fact use softwar beyond term licenc creat licenc agreement 
+In judgment steytler J honour western australian full court fineski hold pti ltd v minist transport WA war hi honour discuss variou author damag award pay basi 
+that say context someon pay use properti own anoth 
+At honour observ damag award case restitutionari natur restor compens owner properti whose right breach 
+there case owner properti despit suffer harm entitl compens anoth use breach owner right 
+includ amongst case breach intellectu properti right patent 
+hi honour conclud regardless whether damag case might properli regard restitutionari otherwis difficult see award damag proprietari interest 
+sag reli heavili case damag award sens 
+but sag contend proprietari interest softwar 
+mani author reli upon sag case deal damag breach copyright breach patent respect addit differ principl may appli 
+counsel sag assert sag su price 
+that price sag say rwwa paid addit licenc relat servic fee 
+altern discount sum respect price 
+sag support claim fee refer gener tyre rubber compani v fireston tyre rubber compani ltd rpc meter ltd v metropolitan ga meter ltd rpc microsoft corpor v tyn electron pti ltd liq ipr 
+each case involv infring intellectu properti right 
+In gener tyre rpc lord wilberforc refer reward patente invent entitl exclus right use invent 
+In meter ltd rpc defend sold ga meter contain small part infring patent held plaintiff 
+eve J court appeal held loss profit sale whole meter recover plaintiff eve J say mechan protect patent essenc meter 
+the passag reli upon sag comput damag follow earlier passag fletcher moulton LJ express true principl govern case possibl prove either amount profit owner patent lost reason infring rate royalti 
+see also irvin other v talksport ltd ewca civ court appeal follow gener tyre rpc meter ltd rpc 
+although merit sag argument approach might taken owner properti use case 
+I consid damag could comput basi case 
+justic hill finkelstein emmett J agre hospit group pti ltd v australian rugbi union ltd fca fcr point gener rule common law laid baron park robinson v harman Ex 
+observ aim award damag breach contract place plaintiff posit plaintiff would occupi contract perform 
+thi reflect principl sole purpos damag law contract compens 
+counsel sag say su price list price discount price would appli negoti 
+howev rwwa point sag led evid show profit would lost respect price 
+rwwa submit sag entitl full price 
+rwwa point fact claim made claim damag claim licenc fee contractu due 
+If claim damag claim net loss 
+It say sag proven net profit contract would 
+It would simpli specul assum net profit may notion licenc agreement 
+sag oblig pay commiss unknown rate sold product 
+It must paid licenc fee similar german compani 
+there logic reason assum german compani would allow sag profit sale system without german compani develop system compens benefit 
+As expens evid cost sag would incur respect two item alon produc profit 
+there gener overhead respect also evid 
+No matter basi assess chosen court parti entitl place better posit way damag would case contract perform 
+see exampl commonwealth v amann aviat pti ltd fca clr per mason CJ dawson J per toohey J per gaudron J per mchugh J dissent baltic ship Co v dillon the mikhail lermontov hca clr per brennan J 
+In view rwwa submiss sag adduc evid net profit posit say expens produc assert contract price correct 
+I think open specul sag expens would 
+It may well rwwa would prepar pay rel nomin amount say effect get rid problem pursu sag 
+but reach conclus effect absenc evid whatsoev support would simpli pluck figur air specul 
+I believ evidentiari basi entitl law cours taken 
+It follow view view I express absenc breach incorrect remain difficulti sag properli proven loss 
+conclus rwwa breach licenc agreement 
+It entitl declar effect 
+I address appropri addit injunct relief 
+I provid parti suitabl opportun file submiss possibl consent minut relat relief includ cost 
+I make follow order 
+there declar the respond entitl payment addit licenc fee upgrad mainten servic fee pursuant licenc agreement respect instal copi system licenc subject agreement applic disast recoveri mainfram 
+ii the applic make store disast recoveri copi system third parti site oper kaz technolog servic pti ltd breach licenc agreement 
+iii the applic entitl test disast recoveri copi pursuant term licenc agreement event pursuant copyright act cth accord test process 
+I certifi preced two hundr number paragraph true copi reason judgment herein honour justic mckerrach 

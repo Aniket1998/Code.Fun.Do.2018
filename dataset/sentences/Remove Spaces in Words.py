@@ -21,6 +21,5 @@ def remWord_Space(file_name):
 
 names = open("names_words.txt","r")
 names_files = names.read().split()
-print("YES")
 for nm in names_files:
     remWord_Space(nm)
