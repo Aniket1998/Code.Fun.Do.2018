@@ -22,50 +22,37 @@ the rule rule trade sfe share price index If pattern format abc pattern doubl to
 the midlin set line set 
 rule trade entri 
 A legitim abc pattern format base two three day swing must present 
-
 the open price must within blue move averag line blue default colour 
 the calcul rang confirm C day 
-
 onli trade major intermedi trend 
 trade rule 
 the basi trade plan swing chart 
 you construct daili weekli swing chart exactli I shown previous 
-
 onli trade trend 
 An trend defin market recent swing high higher swing high preced and recent swing low higher swing low preced 
 A downtrend opposit lower swing high lower swing low 
-
 In respect trade long side intend trade identifi format point C 
 point A start immedi preced move 
 point B termin first move identifi swing 
 point C termin correct move identifi swing 
 point B must previou swing top 
-
 the distanc point A B measur three reason 
 firstli long trade must enter market travel distanc equal rang point C 
 secondli progress move use placement level exit posit 
 thirdli rate strength market retrac main trend 
 In strongli trend market retrac usual less rang 
-
 upon enter initi trade stop loss place one point point C 
-
 In strongli trend market add posit old top cross point 
 In case place stop loss low previou day 
-
 upon market reach rang stop place point level 
 instruct broker act basi end day 
-
 As market move time pass next barrier stop rais point barrier ie son 
 for exampl market pass level say price stop would move 
-
 profit taken first time progress stop trigger 
-
 trade short posit exact opposit rule trade long posit 
 from time moor provid oxford custom excel spreadsheet call trade plan appli methodolog convert custom analysi instruct given futur broker 
 the relev legisl section corpor act subject present immateri except provid person carri financi servic busi jurisdict must hold australian financi servic licenc cover provis financi servic 
 section provid A person provid must provid financi servic jurisdict behalf anoth person princip carri financi servic busi one follow paragraph appli 
-
-
 the follow paragraph requir either princip provid hold australian financi servic licenc cover provis servic princip exempt 
 financi servic busi defin corpor act busi provid financi servic 
 accord person provid financi servic inter alia provid financi product advic 

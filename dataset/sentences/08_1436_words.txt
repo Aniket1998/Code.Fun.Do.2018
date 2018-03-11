@@ -98,9 +98,6 @@ time the commiss must make determin time soon practic commiss declar servic decl
 consult befor make determin commiss must publish draft determin invit peopl make submiss commiss draft determin b consid submiss receiv within time limit specifi commiss publish draft determin 
 public the commiss must publish determin manner consid appropri includ electron form 
 arbitr the commiss must regard determin requir arbitr access disput divis relat declar servic 
-
-
-
 definit In section term condit mean term condit relat price method ascertain price 
 accc determin price principl relat lss time issu final decis whether declar lss see ff 
 section provid certain declar servic core servic 
@@ -190,8 +187,6 @@ the document state impli minimum access provid cover direct increment cost incur
 thi statement accc relev telstra ground b c dealt section C pool alloc method 
 second document state access price chargeabl telstra gener base total servic increment cost tslric provid servic 
 tslric defin access price principl guid 
-
-
 increment addit cost firm incur provid servic assum product activ remain unchang 
 It cost firm would avoid ceas provid servic 
 As tslric repres cost firm necessarili incur provid servic captur valu societi resourc use product 
@@ -221,8 +216,6 @@ accc also note even though telstra reach commerci agreement carrier relat charg 
 accc state believ two type cost could includ price lss first increment cost second alloc cost line lss provid 
 accc accept reason access provid telstra recov increment cost access charg lss state alreadi recov line cost revenu sourc would inappropri includ element line cost price lss 
 accc ad At present commiss believ telstra alreadi fulli recov cost rang revenu sourc 
-
-
 In instanc therefor commiss believ appropri price lss set refer cost provid lss 
 howev telstra alter price structur longer recov line relat cost variou revenu sourc commiss believ may appropri includ alloc line relat cost price lss 
 In instanc whilst estim effici contribut price lss make recov cost would difficult commiss believ practic cost alloc rule could simpli differ geograph cost line lss provid line rental revenu recov servic provid remain portion line 
@@ -245,7 +238,6 @@ the undertak proffer telstra follow make lss declar telstra submit access undert
 telstra propos lss access price per servic oper sio per month 
 In august accc publish A final report assess telstra undertak line share servic lss undertak final report assert accc analysi still show telstra alreadi fulli recov cost revenu servic 
 importantli section 
-
 accc address cost analysi telstra lss cost model 
 thi cost model version telstra suppli accc may section A telstra cost model concern 
 In support proffer undertak telstra assert model indic effici cost lss exceed per lss per month 
@@ -319,8 +311,6 @@ f In relat disconnect charg date interim determin final determin telstra misconc
 further backdat could done manner suggest telstra without reward telstra tardi establish lss churn process 
 the princip purpos backdat power compens access seeker cost associ delay reward tardi servic provid 
 g 
-
-
 accc made submiss relat issu law gener import relat power procedur act except matter 
 accc refer principl establish R v the australian broadcast tribun ex part hardiman hca clr hardiman reason limit particip 
 accc submiss relat aspect section A telstra cost model section B invalid final determin section F disconnect charg backdat No charg period 
@@ -378,9 +368,6 @@ telstra reli upon ground manifest unreason
 section provid make final determin accc must take account seven matter list para g subsect provid accc may take account matter think relev 
 also provid accc must regard lss price principl requir arbitr access disput 
 the factor given fundament weight other ltie mention para provid object part xic promot ltie 
-
-
-
 A 
 telstra cost model telstra ground failur take account relev consider name telstra cost model telstra ground denial procedur fair fail afford telstra reason opportun present case respect telstra cost model telstra ground procedur ultra vire relat telstra cost model failur compli b act gener telstra cost model ground refer describ affidavit iain robert littl group manag econom analysi telstra compris two microsoft excel spreadsheet CD estim telstra cost calcul cost lss 
 telstra provid CD accc 
@@ -423,8 +410,6 @@ emphasi nichol legal repres request repres request present proceed
 At time write letter CD fact courier accc nichol legal 
 No doubt Mr warren expect sign letter despatch CD courier would preced deliveri letter 
 Mr warren letter telstra submiss list support materi refer letter email accc form seri email malleson stephen jaqu malleson solicitor telstra date saturday may 
-
-
 that say although telstra submiss date friday may email accc earli hour follow day 
 becaus volum submiss actual six email 
 In email malleson advis accc enclos telstra submiss list support materi upon telstra reli 
@@ -452,7 +437,6 @@ It open accc manipul telstra cost model end say determin effect chang individu i
 Of cours said noth correct reliabl integ 
 telstra submiss accc address specif cost section D part 
 they assert para telstra develop model order model adequ cost purpos calcul monthli charg payabl lss telstra newli develop model estim telstra cost provid lss model model consist statutori criteria set act applic model gave estim cost per sio servic oper 
-
 per month 
 In para p part telstra state estim top lss specif cost use telstra model express bold footnot read lss index lss index use high wacc 
 clearli refer lss index CD email index document reli request disput 
@@ -468,14 +452,12 @@ In supplementari submiss telstra refer fact telstra cost model consid specif cos
 the final determin In final determin accc determin price 
 per lss per month base accc SC model foreshadow dfd see 
 In FD statement reason section 
-
 address specif cost page 
 accc state telstra suppli newli develop cost model state telstra advoc cost model popul prefer approach input prepar submiss telstra part p annexur 
 telstra suppli model commiss parti 
 the refer telstra part annexur refer p annexur part telstra submiss accc date may 
 accc reject telstra submiss accc continu use accc SC model adjust made restat capit valu year 
 accc find present relev contain follow passag FD statement reason section 
-
 head propos cost model commiss view telstra submit adopt prefer use propos model result measur lss increment cost redact X Y per lss per month 
 end redact differ cost estim within rang result adopt altern posit advanc respect wacc 
 the contribut telstra claim higher claim cost abl calcul without access telstra cost model assum permit sensit test undertaken 
@@ -494,15 +476,9 @@ Mr littl affidavit show sensit test refer calcul contribut integ cost lss necess
 accord telstra submiss telstra cost model design allow kind sensit test 
 Mr littl affidavit set three sampl manipul telstra cost model refer three five factor refer accc name capit cost lss demand wacc 
 for exampl capit cost elimin telstra cost model cost year reduc 
-
-
 In relat lss demand increas lss demand soi reduc cost 
-
-
 A lower wacc 
 reduc cost 
-
-
 consider gener request point telstra succeed relev consider ground accc bound take telstra cost model account could might materi impact outcom see gibb CJ mason J 
 section allow accc take account matter thought relev 
 In mason J state factor consid enumer statut exhaust court turn subject matter scope purpos statut determin matter bound take account 
@@ -527,8 +503,6 @@ predict present proceed telstra request point aspect b suggest support respect p
 I regard gener exhortatori provis exhort accc strive achiev broad object 
 some broad object least regard isol antithet one anoth 
 the notion speed proper consider disput care inquiri investig quick inquiri investig inquiri investig 
-
-
 matter affect merit emphasi fair pull differ direct cf discuss ss migrat act cth sun zhan qui v minist immigr ethnic affair unreport feder court australia may lindgren J see minist immigr v eshetu hca clr per gleeson CJ mchugh J 
 It may note pass achiev object depend dilig awar qualif accc offic also depend level fund workload accc respect exist particular time time time 
 I impli howev extran consider potenti give rise fluctuat construct b 
@@ -542,7 +516,6 @@ telstra ground To extent accc fact engag telstra cost model request put submiss 
 first submit infer accc fact read spreadsheet CD appreci complet final version telstra cost model refer telstra submiss 
 second submit FD statement reason show accc took account essenti featur telstra cost model reflect spreadsheet even read spreadsheet 
 request submit passag FD statement reason telstra reli section 
-
 relev extract set show accc consid receiv telstra complet full version telstra cost model expect receiv 
 request argu telstra ignor head use word summari simplist natur two spreadsheet telstra characteris constitut cost model 
 request contend accc entitl understand two spreadsheet summari telstra cost model popul prefer approach input 
@@ -558,7 +531,6 @@ To mind refer three cost model I refer telstra cost model appear summari titl co
 It brief approach degre densiti complex three cost model mention 
 I agre accc entitl treat two spreadsheet summari someth larger detail exist whatev form elsewher 
 I refer refer section 
-
 FD statement reason telstra submiss may part p annexur 
 As I note para p part telstra submiss refer telstra cost model footnot para refer two spreadsheet CD 
 accordingli may well accc refer p part telstra submiss indic read two spreadsheet 
@@ -594,8 +566,6 @@ telstra point fact offic accc call give evid regard two spreadsheet
 telstra refer rule evid associ jone v dunkel clr 
 that rule recognis scope oper applic judici review administr decis see author cite minist aborigin torr strait island affair v state western australia fcr 
 In case full court state the applic rule requir 
-
-
 infer avail evid favour parti 
 the failur minist call evid provid posit evid consid represent unexplain leav court posit oppos infer confid drawn stand uncontradict person could say someth true state fact jone v dunkel 
 the question infer open evid 
@@ -624,7 +594,6 @@ In relianc featur understood accc accc reject model
 In word accc reject underli basi telstra cost model reject assumpt least extent data telstra cost model thu spreadsheet base 
 the follow explain featur refer accc extract telstra cost model base assert cost rather pool cost lss ull adsl line 
 In section 
-
 FD statement reason accc adher view express dfd consult paper favour pool cost telstra intern equival cost follow alloc pool cost demand base includ downstream adsl servic I address pool alloc cost section C pool alloc method 
 telstra cost model lack featur 
 b telstra cost model base figur six month second half financi year end june 
@@ -644,7 +613,6 @@ No levelis
 revis lss ull demand 
 telstra suggest five factor taken whole substanti explain differ monthli figur 
 accc 
-
 it complaint accc deni opportun measur extent contribut individu factor possibl contribut factor differ 
 but I convinc matter 
 By deal featur telstra cost model way accc genuin regard gave posit consider essenti featur telstra cost model although reject 
@@ -691,8 +659,6 @@ the ultim question court whether interest justic evid admit see exampl bankruptc
 the particular criterion relev present circumst whether probabl requir degre addit evid affect result 
 there singl formul case degre probabl requir 
 In australasian meat industri employe union WA branch ex part ferguson alr toohey J said In situat hear conclud judgment reserv deliv said fresh evid admit materi interest justic requir evid believ would probabl affect result 
-
-
 emphasi In daniel RD nicholson J state must shown new evid accept would certainli affect result emphasi 
 In idonz pti ltd v nation capit develop commiss fcr idonz court refus applic respond appeal reopen hear appeal allow call fresh evid 
 one reason given fox J everett J agre evid avail appeal heard 
@@ -706,8 +672,6 @@ telstra submit ask whether would made differ ground exist involv legal error
 telstra submit failur take account relev consider relief refus consider insignific failur take account could materi affect decis 
 I refer relev author relat failur take account relev consider 
 In context failur accord procedur fair telstra refer stead v state govern insur commiss hca clr court state 
-
-
 full court properli understood say new trial would probabl make differ result honour fail appli correct criterion 
 all appel need show denial natur justic depriv possibl success outcom 
 In order negat possibl said necessari full court find properli conduct trial could possibl produc differ result 
@@ -761,7 +725,6 @@ In circumst purpos could serv admit addit evid would provid altern discretionari
 I oblig address altern discretionari basi support decis would oblig even document tender request cours hear 
 the issu rais motion complex brief summari parti submiss follow paragraph show 
 In circumst necessari I deal discretionari ground I decid admit evid accord weight 
-
 what decid one access disput prob would decid complet separ access disput correctli question whether possibl differ result could arriv separ disput review error commit telstra submit assum accc would decid relat telstra cost model way arbitr 
 each arbitr must decid merit principl stare decisi administr decis make 
 telstra cite statement tobia JA segal v waverley council nswlr dean J nevist v minist immigr ethnic affair alr gener effect administr must decid case fact merit must blindli follow fix polici 
@@ -773,7 +736,6 @@ It interest justic sound decid consist
 accc made final determin august adam final determin decemb 
 the period final determin expir decemb wherea period adam final determin began januari 
 I infer telstra advanc best case adopt telstra cost model arbitr 
-
 In adam FD statement reason accc regard differ consider regard arbitr telstra reli fact arbitr accc requir appli differ price principl bound appli arbitr 
 It recal lss price principl contain Ch accc lss declar final report august 
 As mention octob accc made purport make telstra challeng valid relev discuss new price principl act lss price principl 
@@ -787,7 +749,6 @@ In view one signific present purpos para accc state particular aspect telstra mo
 telstra draw attent statement adam FD statement reason effect certain submiss telstra certain particular issu inconsist lss price principl 
 for exampl para accc refer fact telstra approach particular issu inconsist requir lss price principl pool alloc method adopt 
 paragraph also refer requir lss price principl 
-
 the adam final determin subject judici review proceed court nsd telstra seek call question aspect adam FD statement reason In proceed nsd telstra contend lss price principl invalid 
 If held invalid shown requir accc regard includ pool alloc method 
 If adam final determin set asid result adam final determin hardli provid sound basi exercis discret grant relief respect final determin I concern 
@@ -877,16 +838,13 @@ for reason given telstra ground sustain
 C 
 pool and alloc method telstra ground procedur ultra vire failur take account relev consider name direct cost provid access lss act adopt pool alloc method act telstra ground b procedur ultra vire failur take account relev consider name interest particular legitim commerci interest telstra includ abil exploit economi scale scope ss e b act adopt pool alloc method telstra ground c procedur ultra vire failur take account relev consider name lss price principl use pool alloc method act telstra ground error law misconstru act conclud pool alloc method allow telstra recov cost includ direct cost gener thi ground review relat way extent telstra abl recov direct cost provid lss access seeker request 
 In section 
-
 FD statement reason head section direct cost provid access declar servic accc state consid direct cost provid access declar servic incur caus provis access includ increment cost provid access 
 In dfd consult paper FD statement reason accc note express specif cost use relat lss refer increment cost provid lss includ cost associ order provis qualifi line share servic 
 obvious cost telstra incur requir give access lss would incur provid bigpond busi divis servic question 
 accc refer IT system develop oper cost connect cost wholesal manag cost indirect cost exampl cost 
 howev accc conced cost categori recov lss connect charg would therefor relev lss period charg 
 In section 
-
 FD statement reason entitl specif cost head cost alloc accc adher view express section 
-
 dfd consult paper 
 that view purpos calcul lss annual charg specif cost associ lss ii ull iii telstra intern cost natur equival specif cost associ lss ull pool pool alloc demand base includ downstream adsl servic lss pool alloc method 
 accc note telstra oppos concept pool alloc specif cost request support 
@@ -909,7 +867,6 @@ per line per month
 howev accc pool alloc method total pool cost would alloc across line give cost 
 per line per month 
 accordingli cost born access seeker case lss would reduc 
-
 per line per month 
 It seen exampl pool alloc method align close cost base access seeker telstra provis xdsl servic 
 Of cours extent access seeker telstra choos pass cost matter decis 
@@ -962,10 +919,8 @@ accc initi state cost recov sole ull access seeker sever ulss access seeker argu
 accc note telstra submiss contrari 
 accc outlin three perspect issu could view name width definit servic within concept tslric perspect competit neutral found act perspect integr system invit comment 
 the third instanc accc august ull lss undertak draft decis section 
-
 appendix A 
 At para 
-
 accc summaris conclus relat cost includ view appropri specif cost recov larger custom base propos telstra ideal recov largest custom base possibl includ telstra custom base 
 In relat cost accc state para 
 cost compel argument statutori criteria spread cost across broader rang servic reason set appendix A accc believ would prefer move broader cost recoveri base 
@@ -985,11 +940,9 @@ the seventh instanc second ID statement reason decemb
 accc discuss measur cost particular whether would approxim cost 
 the eighth instanc found dfd consult paper march 
 As note issu pool alloc method dealt section 
-
 head specif cost 
 I note accc explan express specif cost dfd consult paper 
 In section 
-
 accc refer pool alloc approach adopt accc decemb ull lss undertak final report state consist reason tribun tribun decis 
 accc conclud import note increment cost associ telstra intern request line share retail wholesal adsl servic request request line share access full spectrum line extern servic provid lss ull pool alloc 
 cost associ convers line share downstream servic includ 
@@ -1032,13 +985,10 @@ rather criteria intend support effici cost base price declar servic
 thi recognis tribun accc repeat occas 
 If statutori criteria intend endors price servic cost access provid subsidis oper access seeker one would expect unlik consequ would expressli mandat 
 accc explain approach criterion section 
-
 FD statement reason 
 It address pool alloc method separ section 
-
 head specif cost cost alloc 
 In section 
-
 accc accept direct cost refer para cost incur caus provis access includ increment cost provid access criterion extend permit compens loss monopoli profit occur result increas competit tribun consid direct cost criterion concern ensur cost provid servic recov 
 In connect last proposit accc refer fn telstra corp ltd acompt dec paragraph 
 the refer tribun decis acompt 
@@ -1064,7 +1014,6 @@ likewis tribun statement optu mobil telstra refer help reason relat someth issu 
 I accept requir accc take account direct cost telstra provid request access lss requir take account factor telstra favour sens factor contribut posit amount period charg fix 
 In way question recoveri inevit rais notion direct cost 
 accc accept discuss inclus contribut line cost lss period charg state 
-
 para call consider telstra abil recov cost 
 In opinion basi say howev accc misconstru assess recover exclus charg made telstra lss alon 
 I accept proper construct requir approach 
@@ -1106,11 +1055,7 @@ accc went discuss sever criteria specif
 although accc expressli refer telstra abil exploit economi scale scope discuss head cost alloc broad refer regard criteria need read light FD statement reason whole 
 prior discuss cost alloc accc discuss gener view criteria detail 
 In relat particular e accc made follow comment 
-
-
 commiss consid access charg reflect effici cost 
-
-
 consist access provid legitim commerci interest particular enabl access provid exploit economi scale scope 
 emphasi when explain view cost alloc accc state pool alloc method consist reason tribun decis 
 In way accc adopt although specif refer tribun conclus pool alloc approach still allow telstra exploit economi scope scale retail level compet provis telecommun servic provid can I refer tribun decis 
@@ -1155,9 +1100,6 @@ most section
 head summari price principl devot accc reject inclus contribut line cost 
 howev first two paragraph last paragraph present relev pp In summari commiss believ two type cost could includ price lss increment cost alloc cost line lss provid 
 the commiss believ reason access provid recov increment cost access charg lss 
-
-
-
 henc price telstra lss equal cost 
 the commiss believ cost vari accord differ geograph region 
 emphasi I accept telstra submiss lss price principl includ principl increment cost recov access charg lss submiss pool alloc method inconsist principl 
@@ -1165,18 +1107,14 @@ howev requir regard lss price principl principl therein requir accc adher princi
 the question rather whether accc genuin regard 
 did accc appreci formul final determin inconsist respect mention I think 
 In section 
-
 FD statement reason head specif cost accc note accord lss price principl lss price cost base necessari cost estim deriv methodolog 
 accc went state there number matter need consid implement methodolog view reach number matter potenti influenc 
-
-
 measur 
 these discuss turn 
 for matter consid materi bear henc lss annual charg set arbitr altern approach could practic implement advanc commiss consid approach section criteria 
 the commiss assess section criteria lss annual charg would follow adopt variou approach particular issu 
 thi extract show accc use methodolog specifi lss price principl start point proceed balanc requir lss price principl mandatori consider requir take account 
 In express commiss view section 
-
 FD statement reason accc refer accc adopt pool alloc approach decemb ull lss undertak final report statement made tribun decis tribun note spread cost broader rang servic would like better promot competit 
 In decemb ull lss undertak final decis accc address page possibl mean recoveri cost 
 I need discuss cours reason 
@@ -1194,13 +1132,9 @@ In relat first stage process accc view tslric methodolog use determin cost line 
 the differ tslric latter allow contribut indirect cost wherea former 
 accc view applic supplement addit access deficit contribut adc appropri 
 accc explain adc conclus reach cost line use provid lss supplement adc follow way As consequ retail price regul 
-
-
 telstra present unabl recov full cost can custom access rental charg alon 
 telstra tradit retriev result access deficit AD servic call price 
 thi practic effect continu commiss allow adc call relat access price charg servic provid use can 
-
-
 accc went say while commiss consid applic adc case ull price conclud adc appropri price servic 
 In contrast case pstn full cost line recov ull access price 
 therefor access deficit aris respect line taken access seeker 
@@ -1223,8 +1157,6 @@ accc conced alloc effici perspect may appropri price lss includ recoveri cost li
 In relat question amount alloc price lss accc emphasis must line cost recoveri revenu price lss would deduct one four sourc refer 
 In particular contribut line cost price lss would occur price lss greater zero adjust made reduc adc levi interconnect servic adjust made decreas price servic 
 accc form follow overal view relat line cost In assess undertak make arbitr determin regard price lss commiss may take account price charg carrier servic 
-
-
 howev power limit regard specifi price servic 
 accordingli assess undertak determin price lss commiss regard price access provid set servic 
 thu even though may prefer effici use perspect alloc cost ull lss provid includ price lss would depend chang price servic 
@@ -1237,17 +1169,10 @@ thi effici line cost recov charg impos respect line line rental charg absenc red
 the second draft ID issu paper went invit parti make submiss number issu includ whether appropri purpos ID commiss includ contribut line cost 
 telstra submiss octob respons second draft ID issu paper address issu line cost follow paragraph footnot omit A practic consequ definit lss contain lss declar wherev lss provid local loop involv use provid two type servic voiceband pstn servic broadband data servic 
 the servic definit requir lss access seeker provid broadband data servic also provid voiceband pstn servic 
-
-
-
 thi rais materi issu regard cost provid local loop effici equit share servic make use 
 telstra went quot statement lss price principl recognis lss price includ specif line cost accc believ telstra alreadi fulli recov line cost rang revenu sourc price lss therefor includ cost telstra chang price structur longer recov line relat cost revenu sourc may appropri includ alloc line cost price lss 
 telstra explain end develop new price construct although commiss proceed date basi lss recov cost price principl also state 
-
-
 telstra alter price structur longer recov line relat cost variou revenu sourc commiss believ may appropri includ alloc line relat cost price lss 
-
-
 emphasi ad telstra recognis alter price structur desir develop new price construct would view better reflect lss price principl 
 pursuant price construct telstra would longer seek recov line relat cost servic lss would instead seek recov portion cost broadband servic provid utilis portion ull provis data servic end user custom 
 latter emphasi ad the decis telstra propos new price structur statement telstra would longer seek recov line cost servic lss indic telstra agre present purpos proceed basi accc view recov line relat cost servic 
@@ -1280,42 +1205,28 @@ In way accc advis parti intend regard approach describ
 accc also note possibl matter would regard might identifi cours consult 
 I note although telstra letter april accc list document telstra understood accc intend take account make final determin includ refer lss undertak final report august ull lss undertak final report decemb accc confirm letter april telstra would inde regard inter alia document specifi letter march say document specifi 
 In dfd consult paper accc advis parti head 
-
 contribut line cost follow As outlin commiss letter march commiss focu whether contribut line cost implement within period final determin oper 
 the commiss time seek submiss issu extent necessari reach view whether would appropri commiss includ contribut line cost lss annual charg appli period final determin 
 the commiss preliminari view contribut recognis would recognis prospect time follow rebalanc lss wlr charg 
 emphasi the commiss seek submiss contribut calcul seek submiss proceed first form view contribut recognis 
 the particular matter submiss address whether practic level rebalanc lss wlr charg could implement period final determin 
 redistribut line cost away fix voic servic recognit contribut line cost lss annual charg 
-
-
-
 parti ask provid view requisit chang wholesal line rental charg would implement like timefram chang would made 
 emphasi origin ii the like effect ltie section criteria implement rebalanc lss wlr charg period final determin includ consequ ltie adopt transit path approach 
 the commiss previous recognis contribut line cost lss annual charg 
-
-
-
 parti ask consid rebalanc wlr lss charg within period final determin section criteria includ effect ltie 
-
-
-
 these passag repeat two stage process accc refer letter march see 
 accc propos contribut line cost would includ prospect time follow rebalanc lss wlr charg decemb contempl expiri date final determin 
 although known final determin would made august reckon period envisag go short 
 In telstra submiss may respons dfd consult paper telstra address issu line cost 
 telstra propos lss monthli price 
-
 exclud gst per lss per month provid telstra pay rebat least 
 wlr servic suppli line 
 thi rebalanc telstra propos 
 the 
 understood compris line cost alloc compon telstra seek includ lss monthli price 
 If rebat telstra propos lss monthli price 
-
 less 
-
-
 less 
 exclud gst per lss per month 
 In telstra submiss respons dfd consult paper telstra explain calcul line cost alloc compon 
@@ -1334,7 +1245,6 @@ matthew william cole telstra group manag regulatori testifi telstra posit suppli
 On question practic telstra claim could implement rebat mechan within littl two week confirm rebat mechan commiss 
 telstra ad bviousli notic two week telstra abl provid wlr custom propos rebat better abl telstra custom plan manag receipt rebat understand implic 
 the final determin FD statement reason In section 
-
 FD statement reason accc state line cost recov charg particular line rental charg 
 accc refer two first stage issu invit submiss see 
 accc note telstra submiss lss wlr charg could rebalanc within matter week accc advis view amount line cost alloc servic minimum period would two week although six week would prefer 
@@ -1349,7 +1259,6 @@ In passag telstra complain accc state telstra recov cost invest access network l
 whether contribut line cost includ lss annual charg paid request chime unlik materi affect 
 howev immedi implement rebalanc dampen lss demand effici use invest lss order system would like follow flow consequ effici use invest downstream servic 
 accc conclud paragraph section 
-
 follow In summari commiss doubt rebalanc could occur decemb 
 If could commiss consid immedi implement rebalanc within period would contrari section criteria 
 have regard matter commiss determin consid proceed inclus contribut line cost lss annual charg payabl chime request period decemb 
@@ -1370,39 +1279,26 @@ that introduc new price construct involv rebat respect wlr charg compon line cos
 In event telstra indic content proceed least arbitr assumpt without admiss wlr equal averag cost line 
 In telstra submiss respons dfd consult paper telstra state telstra propos purchas wlr servic provid line lss servic receiv rebat equal lss line cost contribut 
 per line per month follow reason 
-
-
 e telstra commiss continu hold differ view averag cost access line practic matter avoid content issu purpos arbitr assum exist wlr price equal averag cost access line without compromis telstra continu view realiti wlr price significantli sum averag line cost transform cost 
-
-
 emphasi later submiss telstra assert accc final indic price wlr cost continu follow for pragmat reason howev telstra decid seek debat issu within arbitr alreadi close examin regulatori process 
 telstra propos lss loop cost contribut arbitr would chang extent telstra recov loop cost may therefor regard neutral telstra legitim busi interest 
 In passag telstra indic arbitr content proceed basi involv establish telstra line cost actual 
 rather content accc proceed basi final indic price wlr repres averag cost line 
 In view telstra content proceed basi recoveri amount whether wlr charg alon combin lss wlr charg rebalanc implement would allow telstra recov line cost full 
 In Mr cole conced telstra proceed assumpt purpos arbitr telstra would set line cost contribut assumpt commiss indic price wlr accur 
-
-
-
 accc gave telstra opportun present case arbitr whether telstra fact recov line cost telstra explicitli eschew opportun 
 In view telstra ground b made 
 A second answer telstra ground b dealt ff 
 telstra ground first answer telstra complain accc made error law make find fact telstra recov line cost evid justifi find 
 both parti refer australian broadcast tribun v bond clr bond mason CJ discuss whether find fact constitut review decis find fact constitut error law contribut review decis 
 In respect mason CJ state 
-
-
 ordinari circumst find fact includ infer drawn primari fact constitut review decis step along way ultim determin 
 Of cours ultim determin depend upon find fact vitiat error law made without evid review see 
 f h adjr act 
 In case find fact may challeng element review ultim determin 
 hi honour went explain decis involv error law A decis involv error law unless error materi decis sens contribut error decis would might differ 
 the critic question aspect case whether alleg error law 
-
-
 decis might differ reason possibl tribun would made find fact 
-
-
 made 
 later honour reason chief justic state find fact includ infer involv error law evid materi justifi make find see h adjr act 
 hi honour note question whether evid particular fact whether particular infer drawn fact found agre question law context judici review accept make find draw infer absenc evid error law 
@@ -1461,9 +1357,7 @@ per disconnect
 per disconnect 
 per disconnect 
 A disconnect charg payabl request follow circumst disconnect occur novemb date determin come effect ii disconnect occur determin come effect either disconnect made pursuant telstra lss churn process b request particip telstra lss churn process telstra bigpond particip telstra lss churn process 
-
 the charg specifi claus appli disconnect band 
-
 claus appli disconnect made februari decemb 
 the final determin allow telstra make disconnect charg lss disconnect occur prior novemb februari 
 the reason accc thought reason telstra implement lss churn process see prior date 
@@ -1518,7 +1412,6 @@ emphasi In support propos accc state attach the commiss consid charg levi lss di
 the commiss consid charg addit amount commiss understand current disconnect servic provid top connect charg levi servic provid would cost 
 thi disconnect perform part connect new servic increment discret cost perform disconnect small incident connect process deem recov charg new connect 
 In final decis telstra lss charg access undertak section 
-
 commiss identifi lss disconnect occas custom churn adsl servic new provid includ telstra retail instanc lss disconnect could perform conjunct new connect line 
 the commiss propos purpos interim determin new order receiv suffici proxim disconnect request taken occas custom churn adsl servic henc relev disconnect charg 
 In regard commiss consid appropri period calendar day date request disconnect lss allow 
@@ -1543,8 +1436,6 @@ telstra disclos whether telstra bigpond sign lss transfer process
 telstra note detail lss transfer process set statement ashwini pradhan product manag telstra wholesal annexur B telstra dfd submiss 
 In statement Mr pradhan explain lss transfer process requir gain lose servic provid sign 
 He state 
-
-
 lss transfer process adopt broadli 
 To would mandat use particular process 
 thi forc onto servic provid choic concomit commerci legal requir 
@@ -1720,12 +1611,6 @@ nonetheless accc adopt option
 request submit evid relev question whether accc fail accord procedur fair telstra arbitr whether matter discret relief refus telstra accc fail accord telstra procedur fair 
 In adam FD statement reason accc address option option address FD statement reason 
 At para accc state the practic differ option option option option provid parti incent particip telstra lss churn process make process effect therebi capabl ensur disconnect caus churn charg 
-
-
-
-
-
-
 In short term neither option emul outcom condit disallow disconnect charg case churn 
 for instanc option potenti addit disconnect charg disallow relat bigpond particip telstra lss churn process 
 whether case depend upon whether access seeker sign process 
@@ -1752,10 +1637,7 @@ per disconnect
 per disconnect 
 per disconnect 
 A disconnect charg payabl request follow circumst disconnect occur novemb date determin come effect 
-
-
 ii disconnect occur determin come effect either disconnect made pursuant telstra lss churn process b request particip telstra lss churn process telstra bigpond particip telstra lss churn process 
-
 claus appli disconnect made februari decemb 
 claus refer period novemb august No charg period 
 the date novemb date accc consid reason telstra implement churn process respect lss connect disconnect august date final determin came effect 
@@ -1777,23 +1659,9 @@ telstra refer particular para ltie para b telstra legitim busi interest invest f
 third telstra ground c telstra claim accc fell jurisdict error ask whether ID support telstra appli charg lss disconnect No charg period rather ask correct question name whether telstra incur cost effect disconnect lss No charg period whether allow telstra levi charg disconnect would balanc statutori criteria lss price principl 
 jurisdict error occur fail exercis jurisdict make refus make order decis reason mistaken assumpt denial jurisdict misconcept disregard natur limit jurisdict craig v south australia hca clr 
 In Ex part hebburn ltd Re kearsley shire council SR nsw jordan CJ said failur exercis jurisdict misunderstand natur jurisdict exercis 
-
-
 appl i inadmiss test 
-
-
-
-
-
 duti 
-
-
 fail appli question law prescrib 
-
-
-
-
-
 misunderstand natur opinion form 
 thi descript construct jurisdict error approv guadron J Re minist immigr multicultur affair ex part miah hca clr 
 section At I set 
@@ -1817,7 +1685,6 @@ like cl schedul oper relat period februari period decemb cl schedul state expres
 claus schedul establish differ substant regim period novemb august cl period august decemb cl ii 
 claus set part like cl part like schedul 
 for period august decemb disconnect charg 
-
 that disconnect charg backdat juli 
 In respect like schedul 
 howev fix differ disconnect charg 
@@ -1854,11 +1721,8 @@ accc made first ID provid first ID statement reason novemb
 the question disconnect charg dealt ident term cl first draft ID cl first ID 
 In case cll follow 
 except parti subsequ agre otherwis follow charg payabl request telstra disconnect lss disconnect request novemb circumst lss migrat ull suppli request per servic ii disconnect request novemb circumst lss migrat ull suppli request order place end user servic provid new servic provid copper within calendar day disconnect request made per servic iii disconnect charg applic 
-
 subject claus except parti subsequ agre otherwis term condit upon telstra suppli lss request time notif continu appli 
-
 In event inconsist term condit upon telstra suppli lss request time notif intend oper interim determin interim determin taken appli overrid agreement extent inconsist 
-
 thi interim determin shall take effect novemb first draft ID state date made remain forc month unless final determin come effect ii interim determin revok taken revok act case interim determin ceas effect day relev event occur 
 under provis backdat power backdat given avail respect final determin 
 claus address disconnect request novemb cl ii address disconnect request novemb 
@@ -1868,7 +1732,6 @@ In first draft ID issu paper head basi propos disconnect charg term accc state t
 the commiss consid charg addit amount commiss understand current disconnect servic provid top connect charg levi servic provid would cost 
 thi disconnect perform part connect new servic increment discret cost perform disconnect small incident connect process deem recov charg new connect 
 In final decis telstra lss charg access undertak section 
-
 commiss identifi lss disconnect occas custom churn adsl servic new provid includ telstra retail instanc lss disconnect could perform conjunct new connect line 
 the commiss propos purpos interim determin new order receiv suffici proxim disconnect request taken occas custom churn adsl servic henc relev disconnect charg 
 In regard commiss consid appropri period calendar day date request disconnect lss allow 
@@ -1882,11 +1745,8 @@ thi materi reproduc first ID statement reason
 the relev term second ID recal revok first ID appli decemb found cl 
 claus second ID follow 
 except parti subsequ agre otherwis follow charg payabl request telstra disconnect lss disconnect request circumst lss migrat ull suppli request order place end user servic provid new servic provid copper within calendar day disconnect request made per servic ii disconnect charg applic 
-
 subject claus except parti subsequ agre otherwis term condit upon telstra suppli lss request time notif continu appli 
-
 In event inconsist term condit upon telstra suppli lss request time notif intend oper interim determin interim determin taken appli overrid agreement extent inconsist 
-
 thi interim determin shall take effect decemb remain forc novemb unless final determin come effect ii lss ceas declar servic iii interim determin revok taken revok act case interim determin ceas effect day relev event occur 
 By time make second ID decemb need provis similar para cl first ID 
 It necessari second ID repeat para ii cl respect period decemb 
@@ -1894,10 +1754,7 @@ In substanc second ID statement reason address newli introduc annual charg
 So far connect cancel disconnect charg concern second ID statement reason mere direct attent first ID statement reason fn 
 the dfd dfd consult paper the dfd propos disconnect charg charg essenti circumst specifi first ID second ID 
 the dfd consult paper state the commiss preliminari view disconnect charg impos respect disconnect made novemb order line receiv within day disconnect request made 
-
-
 the final determin relat No charg period In section 
-
 FD statement reason accc state until novemb charg payabl lss disconnect commiss consid like reason lss churn process implement time 
 for period novemb time final determin take effect disconnect charg payabl 
 thi maintain posit taken interim determin stage absenc telstra lss churn process telstra advic practic arrang support telstra appli charg lss disconnect 
@@ -1943,8 +1800,6 @@ there distinct backdat power contain power decid upon substant provis final dete
 the latter address substant provis assum decid upon follow applic criteria 
 section address provis final determin take effect prospect say time final determin effect day made see allow accc express provis taken effect specifi earlier date 
 thi construct consist object state supplementari explanatori memorandum telecommun legisl amend bill cth p name provis intend 
-
-
 encourag commerci agreement access arbitr remov incent delay ensur consid reason outcom ultim appli interim period may otherwis cover interim determin commerci agreement one parti may disput 
 the backdat provis reflect assumpt perfect world final determin would made parti access disput commenc negoti time would reach agreement term condit came final determin 
 neither parti benefit pass time commenc negoti date final determin take effect 

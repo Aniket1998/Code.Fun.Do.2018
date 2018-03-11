@@ -115,8 +115,6 @@ there basi tpa regard compar advertis inher disreput form commerci conduct view 
 On contrari extent compar advertis provid consum accur hard fact compet product assist make better inform consum choic therebi result effect competit 
 Of cours actual comparison use potenti error 
 So advertis care 
-
-
 assert factual inaccuraci care consid court compar advertis case differ case 
 heerey J reject energ content compar product without mention price make full comparison thu unfair 
 hi honour said the textual basi content head div Pt V unfair practic 
@@ -171,8 +169,6 @@ the letter went say arrang made professor newel attend nal premis undertak follo
 verifi test protocol use accord telstra specif associ document 
 confirm result test 
 provid report find 
-
-
 thi incauti letter instruct 
 polari solicitor obvious happi Mr fisher juli test 
 but close soundshield inventor I infer thought result need independ imprimatur 
@@ -259,20 +255,14 @@ I reason doubt truth evid I accept central point name graph prepar decemb contai
 reader OF the comparison report whether conduct mislead decept like mislead deceiv question fact determin regard entir context conduct includ background surround circumst 
 one circumst case present class person conduct direct 
 In campomar sociedad limitada v nike intern ltd hca clr whole court said where class consum identifi individu particular misrepresent made 
-
-
 member class conduct question direct gener sens necessari isol criterion repres member class 
 the inquiri thu made respect hypothet individu misconcept complain arisen like aris injunct relief grant 
 gleeson CJ hayn heydon JJ return question butcher v lachlan elder realti pti ltd hca clr butcher the relev class address 
 question allegedli mislead conduct includ question conduct analys two point view 
 one employ relat member class conduct question direct gener sens 
 the urg purchas employ object conduct identifi individu particular misrepresent made 
-
-
 consid quit apart class fall 
 adopt former point view requir isol criterion criteria repres member class 
-
-
 the former approach common remedi confer act consider 
 but former approach inappropri latter inevit case like present monetari relief sought plaintiff alleg particular represent made identifi person plaintiff one 
 the present case requir butcher honour call former approach look impugn conduct eye member class direct gener sens 
@@ -308,8 +298,6 @@ dynam plantron awar telstra rft would issu plantron intend submit tender
 standard guidelin specif telstra specif contain rang technic requir acoust shock protect devic satisfi purchas use telstra call centr 
 It requir output devic limit spl see 
 the state intent minimis symptom acoust shock whilst maintain speech intellig less background voic chatter acoust treatment provid acoust attenu adjac workstat claus 
-
-
 the parti odd whether intellig requir oper time test subject comparison report may 
 dynam maintain polari plead requir come exist decemb telstra rft publish introduc 
 dynam said prior intellig object recommend 
@@ -355,7 +343,6 @@ the end result test appear follow tabl also show Mr fisher test dynam test condi
 there littl differ respons two devic though soundshield score better overal receiv qualiti 
 In august part work develop Mr dickson carri test two set two set soundshield one set anoth devic measur respect output level 
 the graph record result show much output level soundshield comparison test 
-
 spl drp respect 
 the soundshield devic use may comparison test 
 version adro softwar use august test wherea version 
@@ -435,7 +422,6 @@ thi comparison said unfair provid less limit thu listen receiv sound listen soun
 polari reli professor newel evid establish matter 
 the respond reli Mr mcneill test describ 
 they said show devic limit speech signal level around spl drp 
-
 soundshield measur rm 
 polari took issu relev Mr mcneill test 
 It said although describ test measur acoust limit speech two devic measur output singl input test limit devic 
@@ -455,7 +441,6 @@ In word measur output absenc background nois like lower output otherwis condit b
 As polari point would explain differ perceiv loud record subject dynam test figur increas output background nois 
 more importantli present purpos higher output could achiev differ test condit background nois Mr mcneill test test limit 
 the respond also reli Mr dickson august test describ show much output level soundshield 
-
 spl drp respect 
 Mr dickson test charact Mr mcneill 
 It test output level acoust limit speech 
@@ -529,8 +514,6 @@ I attach weight assert
 loud intellig the differ two limit set reli polari show louder sound heard would enhanc intellig compar sound heard lower level soundshield 
 polari reli primarili professor newel evid establish 
 In initi report novemb professor newel said devic set acoust limit spl drp result potenti better speech intellig 
-
-
 especi background nois one set averag maximum spl drp presum spl drp 
 polari solicitor later ask whether assum everyth els two devic differ speech intellig would signific 
 hi answer three condit met would signific 
@@ -666,7 +649,6 @@ Mr gherbaz also said know receiv gain set particular custom
 Mr mcneill gave evid confidenti basi global studi led plantron engin commun worldwid select input support dynam select 
 howev say input select comparison test 
 claus 
-
 list sever telephon whose requir accommod acoust protect devic 
 they includ nortel exicom alcatel 
 polari arrang trillium test nortel 
@@ -687,11 +669,7 @@ It fact peopl rare listen speech high averag sound level ie dba spl field tell i
 the respond reli tabl 
 justifi select input 
 It complic document prefac explan claus 
-
 level input limit amplifi part follow the combin must accommod signal level interfac typic rang cpe 
-
-
-
 It essenti correct oper achiev typic rang input variou cpe tabul 
 the unit perform within specif rang level 
 thi may achiev use intern settabl control mean determin manufactur 
@@ -701,27 +679,17 @@ column deal cpe low level output limit input
 column deal cpe mid level output limit input 
 column deal high level output limit input 
 the introductori column describ materi number column col col col long term max activ speech 
-
-
 rm rm rm long term mean activ speech 
-
-
 rm rm rm long term min activ speech 
-
-
 rm rm rm the descript tabl locat foot tabl amplifi input level avail headset handset port typic rang cpe 
 cpe introduc variabl level input network port amplifi connect 
 To abl function rang cpe combin must rang set accommod level wire function requir 
 the set accommod variou cpe must intern set access day day oper 
-
-
 note column requir may requir 
 check product manag 
 professor blamey posit within rang tabl typic rang telephon use telstra call centr appropri select input level 
 He also said also within rang three column low mid high choic particular set particularli crucial 
 In oral evid express view tabl suggest everi set devic design use typic telephon call centr devic 
-
-
 abl accept input signal achiev per cent speech intellig input signal 
 professor blamey accept mid point column mean averag signal level 
 accordingli signal chosen signal specifi low mid rang mean activ speech level 
@@ -804,16 +772,8 @@ nor done measur would demonstr soundshield capabl accept input set high
 He said measur could carri polari necessari facil done premis 
 He said distort well known effect measur use distort analys spectrum analys use extens measur signal distort acoust shock protect devic 
 the tent natur Mr thompson evid issu appar follow exchang and view 
-
-
 millivolt input voltag use soundshield mid receiv level soundshield perform satisfactorili No correct 
 It view soundshield receiv input signal millivolt mid receiv level perform satisfactorili thi goe question mean 
-
-
-
-
-
-
 the question I ask whether soundshield receiv signal set receiv level mid receiv set whether would perform satisfactorili input voltag less satisfactorili compar use high receiv gain set 
 professor newel spoke gener overdriv high signal say effect devic distort signal result reduct intellig speech 
 appli present case said reason suggest soundshield poor intellig result due overdriv caus distort signal 
@@ -826,8 +786,6 @@ the first controversi interpret Mr mcneill test
 the second knew soundshield sound like input level though perform test subject 
 He said I know sound like sound good 
 otherwis simpli assert base lot 
-
-
 knowledg area overamplif signal 
 base professor blamey person test carri immedi comparison test subject persuas polari evid record reason given I conclud polari establish input mid receiv level soundshield overdriven distort 
 It common ground relev distort present purpos lie advers effect speech intellig 
@@ -916,8 +874,6 @@ In drug trial typic condit placebo given
 In experi condit involv use soundshield devic 
 It refer condit confirm other similar experi 
 It enabl data 
-
-
 differ experi compar 
 If problem particular experi set subject particular experi differ anoth experi show chang control condit result 
 after note speech intellig test result affect factor condit tester wish evalu give exampl professor newel continu have control condit I compar result previou experi done condit 
@@ -1083,7 +1039,6 @@ the figur sentenc explain sentenc reli particular b carri implic assert polari
 although particular reli figur report I understand polari persist relianc 
 In event view I said sentenc particular b I need spend time figur 
 soundshield not compliant with telstra intellig requir claus 
-
 requir speech intellig call centr environ convers chatter 
 the question whether comparison report impli soundshield compli requir 
 professor blamey accept sentenc report deriv 
@@ -1135,17 +1090,13 @@ thi time use word list specifi
 howev polari reli primarili professor newel test 
 that use limit requir word list background nois level specifi 
 the input signal within rang tabl 
-
 sixteen test subject involv 
 professor newel test score word correct incorrect phonem correct incorrect 
 the requir met condit howev score 
 subject issu refer professor newel test show soundshield compli telstra intellig requir 
 the reserv refer relat professor blamey claim input level use Mr fisher test professor newel test demonstr soundshield could accept rang input specifi tabl 
-
 thi tabl consid detail connexion test set represent 
 professor blamey opinion tabl suggest everi set devic design use typic telephon call centr devic 
-
-
 abl accept input signal achiev per cent speech intellig input signal 
 for purpos deal unsuit requir I need come conclus controversi tabl 
 that I satisfi set appropri train person use manual soundshield would achiev speech intellig call centr voic chatter 

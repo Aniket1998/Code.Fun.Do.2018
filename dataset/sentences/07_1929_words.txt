@@ -14,21 +14,17 @@ In particular howev stipul characteris undertak consist statutori oblig provid a
 seven network brought current proceed administr decis judici review act cth adjr act judiciari act cth judiciari act order challeng decis accc accept undertak 
 It claim follow relief 
 An order set asid decis 
-
 altern declar proper construct undertak claus 
 c A 
 c B 
 f daa appendix limit within mean section tpa 
-
 cost 
-
 such order court think fit 
 the question decid 
 did accc make error law decid whether claus 
 c 
 f appendix properli characteris term condit manner deliveri servic limit identifi servic 
 did accc make error law decid claus properli characteris term condit manner deliveri servic consist access oblig 
-
 should court declar claus limit identifi servic foxtel invit court say answer question 
 seven network invit court say answer question 
 the statutori context part iiia TP act introduc 
@@ -83,9 +79,6 @@ the signific whether particular stipul oper limit upon suppli servic term condit
 howev conveni indic point stipul contain appendix undertak offer foxtel foxtel contend term condit relat complianc oblig suppli servic describ appendix rather limit upon servic seven network contend accc power year durat undertak compel foxtel provid access servic infrastructur equip place whether seven network access seeker transmit materi person foxtel subscrib 
 the charact special access undertak specifi 
 section provid the undertak must state event person suppli servic whether person person agre bound oblig refer section extent oblig would appli person relat servic servic treat activ declar servic b undertak compli term condit specifi undertak relat oblig refer paragraph 
-
-
-
 the undertak may without limit may subject limit specifi undertak 
 If undertak subject limit servic servic extent limit restrict upon power accc resolv access disput appli 
 An undertak may also specifi term condit particular matter relat complianc standard access oblig 
@@ -109,8 +102,6 @@ By contrast earlier indic statutori scheme accommod possibl undertak therefor sc
 To extent undertak limit servic servic 
 the limit must like relev term condit specifi undertak 
 section provid 
-
-
 undertak subject limit servic suppli person declar servic extent servic fall within scope limit 
 If particular stipul correctli regard limit extent servic declar servic occas accc examin consist standard access oblig 
 No question inconsist aris 
@@ -131,15 +122,8 @@ As appear term undertak undertook suppli servic term condit specifi digit access
 the immedi relev provis undertak follow 
 In undertak appendic unless defin claus 
 defin term mean set appendix 
-
 In undertak appendic unless context otherwis requir 
-
-
 digit set top unit servic mean set appendix 
-
-
-
-
 foxtel undertak suppli digit set top unit servic term condit specifi digit access agreement term agreement vari accord undertak 
 appendix appendix contain statement mean set top unit servic differ import respect 
 appendix follow term digit set top unit servic mean set top unit servic provis servic recept decrypt signal digit subscript televis servic relat servic custom premis mean condit access custom equip custom cabl b condit access servic consist CA servic servic allow servic provid determin entitl custom receiv particular signal digit subscript televis servic relat servic condit access custom equip custom cabl ii servic inform servic process inform necessari receiv condit access custom equip permit recept digit subscript televis servic relat servic iii smartcard authoris verif inform servic provis inform necessari enabl servic provid verifi digit subscript televis servic relat servic enabl smartcard c epg servic consist incorpor data relat program transmit servic provid digit subscript televis servic electron program guid modem servic consist servic use modem integr condit access custom equip enabl custom send provid content reaction custom content 
@@ -153,13 +137,8 @@ access custom equip assign appendix mean given TP act
 that mean incorpor term equip mean found telecommun act 
 cabl assign appendix mean given telecommun act 
 refer ss telecommun act absenc agre case relev regul accordingli yield inform appendix therefor appendix cabl mean 
-
-
 line use instal readi use intend use custom side boundari telecommun network 
 access custom equip appendix therefor appendix mean gener speak adequ present purpos equip apparatu tower mast antenna structur thing use instal readi use intend use custom side boundari telecommun network b system whether otherwis use instal readi use intend use custom side boundari telecommun network 
-
-
-
 allow servic provid determin whether abl receiv particular servic appendix may therefor understood describ servic mean provis servic depend upon line equip system instal readi use upon circumst requir foxtel subscript activ access servic provid 
 the contempl provis defin necessarili foxtel custom 
 appendix also defin set top unit servic significantli limit term appendix 
@@ -175,8 +154,6 @@ howev proposit appendix contain specif clear limit upon scope servic term relat 
 undertak manner affect scope servic describ appendix rather specifi term condit concern access produc odd result 
 how condit set appendix bear upon suppli servic describ appendix appendix deal extend servic how term condit becom one relat way access oblig part field deal the claus appendix upon attent concentr seven network present proceed refer accc decis claus follow 
 c foxtel oblig suppli continu suppli digit set top unit servic access seeker A case servic broadcast via cabl digit set top unit digit set top unit servic suppli actual use subscrib recept foxtel digit subscript televis servic B case servic broadcast via satellit digit set top unit digit set top unit servic suppli actual use subscrib recept foxtel expand digit subscript televis servic 
-
-
 f foxtel oblig suppli digit set top unit servic locat digit set top unit digit set top unit servic suppli use subscrib recept foxtel digit subscript televis servic broadcast via cabl foxtel expand digit subscript televis servic broadcast via satellit 
 the digit set top unit servic refer tie claus defin appendix servic describ appendix 
 there therefor degre circular interact claus definit set top unit servic provid appendix 
@@ -194,7 +171,6 @@ that construct also give ampl effect claus
 undertak set earlier 
 claus 
 appear intend draft devic claus 
-
 notwithstand import appli whole appendix relat provis servic describ appendix 
 On construct I think I adopt accord way foxtel seven network argu matter provis cl 
 c cl 
@@ -202,8 +178,6 @@ f impos except oblig deliv whole servic describ appendix
 they refer necess current subscript 
 they also refer locat need set top unit use 
 digit set top unit defin appendix 
-
-
 custom equip defin part xic act own leas foxtel includ remot control appropri receiv digit subscript televis servic relat servic 
 the identif equip leas foxtel import oper cl 
 e upon relianc place accc 
@@ -218,8 +192,6 @@ submiss receiv foxtel seven network
 the decis lengthi 
 It deal number issu aris consider present proceed 
 earli decis accc summaris view whether tie claus consist follow way 
-
-
 tie claus meet oblig suppli activ declar servic whether tie claus treat limit servic 
 the commiss satisfi undertak consist oblig suppli activ declar servic 
 thi passag accc decis mask essenti differ limit term condit 
@@ -228,7 +200,6 @@ No issu consist tie claus oblig provid access declar servic could aris
 when came summaris foxtel undertak accc said 
 c 
 f 
-
 e daa provid foxtel oblig suppli digit set top unit servic digit set top unit digit set top unit servic suppli actual use subscrib recept foxtel digit subscript televis servic 
 howev foxtel contend undertak respect servic relat end user foxtel subscrib also end user current foxtel subscrib 
 the commiss understand foxtel regard claus limit upon scope servic purpos subsect 
@@ -260,7 +231,6 @@ In event seem unremark observ demand correspond
 the refer level conform invit enquiri conform actual employ accc discrimen rather reject analysi altogeth 
 the accc said later way gener explan task commiss believ number term condit sau like intrud upon limit least extent oblig suppli would otherwis establish sau 
 therefor commiss task assess extent term condit limit foxtel oblig suppli order determin whether term condit limit consist oblig set ss 
-
 thi question degre 
 thi passag view come uncomfort close confus elimin altogeth import distinct limit scope servic suppli one hand term condit relat oblig provid access servic 
 howev context accc clearli attempt explain view took assess consist 
@@ -270,9 +240,7 @@ these remark also introductori deal specif claus
 In section claus directli address accc first set cl 
 c f said follow practic effect tie claus foxtel would oblig suppli digit set top unit servic subscrib home 
 the issu consider relat tie claus whether claus consist oblig suppli activ declar servic demand pursuant ss 
-
 the accc record foxtel posit follow assert tie claus bona fide term suppli limit within mean ss 
-
 As deem declar servic limit foxtel subscrib rather broader servic potenti subscrib 
 the accc pose question attent follow primari question commiss must address current context whether tie claus consist applic sao 
 the relev sao regard 
@@ -355,8 +323,6 @@ In context TP act accept may agreement issu complianc earlier specif term condit
 otherwis would face infinit seri possibl 
 I understand counsel seven network take issu notion present statutori context least question consist oblig suppli servic demand might practic way test ask whether refus suppli 
 counsel summaris argument follow sheahan 
-
-
 appendix defin servic 
 hi honour ye 
 MR sheahan It defin term confin foxtel subscrib 
@@ -439,12 +405,8 @@ seven network suffici interest seek declar
 In submiss oppos declar foxtel also reli heavili upon fact written submiss seven network argu altern court power correct commiss legal error make declar undertak subject limit within mean confin servic subject undertak stu servic foxtel locat ainsworth v crimin justic commiss hca clr direct factori outlet pti limit v westfield manag limit fca feder court australia act cth 
 emphasi foxtel sought exploit submiss submit submit court conclud commiss decis affect legal error court jurisdict make declar sought 
 seven contend otherwis correctli state court power correct 
-
-
 legal error make declar 
 It also submit 
-
-
 court conclud commiss decis affect legal error court confirm necessari commiss determin whether undertak subject limit necessari make determin proceed 
 these submiss adequ reflect jurisdict power court make declar circumst might might appropri 
 foxtel initi sought written submiss reserv right make submiss issu whether limit exist event I conclud legal error accc decis consist question 
@@ -454,14 +416,8 @@ In oral submiss howev posit express definit
 counsel foxtel submit meagher I add 
 that honour us inconsist would issu parti limit 
 We argu commiss characteris limit 
-
-
-
 hi honour well event I consist argument posit MR meagher If honour us question honour would submit honour address limit question honour satisfi limit honour would upset decis honour would accept commiss satisfi basi inconsist 
 So reason honour would upset decis accept 
-
-
-
 MR meagher If honour us consist point submiss would reason provis properli characteris limit word honour would us 
 hi honour No would assumpt limit 
 MR meagher but would follow submiss necessarili characteris limit seven argument ye basi would follow honour would upset commiss decis 

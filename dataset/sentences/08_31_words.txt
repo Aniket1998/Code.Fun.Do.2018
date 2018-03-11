@@ -32,8 +32,6 @@ In altern respond submit decis made involv error type alleg applic
 In altern respond submit even applic overcom first two hurdl relief refus exercis court discret 
 It conveni deal last submiss stage 
 the respond reli b adjr act follow term notwithstand subsect 
-
-
 b feder court feder magistr court may discret refus grant applic section made court respect decis respect conduct engag purpos make decis respect failur make decis reason applic sought review court anoth court decis conduct failur otherwis act ii adequ provis made law act applic entitl seek review court anoth court anoth tribun author person decis conduct failur 
 the respond reli b ii submit adequ provis made psa review decis 
 that submiss must reject none appeal review provis psa avail applic case decis one 
@@ -136,15 +134,11 @@ the third respond said around may receiv inform Mr best caus carri investig appl
 It like littl later bear mind time event refer previou paragraph 
 nevertheless I satisfi relev event happen step third respond took may summaris point form follow 
 On may ask Mr graham littlejohn comput specialist work Mr best perform audit mainfram log check applic usag 
-
 At time spoke first respond ato option applic make unauthoris use mainfram 
-
 within two four day Mr littlejohn gave third respond materi show number system violat applic 
-
 the third respond form view applic seek access number file includ follow file show variat normal pay staff member ato file work peopl databas area ato use run ato mainfram includ file belong one person applic brought legal proceed file belong ato senior secur administr racf administr ato 
 thi person could look anyth ato comput system 
 As third respond said power corrupt destroy mainfram file contain data taxpay 
-
 In late may third respond ascertain applic system violat abnorm compar peer group amount time spent mainfram decemb late may hour 
 the third respond consid applic would need signific access ato mainfram period decemb may never discuss access mainfram applic 
 He view problem seriou one one becom urgent 
@@ -179,11 +173,7 @@ she sign notic suspens psa gave applic
 relevantli notic said 
 wherea offic authoris purpos subsect inform opinion may fail fulfil duti offic within mean act 
 and wherea consid comment I opinion would prejudici effect oper servic interest public interest interest fellow offic continu perform duti exist offic pend decis whether charg misconduct 
-
 take notic therefor that I herebi suspend pursuant act effect time deliveri notic 
-
-
-
 although paragraph notic refer made inform provid femal I satisfi third respond provid opinion requir b first respond made decis suspend authoris act way 
 the third respond first respond discuss undertak investig agre person use first respond word immedi associ applic order maximis object perceiv object colin dunstan part investig process 
 shortli meet june third respond instruct Mr david pasch examin appar system violat ato mainfram comput applic 
@@ -193,7 +183,6 @@ Mr pasch requir assist secur administr team investig potenti secur interest
 the third respond provid term refer Mr pasch head purpos assign said follow the purpos assign review evid provid ato give independ assess sever violat 
 I would like achiev short written report contain 
 advic comment relat record violat term the opportun other falsifi system record report produc the content data set purpos ato environ An assess secur implic 
-
 comment respect record behaviour user compar access record peer group number ato offic 
 the ato concern intent behind action 
 An interpret taxlan copi number mainfram list provid 
@@ -210,13 +199,10 @@ thereaft third respond involv brief second respond matter
 In evid Mr pasch provid clear descript system violat characteris follow way 
 attempt look nomad product data 
 the materi includ data consist person detail ato staff includ salari wage detail 
-
 attempt updat system librari softwar make oper system run 
 If attempt success oper system may compromis user could unwittingli perform activ intend 
 Mr pasch said attempt updat system librari common way tri hack oper system term trojan hors style attack 
-
 attempt access file use variou administr databas administr secur administr support personnel Mr pasch express view I accept person intend compromis oper system examin file would inform individu secur structur set weak system 
-
 attempt analys firecal access group say peopl hour emerg type access ato comput system 
 Mr pasch express view relat matter relat matter refer 
 the second respond join commonwealth public servic 
@@ -238,7 +224,6 @@ hi understand three violat Mr pasch identifi seriou follow
 attempt read nomad product data personnel data staff date birth address salari leav entitl 
 attempt read comput file dataset person within ato respons secur system 
 those file dataset may within person password userid 
-
 attempt chang comput program contain instruct upon mainfram comput system run 
 thi violat occur april 
 the second respond understood Mr pasch express opinion applic may tri alter scope author thing mainfram system way bypass need request racf administr chang applic racf profil 
@@ -260,21 +245,16 @@ I contact confirm date time
 the applic respond letter date juli 
 part said follow pleas note 
 I interview length Mr john growder Ms robyn orr june 
-
 On friday june Mr growder advis independ review work undertaken unnam ibm consult 
-
 consequ upon independ review Mr growder hand list question monday june 
 He direct I furnish written answer within day close busi wednesday june 
-
 Mr growder possess june reason detail transcript interview I attend june 
 see 
-
 On wednesday june I suppli written answer Mr growder question per direct june 
 these answer quit comprehens especi view limit time I given respond 
 My respons typewritten page length 
 In relat propos arrang date time week commenc juli hold discuss 
 If suspend duti I intend recreat leav period monday juli friday juli inclus 
-
 I number famili commit attend includ 
 My daughter visit pari stay wife 
 b 
@@ -284,11 +264,8 @@ In interim pleas care review document I suppli Mr growder june togeth record int
 you could also use period familiaris 
 commonwealth crime act part iii offenc relat administr justic 
 see section 
-
 also within commonwealth crime act see section 
-
 commonwealth sex discrimin act section 
-
 My understand public servant oblig follow unlaw direct 
 thi would includ direct aid commiss crimin offenc 
 I think may public servic act avail taxlan commonwealth manag toolbox icon text commonwealth crime act 
@@ -310,29 +287,23 @@ cntl februari tsop gspp
 user 
 exec march tsop paspd 
 nomad 
-
 data march tsop paspp 
 unload 
 cntl march tsod uaogd 
-
 cntl march tsod uauvb 
-
 list march tsod gac 
 sql 
 skel march tsop uaggj 
 user 
 cntl april tsop paspd 
 nomad 
-
 data april tsop paspd 
 nomad 
-
 data 
 april tsod paspd 
 nomad 
 pva april tsod pdbaada 
 diari april tsod pdbadev 
-
 exec april tsod ddbadev 
 databas 
 sql april tsod ddbadev 
@@ -343,8 +314,6 @@ sql At time made decis second respond prepar report set inquiri made reason deci
 On juli australian govern solicitor ag wrote applic set reason second respond decis 
 the second respond adopt letter ag correct statement reason 
 relevantli letter said 
-
-
 howev I instruct Mr higham reason make decis follow 
 Mr higham verifi attempt access outlin charg fact occur refer staff comput secur section 
 those attempt access refer record interview Mr growder Ms orr Mr molineux june also refer extern consult report june 
@@ -484,19 +453,10 @@ section provid follow where offic authoris relev secretari purpos subsect opinio
 An offic charg subsect may request relev secretari furnish copi charg either follow say organis specifi offic organis within mean industri relat act b person specifi offic person offic wish assist relat charg offic make request relev secretari shall compli request 
 section dealt inquiri misconduct offic 
 It suffici set follow subsect subject subsect offic charg misconduct section inquiri shall without undu delay held charg relev secretari offic appoint purpos relev secretari 
-
-
-
 In inquiri purpos subsect formal hear requir offic shall notifi inquiri held alleg misconduct given opportun state write within day longer period offic hold inquiri may allow notic furnish whether admit deni truth matter alleg constitut misconduct furnish statement relat matter includ statement submit matter alleg constitut misconduct even true incap law constitut misconduct purpos act 
-
-
-
 where offic hold inquiri charg satisfi offic charg fail fulfil duti offic may counsel offic caus offic counsel anoth offic opinion action necessari there follow statement action may taken action includ direct offic dismiss servic 
 section dealt suspens offic certain circumst 
 It provid relevantli follow where offic charg commit crimin offenc b offic authoris purpos inform relev secretari opinion offic may fail fulfil duti offic relev secretari opinion would prejudici effect oper servic interest public interest offic fellow offic offic continu perform duti exist offic pend hear determin crimin charg take decis charg offic misconduct hear determin charg misconduct laid offic case may relev secretari may notic write deliv offic c direct offic perform temporarili duti qualifi perform whether differ local suspend offic duti 
-
-
-
 A secretari authoris suspend offic paragraph unless secretari first given offic opportun heard b secretari opinion would appropri particular circumst give offic opportun 
 except provid subsect section offic suspend duti section entitl paid salari respect period suspend 
 where offic reason circumst refer paragraph b suspend duti section decis made whether charg misconduct shall suspend salari case offic authoris purpos subsect decid charg decis made b case charg 
@@ -543,9 +503,6 @@ To import one procedur step requir stage would alter care craft scheme devis par
 thi case parliament silent procedur fair 
 It specifi stage fair requir content fair 
 the intent manifest earliest stage offic opportun make represent charg made 
-
-
-
 I return question whether court supplement statutori scheme consid complaint applic afford procedur fair inquiri stage 
 hi honour later conclud would appropri supplement statutori scheme 
 In respect opinion honour conclus correct follow 
@@ -737,8 +694,6 @@ On one view subsect appli disclosur made client includ client solicitor b subsec
 thi interpret genesi telstra corp ltd v australi media hold pti ltd nswlr per mcclelland CJ Eq describ full court court cogent persuas carnel v mann fcr per higgin lehan weinberg JJ 
 carnel v mann overrul high court differ point mann v carnel hca clr full court decis bind although persuas author see also J D heydon cross evid th australian ed 
 An altern view subsect oper togeth relev distinct two know voluntari disclosur subsect oppos express impli consent disclosur subsect see S odger uniform evid law th ed 
-
-
 In sovereign motor inn pti ltd v bevillesta nswsc austin J expressli doubt interpret accord subsect exclus sphere oper left open question honour benefit argument point 
 I similar posit present case 
 given doubt attend question would appropri attempt resolv conflict view without benefit full argument resolut unnecessari decis 

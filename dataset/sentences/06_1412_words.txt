@@ -57,16 +57,11 @@ In propos amend statement claim qpsx wish includ particular par
 paragraph includ particular latter paragraph read follow 
 the method subject sar patent protocol subject QP patent integr part distribut queue dual bu technolog also known queu packet synchron exchang technolog 
 sinc distribut queue dual bu technolog integr part intern telecommun standard approv institut electr electron engin metropolitan area network known ieee 
-
-
 A protocol known asynchron transfer mode atm develop network standard voic data video graphic transmiss 
 the method subject sar patent fundament element atm protocol incorpor intern atm standard set intern telecommun union known itu specif I 
-
-
 particular method subject sar patent fundament element atm protocol reason sar patent standard standard outlin segment reassembl method involv transmiss variabl length messag network sourc destin fix length slot sar patent terminolog cell standard terminolog includ header field messag segment 
 thi method includ provis sourc identifi field identifi case standard header field slot cell identifi field uniqu associ messag transmit b transmit slot cell network c control reassembl slot cell destin accord identifi code slot cell receiv destin 
 the standard specifi itu 
-
 one atm adapt layer specifi atm protocol 
 On august agreement known contract made qpsx commun pti ltd 
 It includ term qpsx commun agre sell agre purchas certain intellectu properti known qpsx design 
@@ -112,9 +107,6 @@ In circumst memorandum form legal bind agreement applic variou respond par
 In altern Mr darl authoris execut memorandum behalf lme form legal bind agreement qpsx parti ericsson australia longreach group long reach network par 
 the materi term memorandum plead par togeth term impli par 
 the open word par amend read proper construct regard matter plead paragraph memorandum contain follow materi term 
-
-
-
 the effect amend bring paragraph inclus matter go construct memorandum 
 the propos amend statement claim would also amend definit product taken memorandum 
 In propos amend version term product defin mean product incorpor qpsx design qpsx chipset whole part ii compli standard agre purpos memorandum complianc standard requir use qpsx patent 
@@ -147,7 +139,6 @@ the plead technolog may justifi way label identifi patent refer subject matter
 It play role statement claim relev caus action 
 It convey implic valid patent 
 although plead respect may said go beyond strictli necessari identifi patent I consid tendenc embarrass I would acced proposit relev paragraph struck 
-
 It would suffici defenc plead exist patent set statement claim without give rise need inquiri content natur technolog particular without need discoveri document connect therewith 
 for part content patent either bear falsifi descript subject matter 
 counsel ericsson also point counsel qpsx state case manag confer juli alleg breach memorandum case qpsx 
@@ -258,8 +249,6 @@ that schedul document prepar exhibit affidavit
 base upon review form opinion number product identifi schedul said standard compliant fell within product code identifi ericsson relev first second relev product code list 
 He also view product like fall within one product code compon product use within differ product caught differ product code 
 Mr fozdar said opinion 
-
-
 like number product identifi document refer schedul product code identifi provid ericsson 
 accordingli like ericsson provid relev revenu figur qpsx respect standard compliant product 
 On basi Mr fozdar evid qpsx submit court make order seek 
