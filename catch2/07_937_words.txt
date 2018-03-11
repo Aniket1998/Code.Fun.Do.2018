@@ -1,0 +1,7 @@
+scheme transfer busi 
+limit dispens notif 
+affect 
+life insur 
+word phrase 
+
+

@@ -1,0 +1,7 @@
+whether applic requir attend medic examin 
+serv report intend reli report trial 
+claim physic psycholog injuri 
+circumst 
+practic procedur 
+
+
