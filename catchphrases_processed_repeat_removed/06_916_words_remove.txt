@@ -1,0 +1,5 @@
+lump sum order cost 
+rule c 
+
+
+
