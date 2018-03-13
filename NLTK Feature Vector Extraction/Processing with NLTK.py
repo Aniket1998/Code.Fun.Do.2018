@@ -27,7 +27,7 @@ def preprocess(file_name):
     # ner_tags = np.copy(words)
 
     # POS Tagging
-    """
+    
     try:
         for i,j in enumerate(words):
             pos_tagged[i] = []
@@ -35,8 +35,13 @@ def preprocess(file_name):
                 pos_tagged[i].append(q[1])
     except Exception as e:
         print(str(e))
-    """
-
+    save_name = file_name.split(".")[0] + "_pos." + file_name.split(".")[1]
+    file_new = open(save_name2,"w+")
+    for i in range(np.shape(pos_tagged)[0]):
+    for j in pos_tagged[i]:
+        file_new.write(j+" ")
+    file_new.write("\n")
+    file_new.close()
     # NER Tagging
     """
     try:
@@ -47,17 +52,24 @@ def preprocess(file_name):
         print(str(e))
     """
 
-    for i in range(np.shape(words)[0]): # Perform stemming only after POS and NER Tagging
-        for j,a in enumerate(words[i]):
-            words[i][j] = ps.stem(a)
+    # for i in range(np.shape(words)[0]): # Perform stemming only after POS and NER Tagging
+    #     for j,a in enumerate(words[i]):
+    #         words[i][j] = ps.stem(a)
 
-    save_name = file_name.split(".")[0] + "_words." + file_name.split(".")[1]
+    # save_name = file_name.split(".")[0] + "_words." + file_name.split(".")[1]
 
-    file_new = open(save_name,"w+")
-    for i in range(np.shape(words)[0]):
-    for j in words[i]:
-        file_new.write(j+" ")
-    file_new.write("\n")
-    file_new.close()
+    # file_new = open(save_name,"w+")
+    # for i in range(np.shape(words)[0]):
+    # for j in words[i]:
+    #     file_new.write(j+" ")
+    # file_new.write("\n")
+    # file_new.close()
 
     file.close()
+
+names=open("names.txt", "r")
+file_names=names.read()
+nm=file_names.split()
+for f in nm:
+    print(f)
+    preprocess(f)
