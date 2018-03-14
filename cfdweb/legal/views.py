@@ -18,10 +18,12 @@ def responseview(request):
 	impwords = callapi(filetext)
 	name = request.FILES['myfile'].name.split('.')[0]
 	context = {
+		'filename' : request.FILES['myfile'].name.split('.')[0],
 		'realtext' : preprocess(filetext,impwords),
-		'summary' :  preprocess(summarize(filetext,word_count = len(filetext.split(' ')) * 0.2),impwords)
+		'summary' :  preprocess(summarize(filetext,word_count = len(filetext.split(' ')) * 0.2),impwords),
+		'title' : ''
 	}
-	template = loader.get_template('legal/mainpage.html')
+	template = loader.get_template('legal/index.html')
 	return HttpResponse(template.render(context,request))
 
 
