@@ -1,0 +1,102 @@
+
+ INTRODUCTION 
+ 
+ 1 Budi Soesanto Koosasi is an Indonesian national.In early 2002 he received advice that his application to migrate to Australia in the Business Owner visa subclass 127 had been approved and that the visa approval covered his wife and their three children.Mr Koosasi and his family subsequently entered Australia in reliance on the visas granted pursuant to this approval.2 The Australian company Great Bamboo Pty Ltd was registered on 23 January 2003.Mr Koosasi and his wife are the sole shareholders of Great Bamboo.Between 3 October 2003 and 5 April 2005 Great Bamboo entered into four transactions by which it exported Australian food products to Indonesia.3 On 17 May 2005 a delegate of the respondent cancelled Mr Koosasi's visa in reliance on s 134 of the Migration Act 1958 (Cth) ('the Act').That decision was affirmed on review by the Administrative Appeals Tribunal.Mr Koosasi has exercised his right to appeal to this Court from the decision of the Tribunal on a question of law.
+ THE APPEAL 
+ 
+ 4 A curiosity that attends this appeal is that there is no dispute between the parties as to the proper answer to the question of law which constitutes the subject matter of the appeal.That question is formulated in the notice of appeal as follows: 
+ 
+ 'Whether, when determining if a business visa holder has obtained a relevant interest in an "eligible business" pursuant to s. 134(1)(a) of the Migration Act 1958 ("the Act "), the Tribunal is bound to determine if at the time of the decision under review such business is resulting or will result in one of the criteria set out in the definition of "eligible business" in s. 134(10) of the Act .' 
+ 
+ 
+ 5 The parties are in understandable agreement that the terms of the statutory definition of 'eligible business' (see [8] below) require a decision-maker to form a belief as to whether a business relied upon as being an 'eligible business' is resulting, or will result, in one or more of the outcomes identified in (a)-(f) of that definition.The dispute between the parties is whether the answer to the question of law the subject matter of this appeal demonstrates that the decision of the Tribunal is affected by error.That dispute has arisen because the written reasons for decision of the Tribunal fail to make clear the material findings of fact upon which its decision is based.6 It was not contended by the Minister that the parties' agreement as to the answer to the question of law means that the Court's jurisdiction under s 44(1) of the Administrative Appeals Tribunal Act 1975 (Cth) has not been properly invoked.It is not necessary for me to decide whether every appeal to this Court under s 44(1) where the answer to the question on which the appeal is brought is not contentious will engage the Court's jurisdiction.It will presumably be a rare case in which an appeal under s 44(1) is brought on a question of law the answer to which is not in dispute.In this case it only became apparent that the answer to the question of law was not in dispute when the written submissions of the parties were exchanged shortly before the proceeding was listed for hearing.In the circumstances I am satisfied that the Court has jurisdiction to hear and determine the appeal.
+ THE STATUTORY SCHEME 
+ 
+ 7 Subject to the qualification contained in s 134(2) of the Act , s 134(1)(a) gave the Minister a discretion to cancel Mr Koosasi's business visa if the Minister was satisfied that Mr Koosasi had not obtained 'a substantial ownership interest in an eligible business in Australia' .The qualification contained in s 134(2) is that: 
+ 
+ 'The Minister must not cancel a business visa under subsection (1) if the Minister is satisfied that its holder: 
+ (a) has made a genuine effort to obtain a substantial ownership interest in an eligible business in Australia; and 
+ (b) has made a genuine effort to utilise his or her skills in actively participating at a senior level in the day-to-day management of that business; and 
+ (c) intends to continue to make such genuine efforts.' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 Section 134(10) contains the following definition: 
+ 
+ ' eligible business means a business that the Minister reasonably believes is resulting or will result in one or more of the following: 
+ 
+ (a) the development of business links with the international market; 
+ (b) the creation or maintenance of employment in Australia; 
+ (c) the export of Australian goods or services; 
+ (d) the production of goods or the provision of services that would otherwise be imported into Australia; 
+ (e) the introduction of new or improved technology to Australia; 
+ (f) an increase in commercial activity and competitiveness within sectors of the Australian economy.' 
+ 
+ 
+ CONSIDERATION 
+ 
+ 9 It is not contentious that s 134(1) relevantly required the Tribunal, in reviewing the decision to cancel Mr Koosasi's visa, to answer the following material questions of fact: 
+ 
+ (1) was it satisfied that Mr Koosasi had obtained a substantial ownership interest in Great Bamboo?(2) if satisfied that Mr Koosasi had obtained a substantial ownership interest in Great Bamboo, did that constitute a substantial ownership interest in a business?(3) if satisfied that Mr Koosasi had obtained a substantial ownership interest in a business, namely the business of Great Bamboo, did it believe on reasonable grounds that: 
+ 
+ 
+ (a) that business was, as at the date of the cancellation decision, resulting in one or more of the outcomes identified in (a)-(f) of the definition of 'eligible business' ; or
+ (b) that business would result in one or more of those outcomes?
+ 
+ 
+ 10 Section 43(2B) of the Administrative Appeals Tribunal Act required the Tribunal to include in its written reasons for decision its findings on all material questions of fact and a reference to the evidence or other material on which those findings were based.The Tribunal's reasons for decision at [40] record its finding on the first of the above material questions of fact; it found that Mr Koosasi had obtained a substantial ownership interest in Great Bamboo.However, the reasons for decision do not identify as issues for its determination either the second or either aspect of the third material questions of fact.Rather they identify the next question for the Tribunal's determination as 'whether that substantial ownership interest is in "an eligible business in Australia"'.It is clear that the Tribunal answered this question in the negative but the process of reasoning which led the Tribunal to its negative answer is not clear.11 Mr Koosasi drew attention to the evidence before the Tribunal which showed that, as at the date of the cancellation decision, Great Bamboo had exported Australian goods (see the outcome identified in (c) of the definition of 'eligible business' ).He submitted that the Tribunal determined that he did not obtain a substantial ownership interest in an 'eligible business' without asking itself whether the business activity of Great Bamboo, as at the date of the cancellation decision, was resulting (as opposed to would result) in one or more of the outcomes identified in (a)-(f) of the definition of 'eligible business' .12 In response the respondent submitted that the Tribunal was not required to determine whether the activities of Great Bamboo were resulting in the export of Australian goods as at the date of the decision to cancel Mr Koosasi's visa because it implicitly found that Great Bamboo was not carrying on a business.Alternatively, the respondent submitted that the Tribunal found both that the business of Great Bamboo was not resulting, and would not result, in one or more of the outcomes identified in (a)-(f) of the definition of 'eligible business' .13 It is thus necessary for this Court to determine by reference to all of the material before it which is capable of throwing light on the proper understanding of the Tribunal's reasons for decision, what process of reasoning led to the Tribunal's conclusion that Mr Koosasi's substantial ownership interest in Great Bamboo did not constitute a substantial ownership interest in an 'eligible business' .14 The material before this Court includes the respondent's statement of facts and contentions before the Tribunal.This document at [27] advanced the contention that 'Great Bamboo Pty Ltd was not an eligible business because it was not a business in the necessary sense' .In support of this contention it made reference to Mason J's consideration in Hope v Bathurst City Council [1980] HCA 16 ; (1980) 144 CLR 1 of the meaning of 'business' in a phrase such as 'carrying on a business' .There his Honour stated that in the context of the rating provisions of the Local Government Act 1919 (NSW) the phrase 'carrying on a business' denoted activities 'engaged in for the purpose of profit on a continuous and repetitive basis' (at 8-9).The respondent's statement of facts and contentions before the Tribunal argued that Mr Koosasi's business did not appear 'to have been carried out on an ongoing or repetitive basis' .15 At [28] the same document advanced the alternative contention that Great Bamboo was not an eligible business because it did not meet any of the requirements listed in the definition of 'eligible business' in s 134(10).In support of this contention the document made reference to the absence of evidence that Mr Koosasi had developed business links with the international market.It also noted that Great Bamboo had not created and was unlikely to create employment, that it had not introduced new or improved technology into Australia nor had it increased commercial activity or competitiveness in the Australian economy.16 At [39] of its written reasons for decision the Tribunal conflated the two submissions of the respondent identified above, noting: 
+ 
+ 'The respondent also submits that the business is not an "eligible" business as it has only completed four export transactions since its registration in January 2003 and such limited number could not be considered continuing or repetitive ... there is no evidence the company has developed links with international markets; and the company has not created employment; exports of wheat, flour and juice has not introduced any new or improved technology to Australia.' (a reference to authority omitted)
+ 
+ 
+ 17 The Tribunal's consideration of the issue which it identified, namely whether Mr Koosasi's substantial ownership interest in Great Bamboo was in an 'eligible business' , is recorded in [41] of its reasons for decision as follows: 
+ 
+ 'Great Bamboo executed one export transaction in October 2003, two in September 2004 and one in April 2005.None of the four customers placed any repeat orders and no contracts were entered into for future transactions.The problems that the applicant said had obstructed further dealings by Great Bamboo, such as the exchange rate and shelf life restrictions, were not matters within the applicant's control.His approach to dealing with the exchange rate was simply to hope that it would improve, which might have been understandable but was not productive.Nothing in the evidence gave any reason to believe that Great Bamboo would continue to trade in a repetitive or continuous manner.For the above reasons I find that it is not an eligible business.' 
+ 
+ 
+ 18 The above paragraph, like the Tribunal's summary of the respondent's contentions, conflates consideration of (a) whether Mr Koosasi's substantial ownership interest in Great Bamboo constituted a substantial ownership in a 'business' ; and (b) whether the enterprise (to use a neutral expression) of Great Bamboo, assuming it to be a 'business' , is an 'eligible business' .19 This conflation renders it impossible to know with certainty whether the Tribunal: 
+ 
+ (a) found that the enterprise of Great Bamboo was not a 'business' with the consequence that it was unnecessary for it to determine whether that enterprise was resulting, or would result, in one or more of the outcomes identified in (a)-(f) of the definition of 'eligible business' ; or
+ (b) found or assumed that the enterprise of Great Bamboo was a 'business' and appropriately determined that Great Bamboo was not an 'eligible business' ; or
+ (c) found or assumed that the enterprise of Great Bamboo was a 'business' and gave consideration only to the issue of whether it was reasonable to believe that the business would result in one or more of the outcomes identified in (a)-(f) of the statutory definition of 'eligible business'.
+ 
+ 20 I think it unlikely that the Tribunal found that the enterprise of Great Bamboo was not a 'business' .There is no record of any such finding in the Tribunal's reasons for decision.Had the Tribunal made such a finding, s 43(2B) of the Administrative Appeals Tribunal Act obliged it to include it in its written reasons for decision (see [10] above).Moreover, it seems to me that if the Tribunal had determined that the enterprise of Great Bamboo was not a business, it would have referred to this finding in the context of its consideration of whether it was satisfied that Mr Koosasi had made a genuine effort to utilise his skills in 'participating at a senior level in the day-to-day management of that business' (s 134(2)).I also consider it to be significant that in later paragraphs of its reasons for decision the Tribunal uses the phrase ' the business ' in reference to Great Bamboo without any qualification or comment.For example, the opening sentence of [44] reads as follows: 
+ 
+ 'Turning then to s 134(2)(b), whether the tribunal is satisfied that the applicant has made a genuine effort to use his skills in actively participating at a senior level in the day-to-day management of the business ...' 
+ 
+ 
+ 21 I conclude that the preferable reading of the reasons for decision of the Tribunal leads to the conclusion that the Tribunal did not make a finding that the enterprise of Great Bamboo was not a 'business' .22 If the Tribunal had found that the enterprise of Great Bamboo was not a 'business' as at the date of the cancellation decision there would have been no need for it to give any further consideration to the content of the definition of 'eligible business' ; Mr Koosasi's case that his substantial ownership interest in Great Bamboo was a substantial ownership interest in an 'eligible business' would have failed at the first hurdle.However, as the Tribunal assumed (as I find that it did) that the enterprise of Great Bamboo was a 'business' , any determination that it was not an 'eligible business' required the Tribunal to ask itself whether the enterprise of Great Bamboo, as at the date of the cancellation decision, was resulting in one or more of the outcomes identified in (a)-(f) of that definition.23 In my view, a fair reading of the Tribunal's reasons for decision indicates that it did not ask itself whether the enterprise of Great Bamboo, as at the date of the cancellation decision, was resulting in one or more of the outcomes identified in (a)-(f) of that definition.24 The respondent submitted that the Tribunal's reference in [41] to the absence of repeat orders and contracts for future transactions and to the lack of evidence suggesting that Great Bamboo would continue to trade in a repetitive and continuous manner addressed the position both at the date of cancellation and prospectively from that date.I am unable to accept that submission.As I read [41] of the Tribunal's reasons for decision, the sentence 'nothing in the evidence gave any reason to believe that Great Bamboo would continue to trade in a repetitive or continuous manner' records a conclusion reached by the Tribunal on the basis of the factors earlier identified by it at [41].It is a conclusion which looks to the future; Great Bamboo had, as the Tribunal had earlier noted, been a party to an export transaction on 5 April 2005.As that was only approximately five weeks before the date of the cancellation decision it required consideration in the context of any finding that the enterprise of Great Bamboo was not resulting in, for example, the export of Australian goods (outcome (c) of the definition of 'eligible business' ).If, as I have found, the above conclusion was not a conclusion relied on by the Tribunal to support a finding that the enterprise of Great Bamboo was not a 'business' , it could only have been relied on to support a finding as to the likely future activity of Great Bamboo.25 A fair reading of the Tribunal's reasons for decision suggests that it is more likely than not that the Tribunal overlooked the need to determine whether it was reasonable to believe that the enterprise of Great Bamboo was resulting in one or more of the outcomes identified in (a)-(f) of the definition of 'eligible business' .The Tribunal's reasons for decision do not record any such determination.As stated above, had the Tribunal made such a determination or finding, s 43(2B) of the Administrative Appeals Tribunal Act obliged it to include it in its written reasons for decision together with a reference to the evidence or other material on which it was based.
+ CONCLUSION 
+ 
+ 26 As the parties each acknowledge, an 'eligible business' as defined by s 134(10) of the Act is a business that the decision-maker reasonably believes is resulting, or will result, in one or more of the things identified in (a)-(f) of the definition.The question of law the subject matter of this appeal (see [4] above) must therefore be answered in the affirmative.27 For the reasons given above I have concluded that the Tribunal overlooked the requirement to determine whether Mr Koosasi held a substantial ownership interest in a business that, as at the date of the decision to cancel his visa, was an 'eligible business' as defined by s 134(10) of the Act.For this reason, the answer to the question of law which constitutes the subject matter of the appeal leads to an entitlement in the applicant to have the decision of the Tribunal set aside.28 The appeal will be allowed, the decision of the Tribunal set aside and the matter remitted to the Tribunal to be determined according to law.The respondent must pay the applicant's costs.
+
+
+ I certify that the preceding twenty-eight (28) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Branson.Associate:
+
+Dated: 21 September 2006
+
+
+ Counsel for the Applicant: Mr N Poynder 
+ 
+ Counsel for the Respondent: Mr G Johnson 
+ 
+ Solicitor for the Respondent: Phillips Fox Lawyers 
+ 
+ Date of Hearing: 31 August 2006 
+ 
+ Date of Judgment: 21 September 2006 
+
+
+ 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1260.html 
+ 
+ 

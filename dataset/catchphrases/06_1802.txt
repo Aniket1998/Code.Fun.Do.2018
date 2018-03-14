@@ -1,0 +1,8 @@
+representative proceeding brought by group who claim to have suffered loss in respect of alleged contraventions of s 45 of the trade practices act 1974 (cth)
+parallel proceedings in federal court instituted by the accc in victorian registry
+appropriate application in this proceeding of discovery protocol negotiated by parties to accc proceedings
+application for production of documents in "text-searchable" pdf format as opposed to image-based tiff format
+application for discovery of electronic databases in their native electronic format
+application for an additional nine fields of "meta-data" to be produced in relation to discoverable documents
+advantages of the provision of meta-data in the course of discovery, particularly as to tracing the origin, amendment history and transmission of electronic documents and assisting with de-duplication- principle that court may limit discovery by restricting it to specific issues or allowing discovery in "waves."
+discovery

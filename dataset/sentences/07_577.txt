@@ -1,0 +1,123 @@
+
+ Introduction 
+ 
+1 This is an appeal from a decision of a Federal Magistrate dismissing an application for review of a sequestration order made against the estate of the appellant.The Chief Justice has determined, in accordance with s 25(1A) of the Federal Court of Australia Act 1976 (Cth), that the appeal be heard by a single judge.The sequestration order was made pursuant to a creditor's petition filed in the Federal Magistrates Court by the respondent, Accounts Control Management Services Pty Ltd.
+ Outline of facts 
+ 
+2 The chronology of events relevant to the present proceedings is:
+ 
+ 29 July 2005 - decision of New South Wales Local Court adverse to the appellant handed down giving rise to judgment debt in favour of the respondent;
+ 
+ 24 February 2006 - appeal from judgment of Local Court dismissed by Malpass AJ in Murdaca v Accounts Control Management Services Pty Ltd [2006] NSWSC 68 ;
+ 
+ 6 and 23 July 2006 respectively - bankruptcy notice issued and served by the respondent;
+ 
+ 2 August 2006 - appellant obtains ex parte stay on enforcement of judgment of Local Court granted to the appellant pending hearing of respondent's objection to the instalment order;
+ 
+ 15 August 2006 - application to set aside the bankruptcy notice dismissed on the last date for compliance with the notice;
+ 
+ 22 August 2006 - creditor's petition filed in Federal Magistrates Court;
+ 
+ 7 September 2006 - Local Court ordered that the judgment debt be paid by weekly instalments commencing 1 October 2006;
+ 
+ 29 September 2006 - sequestration order made;
+ 
+ 9 October 2006 - the appellant's application to review the sequestration order filed in the Federal Magistrates Court;
+ 
+ 16 or 17 October 2006 - appellant attempted to make instalment payments to the trustees; trustees refused to accept the payment;
+ 
+ 24 October 2006 - stay of sequestration order granted on condition that the appellant lodges a completed Statement of Affairs;
+ 
+ 26 October 2006 - statement of affairs completed;
+ 
+ 9 November 2006 - Federal Magistrates Court dismisses application to set aside sequestration order;
+ 
+ 17 November 2006 - notice of appeal from Federal Magistrate's decision filed in Federal Court of Australia.Grounds of appeal 
+ 
+3 The appellant's grounds of appeal can be summarised briefly.First, he claims that the Federal Magistrate erred by failing to go behind the judgment of the Local Court to determine if there was a debt owed to the respondent.Second, he claims that his Honour's discretion to make the sequestration order miscarried in that, in assessing the appellant's solvency, his Honour made errors of fact, took into account irrelevant matters and failed to give sufficient weight to other matters.Application to adduce new evidence on appeal 
+ 
+4 At the hearing of this appeal I refused the appellant's application to adduce evidence that was not put before the Federal Magistrate for the following reason.5 Section 27 of the Federal Court of Australia Act deals with the Court's reception of evidence on appeal:
+ 
+ 
+ 27.In an appeal, the Court shall have regard to the evidence given in the proceedings out of which the appeal arose, and has power to draw inferences of fact and, in its discretion, to receive further evidence... 
+ 
+
+6 Although the discretion conferred by s 27 is not expressed to be limited in any way, the principles that should guide the Court in its exercise are well established and uncontroversial.In general the Court must be satisfied that the evidence could not, with reasonable diligence, have been adduced at the trial; Council of the City of Greater Wollongong v Cowan [1955] HCA 16 ; (1955) 93 CLR 435 at 444.Moreover the evidence that was not presented at the trial must have sufficient probative value that it is likely to have produced a different result had it been presented at the trial; Guss v Johnstone [2000] FCA 1455 , Freeman v National Australia Bank Limited [2003] FCAFC 200.7 The proposed further evidence is an affidavit affirmed by the appellant to which are attached seven annexures comprising: (a) documents relevant to the appellant's application to the Local Court for the judgment debt to be paid by instalments; and (b) correspondence between the appellant and Mr Porter, one of the joint trustees in his bankruptcy.In his letter, the appellant argued that he had a right to apply for an instalment order after receiving the bankruptcy notice and requested the Trustee to prepare an affidavit for the purposes of this appeal addressing a number of issues including: (i) the basis for the Trustee's fees; and (ii) the appellant's attempts to make payments under the instalment order and the alleged rejection of those payments by the Trustee's office.The affidavit itself was more in the nature of submissions than evidence.8 In so far as the evidence is directed to establishing that the instalment order was made, it is clear from the Federal Magistrate's reasons that his Honour was aware that the order had been made and that, in relation to payments due on 1, 8 and 15 October 2006, the appellant had not complied with the order.The appellant's attempt to make the outstanding instalment payment on 16 or 17 October was described in an annexure to the affidavit of Mr Adam Biddles, a paralegal in the employ of the respondent's solicitor.This affidavit was in evidence before his Honour.9 Mr Biddles' affidavit annexes, among other things, a copy of a Notice of Non-Compliance filed with the Local Court on 25 October 2006.The notice, which is signed on behalf of the solicitor for the respondent, states that the appellant (the judgment debtor) was in default of the instalment order in not making the payments due on 1, 8 and 15 October and further states:
+ 
+ 
+ On or around 17 October 2006, the judgment debtor attended our offices wanting to make payment of $135.00 by way of cheque.
+ [The appellant] was advised that as the Sequestration Order had been made, all payments needed to be made directly to the Trustee.
+ [The appellant] was further advised that the [sic] in accordance with Rule 37.7 of the Uniform Civil Procedure Rules 2005 that the Instalment Order was no longer in force as he had defaulted in making any payments pursuant to the Court Orders dated 7 September 2006.
+ 
+ 
+ 
+
+10 Ms Goodchild explained that the appellant failed to put his reason for non-compliance directly before his Honour because he 'didn't consider that it was important'.Ms Goodchild submitted that the additional evidence that the appellant wished to adduce was 'a more thorough, more expansive explanation' of the circumstances of his non-compliance and that, if that issue 'had been properly ventilated before his Honour, he may not have taken what appears to be such a dim view as to non-compliance'.In her submission, the appellant's explanation for his failure was that, being an unrepresented litigant before the Federal Magistrate, he did not appreciate the significance of his non-compliance with the instalment order.Moreover, had his Honour been presented with this additional evidence, it is submitted, he might not have exercised his discretion in the way he did.11 In the normal course of events a litigant is bound by his or her conduct of the trial.While, as a matter of discretion, some leeway may be given to an unrepresented litigant I am not satisfied that the additional evidence the appellant seeks to present could not have been presented at the trial, despite his being unrepresented.Nor am I satisfied that it would have had any effect on his Honour's decision.His Honour was aware of the facts.The appellant now wishes to give greater emphasis to the implications of those facts.That does not persuade me that the additional evidence should be allowed.This appeal 
+ 
+12 An appeal from a judgment of the Federal Magistrates Court is an appeal by way of re-hearing.To succeed on appeal the appellant needs to show that the Federal Magistrate made an error of law or fact or that his Honour's discretion miscarried; Coal and Allied Operations Pty Ltd v Australian Industrial Relations Commission [2000] HCA 47 ; (2000) 203 CLR 194, Branir Pty Ltd v Owston Nominees (No 2) Pty Ltd [2001] FCA 1833 ; (2001) 117 FCR 424.Failure to go behind judgment debt 
+ 
+13 Where a petitioning creditor relies on a judgment debt the Court must be satisfied as to the validity of the debt and, to that extent, it may be said that the judgment 'is never conclusive in bankruptcy'; Wren v Mahony [1972] HCA 5 ; (1972) 126 CLR 212 at 224.It is accepted however, that the Court will not investigate validity as a matter of course; Simon v Vincent J.O'Gorman Pty Ltd (1979) 41 FLR 95 at 111, Commonwealth Bank of Australia v Jeans [2005] FCA 978.There must be something to suggest that no real debt lay behind the judgment, whether because of fraud, collusion or miscarriage of justice; Corney v Brien [1951] HCA 31 ; (1951) 84 CLR 343 at 357; Udovenko v Mitchell (1997) 79 FCR 418 at 421.14 The debt on which the appellant relies arose from a loan agreement made between the appellant and Avco Financial Services Limited, and which was secured by the appellant's interest in a motor vehicle.The appellant defaulted on the loan.Avco repossessed the vehicle and sold it in May 2000 however there was a shortfall on the sale and an amount of more than $13,000 was left outstanding.Avco assigned that debt to the respondent.The appellant says that there was not sufficient evidence to support the assignment from Avco to the respondent and, on that basis, says that the respondent did not prove the debt.15 It appears that there were some irregularities or discrepancies in the documentation of the debt and the assignment, but although the assignment was pleaded in the Local Court, the appellant did not take issue with that plea in his defence in the Local Court.Instead, while not admitting that there had been a default under the loan agreement with Avco, the appellant's defence was that the agreement with Avco had been fully satisfied by Avco taking possesson of the motor car.In his judgment in the Supreme Court appeal, Malpass AJ noted at [16]-[19]:
+ 
+ 
+ The plaintiff conducted his case before the Local Court on the basis that there was no issue concerning the assignment.At the commencement of her judgment, the Magistrate made a finding that the interests, rights and entitlements under the agreement for loan had been assigned.In my view, she did not fall into error in making that finding.
+ The plaintiff now complains that there was no evidence of the assignment before the court and that there was no evidence of service of notice of the assignment.The defendant disputes that contention.It looks to admissions, the documentary material that was before the court and to evidence given by the plaintiff during his cross-examination.... 
+ 
+ 
+ ... 
+ 
+ 
+ There is a contest between the parties as to what inferences may be drawn from all of the material.It is unnecessary to enter into that debate.It suffices to say that the material leads to the conclusion that the plaintiff was aware of the assignment and was not concerned to make any challenge in relation to it.
+ Leaving that consideration aside, it seems to me that it was unnecessary to tender the assignment, or any notice of it, in the light of the admissions that arise from the pleadings and the manner in which the plaintiff conducted his case in the Local Court.
+ 
+
+His Honour concluded:
+ 
+ 
+ It would seem from the record of the proceedings that neither the parties nor the court noticed the discrepancies in the purported notice.No doubt, this was because the assignment and notice thereof were not seen as matters in issue.
+ 
+
+16 This last comment may be a little confusing.The assignment of a debt is not complete in law until notice has been given to the debtor --- in this case the appellant; s 12 Conveyancing Act 1919 (NSW).Irrespective of the technicalities however, the point remains that the appellant did not raise the issue in the Local Court.It was raised in the Supreme Court where the appellant submitted that there was no evidence of the assignment before the Local Court.This is not surprising.As the appellant did not traverse the plea of assignment no evidence was required and no adverse inference can be drawn from its absence.17 Malpass AJ considered whether the appellant should be bound by the course he adopted at the trial or should be allowed to raise a new point on appeal.His Honour concluded at [30]- [33]:
+ 
+ 
+ In my view, the plaintiff [appellant] should be bound by the course adopted during the hearing before the Local Court.It is conceded that it is a case where, had the matters been placed in issue, the defendant may have led evidence which had the possibility of defeating the point.Further, in the circumstances of this case, I do not consider it to be either expedient, or in the interests of justice, to entertain the new point in this appeal.
+ The purport of the appeal is to have the proceedings remitted back to the Local Court so that the case can be reheard.This would seem to be a pointless exercise.From what has been said from the bar table, it appears that the defendant may be in a position to prove all issues concerning the assignment and the plaintiff is faced with an insurmountable jurisdictional problem.
+ It may further be observed that what is in dispute has been described as not being a significant sum.There has already been an arbitration, a purported re-hearing and an appeal.Neither the parties nor the public interest would be well served by a further hearing.
+ I should add that changing times have seen the court adjusting the approach to be taken to cases where parties appear in person.No longer is it a rare event.It is now approaching an event of almost daily occurrence.Many are litigants in person because they choose so to be.Many have become experienced litigants running numerous cases before the court.The transcript of the Local Court proceedings presents a picture of this plaintiff conducting himself with skill.
+ 
+
+18 The 'insurmountable jurisdictional problem' to which his Honour referred was apparently a consequence of the claim being for less than $10,000.As his Honour explained earlier in his judgment, given the amount of the claim the appellant was not entitled to a rehearing after he was unsuccessful in the arbitration; see ss 3 , 43 (2) Civil Procedure Act 2005 (NSW), s 4 Local Courts Act 1982 (NSW).His Honour commented that the jurisdictional issue had been overlooked but that if the proceedings were remitted to the Local Court, the respondent intended to agitate the issue before that court.19 In the proceedings in the Federal Magistrates Court it is clear that the question whether the Federal Magistrate should go behind the judgment of the Local Court was raised but not in the context of any challenge to the assignment.His Honour's comments indicate that the issue was considered in the context of whether the Local Court judgment was final:
+ 
+ 
+ To the extent that it may have been argued during the course of the proceeding, it is not appropriate in this instance for this court to go behind the judgment of the local court relied upon in the bankruptcy notice which in turn then triggered the creditors petition.The power of the court to go behind the bankruptcy notice is referred as being a matter of course for discretion.
+ 
+
+His Honour referred to Wren v Mahony at 225 and continued:
+ 
+ 
+ Lest there be any doubt in the present case, applying the relevant principles to the circumstances set out in the affidavit material relied upon by the debtor it is my concluded view that there is no basis in that law for this court going behind the judgment.I am satisfied for reasons given, that the judgment relief [sic] upon in the bankruptcy notice can properly be characterised as a final judgment albeit that it does not include reference to costs yet to be assessed.
+ 
+
+20 Although the validity of the assignment was never directly challenged in the Federal Magistrates Court, in asserting that his Honour should have considered the question, Ms Goodchild relied on the fact that the judgment of the Local Court and the judgment of Malpass AJ on appeal were before him and should have alerted him to consider the validity of the assignment.In my view the fact that the judgments were before his Honour is a long way short of what would be required for this submission to be accepted.There was no obligation on the Federal Magistrate to reconsider every issue that had been raised (and settled) in the past.From his Honour's point of view there was no reason to doubt that the issue, although the subject of contest in the past, was now accepted as having been resolved.21 I also do not accept that it would be appropriate for this Court to allow the appellant to reopen that issue either in this Court or before the Local Court.Since the arbitration, purported re-hearing and appeal to which Malpass AJ referred, an application to set aside the bankruptcy notice has been dismissed by a registrar of this Court, a sequestration order has been made by a registrar of this Court, there has been an unsuccessful application to set aside the sequestration order in the Federal Magistrates Court and now an appeal to this Court.There are even greater reasons now to say, as did Malpass AJ, that it is not in the interests of the parties or the public for there to be a further hearing.Discretion to make sequestration order or to dismiss the creditor's petition 
+ 
+22 Section 52 (1) of the Bankruptcy Act 1966 (Cth) provides for the proof of certain matters and states that the Court, 'if it is satisfied with the proof of those matters, may make a sequestration order against the estate of the debtor'.It is accepted that the section gives the Court discretion to decline to make the order if persuaded 'that the public interest in dealing with the insolvent debtor and the rights of individual creditors are outweighed by other considerations'; Totev v Sfar (2006) 230 ALR 236 at 243.See also Cain v Whyte [1933] HCA 6 ; (1933) 48 CLR 639 at 645-6 and 648.It is for the debtor to persuade the Court that the circumstances are such as to warrant an exercise of the Court's discretion in his or her favour.23 Before the Federal Magistrate, the appellant raised the issue of whether the Local Court judgment was a final judgment and also whether the stay order made by the Local Court ought to preclude the creditor from pursuing its petition.His Honour made findings adverse to the appellant on both these issues and the appellant has not challenged those findings in this appeal.24 The appellant did challenge his Honour's finding in respect of his solvency.The issue is relevant because s 52(2) of the Act would allow the Court to dismiss the creditor's petition if the Court was not satisfied with the proof of the matters referred to in s 51(1) , or was satisfied by the debtor that he is able to pay his debts; or that for other sufficient cause a sequestration order ought not to be made.25 The appellant submits that the existence of the instalment order was proof that the appellant had satisfied a court (the Local Court) that he was able to pay his debts as they fell due and that the Federal Magistrate erred in concluding otherwise.In the alternative the appellant submits that his Honour should have enquired into the circumstances surrounding the appellant's failure to make the instalment payments.26 His Honour dealt with the solvency question briefly:
+ 
+ 
+ The court has the usual discretion to consider whether a sequestration order should be made and in this instance, whether it is appropriate to simply dismiss the application for the review of the order which is already in existence.In exercising that discretion the court is required to take into account the various matters referred to in the Bankruptcy Act , including amongst others, the issue of solvency.The debtor has not produced to this court evidence which would establish solvency at the relevant time as defined, that is an ability to pay the debts as and when they arise.
+ The statement of affairs whilst revealing that the debtor is in receipt of a disability pension, otherwise refers to assets which ultimately can only be characterised as including one substantive asset, namely a property.It is not appropriate for me to otherwise analyse the materials safe [sic] to say that the income of the debtor appears to be a sum of $505.00 per fortnight and the assets include a car valued at $300.00 and the residence to which I have referred already estimated to have a net value of approximately $140,000.00.
+ In my view, there is no issue that has been properly raised concerning solvency of the debtor.
+ 
+ 
+ 
+
+27 The appellant's failure to make the instalment payments on the dates provided in the instalment order meant that the order ceased to have effect; Uniform Civil Procedure Rules 2005 (NSW), r 37.7.Therefore, the simple response to the appellant's submission may be that when the matter came before the Federal Magistrate on 7 November 2006 the instalment order was no longer in force.Irrespective of that, I do not accept that the instalment order had the force contended for by the appellant.Such an order can do no more than raise a rebuttable presumption of solvency in that, presumably, the court that made the instalment order considered that the debtor would be able to make the instalment payments.Such a presumption may be rebutted by evidence that, contrary to expectations, the debtor is not able to make the payments in accordance with the order.28 At the hearing of the application for the review of the sequestration order before the Federal Magistrate, his Honour had evidence that the appellant had not made or attempted to make the first three payments under the instalment order on the due dates.The attempt to make the payments to the trustee occurred at the earliest on 16 or 17 October.There was no evidence before his Honour explaining why the payments were not made on the due dates and no reason for his Honour to form the view that future payments would be made on time.In the circumstances, there was no basis on which his Honour could be satisfied as to the appellant's solvency.His Honour did not err in exercising his discretion not to set aside the sequestration order.29 For these reasons the appeal must be dismissed.The respondent's costs are to be paid out of the estate of the appellant debtor in accordance with the provisions of the Bankruptcy Act 1966 (Cth).I certify that the preceding twenty nine (29) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Stone.Associate:
+
+Dated: 30 April 2007
+ Counsel for the Appellant: L Goodchild Counsel for the Respondent: RD Marshall Solicitor for the Respondent: Leonard Legal Date of Hearing: 3 April 2007 Date of Judgment: 30 April 2007 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/577.html 
+ 
+ 

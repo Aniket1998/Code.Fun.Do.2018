@@ -1,0 +1,49 @@
+
+ The applicant is a company incorporated in Australia.It carries on business hiring scaffolding in Australia and overseas.The respondent is a former employee and director of the applicant who, prior to the termination of his relationship with the applicant, was the manager of the applicant's branch office in each of the Republic of Azerbaijan and the Republic of Kazakhstan.The applicant alleges that, whilst engaged as the branch manager of the applicant's business in each of those two countries, the respondent, without the authority of the applicant withdrew USD 1,452,243 from the applicant's Azerbaijan bank account.It is also alleged that the respondent caused payments totalling not less than USD 1,334,369.35 due to the applicant, to be diverted to the bank account of a company which the respondent had established under the name of PCH AZ LLC in which he had a beneficial interest.Further, it is alleged that, after his position with the applicant was terminated, the respondent had failed to return scaffolding which belonged to the applicant worth USD 3.6 million and other property worth USD 323,000.The applicant alleges that by reason of these matters the respondent breached his duties under ss 180(1) , 181 (1), 182 (1) and 183 (1) of the Corporations Act 2001 (Cth) (the Act) and that he has breached his contract of employment and acted in breach of his fiduciary duty owed to the applicant.The applicant claims damages, compensation and delivery up.The respondent is ordinarily resident in the United Kingdom.Accordingly, the applicant seeks leave to serve its application and statement of claim on the respondent in the United Kingdom under O 8 of the Federal Court Rules (the Rules).The applicant proposes that service be effected by service through a private agent.In order for the Court to be satisfied that leave should be granted to serve an originating process out of the jurisdiction, it is necessary that the Court be satisfied that the Court has jurisdiction in respect of the proceeding, the proceeding is of a kind which is referred to in O 8 r 2 of the Rules, and that the person seeking leave has a prima facie case for relief claimed in this proceeding (O 8 r 3 of the Rules).There is also a discretion in the Court which may be exercised to refuse leave to serve the proceeding out of the jurisdiction.A basis on which this discretion may be exercised is that proceedings may be pending in another jurisdiction which may render the commencement of a proceeding in this Court vexatious or oppressive, or inappropriate on forum non conveniens grounds.The evidence which is filed in support of the application comprises an affidavit of Mr Guy Robert Rackham affirmed on 30 April 2009.It is a lengthy affidavit running to some 294 pages.The affidavit annexes materials including photocopies of cheques and reports of investigations which have been made into the conduct of the respondent in relation to the claims of breaches of duty and misappropriation, made in the statement of claim.The first issue is whether the Court has jurisdiction in relation to the proceeding.The applicant relies upon the Court's jurisdiction under s 1337B(1) of the Act and the accrued jurisdiction.The alleged breaches of ss 180, 181, 182 and 183 of the Act are said to have occurred in foreign countries, namely, Azerbaijan and Kazakhstan.The question is whether the Act, or at least those sections of the Act, operate extraterritorially, so that the Court would have jurisdiction in respect of acts or omissions in breach of those statutory duties which occurred outside of Australia.There is a presumption that Acts of Parliament operate territorially and so it is necessary to find some evidence of Parliament's intention that ss 180, 181, 182 and 183 are to apply to acts and omissions which occur outside of Australia.In my view, that intention is to be found in s 5 of the Act.Section 5(4) states that: 
+ Subject to subsection (8), each provision of this Act also applies, according to its tenor, in relation to acts and omissions outside this jurisdiction.
+
+ Further, s 5(7) of the Act provides: 
+ Each provision of this Act applies according to its tenor to: 
+
+ 
+ (a) natural persons whether: 
+
+ 
+ (i) resident in this jurisdiction or not; and 
+
+ 
+ (ii) resident in Australia or not; and 
+
+ 
+ (iii) Australian citizens or not; and 
+
+ 
+ (b) all bodies corporate and unincorporated bodies whether: 
+
+ 
+ (i) formed or carrying on business in this jurisdiction or not; and 
+
+ 
+ (ii) formed or carrying on business in Australia or not.
+
+ In my view, the tenor of the sections in question does not contain any limitations such as would cause me not to give effect to the clear words of s 5 of the Act.The language is plainly capable of applying to acts and omissions which have occurred outside of Australia.Further, that these sections of the Act are to be construed as operating outside of Australia, is consistent with the position which has been taken in the United States of America, where the extraterritorial operation of similar provisions in the securities legislation of the United States is justified on the grounds that breaches of duty overseas by officers of an United States corporation may have an adverse effect within the United States.In my view, similar policy considerations apply to Australian corporations and the duties owed by their officers.Accordingly, in my view, notwithstanding that the alleged breaches of the Act are said to have occurred in Azerbaijan and Kazakhstan, they are allegations which are justiciable in this Court because of the extraterritorial operation of those sections of the Act.Further, the Court will have jurisdiction in respect of the claims founded on breach of the employment contract and breach of ordinary fiduciary duties by reason of the accrued jurisdiction, which would attach to the primary jurisdiction, which arises under the Act.The next question is whether the proceeding is of a kind which is mentioned in O 8 r 2 of the Rules.In my view, the proceeding falls within Item 12 of the table in O 8 r 2.This item applies to a proceeding based upon a breach of a provision of an Act, wherever occurring, seeking relief in relation to damage suffered wholly or partly in Australia.The applicant, as I have said, is an Australian company and the loss and damage claimed would be suffered here.The alleged breaches are breaches of the Act outside of Australia.The affidavit of Mr Rackham provides sufficient evidence of a prima facie case when applying the test referred to by French J (as he then was) in Western Australia v Vetter Trittler Pty Ltd (in liq) (1991) 30 FCR 102 at 109-110.Accordingly, the provisions of O 8 for service out of the jurisdiction are satisfied, subject only to the question of the exercise of the discretion.In this case, there is an unusual feature because in 2008 proceedings were commenced in Azerbaijan claiming compensation against the respondent in respect of the alleged breaches of duty and misappropriation referred to in the statement of claim.Whilst the proceedings initially sought to claim compensation in respect of these alleged breaches, the evidence discloses that the court in Azerbaijan refused to accept jurisdiction to deal with those causes of action by reason of their connection to Australia.The proceedings which are pending in Azerbaijan are now confined only to requiring the respondent to produce documents.The question is whether in those circumstances this Court should decline to permit this proceeding to be served out of this jurisdiction, on the grounds that it would be oppressive or vexatious on the part of the applicant to conduct proceedings against the respondent in two different forums, or that Australia would be an inconvenient forum within which to litigate the questions of breach of the respondent's statutory duties and breach of his common law duties.In the case of Reinsurance Australia Corporation Limited v HIH Casualty (2003) 254 ALR 29, Jacobson J had to deal with a situation where there were proceedings pending in two different jurisdictions, and he observed at [326]: 
+ I accept the submission of counsel for the applicants that the present proceedings are in effect the converse of CSR v Cigna .The co-existence of local and foreign proceedings is not vexatious or oppressive where relief is available in one forum which is not available in the other.
+
+ In my view, those observations are apt and apply in these circumstances, because the relief which is sought in this proceeding is, on the evidence, not available in the Azerbaijan proceedings - the Azerbaijan court having declined to adjudicate upon the causes of action the subject of this proceeding.Further, it cannot be said that Australia is clearly an inappropriate forum because there are strong connecting factors to Australia and the Azerbaijan court has declined to exercise jurisdiction in relation to these causes of action.Accordingly, I will grant leave to serve this proceeding out of the jurisdiction.There is also an affidavit from Ms Carolyn Dearing which annexes a document from the Attorney-General's department explaining that the appropriate method of service in the United Kingdom is by way of service by a private agent.On that basis, I permit the service to be effected on the respondent by way of a private agent.I certify that the preceding twenty (20) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Siopis.Associate:
+ 
+ 
+Dated: 26 May 2009
+ 
+ Counsel for the Applicant: Ms J Hill 
+ 
+ Solicitor for the Applicant: Deacons 
+ Date of Hearing: 20 May 2009 
+ 
+ Date of Judgment: 20 May 2009 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/553.html 
+ 
+ 

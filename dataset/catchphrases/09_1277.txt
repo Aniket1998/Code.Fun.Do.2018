@@ -1,0 +1,10 @@
+schemes of arrangement
+first court hearing at which orders sought for the holding of meetings of share holders and option holders
+in the case of option holders, two classes proposed and therefore two meetings of option holders
+one class the holders of in-the-money options and the other class the holders of out-of-the-money options
+proposal that consideration to be offered for in-the-money options be based on intrinsic value methodology, whereas consideration to be offered for out-of-the-money options be based on black-scholes methodology
+objection by two in-the-money option holders that holders of in-the-money options should also have the benefit of the black-scholes methodology rather than the intrinsic value methodology
+principles relating to creation of classes
+whether impossible for members of proposed class to consult with other members of it with a view to their common interest
+possibility of objection at final court hearing on ground of unfairness or oppression. held : meetings ordered on the basis of the two classes of option holders proposed.
+corporations

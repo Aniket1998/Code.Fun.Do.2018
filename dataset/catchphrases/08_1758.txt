@@ -1,0 +1,19 @@
+trade practices act 1974 (cth), part xic , telecommunications industry and access regime
+dispute between telstra and optus regarding access to unconditioned local loop service (ulls) in multi-dwelling units (mdus)
+resolution of access dispute by australian competition and consumer commission (accc)
+final determination made by accc establishing regime for ordering and provisioning of ulls
+whether final determination lawfully made
+judicial review
+grounds of review
+appeal under administrative decisions (judicial review) (adjr) act 1977 (cth), s 5
+whether final determination unlawfully made on grounds that, in making final determination, accc: (1) did not take into account telstra's direct costs of providing access to the ulls (s 152cr(1)(d)); or (2) did not properly have regard to industry code as model terms and conditions (152aqb(9)) or otherwise (s 152cr(2)); or (3) failed to specify with reasonable precision or certainty terms and conditions relating access (s 152cp(2)); or (4) was so unreasonable that no reasonable person could have so exercised the power ( wednesbury unreasonableness); or (5) exceeded its jurisdiction by incorrectly assuming a matter upon which the exercise of its jurisdiction depended (s 152cp(1))
+trade practices act , part xic , div 8
+extent to which accc's earlier determination adopted industry code standards regarding ordering and provisioning of ulls
+mandatory terms of s 152aqb(1)(b) and (3) which stated respectively that accc "must make a written determination setting out model terms and conditions relating to access to each core service" and that accc "must take all reasonable steps to ensure that" such a determination is made within six months after commencement of section
+whether accc had discretion to declare some but not all model terms and conditions relating to core service
+clear words used by parliament requiring accc to make written determination to set out model terms and conditions relating to ulls and to take all reasonable steps to do so within six months
+explanatory memorandum qualifying clear words in bill
+trade and commerce
+administrative law
+trade and commerce
+statutory interpretation

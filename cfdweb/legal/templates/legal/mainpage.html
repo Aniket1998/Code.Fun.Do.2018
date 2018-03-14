@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Case Study</title>
+  {% load static %}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" id="bootstrap-css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="{% static 'legal/mainpage/chatcss.css' %}">
+  <script type="{% static 'legal/mainpage/chatjs.js' %}"></script>
+</head>
+<body>
+
+<div class="container">
+  <div class="jumbotron">
+    <h1>Case Study : {{filename}}</h1>      
+    <p>{{filename}} has been studied! We've understood and summarised the document and highlighted the important points. Feel free to ask questions</p>
+  </div>    
+</div>
+
+{% load static %}
+<div class="container">
+  <ul class="nav nav-pills nav-justified">
+    <li class="active"><a data-toggle="pill" href="#home">Case Report</a></li>
+    <li><a data-toggle="pill" href="#menu1">Summary</a></li>
+    <li><a data-toggle="pill" href="#menu2">Ask Questions</a></li>
+  </ul>
+  
+  <div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+      <h2>Case Report : {{filename}}</h2><br>
+      <div class="text-justify">
+      	<h3>{{realtext|safe}}</h3>
+      </div>
+    </div>
+    <div id="menu1" class="tab-pane fade">
+      <h3>Case Summary</h3><br>
+      <div class="text-justify">
+        <h3>{{summary|safe}}</h3>
+      </div>
+    </div>
+    <div id="menu2" class="tab-pane fade">
+      <h3>Ask Questions</h3>
+      <div class="col-sm-3 col-sm-offset-4 frame">
+            <ul></ul>
+            <div>
+                <div class="msj-rta macro">                        
+                    <div class="text text-r" style="background:whitesmoke !important">
+                        <input class="mytext" placeholder="Type a message"/>
+                    </div> 
+
+                </div>
+                <div style="padding:10px;">
+                    <span class="glyphicon glyphicon-share-alt"></span>
+                </div>                
+            </div>
+        </div>       
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>
+

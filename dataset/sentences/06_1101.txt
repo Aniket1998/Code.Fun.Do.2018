@@ -1,0 +1,38 @@
+
+ TO STRIKE OUT WINDING UP APPLICATION 
+ By an application filed on 29 June 2006, the Australian Securities and Investments Commission (ASIC), seeks orders for the winding up of each of the 13 respondent companies in insolvency.The application is brought under Pt 5.4 of the Corporations Act 2001 (Cth) (the Act).Such an application may be made under s 459P of the Act by ASIC, albeit only with the leave of the Court.That leave may be given if the Court is satisfied that there is a prima facie case that the company is insolvent, but not otherwise.The contention that the companies are insolvent is based upon non-compliance with statutory demands for the payment of moneys owing to Westpoint Corporation Limited.On instructions from Oren Zohar of Korda Mentha, the receiver and manager of Westpoint Corporation, statutory demands under s 459E of the Act were served on the first to the twelfth respondents on 10 March 2006.On 15 March 2006 a further statutory demand was served on the thirteenth respondent.Each of the demands was accompanied by an affidavit said to verify that the amount of the debt was due and owing by the company to Westpoint Corporation.Each verifying affidavit relied upon an examination of the books and records of Westpoint Corporation.It did not set out the transaction or transactions which gave rise to the debt.In each case, the deponent, Karen Price, stated her belief that there was no genuine dispute about the existence or amount of the debt.The amounts in issue were as follows: Eastlands Pty Ltd, $3,612,913.02; Goldtag Pty Ltd, $567,962.32; Westpoint Money Management Pty Ltd, $1,999,876.80; Asset Build (Aust) Pty Ltd, $249,244.18; Cinema City Development Pty Ltd, $1,223,314.75; Westpoint Consulting Group Pty Ltd, $172,525.16; Jetsone Pty Ltd, $22,302.14; Network Company Pty Ltd, $1,277,606.59; Pagelight Nominees Pty Ltd, $55,800.85; Kingdream Pty Ltd, $874,142.45; Juson Pty Ltd, $18,357.60; Bridgeview Holdings Pty Ltd, $1,297,256.94; Westside Brisbane Developments Pty Ltd, $123,939.16.None of the demands was satisfied, nor was any application made to set any of them aside.Mr Zohar deposed in an affidavit sworn on 29 June 2006 that on his review of the accounting records at Westpoint Corporation each of the respondents was indebted to Westpoint Corporation in the amounts as set out above.Each of the debts remained due and payable.None of the respondents had paid the amount of debts demanded, nor had any of them secured or compounded those amounts to the reasonable satisfaction of the receivers at Westpoint Corporation within 21 days after the service of demands.Mr Norman Carey filed a notice of appearance in his capacity as director of each of the respondents.He also moved for an order that the originating process be struck out.He so moved on the ground that the originating process was invalid in that it was in contravention of the requirements of s 459Q of the Act, that it be accompanied by an affidavit that: 
+ 
+ that the relevant debts of the respondents, or any of them, were due and payable at the date on which the application was made, or at all..' 
+ 
+
+
+ Mr Carey was represented for the purpose of taking the threshold point by Mr Nixon.Mr Nixon submitted, in effect, that verification of the debt contemplated by s 459Q required more than the verification offered in this case based upon an examination of the books and records of Westpoint Corporation and Mr Zohar's belief flowing from his examination of those books and records.ASIC submitted that the verification of the debts required on affidavit by s 459Q was to the same standard as the verification of debts in the affidavit required to accompany a statutory demand for other than a judgment debt, pursuant to s 459E of the Act.ASIC further submitted that in this case the verification was more than an assertion of a mere belief.Mr Zohar, who had taken control of the books and records of Westpoint Corporation reviewed them and formed the view that they could be relied upon for the purpose of establishing the existence of the debts.On the basis of that review, he expressed his belief that the debts were due and payable in the amounts set out in his affidavit.There is authority for the proposition that the verification required in the affidavit supporting an application to wind the company up under s 459Q is not extensive.The same statutory formula is used in relation to an affidavit verifying the existence of a debt for the purpose of an originating application as is used in relation to the affidavit backing a statutory demand.In the case of an affidavit backing a statutory demand, what is required is formal affirmation on oath that a certain amount of money is due and payable - Azed Developments Pty Ltd v Frederick and Co Limited (1994) 12 ACLC 949; Hamilhall Pty Ltd (In Liq) v AT Phillips Pty Ltd (1994) 54 FCR 173; Carb Royale Pty Ltd v Tonkin (2000) 18 ACLC 803.In Hamilhall , Branson J discussed the requirements of an affidavit verifying the existence of debt for the purpose of s 459E(3) in relation to a statutory demand.Her Honour noted that in Azed Developments Hayne J of the Supreme Court of Victoria, as he then was, held that s 459E(3) uses the expression 'verify' in the sense of 'a formal affirmation'.Her Honour went on to say (at 174): 
+ 
+ also am of the view that in the context of Pt 5.4 of the Corporations Law , the expression "verify" is used in the sense of "a formal affirmation".The affidavit in this case did contain a formal affirmation that the total of the amount of the debts was due and payable by the respondent.' 
+ 
+ In my opinion, the affidavit met the requirement according to that standard and went beyond it by setting out the basis upon which the affirmation was made by reference to books and records under the control of the deponent, Mr Zohar.In the circumstances, I am satisfied that the originating application complies with the requirements of s 459Q.Mr Carey's motion will therefore be dismissed.He is to pay the applicant's costs of the motion.
+
+
+ I certify that the preceding nine (9) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice French.Associate:
+Dated: 31 August 2006
+
+
+ Counsel for the Applicant: Mr CM Slater 
+ 
+ Solicitor for the Applicant: Australian Securities and Investments Commission 
+ 
+ Counsel for the Respondents: Mr LFA Nixon 
+ 
+ Solicitor for the Respondents: Clavey Legal 
+ 
+ Date of Hearing: 16 August 2006 
+ 
+ Date of Judgment: 16 August 2006 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1101.html 
+ 
+ 

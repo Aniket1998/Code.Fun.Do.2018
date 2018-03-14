@@ -1,0 +1,19 @@
+telecommunications industry
+14 arbitrations between telstra corporation limited (telstra) and access seekers over terms and conditions of access to declared services
+div 8 of pt xic of trade practices act 1974 (cth) (act)
+challenge by telstra to the final determinations made by australian competition and consumer commission (accc) in the 14 arbitrations on judicial review grounds that were common to various combinations of the arbitrations
+(a) whether accc misconstrued s 152cr(1)(d) of act by adopting pooling and allocation method in dealing with specific costs
+(b) whether accc's failure to take into account model terms that it had determined under s 152aqb(2) of act involved procedural ultra vires and failure to take into account a relevant consideration
+(c) whether it was beyond the power conferred on accc by s 152cp of act to make a determination that included a charge for call diversion when call diversion was provided as part of a new connection
+whether call diversion when provided in those circumstances was a matter "relating to" access to the declared service within s 152cp(2) of act
+(d) whether accc erred in law by inconsistently using capital asset pricing model (capm) in order to estimate cost to telstra of equity capital while rejecting telstra's contention that there should be an uplift in the element to be included for weighted average cost of capital (wacc) to allow for welfare asymmetry connected with overestimating or underestimating the wacc
+whether use of capm involved acceptance of its underlying assumptions
+whether inconsistency established
+whether inconsistency in economic methodology an error of law
+(e) whether, by not including in the monthly charge to be paid by access seekers an element for line costs, accc erred in law and failed to observe s 152db(1)(b) of act
+construction of s 152db(1)(b) of act
+(f) whether later pricing principles for declared service impliedly revoked earlier ones
+whether accc erred by taking later ones into account
+whether later ones invalid by reason of having been made when earlier ones still in force and not expressly revoked
+whether later ones validly backdated into period when earlier ones had been on foot.
+administrative law

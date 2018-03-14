@@ -1,0 +1,8 @@
+discovery
+whether further discovery should be required
+whether grounds for a belief that documentation exists
+whether legal professional privilege waived by limited disclosure
+whether confidentiality orders made by consent should be varied
+whether blanket claims for privilege have been made
+whether parts of discovered documents may be masked for confidentiality
+practice and procedure
