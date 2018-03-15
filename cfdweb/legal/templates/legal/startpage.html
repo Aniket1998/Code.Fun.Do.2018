@@ -30,7 +30,8 @@
   	{% csrf_token %}
   <div class="body" id="drop">
    <i class="fa fa-file-text-o pointer-none" aria-hidden="true"></i>
-   <p class="pointer-none"><b><a href="" id="triggerFile">UPLOAD FILE</a></b></p>
+   <p class="pointer-none"><b><a href="" id="triggerFile">UPLOAD FILE</a></b></p><br>
+   <p class="pointer-none"><b><a href="{% url 'readme' %}">Browse</a></b> or <b><a href="{{readfile}}">Download</a></b> the readme</p>
 			<input type="file" multiple="multiple" name="myfile" />
   </div>
   <footer>

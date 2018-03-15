@@ -5,11 +5,22 @@ import urllib.request as urllib2
 import json
 from gensim.summarization import summarize
 # Create your views here.
+abilities = "Brief you about the document<br>Describe it in a little more detail<br>Fetch you the important words in it<br>"
+defaultmsg = "Hi! Have anything to ask about the document? I can<br>" + abilities
 def testview(request):
 	context = {
 		'page_title' : 'Legal Case Studies',
+		'readfile' : 'https://drive.google.com/file/d/1prRlrLEK6St6Lsp9O3FyUyc-A4a9KuUt/view'
 	}
 	template = loader.get_template('legal/startpage.html')
+	return HttpResponse(template.render(context,request))
+
+def readmeview(request):
+	context = {
+		'page_title' : 'Case Studies | Team DeepVaders',
+		'readme' : 'https://drive.google.com/file/d/1prRlrLEK6St6Lsp9O3FyUyc-A4a9KuUt/view'
+	}
+	template = loader.get_template('legal/readme.html')
 	return HttpResponse(template.render(context,request))
 
 
@@ -21,7 +32,11 @@ def responseview(request):
 		'filename' : request.FILES['myfile'].name.split('.')[0],
 		'realtext' : preprocess(filetext,impwords),
 		'summary' :  preprocess(summarize(filetext,word_count = len(filetext.split(' ')) * 0.2),impwords),
-		'title' : ''
+		'title' : 'Analysis of ' + request.FILES['myfile'].name.split('.')[0],
+		'chatkeywords' : parsekeywords(impwords),
+		'chatsummary' : preprocess(summarize(filetext,word_count = len(filetext.split(' ')) * 0.1),impwords),
+		'chatshortsummary' : preprocess(summarize(filetext,word_count = len(filetext.split(' ')) * 0.05),impwords),
+		'defaultmsg' : defaultmsg
 	}
 	template = loader.get_template('legal/index.html')
 	return HttpResponse(template.render(context,request))
@@ -62,3 +77,12 @@ def preprocess(filetext,impwords):
 		if len(word.split(' ')) > 2:
 			data = data.replace(word,'<b><i>' + word + '</b></i>')
 	return data
+
+def parsekeywords(impwords):
+	keyw = "<i>";
+	ctf = impwords.split(',')
+	for word in ctf:
+		if len(word.split(' ')) > 2:
+			keyw += word + "<br>"
+	keyw += "</i>"
+	return keyw

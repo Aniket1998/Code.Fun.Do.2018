@@ -26,7 +26,6 @@ function insertChat(who, text, time){
     if (who == "me"){
         control = '<li style="width:100%">' +
                         '<div class="msj macro">' +
-                        '<div class="avatar"><img class="img-circle" style="width:100%;" src="'+ me.avatar +'" /></div>' +
                             '<div class="text text-l">' +
                                 '<p>'+ text +'</p>' +
                                 '<p><small>'+date+'</small></p>' +
@@ -39,8 +38,7 @@ function insertChat(who, text, time){
                             '<div class="text text-r">' +
                                 '<p>'+text+'</p>' +
                                 '<p><small>'+date+'</small></p>' +
-                            '</div>' +
-                        '<div class="avatar" style="padding:0px 0px 0px 10px !important"><img class="img-circle" style="width:100%;" src="'+you.avatar+'" /></div>' +                                
+                            '</div>'  +                                
                   '</li>';
     }
     setTimeout(
@@ -54,27 +52,65 @@ function resetChat(){
     $("ul").empty();
 }
 
+function setluismsg(text) {
+    var params = {
+            // These are optional request parameters. They are set to their default values.
+            "q" : text,
+            "timezoneOffset": "0",
+            "verbose": "false",
+            "spellCheck": "false",
+            "staging": "false",
+        };
+        $.ajax({
+            url: "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/f595017d-1f62-4b0e-bf07-c8af20b56239?" + $.param(params),
+            beforeSend: function(xhrObj){
+                // Request headers
+                xhrObj.setRequestHeader("Ocp-Apim-Subscription-Key","70d9d307b66c4954b90669ae75bcb950");
+            },
+            type: "GET",
+            // The request body may be empty for a GET request
+            data: "",
+        })
+        .done(function(data) {
+            // Display a popup containing the top intent
+            if(data.topScoringIntent.intent === "Summary") {
+                insertChat("me","There's your summary<br>" + $("meta[name='chatsummary']").attr("content"));
+            }
+            if(data.topScoringIntent.intent === "Shortsummary") {
+                insertChat("me","Here's a quick rundown<br>" + $("meta[name='chatshortsummary']").attr("content"));
+            }
+            if(data.topScoringIntent.intent === "Keypoints") {
+                insertChat("me","Watch out for these points when reading the whole thing<br>" + $("meta[name='chatkeywords']").attr("content"));
+
+            }
+            if(data.topScoringIntent.intent === "None") {
+                insertChat("me","Sorry I didn't understand, please ask again");
+            }
+        })
+        .fail(function() {
+            insertChat("me","Sorry I didn't understand, please ask again");
+        });
+}
+
 $(".mytext").on("keydown", function(e){
     if (e.which == 13){
         var text = $(this).val();
         if (text !== ""){
-            insertChat("me", text);              
+            insertChat("you", text); 
+            //if(text === "send") {
+            //	insertChat("you","metadata<br>" + $("meta[name='fulltext']").attr("content"));
+            //}
+            setluismsg(text);
             $(this).val('');
         }
     }
 });
 
-$('body > div > div > div:nth-child(2) > span').click(function(){
+$('#sendbutton').click(function(){
     $(".mytext").trigger({type: 'keydown', which: 13, keyCode: 13});
 })
 
 //-- Clear Chat
 resetChat();
-
+insertChat("me",$("meta[name='defaultmsg']").attr("content"));
 //-- Print Messages
-insertChat("me", "Hello Tom...", 0);  
-insertChat("you", "Hi, Pablo", 1500);
-insertChat("me", "What would you like to talk about today?", 3500);
-insertChat("you", "Tell me a joke",7000);
-insertChat("me", "Spaceman: Computer! Computer! Do we bring battery?!", 9500);
-insertChat("you", "LOL", 12000);

@@ -7,6 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
+    <meta name="chatkeywords" content="{{chatkeywords}}">
+    <meta name="chatsummary" content="{{chatsummary}}">
+    <meta name="chatshortsummary" content="{{chatshortsummary}}">
+    <meta name="defaultmsg" content="{{defaultmsg}}">
 
     <title>{{title}}</title>
 
@@ -28,7 +32,6 @@
   </head>
 
   <body id="page-top">
-
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
@@ -66,32 +69,32 @@
           </div>
           <div class="col-lg-8 mx-auto">
             <p class="text-faded mb-5">We have read and understood your document, highlighted the key points and summarised it for you. You can also ask questions to our bot</p>
-            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Get started!</a>
+            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#readtexthead">Get started!</a>
           </div>
         </div>
       </div>
     </header>
 
-    <section class="bg-primary" id="about">
+    <section class="bg-primary" id="readtexthead">
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
             <h2 class="section-heading text-white">Case Report</h2>
             <hr class="light my-4">
             <p class="text-faded mb-4">We have read the full document and noted the key points. This is the original text with the key points highlighted for you to keep in mind</p>
-            <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Read the text!</a>
+            <a class="btn btn-light btn-xl js-scroll-trigger" href="#readtext">Read the text!</a>
           </div>
         </div>
       </div>
     </section>
 
-    <section id="services">
+    <section id="readtext">
       <div class="container">
         <div class="row">
             <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading">{{filename}}</h2>
+            <h2 class="section-heading">Highlighted report of {{filename}}</h2>
             <hr class="my-4">
-            <p class="mb-5">{{realtext|safe}}</p>
+            <p class="mb-5" style="overflow-y: auto; height:500px;">{{realtext|safe}}</p>
           </div>
 
         </div>
@@ -102,7 +105,7 @@
       <div class="container text-center">
         <h2 class="mb-4">Document summary</h2>
         <p class="text-faded mb-4">We have summarised the document and preserved only the important things. Go ahead and give it a read</p>
-        <a class="btn btn-light btn-xl sr-button" href="http://startbootstrap.com/template-overviews/creative/">Read the summary!</a>
+        <a class="btn btn-light btn-xl js-scroll-trigger" href="#summary">Read the summary!</a>
       </div>
     </section>
       <section id="summary">
@@ -111,7 +114,7 @@
             <div class="col-lg-8 mx-auto text-center">
             <h2 class="section-heading">Summary of {{filename}}</h2>
             <hr class="my-4">
-            <p class="mb-5">{{summary|safe}}</p>
+            <p class="mb-5" style="overflow-y: auto; height:500px;">{{summary|safe}}</p>
           </div>
 
         </div>
@@ -124,16 +127,16 @@
             <h2 class="section-heading text-white">Questions and Answers</h2>
             <hr class="light my-4">
             <p class="text-faded mb-4">Why go through the entire document when our bot has done it already? Go ahead and ask her things about the document such as key points of the document or to just brief you about the report in short</p>
-            <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Ask me stuff!</a>
+            <a class="btn btn-light btn-xl js-scroll-trigger" href="#qabot">Ask me stuff!</a>
           </div>
         </div>
       </div>
     </section>
-    <section id="summary">
+    <section id="qabot">
       <div class="container">
         <div class="row">
             <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading">Question Answer Bot</h2>
+            <h2 class="section-heading">Ask me things</h2>
             <hr class="my-4">
         </div>
       </div>
@@ -152,7 +155,7 @@
 
                 </div>
                 <div id="sendmsg" style="padding:10px;">
-                    <span class="glyphicon glyphicon-share-alt"></span>
+                    <span id="sendbutton" class="fa fa-send-o fa-3x"></span>
                 </div>                
             </div>
             </div></p>
@@ -161,13 +164,20 @@
 </div>
 </div>
   </section>
+      <section class="bg-dark text-white">
+      <div class="container text-center">
+        <h2 class="mb-4">Contact info</h2>
+        <p class="text-faded mb-4">We're always looking for ways to improve. Have advice or complaints? Drop a message!</p>
+        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#contact">Talk to us</a>
+      </div>
+    </section>
     <section id="contact">
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
             <h2 class="section-heading">Let's Get In Touch!</h2>
             <hr class="my-4">
-            <p class="mb-5">Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+            <p class="mb-5">Have suggestions for improvement? Write to us!</p>
           </div>
         </div>
         <div class="row">
@@ -178,7 +188,7 @@
           <div class="col-lg-4 mr-auto text-center">
             <i class="fa fa-envelope-o fa-3x mb-3 sr-contact"></i>
             <p>
-              <a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a>
+              <a href="mailto:thioketone98@gmail.com">thioketone98@gmail.com</a>
             </p>
           </div>
         </div>

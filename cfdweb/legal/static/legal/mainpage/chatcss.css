@@ -11,10 +11,10 @@
     width:100%;text-align:right;color:silver;margin-bottom:-7px;margin-top:auto;
 }
 .text-l{
-    float:left;padding-right:10px;
+    float:left;padding-right:10px;background:whitesmoke;
 }        
 .text-r{
-    float:right;padding-left:10px;
+    float:right;padding-left:10px;background:whitesmoke;
 }
 .avatar{
     display:flex;
@@ -34,7 +34,6 @@
     float:left;background:white;
 }
 .frame{
-    background:#e0e0de;
     height:450px;
     overflow:hidden;
     padding:0;
