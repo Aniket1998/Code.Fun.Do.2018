@@ -1,0 +1,187 @@
+
+ 
+1 On 25 January 2007, I ordered that the defendant company be wound up and that the provisional liquidator of that company, Mr Barry Hamilton, be appointed as liquidator.Following his appointment as liquidator, in his capacity as liquidator and on behalf of the defendant company in liquidation, Mr Hamilton sought orders relating to some funds allegedly paid by the defendant to a third company, Casino Busters International.I made the orders that Mr Hamilton sought, and indicated that I would provide reasons for making both the winding up orders and the orders sought by Mr Hamilton at a later date.These are my reasons.Winding up orders 
+ 
+2 On 2 January 2007, the plaintiffs filed in Court an originating process seeking the winding up of Newpage in insolvency, pursuant to s 459A of the Corporations Act 2001 (Cth).As creditors, the plaintiffs may apply for an order under s 459A without the leave of the Court: s 459P(1).3 On 5 January 2007, I heard an ex parte application for the appointment of Mr Hamilton as a provisional liquidator of the defendant ( Elderslie Finance Corporation Limited v Newpage Pty Limited [2007] FCA 4).On that occasion I granted Mr Hamilton leave to seek to be appointed and to act as provisional liquidator of the defendant and appointed him as provisional liquidator.4 Both Mr Hamilton and Mr Jones, a process server, deposed that on 3 January 2007, Newpage was served at its registered address with, among other things the originating process seeking the winding up of Newpage and the appointment of Mr Hamilton as liquidator.Ms Silvana Jovcevska, a solicitor employed by the solicitors for the plaintiff, gave evidence that a notice of application for a winding up order had been placed in the newspaper, The Australian , on Thursday 11 January 2007, in accordance with rule 5.6 of the Federal Court (Corporations) Rules 2000 .The defendant has not entered an appearance in this proceeding, and did not appear at the hearing of the application for a winding up order.5 I am satisfied, for the reasons that I expressed on 5 January 2007, that from 15 December 2006, the defendant owed the plaintiffs $3 million and accrued interest.This debt has not been contested in this Court or in any of the correspondence with the representatives of the defendant or its principals.According to the affidavit of the second plaintiff, Mr George, who is also a director of Elderslie, which was sworn on 24 January 2007, the principal and interest on this loan have not been repaid.6 There is no evidence before the Court that the defendant is able to meet its liability to the plaintiffs.Indeed, the truth appears to be quite to the contrary and there has been no indication to the Court, either formally or informally, by the representatives of the defendant or its principal that the company is anything other than insolvent.Exhibited to Mr Hamilton's affidavit was a copy of a statement from Newpage's bank account with Westpac, which shows a closing balance, as at 29 December 2006, of only $1,949.62.Mr Hamilton's enquiries, although hampered by apparently inadequate book keeping on Newpage's behalf, revealed that although Newpage had lodged its 2005 income tax return, it had failed to lodge a 2006 return; that return is now overdue.Newpage's 2005 tax return showed a net taxable income of $2,469 and included a balance sheet which indicated owners equity of approximately $42,000.I am satisfied that Newpage is insolvent and that it ought to be wound up.7 Mr Hamilton sought leave to seek to be appointed and to be appointed as liquidator of the defendant (as required by s 532 of the Act) and filed his consent to act as liquidator in accordance with rule 5.5 of the Corporations Rules.I granted Mr Hamilton the leave he sought, for the reasons contained in my judgment in this proceeding on 5 January 2007, in particular at [15] --- [17] where I said:
+ 
+ 'The plaintiffs sought to have Mr Hamilton appointed as the provisional liquidator.Mr Hamilton's affidavit exhibited evidence as to his expertise as an accountant and insolvency practitioner.As a receiver of the company and therefore an officer of the company for the purposes of the Corporations Act 2001 (Cth), Mr Hamilton requires leave both to seek to be appointed and to be appointed as liquidator of the company under s 532(2)(c)(i).In addition, Mr Hamilton gave evidence that he had incurred expenses while acting as receiver in excess of the statutory threshold for a creditor provided in s 532(2)(b) and accordingly he is also required to seek leave under that provision.
+ A basic principle in the appointment of a liquidator is that the liquidator should be independent and should be seen to be independent.In this case Mr Hamilton gave evidence that he had no connection with either the defendant or Mr Yii prior to being appointed as a receiver and that his appointment as provisional liquidator would not give rise to any conflict of interest.He has only acted as a receiver since 29 December 2006, a mere seven days.Since his appointment Mr Hamilton has undertaken various investigations into the affairs of the defendant and presumably is relatively familiar with these affairs.Any other provisional liquidator would need to expend time and money to reach the same degree of familiarity with the defendant's affairs.
+ In the circumstances where the defendant's debt to Mr Hamilton relates solely to his expenses incurred as the receiver of the defendant, and where the only other creditor of the defendant of which I am presently aware supports his appointment, the benefits in terms of cost savings to the company justify exercising the Court's discretion to appoint Mr Hamilton as provisional liquidator.' 
+
+8 The arguments in favour of Mr Hamilton's appointment are, if anything now stronger, because of the additional investigative work he has performed since he was appointed provisional liquidator.Freezing order 
+ 
+9 Once appointed as liquidator of Newpage, Mr Hamilton applied in that capacity and on behalf of Newpage, for an order that certain money held in the bank account of Casino Busters International be frozen pending the determination of his claim to be entitled to set aside the transaction pursuant to which the money was acquired.The basis of this claim is either that the transaction pursuant to which the money was paid is an uncommercial transaction within the meaning of s 588FB of the Corporations Act or that the money is owed to Newpage as a debt due and payable.At the time of this hearing, applications seeking to vindicate such a claim had not been filed however Mr Hamilton and Newpage undertook to file within 7 days an application for relief in relation to the money paid to Casino Busters in aid of which any freezing order might be made, so as to satisfy O 25A r2 of the Federal Court Rules which provides that the Court may make a freezing order:
+ 
+ 'upon or without notice to a respondent, for the purpose of preventing the frustration or inhibition of the Court's process by seeking to meet a danger that a judgment or prospective judgment of the Court will be wholly or partly unsatisfied.' 
+
+10 As yet Mr Hamilton has not been able to find out the precise terms on which Casino Busters was paid the money.The background appears to be that money advanced by the first plaintiff was intended to be advanced by Newpage to a company called Penthouse Concepts.For some unknown reason this money has ended up in the bank accounts of Casino Busters.The reason why Newpage was advancing the money to Penthouse Concepts is itself unclear, although there is some suggestion that it was either a loan to Penthouse or a fee paid to Penthouse for securing a substantial loan to Newpage.11 Proof that the money was paid to Casino Busters was produced in the form of a letter from Westpac Banking Corporation to Mr Hamilton, attaching several pages of Newpage's bank statements.The bank statements show that on 1 June 2006 $1 million was deposited into Newpage's bank account from Elderslie Finance and on 22 September 2006 a further $1.6 million was deposited.Westpac's letter identified two withdrawals from Newpage's account, the first on 1 June 2006 for $610,000 and the second on 22 September 2006 for $1,527,000.The letter stated that these amounts were paid into the account of Casino Busters International.It seems clear that almost immediately after the money from Elderslie was received by Newpage, a substantial portion of it was transferred to Casino Busters.12 The sole director, sole shareholder and company secretary of both Penthouse Concepts and Casino Busters is Mr Roumald Parson (sometimes referred to as Mr Roumald Parsons).Mr Hamilton gave evidence that on 9 January 2007, in his capacity as receiver and manager and provisional liquidator of Newpage, he contacted Mr Parson by telephone.Mr Parson's response was belligerent and replete with expletives.His attitude was unco-operative.Mr Hamilton explained that it appeared from the books of Newpage that Casino Busters owed Newpage over $1 million.Mr Parson replied that he dealt with sums of money in the millions "every day" and couldn't remember "that sort of detail".13 Mr Hamilton had further telephone conversations with Mr Parson on 12 and 23 January 2007.Although Mr Parson was more polite in these later conversations he was no more co-operative.On 12 January he indicated that he had not received any funds from Newpage and was not aware of any funds being paid to Casino Busters.On 23 January he said he had spoken to Mr Yii, the former director of Newpage, and was trying to arrange a personal loan for Mr Yii.He advised that over 10 years, Mr Yii or his companies had made in excess of $100 million worth of payments to Mr Parson and that he could not recall the specific payments that Mr Hamilton had mentioned.Mr Parson indicated that he was working to secure a loan to Mr Yii for approximately $5 million which would be used to provide funds to Newpage to enable it to pay its creditors.Mr Parson reiterated that he did not know whether the money in question had been transferred to Casino Busters' bank account.During the period of over two weeks between the first and last of these conversations Mr Parson apparently made no attempt to verify Mr Hamilton's claim or to provide any useful information or explanation why the money had been paid to Casino Busters.14 Counsel for Mr Hamilton and Newpage in liquidation, Mr Johnson, submitted that Mr Parson's attitude supported the applicants' claim that the money paid into Casino Busters' bank account should be subject to an asset preservation order while the issues surrounding its payment to Casino Busters were sorted out.The power of the Federal Court to grant such relief was recognised by the High Court in Jackson v Sterling Industries Limited [1987] HCA 23 ; (1987) 162 CLR 612 at 623 per Deane J (with whom Mason CJ, Wilson and Dawson JJ agreed).It is important to bear in mind, however, that the purpose of such an order is to protect the processes of the Court from abuse not to provide security for the applicant for such an order; see generally Jackson v Sterling Industries Limited.
+ 
+15 Applications for such relief are often, as in this case, made ex parte.The Court does not have the benefit of hearing argument as to why such an order should not be made from the person against whom the order is sought.For this reason the Court needs to be circumspect in making such orders.In this case, however, I am satisfied that on the evidence before me the applicants have made a prima facie case that the payment by Newpage to Casino Busters is a voidable transaction under s 588FE of the Corporations Act .Given Mr Parson's refusal to assist the provisional liquidator in the exercise of his duties and his denial of any knowledge of the transaction, there is reason to suspect that any order of the Court made to recover the money paid to Casino Busters and apparently still held in its bank account may be frustrated by prior dispersal of the assets.In the circumstances it is appropriate that I make the orders sought by the applicants, in the form of the penal notice that is annexed to these reasons, freezing the relevant bank account of Casino Busters up to but not exceeding the amount of $2,137,000 and requiring Mr Parson to give disclosure of the circumstances under which Casino Busters received the two payments mentioned above at [11].I certify that the preceding fifteen (15) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Stone.Associate:
+Dated: 6 February 2007
+ On the application for a winding up order: 
+ 
+ 
+ Counsel for the Plaintiffs: J Johnson 
+ 
+ Solicitor for the Plaintiffs: Kemp Strang 
+ 
+ Counsel for the Defendant: There was no appearance for the Defendant.On the application for a freezing order: 
+ 
+ 
+ Counsel for the Applicants: J Johnson 
+ 
+ Solicitor for the Applicants: Kemp Strang 
+ 
+ Counsel for the Respondents: There was no appearance for the Respondents.Date of Hearing: 25 January 2007 
+ 
+ Date of Judgment: 6 February 2007 
+
+ 
+ PENAL NOTICE 
+ 
+
+ TO: Casino Busters International Pty Ltd
+ ACN 108 453 809
+
+ AND TO: Roumald Charles Parsons (aka Ron Parsons)
+
+ 
+ IF YOU: 
+
+ 
+ (A) REFUSE OR NEGLECT TO DO ANY ACT WITHIN THE TIME SPECIFIED IN THIS ORDER FOR THE DOING OF THE ACT; OR 
+
+
+ 
+ (B) DISOBEY THE ORDER BY DOING AN ACT WHICH THE ORDER REQUIRES YOU TO ABSTAIN FROM DOING, 
+
+
+ 
+ YOU WILL BE LIABLE TO IMPRISONMENT, SEQUESTRATION OF PROPERTY OR OTHER PUNISHMENT.
+ 
+ ANY OTHER PERSON WHO KNOWS OF THIS ORDER AND DOES ANYTHING WHICH HELPS OR PERMITS YOU TO BREACH THE TERMS OF THIS ORDER MAY BE SIMILARLY PUNISHED.
+
+
+ TO: Casino Busters International Pty Ltd
+ ACN 108 453 809
+
+ AND TO: Roumald Charles Parsons (aka Ron Parsons)
+
+
+This is a ' freezing order ' made against Casino Busters International Pty Ltd and a ' disclosure order' made against both of you on 25 January 2007 by Justice Stone at a hearing without notice to you after the Court was given the undertakings set out in Schedule A to this order and after the Court read the affidavits listed in Schedule B to this order.THE COURT ORDERS: 
+ INTRODUCTION 
+
+1.(a) The application for this order is made returnable immediately.(b) The time for service of the application, supporting affidavits and originating process is abridged and service is to be effected by 4.00pm Monday 29 January 2007.
+ 
+
+2.Subject to the next paragraph, this order has effect up to and including 9 February 2007 (' the Return Date ').On the Return Date at 10.15 am there will be a further hearing in respect of this order before the Corporations Judge, Sydney Registry of the Federal Court of Australia.3.Anyone served with or notified of this order, including you, may apply to the Court at any time to vary or discharge this order or so much of it as affects the person served or notified.4.In this order:
+
+ 
+(a) 'Account' means BSB 033 390 Account number 210 011 in the name of Casino Busters International Pty Ltd held at Westpac Banking Corporation, Shop 39, Waverley Gardens Shopping Centre, Melgrave Victoria 3170.(b) 'applicant', if there is more than one applicant, includes all the applicants; 
+ 
+
+ 
+(c) 'you', where there is more than one of you, includes all of you and includes you if you are a corporation;
+ 
+
+ 
+(d) 'third party' means a person other than you and the applicant;
+ 
+
+5.(a) If you are ordered to do something, you must do it by yourself or through directors, officers, partners, employees, agents or others acting on your behalf or on your instructions.(b) If you are ordered not to do something, you must not do it yourself or through directors, officers, partners, employees, agents or others acting on your behalf or on your instructions or with your encouragement or in any other way.FREEZING OF ACCOUNT 
+ 
+
+ 
+6.(a) You must not remove from, transfer out of or in any way dispose of, deal with or diminish any amounts standing to the credit of the Account up to the amount of AUD$2,137,000.00 (' the Relevant Amount ').(b) If the amount standing to the credit of the Account exceeds the Relevant Amount, you may deal with or remove that surplus in the Account, so long as the total amount standing to the credit of the Account still exceeds the Relevant Amount.PROVISION OF INFORMATION 
+
+ 
+7.Subject to paragraph 8, you must:
+
+ 
+(a) file and serve on the applicants within 14 days an affidavit disclosing the facts and circumstances under which the sums of $610,000.00 and $1,527,000.00 were received by Casino Busters International Pty Ltd from Newpage Pty Ltd on 1 June 2006 and 22 September 2006 respectively and as to any disposition or use by Casino Busters International Pty Ltd of the said amounts since those dates and as to the present whereabouts of the proceeds of those amounts.8.(a) This paragraph (8) applies if you are not a corporation and you wish to object that compliance with paragraph 7 may tend to incriminate you or make you liable to a civil penalty;
+ 
+
+ 
+(b) This paragraph (8) also applies if you are a corporation and all of the persons who are able to comply with paragraph 7 on your behalf and with whom you have been able to communicate, wish to object that compliance may tend to incriminate them respectively or make them respectively liable to a civil penalty; 
+ 
+
+ 
+(c) You must, at or before the further hearing on the return date (or within such further time as the Court may allow), notify the applicants in writing that you or all the persons referred to in (b) wish to take such objection and identify the extent of the objection;
+ 
+
+ 
+(d) If you give such notice, you need comply with paragraph 8 only to the extent, if any, that it is possible to do so without disclosure of the material in respect of which the objection is taken; and 
+ 
+
+ 
+(e) If you give such notice, the Court may give directions as to the filing and service of affidavits setting out such matters as you or the persons referred to in (b) wish to place before the Court in support of the objection.EXCEPTIONS TO THIS ORDER 
+
+ 
+9.This order does not prohibit you from:
+ 
+
+ 
+(a) Otherwise dealing with or disposing of any of your assets in the ordinary and proper course of your business, including paying business expenses bona fide and properly incurred; and 
+ 
+
+ 
+(b) in relation to matters not falling within (a), dealing with or disposing of any of your assets in discharging obligations bona fide and properly incurred under a contract entered into before this order was made.
+ 
+ 
+ 
+
+10.You and the applicants may agree in writing that the exceptions in the preceding paragraph are to be varied.In that case the applicants or you must as soon as practicable file with the Court and serve on the other a minute of a proposed consent order recording the variation signed by or on behalf of the applicants and you, and the Court may order that the exceptions are varied accordingly.11.(a) This order will cease to have effect if you:
+ 
+
+ 
+(i) pay the sum of $2,137,000.00 into Court; or
+ 
+
+ 
+(ii) pay that sum into a joint bank account in the name of your solicitor and the solicitor for the applicants as agreed in writing between them; or
+ 
+
+ 
+(iii) provide security in that sum by a method agreed in writing with the applicants to be held subject to the order of the Court.(b) Any such payment and any such security will not provide the applicants with any priority over your other creditors in the event of your insolvency.(c) If this order ceases to have effect pursuant (a), you must as soon as practicable file with the Court and serve on the applicants notice of that fact.COSTS 
+
+ 
+12.The costs of this application are reserved to the judge hearing the application on the Return Date.PERSONS OTHER THAN THE APPLICANTS AND RESPONDENTS 
+
+ 
+13.Set off by banks: This order does not prevent any bank from exercising any right of set off it has in respect of any facility which it gave you before it was notified of this order.14 .Bank withdrawals by the respondent: No bank need inquire as to the application or proposed application of any money withdrawn by you if the withdrawal appears to be permitted by this order.SCHEDULE A 
+ 
+ UNDERTAKINGS GIVEN TO THE COURT BY THE APPLICANTS 
+ 
+
+ 
+1.The applicants and the First Plaintiff undertake to submit to such order (if any) as the Court may consider to be just for the payment of compensation (to be assessed by the Court or as it may direct) to any person (whether or not a party) affected by the operation of the order.2.As soon as practicable, the applicants will file and serve upon the respondents copies of:
+
+ 
+(a) this order;
+ 
+
+ 
+(b) the application for this order for hearing on the return date;
+
+ 
+(c) the following material in so far as it was relied on by the applicants at the hearing when the order was made:
+
+ 
+(i) affidavits;
+ 
+(ii) exhibits capable of being copied;
+ 
+(iii) any written submission; and
+ 
+(iv) any other document that was provided to the Court.(d) a transcript, or, if none is available, a note, of any exclusively oral allegation of fact that was made and of any exclusively oral submission that was put, to the Court;
+ 
+
+ 
+(e) the originating process.. 
+ 
+ 
+ 
+3.As soon as practicable, the applicants will cause anyone notified of this order to be given a copy of it.4.The applicants will pay the reasonable costs of anyone other than the respondents which have been incurred as a result of this order, including the costs of finding out whether that person holds any of the respondent's assets.5.If this order ceases to have effect the applicants will promptly take all reasonable steps to inform in writing anyone to who has been notified of this order, or who he has reasonable grounds for supposing may act upon this order, that it has ceased to have effect.6.The applicants will not, without leave of the Court, use any information obtained as a result of this order for the purpose of any civil or criminal proceedings, either in or outside Australia, other than this proceeding.7.The applicants will not, without leave of the Court, seek to enforce this order in any country outside Australia or seek in any country outside Australia an order of a similar nature or an order conferring a charge or other security against the respondents or the respondents' assets.8.The applicants will on or before 2 February 2007 file either an Interlocutory Process in these proceedings or an Originating Process seeking final relief for the repayment by Casino Busters International Pty Ltd and/or Roumald Parsons of the debt constituted by the payments totalling $2,137,000.00 made by Newpage Pty Ltd to Casino Busters International Pty Ltd, namely $610,000.00 on 1 June 2006 and $1,527,000.00 on 22 September 2006, or alternatively as an uncommercial transaction under Section 588FB of the Corporations Act, 2001 .AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/61.html 
+ 
+ 

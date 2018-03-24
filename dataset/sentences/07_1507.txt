@@ -1,0 +1,77 @@
+
+ 
+1 Phosphate Resources Limited (Phosphate) mines and exports phosphate from Christmas Island on mining leases held from the Commonwealth of Australia.The leases are said to cover phosphate reserves that may allow mining to continue for a further five years.On 27 April 2007 the Minister for Environment and Water Resources (the Minister) made a decision under s 133 of the Environment Protection and Biodiversity Conservation Act 1999 (Cth) (the EPBC Act) refusing approval for the proposed expansion by Phosphate of its mining activities.The expanded activities involved surface mining, transport and off-site processing of phosphate at nine locations on the Island.2 It appears from the Minister's reasons for his decision that Phosphate's proposal was referred to the Department of the Environment and Water Resources on 1 November 2001 for a decision on whether it required assessment and approval under the EPBC Act.On 14 November 2001 a delegate of the Minister, acting under s 75, decided that the proposed action was a controlled action in relation to certain controlling provisions: 
+ .Sections 16 and 17B (Wetlands of international importance)
+ .Sections 18 and 18A (Listed threatened species and communities)
+ .Sections 20 and 20A (Listed migratory species)
+ .Sections 23 and 24A (Marine environment)
+ 
+ .Sections 26 and 27A (Protection of the environment from actions involving Commonwealth land) 
+
+The next event was a decision by a delegate of the Minister on 21 December 2001 that the action should be assessed by environmental impact statement.A number of steps followed leading to the Minister's decision, on 27 April 2007, not to approve the taking of the action under s 133 of the EPBC Act.Phosphate was advised of the decision on 30 April 2007.3 On 9 May 2007 the managing director of Phosphate wrote to the Minister seeking reasons for his decision.The Minister provided a Statement of Reasons for Decision under s 13 of the Administrative Decisions (Judicial Review) Act 1977 (Cth) (the ADJR Act) by letter to the managing director dated 14 June 2007, which appears to have been received on 21 June 2007.4 On 13 July 2007 Phosphate instituted proceedings against the Minister seeking an order for review of his decision under the ADJR Act.The application attached a copy of the Minister's Reasons for Decision.Filed with the application was a nine page statement of claim together with three annexures.5 At a directions hearing on 9 August 2007 counsel for Phosphate sought directions that the application proceed on pleadings, rather than by affidavit and that the Minister give discovery.An order was made at the time that, by 31 August 2007, the Minister file and serve an indexed and paginated bundle of documents, being copies of the documents listed at [28] of his Statement of Reasons.Six volumes of documents were filed pursuant to that order.The parties were given liberty to file and serve short written submissions by 13 September 2007 on the further interlocutory directions they proposed.The matter was listed today for a ruling on those submissions and for further directions.The grounds of the application for review 
+ 
+6 Before turning to the interlocutory orders sought by the parties it is convenient to set out the grounds of review in the application.They are as follows: 
+ 
+ The decision involved errors of law 
+ 
+ 3.1 In making the decision the respondent erred in law in that he: 
+ 
+ 
+ 
+ 
+ 3.1.1 Failed correctly or at all to apply the statutory test of relevant impacts of the proposed action; 
+ 
+ 3.1.2 Failed to determine the extent and degree of significance of the impacts the action was likely to have on each of [sic] listed threatened species, listed migratory species, and the environment on Commonwealth land; 
+ 
+ 3.1.3 Failed to determine the extent to which the proposed action increased the risk of extinction (or reduced the prospects of survival) of a listed threatened species; 
+ 
+ 3.1.4 Made findings of fact that were not supported by evidence; 
+ 
+ 3.1.5 Failed to apply correctly the test of "precautionary principle" in that the respondent failed to make any finding on any matter that there was a relevant lack of full scientific certainty that, but for the application of the principle, would be used as a reason for postponing a measure to prevent degradation of the environment where there are threats of serious or irreversible environmental damage.An improper exercise of the power 
+ 
+ 
+ 
+ 
+ 
+ 3.2 In making the decision the respondent failed to take relevant considerations into account in the exercise of the power.3.3 The respondent took irrelevant considerations into account in the exercise of the power.3.4 The exercise of the power by the respondent was so unreasonable that no reasonable person could have so exercised the power or was otherwise an improper exercise of the power.Breach of the rules of natural justice 
+ 
+ 4 Breaches of the rules of natural justice occurred in connection with the making of the decision.
+ 
+
+ The statement of claim 
+ 
+7 The statement of claim filed by Phosphate in these proceedings sets out a number of factual matters about the company, the status of the Minister, the referral of 1 November 2001 and the steps taken thereafter leading up to the decision of 27 April 2007.Many of these steps seem to replicate what is set out in the Minister's reasons for decision.8 There are a number of paragraphs stating what are said to be the Minister's duties under the Act, followed by allegations that he erred in law ([15]), failed to take relevant considerations into account ([16]) and took into account irrelevant considerations ([17]).Wednesbury unreasonableness and breach of the rules of natural justice were raised ([18] and [19]).9 Under the error of law ground it is said that the Minister made findings of fact not supported by evidence.These are set out in Annexure 1.It should be noted that there is no ground under s 5 of the ADJR Act which explicitly authorises judicial review on the basis of findings of fact "not supported by the evidence".That ground appears to be wider than the "no evidence" ground in s 5(1)(h).In this case, however, the relevant particular appears to be relied upon to support a finding that the Minister erred in law.In Australian Broadcasting Tribunal v Bond [1990] HCA 33 ; (1990) 170 CLR 321, Mason CJ discussed the relationship between error of law contemplated by s 5(1)(f) of the ADJR Act and the "no evidence" ground referred to in s 5(1)(h) as elucidated in s 5(3).He said (at 358):
+ 
+ The better view, one which seeks to harmonize the two grounds of review, is to treat "error of law" in s 5(1)(f) as embracing the "no evidence" ground as it was accepted and applied in Australia before the enactment of the AD(JR) Act and to treat the "no evidence" ground in s 5(1)(h), as elucidated in s 5(3), as expanding that ground of review in the applications for which pars (a) and (b) of s 5(3) make provision.Within the area of operation of par (a) it is enough to show an absence of evidence or material from which the decision-maker could reasonably be satisfied that the particular matter was established, that being a lesser burden than that of showing an absence of evidence (or material) to support the decision.
+
+The lengthy list of findings set out in Annexure 1 to the statement of claim gives rise to concern that this judicial review process may slide into merits review if not confined to its proper area.It is, however, too early in the proceedings to make any definitive observation in that regard.10 It is, as counsel for the applicant suggests, open to the Court to give directions that the matter proceed on pleadings.I am not however convinced that this is a necessary course.The judicial review challenge is based upon the Minister's findings.Much of the statement of claim would not appear to be contentious as to background facts.It asserts legal duties and errors but a defence would not sharpen the issues in that respect.The question whether there was or was not evidence to support the findings referred to in Annexure 1 is not a question the resolution of which will be assisted by the filing of a defence.I am prepared to let the applicant's statement of claim stand as a statement of its case.Otherwise, in my opinion, the matter should proceed by way of affidavit and written submissions which may include the provision by the respondent of schedules identifying, in answer to Annexure 1, the evidence said to be supportive of the findings of fact there mentioned and in respect of Annexure 2, the material, if any, relied upon to show that the relevant matters there listed were, if mandatory relevant considerations, taken into account.11 On the matter of discovery, having regard to the materials which have been disclosed, namely those set out in the Minister's reasons for decision, I see no utility in making any order for general discovery.Phosphate, however, submits that the Minister ought to discover: 
+ 
+ 1.Documentary material relevant to show what he did and read as his ""consideration" in a real sense and undertaking an active intellectual process" of the material in the documents listed in [28] of the reasons.2.Documentary material evidencing the time spent reading the documents.3.If he relied upon information or summaries provided to him by his department, the documents containing the information or summaries provided.
+
+12 The evidence and other material upon which the Minister said that he relied comprised briefs from the Department of the Environment and Water Resources with various attachments listed.These documents occupy six lever arch volumes.Phosphate says that it does not accept that the documents so filed are all of the documents listed at [28] of the reasons.As to that, counsel for the respondent submits that the only documents excluded from those filed pursuant to the order made on 9 August 2007 are the six letters between the Minister and other Commonwealth Ministers marked "Cabinet in Confidence".In relation to those letters it is said that they attract public interest immunity as Cabinet documents.On the face of it communications between ministers do not become Cabinet documents simply because they are communications between ministers or marked "Cabinet in Confidence".The order that was made on 9 August 2007 did not allow for the omission of any documents listed at [28].If there is to be a claim for public interest immunity in respect of these documents, then that should be supported by affidavit.It appears, however, from the submissions made on behalf of the Minister that the position in relation to those documents is presently under consideration.13 Given the volume of documents attached to the departmental briefs put before the minister, there may be a reasonable basis for the proposition that the Minister did not read every portion of each of them.There may be a question whether they were adequately dealt with in the departmental briefs.That however is not a basis for further discovery.Assuming that the list of documents contained in [28] is comprehensive, then the question whether the Minister has had regard to particular relevant facts can be assessed by reference to his written reasons and the material that was available to him.The proposition that a decision-maker is required to consider relevant factors "in a real sense" and to undertake "an active intellectual process" does not justify a forensic factual inquiry into how long the Minister took or what he thought while he was thinking about his decision.If the Minister's reasons are relied upon, as appears to be the case, by the applicant then his decision will stand or fall according to those reasons in the light of the materials before the Minister.If the discovery sought by Phosphate in this case were justified it could also justify interrogating the Minister about the time he spent on the file and his thought processes.In my opinion it has not been demonstrated that that course of action is either necessary or desirable having regard to the nature of judicial review.If it can be shown that there was some document referred to in [28] of the Minister's reasons which has not been disclosed, then particular discovery of that document may be sought.14 In my opinion therefore the proceedings should continue on affidavit (to the extent that that may be necessary) and the statement of claim may stand as a statement of Phosphate's case.The contentions of the parties on each of the grounds raised by Phosphate may adequately be identified by their written submissions perhaps with the assistance of schedules of the kind that I have mentioned already.I certify that the preceding fourteen (14) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice French J.Associate:
+Dated: 27 September 2007
+
+
+ Counsel for the Applicant: Mr G Hancy and Ms F Davis 
+ 
+ Solicitor for the Applicant: Mr Kevin Edwards 
+ 
+ Counsel for the Respondent: Mr P Macliver and Ms S Oliver 
+ 
+ Solicitor for the Respondent: Australian Government Solicitor 
+ 
+ Date of Hearing:
+Date of last written submissions: 9 August 2007
+13 September 2007 
+ 
+ Date of Judgment: 27 September 2007 
+
+
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1507.html 
+ 
+ 

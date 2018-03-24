@@ -1,0 +1,15 @@
+software licence agreement
+clause permitting copying the system in object code only for emergency restart purposes
+disaster recovery site established by disk mirroring
+whether authorised by emergency restart clause or a breach of the agreement
+principles of construction
+no breach
+whether licensee permitted to make disk-mirroring backup copy of software under s 47c or s 47f of the copyright act 1968 (cth)
+loss of opportunity to negotiate a price
+whether applicant would have paid respondent for permission to establish disaster recovery site
+assessment of damages
+no evidence of actual profit compared with total or discounted price
+adequacy of evidence
+contract
+copyright
+damages

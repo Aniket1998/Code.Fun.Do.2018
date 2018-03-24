@@ -1,0 +1,147 @@
+Alfred v Lanscar [2007] FCA 833 (30 May 2007) 
+
+ [ Home ] [ Databases ] [ WorldLII ] [ Search ] [ Feedback ] Federal Court of Australia You are here: 2nbsp; AustLII 2gt;2gt; Databases 2gt;2gt; Federal Court of Australia 2gt;2gt; 2007 2gt;2gt; [2007] FCA 833 
+
+ [ Database Search ] [ Name Search ] [ Recent Decisions ] [ Noteup ] [ Download ] [ Help ] Alfred v Lanscar [2007] FCA 833 (30 May 2007) 
+Last Updated: 8 June 2007 
+ FEDERAL COURT OF AUSTRALIA 
+
+ Alfred v Lanscar [2007] FCA 833 
+ 
+
+
+ EVIDENCE --- admissibility --- adoption of prior written statement by witness in his affidavit --- whether evidence in proper form 
+
+ 
+
+ Australian Securities and Investments Commission Act (2001) (Cth) s 19
+ Bankruptcy Act 1966 (Cth)
+ Building and Construction Industry Improvement Act 2005 (Cth) s 57 
+ Evidence Act 1995 (Cth) s 37 , s 59 
+ Federal Court Rules O 14
+ Supreme Court Rules 1970 (NSW)
+ Workplace Relations Act 1996 (Cth) s 298S 
+
+ Platcher v Joseph [2004] FCAFC 68 
+ R v Gibson [1999] NSWCCA 370 ; (1999) 110 A Crim R 180 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ GREGORY CHARLES ALFRED v LES LANSCAR AND CONSTRUCTION, FORESTRY, MINING AND ENERGY UNION 
+ ACD 15 OF 2006 
+
+ BUCHANAN J 
+ 30 MAY 2007 
+ CANBERRA 
+ IN THE FEDERAL COURT OF AUSTRALIA 
+ AUSTRALIAN CAPITAL TERRITORY DISTRICT REGISTRY ACD 15 OF 2006 
+
+ BETWEEN: GREGORY CHARLES ALFRED 
+ Applicant AND: LES LANSCAR 
+ First Respondent 
+
+ CONSTRUCTION, FORESTRY, MINING AND ENERGY UNION 
+ Second Respondent 
+
+ JUDGE: BUCHANAN J DATE: 30 MAY 2007 PLACE: CANBERRA 
+
+ INTERLOCUTORY JUDGMENT 
+ 
+ BUCHANAN J: 
+ 
+1 These proceedings concern an application for civil penalties by an Australian Building and Construction Inspector appointed under s 57 of the Building and Construction Industry Improvement Act 2005 (Cth).The applicant alleges that the first respondent, a union representative and, through him, the second respondent, an association of employees registered under the Workplace Relations Act 1996 (Cth) ('the WR Act') breached the provisions of s 298S(2)(a) and (b) of the WR Act.The allegations relate to events which occurred in early 2005 in Canberra when, it was alleged, the first respondent attempted in various ways to prevail upon Mr Paul Papas, a director of Papas Painting Contractors Pty Limited ('Papas Painting') (a company which had been awarded a contract to carry out painting work on newly constructed residential apartments) to ensure that persons engaged by Papas Painting were, or became, members of the second respondent.2 An investigation into the matters which became the subject of the proceedings was carried out by the Building Industry Taskforce of the Commonwealth Department of Employment and Industrial Relations.As part of that investigation statements were taken, within a matter of weeks after the events in question, from a number of people.The statements were signed and witnessed.When affidavits were later prepared for the purpose of the proceedings before the Court, a number of such statements made in this way were adopted as true and correct by witnesses in the applicant's case and were annexed to affidavits made by them.For example, Mr Papas said in his affidavit:
+ 
+ 
+ '2.Annexed hereto and marked " PP-1 " is a true copy of a witness statement I signed on 11 February 2005, in relation to an investigation conducted by the then Building Industry Taskforce.
+ 
+ 
+ 
+ 
+ 
+ 3.My statement was and remains, to the best of my knowledge and belief, true and correct, save for the following:-' 
+ 
+ 
+ 
+
+(the few amendments made are of no present relevance).3 Eight statements, adopted in this fashion, were relied upon at the hearing as part of the evidence in chief in the applicant's case.Objection was taken that the statements were not made admissible by their adoption in the affidavits.The question was argued in the context of a series of objections and rulings on admissibility of evidence.What follows is the ruling which I made in transcript about the issue on 16 April 2007.The ruling was based upon such material as the parties drew to the Court's attention at the time and was not informed by an opportunity for independent research or more leisurely consideration.The applicant has asked that the ruling be incorporated in a judgment.I was informed by counsel for the applicant, in support of that request, that a similar issue will arise in another matter before a different judge of the Court in the near future.The respondents made no submission about the request.I have acceded to the request for the publication of this judgment but make it clear that it must be read in accordance with the limitations I have just expressed, apart from any other question of its correctness.4 The ruling was as follows.'There are attached to the affidavits filed in the proceedings a number of documents identified by the witnesses as witness statements made in connection with investigations conducted by the Building Industry Task Force.In each relevant case the witness annexes a copy of the witness statement to an affidavit sworn and then deposes that:
+ 
+ 'The statement was and remains, to the best of my knowledge and belief, true and correct, -' 
+ 
+
+and in some cases amendments or additions are then made.This morning a general objection was taken to the admissibility of the statements in that form.Ms Ronalds SC, who appears for the respondents with Mr Whybrow, drew my attention to Order 14 of the Federal Court Rules and submitted that the material was not in proper form principally, as I understood it, because the evidence was not first-person evidence in an affidavit as required under the Rules.The material is not advanced as proof of the contents of documents in their own right but as direct evidence of each of the witnesses in question.Dr Renwick drew my attention to s 37 of the Evidence Act 1995 (Cth) (Evidence Act) which deals with leading questions, and in particular s 37(3) which contemplates the exercise by a court of power in the rules of court to allow a written statement or report to be tendered or treated as evidence-in-chief of its maker.In the Seventh Edition of Odgers' Uniform Evidence Law at page 107, that provision is referred to with a comment that the Supreme Court Rules (1970) NSW contain such a power, and there is also a reference to Platcher v Joseph [2004] FCAFC 68 ( Platcher ) and some observations of Weinberg J to the effect that the adoption by witnesses in the Federal Court of previous statements as true and correct is routine.I shall return shortly to mention that case again.Dr Renwick did not rely upon any specific part of the Federal Court Rules in that connection and I have not been able myself to identify a rule which would fall directly within the contemplation of s 37(3) of the Evidence Act .The material which is sought to be relied upon is evidence of a previous representation and, on one view at least, is for that reason hearsay and, subject to relevant exceptions, prima facie inadmissible by reason of the hearsay rule incorporated in s 59 of the Evidence Act .The dictionary of the Evidence Act defines the term 'previous representation' in a way which would extend to a previous representation made by the witness.In Odgers at page 198 in connection with this issue the following is said:
+ 
+ 'It makes no difference whether the witness testifies to a previous representation made by some other person or to the witness's own previous representation.' 
+
+
+
+There is then a reference to R v Gibson [1999] NSWCCA 370 ; (1999) 110 A Crim R 180.I have looked at that case and although it appears to be authority for the proposition that, in the event of adoption by the witness the previous statement ceases to be hearsay, if hearsay it was originally, the case is not of direct assistance in the present matter because the statement there in question was adopted in evidence during the course of cross-examination designed to impeach the credit of the witness.If the statements which are here adopted by the witnesses are hearsay within the meaning of s 59 then it would appear that they would fall within the exception in s 63 and hence not be inadmissible for that reason.Although Ms Ronalds relied upon what I understood to be suggested as the underlying intent of Order 14, and the requirement to give direct evidence, no direct restriction or prohibition upon giving the evidence in the form presently under consideration was identified.Platcher is a case which arose under the Bankruptcy Act 1966 (Cth).One of the issues which arose, albeit somewhat tangentially, concerned the consequences of the rejection by the primary judge in that case, of particular paragraphs in an affidavit.Paragraphs not objected to in that affidavit recorded that the deponent had recorded an interview with officers of the Australian Securities and Investments Commission and stated, as part of the affidavit evidence, that the matters stated in that interview were true and correct.All of the judges who constituted the Court in Platcher observed that the contents of the interview were admissible.Campbell and Evatt JJ at [101] referred to it as, 'potentially admissible' and, at [108], that the relevant paragraph in the affidavit as 'verifies the correctness of the transcript'.At [109] their Honours appeared to accept that the transcript would be admissible when they said, 'This statement [by the primary judge] reasonably conveyed that paragraph 6, which affirmed the correctness of Mr Pettenon's statements in his interview, remained in the affidavit and that Mr Pettenon could be cross-examined on it'.
+
+Weinberg J, who dissented from the result, but not on grounds which affect the present analysis, stated more positively that the transcript of the interview was admissible.He said at [127]:
+ 
+ 
+ 'The primary judge correctly ruled that paragraphs 4 and 5 of Mr Pettenon's affidavit should be excluded.Nevertheless, paragraph 6 of that affidavit still affirmed the truth and accuracy of the evidence given by Mr Pettenon in the course of his s 19 examination.There was no reason to prevent that paragraph from being read.' 
+
+
+He also said at [128]:
+ 
+ 'There were, in my view, a number of legitimate means by which the transcript of Mr Pettenon's examination could have been admitted into evidence.Either party could have called Mr Pettenon to prove that transcript, and to adopt what he had previously said as true and correct.' 
+ 
+
+Similarly, at [162] and [163] (the latter being the paragraph referred to by Odgers) Weinberg J said:
+ 
+ 
+ 
+ 
+ '162.I can see no reason why Mr Platcher could not have called Mr Pettenon to give evidence, shown him the transcript of his s 19 examination, and asked him simply whether the contents were true and correct.In a sense, that is precisely what paragraph 6 of Mr Pettenon's affidavit purported to do.The only difference is that paragraph 6 did not exhibit the transcript of that examination.' 
+ 
+ 
+ 
+ 
+ 
+ 163.It is obviously vital to Mr Platcher's case that Mr Pettenon's evidence be admitted.I consider, with respect, that the primary judge did not make it sufficiently clear to Mr Platcher that there were several ways in which he could properly have had that evidence admitted.The approach of calling a witness to adopt a previous statement as true and correct is routinely followed in this Court.Indeed, that approach is expressly contemplated by section 37(3) of the Evidence Act 1995 (Cth) which allows a written statement or report to be tendered or treated as evidence in chief of its maker, pursuant to rules of court.The primary judge should, in my view, have made it clear to Mr Platcher that this course may have been open to him.' 
+ 
+
+
+Ms Ronalds has urged upon me that the special provisions, which include s 19 , in the Australian Securities and Investments Commission Act (2001) (Cth) ('the ASIC Act') require that the observations in Platcher be read as not extending to the circumstances in the present case but as turning upon the requirements of s 19 and the succeeding sections in the ASIC Act.I do not read the observations in Platcher as confined in that way.They seem to me, particularly the observations of Weinberg J, to be general in their terms and to refer to matters of practice and admissibility in this Court.In my view, comity alone requires that I act in conformity with that approach.A separate submission was made to the effect that the Court should now require the evidence to be given orally.However, directions were earlier given for the conduct of the proceedings by affidavit, and I see no reason to depart from those directions in light of the issue which has arisen.In the circumstances, I will admit the statements in question in the sense that I will not exclude them from the evidence upon the basis which has so far been argued.However, it follows that if the statements are to be treated as part of the evidence in chief, as I think they should be, then they will be subject to objections in the ordinary way upon some other foundation if that appears to be available.Such objections will need to be dealt with as they are taken.I reject the objection so far taken in a general way to the statements in question.'
+
+
+ I certify that the preceding four (4) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Buchanan J.Associate:
+
+Dated: 30 May 2007
+
+ Counsel for the Applicant: Dr J Renwick 
+ 
+ Solicitor for the Applicant: Ms Laura Gazi of Australian Government Solicitor 
+ 
+ Counsel for the Respondent: Ms C Ronalds SC, Mr S Whybrow 
+ 
+ Solicitor for the Respondent: Mr G Rees of Slater 2amp; Gordon incorporating Gary Robb 2amp; Associates 
+ 
+ Date of Hearing: 15 - 16 April 2007 
+ 
+ Date of Judgment: 30 May 2007 
+
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/833.html 
+ 
+ 

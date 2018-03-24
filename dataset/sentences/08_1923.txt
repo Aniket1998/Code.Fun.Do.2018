@@ -1,0 +1,286 @@
+
+ 
+1 This is an appeal from two decisions (heard together) of the Administrative Appeals Tribunal (AAT), which decisions were in turn made on appeal from two decisions of the Social Security Appeals Tribunal (SSAT).2 The AAT decided, first, to set aside the decision of the SSAT to waive a parenting payment debt of $3,261.39 incurred by the appellant, and in lieu decided that the Commonwealth was entitled to recover the debt (the parenting payment decision); and secondly, to affirm the decision of the SSAT that the Commonwealth was entitled to recover a family tax benefit debt of $1,533.84 incurred by the appellant (the family tax benefit decision).3 The appellant argues that the AAT was in error in two respects:
+ 
+1.First, in relation to the parenting payment decision, that the Member was in error by not taking into account, as a relevant consideration in determining whether "special circumstances" existed within the meaning of section 1237AAD of the Social Security Act 1991 (Cth) (the Social Security Act ), a "notional entitlement" of the appellant to another benefit, namely a disability support benefit.2.Secondly, both the parenting payment decision and the family tax benefit decisions should be set aside, for failure of the Tribunal to comply with the requirements of ss 43(2) and (2B) of the Administrative Appeals Tribunal Act 1975 (Cth) (the AAT Act) to provide adequate reasons for its decisions.4 For the reasons which follow, the appellant succeeds on both of these grounds.BACKGROUND 
+ 
+ 5 On 10 June 1992 , Ms Oberhardt, the appellant, began receiving a family tax benefit on the basis that she was caring for her son, a particular proportion of the time.From 15 June 2004, the appellant also began receiving a parenting payment.6 At the New Year in 2004/5, Ms Oberhardt's son visited his father in accordance with a Family Court order.The father should have returned the son to the appellant on 11 February 2005, but failed to do so.On 19 April 2005, the father informed Centrelink that he now had a greater share of care for his son, and claimed family tax benefit.7 On 7 June 2005, Ms Oberhardt informed Centrelink of the change in care arrangements.Centrelink thereupon ceased the payment of the parenting payment and the family tax benefit.On the same day, Ms Oberhardt lodged an application for disability support pension
+ 
+8 On 27 July 2005, Centrelink made a decision to raise and recover the overpayments made to Ms Oberhardt.Debts were accordingly raised against the appellant, in the amounts of $2,125.78 for the family tax benefit, and $5,173.76 for the parenting payment.These figures were based on 1 January 2005 as the date from which Ms Oberhardt should no longer have been receiving payments, due to the change in her proportion of the care for her son.9 On 29 November 2005, following an application from Ms Oberhardt for internal review of Centrelink's decisions, an Authorised Review Officer reduced the debts due to $1,533.84 for the family tax benefit and $3,261.39 for the parenting payment, on the basis that the date from which Ms Oberhardt should actually have stopped receiving payments was 11 February, as that was the date on which her son was due to return to her care.10 On 6 December 2005, Ms Oberhardt lodged an appeal from those decisions with the SSAT.A hearing was conducted by the SSAT in both matters on 7 July 2006.On 1 August 2006, the SSAT decided to affirm the decision to raise and recover the family tax debt; and to waive the parenting payment debt pursuant to s 1237AAD of the Social Security Act .11 On 23 August 2006, the first respondent lodged with the AAT an application for review of the decision to waive the parenting payment debt.On 27 November 2006, the appellant lodged an application with the AAT for review of the decision to affirm the family tax debt.12 On 24 May 2007, the AAT conducted a hearing of both matters.On 1 February 2008, the AAT decided that the decision to waive should be set aside, and in lieu decided that the Commonwealth was entitled to recover the parenting payment debt; and decided to affirm the decision to raise and recover the family tax benefit debt.13 On 29 February 2008, the appellant filed a Notice of Appeal from both of those decisions in this Court.14 It is noted that the appellant's chronology refers to a number of physical and mental health problems suffered by the appellant since around February 2005.These problems have been the subject of numerous medical reports, and other evidence, presented to both the SSAT and the AAT.These problems are not relevant, however, to the resolution of the questions raised on this appeal, except, perhaps, in that they bear upon the existence of a notional entitlement to a disability support pension during the whole or part of the relevant period.GROUNDS OF APPEAL 
+ 
+15 The Federal Court has jurisdiction to hear appeals from the AAT by virtue of s 44(1) , although such appeals lie only "on a question of law".16 The questions of law said to be raised on this appeal are set out in the Notice of Appeal as follows:
+ (a) Regarding the decision relating to the First Respondent: 
+ 
+ 
+ (i) Whether the Tribunal misconstrued section 1237AAD of the Social Security Act 1991 , by finding that the section precluded consideration of a person's unclaimed entitlement to payment of another benefit ("a notional entitlement") as a relevant consideration for the purposes of determining whether special circumstances existed within the meaning of section 1237AAD(b) ("special circumstances waiver"); 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (ii) Further and in the alternative, if the Tribunal did treat a notional entitlement as a relevant consideration for the purposes of special circumstances waiver, whether the Tribunal nonetheless misconstrued the nature of the function to be performed under section 1237AAD(b) , by approaching the task as being one where a notional entitlement was to be assessed, in isolation, as a ground justifying special circumstances waiver, rather than as part of the totality of circumstances which may amount to special circumstances waiver.
+ 
+ 
+ 
+ 
+ 
+ (b) Regarding the decisions relating to the First Respondent and the Second Respondent: 
+ 
+ 
+ 
+ 
+ (i) Whether the Tribunal erred in law by failing to provide adequate reasons for its decisions pursuant to section 43(2) and (2B) of the Administrative Appeals Tribunal Act 1975 .
+ 
+ 
+
+17 It was not in dispute before the Tribunal, or before this Court, that the appellant had been overpaid and that those overpayment amounts would otherwise be debts due to the Commonwealth.The amounts of the overpayments were also not in dispute.18 The questions for this Court on this appeal are therefore: whether the concept of "notional entitlement" is a relevant consideration in deciding whether or not special circumstances exist within s 1237AAD, and if so, whether the AAT erred, in concluding that a notional entitlement was not a relevant consideration, or alternatively erred by considering notional entitlement only as a special circumstance in and of itself, and not as one of a range of circumstances possibly giving rise to special circumstances; and whether the AAT's reasons were sufficient to discharge its obligations under ss 43(2) and (2B) of the AAT Act.NOTIONAL ENTITLEMENT 
+ 
+19 The key section on which this question turns is section 1237AAD of the Social Security Act , which provides:
+ Waiver in special circumstances The Secretary may waive the right to recover all or part of a debt if the Secretary is satisfied that: 
+ 
+ 
+ (a) the debt did not result wholly or partly from the debtor or another person knowingly: 
+ 
+ 
+ 
+ 
+ 
+ (i) making a false statement or a false representation; or 
+ 
+ 
+ 
+ 
+ 
+ (ii) failing or omitting to comply with a provision of this Act, the Administration Act or the 1947 Act; and 
+ 
+ 
+ 
+ 
+ 
+ (b) there are special circumstances (other than financial hardship alone) that make it desirable to waive; and 
+ 
+ (c) it is more appropriate to waive than to write off the debt or part of the debt.
+ 
+ 
+
+20 It is not in dispute that the appellant satisfies sub-sections (a) and (c).21 Section 1237AAD is found in Part 5.4 of the Social Security Act .The "debt" referred to in s 1237AAD is defined in s 1235 in Part 5.4 of the Social Security Act:
+ 1235 Meaning of debt In this Part, debt means: 
+ 
+ (a) a debt recoverable by the Commonwealth under Part 5.2; or 
+ (b) a debt under the 1947 Act; or 
+ 
+ 
+ 
+ 
+ (c) a debt due to the Commonwealth under a scheduled international social security agreement; or 
+ 
+ 
+ 
+ 
+ (d) a debt under the Social Security (Fares Allowance) Rules 1998.
+ 
+ 
+22 Section 1223 in Part 5.2 provides:
+ 1223 Debts arising from lack of qualification, overpayment etc. 
+ 
+ 1223(1) Subject to this section, if: 
+ 
+ 
+ 
+ 
+ (a) a social security payment is made; and 
+ 
+ 
+(b) a person who obtains the benefit of the payment was not entitled for any reason to obtain that benefit; 
+ 
+ 
+ the amount of the payment is a debt due to the Commonwealth by the person and the debt is taken to arise when the persons obtains the benefit of the payment.
+ 
+ 
+
+23 "Social security payment", as referred to in s 1223, is defined in s 23(1) as follows:
+ social security payment means: 
+ 
+ (a) a social security pension; or
+ (b) a social security benefit; or
+ (c) an allowance under this Act; or
+ (e) any other kind of payment under Chapter 2 of this Act; or
+ (f) a pension, benefit or allowance under the 1947 Act.
+ 
+ 
+24 "Parenting payment" is defined in s18, as follows:
+ 18 Parenting payment definitions 
+ 
+ In this Act, unless the contrary intention appears: 
+ 
+ 
+ 
+ ... 
+ 
+ 
+ 
+ parenting payment means: 
+ 
+ 
+ 
+ 
+ (a) pension PP (single); or 
+ 
+ 
+ 
+ 
+ 
+ (b) benefit PP (partnered).
+ 
+ 
+
+25 A pension PP (single) falls within the definition of social security pension (sub-paragraph (e)), and a benefit PP (partnered) falls within the definition of a social security benefit (sub-paragraph (f)), both of which are defined in s 23(1).A parenting payment is, accordingly, a social security payment as defined, and therefore the parenting payment debt incurred by the appellant in this case is a debt due to the Commonwealth pursuant to s 1223.26 It is noted that the definition of social security payment does not now include an item (da) "a family tax payment".That item was previously in the definition of social security payment, but was removed by cl 149 of Sch 2 to the A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No.2) 1999 (Cth) on 8 July 1999.The definition was removed because the family tax payment referred to, which was previously paid pursuant to the Social Security Act , was to be paid from that time on, pursuant to the A New Tax System (Family Assistance) Act 1999 (Cth) (the Family Assistance Act).The Family Assistance Act is also relevant to this matter, as the Act pursuant to which the appellant was overpaid the family tax benefit.27 Section 71 of A New Tax system (Family Assistance) (Administration) Act 1999 (Cth) (the Family Assistance Administration Act) deals with debts arising in respect of family assistance other than child care benefit and family tax benefit advance and provides:
+ No entitlement to amount (1) If: 
+ 
+ 
+ (a) an amount had been paid to a person by way of family tax benefit, maternity payment or maternity immunisation allowance (the assistance ) in respect of a period or event; and 
+ (b) the person was not entitled to the assistance in respect of that period or event; 
+ the amount so paid is a debt due to the Commonwealth by the person.
+ 
+ 
+
+28 Section 101 of that Act provides:
+ 101 Waiver in special circumstances The Secretary may waive the right to recover all or part of a debt if the Secretary is satisfied that: 
+ 
+ (a) the debt did not result wholly or partly from the debtor or another person knowingly:
+ (i) making a false statement or a false representation; or 
+ 
+ 
+ 
+ 
+ (ii) failing or omitting to comply with a provision of the family assistance law; and 
+ 
+ 
+ 
+ 
+ (b) there are special circumstances (other than financial hardship alone) that make it desirable to waive; and
+ (c) it is more appropriate to waive than to write off the debt or part of the debt.
+ 
+
+29 The decisions for the Tribunal should have addressed whether "special circumstances" existed pursuant to s 1237AAD of the Social Security Act (for the parenting payment debt) and s 101 of the Family Assistance Administration Act (for the family tax benefit debt), such that the discretion to waive the respective debts was enlivened.30 The terms of those sections are identical.The issue of notional entitlement, however, has in this case been argued and considered only with regard to s 1237AAD of the Social Security Act .31 In order to enliven the discretion to waive a debt found in section 1237AAD of the Social Security Act , the appellant was required to show that "special circumstances" existed.In addition to arguing that her physical health, mental health and dire financial situation constituted "special circumstances", the appellant also contended that a "notional entitlement" to an additional benefit was relevant and should be taken into account.32 The term "notional entitlement" is not defined in the Social Security Act , although it is used in s 1237AAC.In essence, the term refers to an unclaimed benefit; a benefit which was not actually claimed by the person, but to which that person would have been entitled had they applied for it.In this case, the appellant began claiming a disability support pension on 7 July 2005.Although she cannot now, or at any time in the future receive payments for periods prior to that date, it is contended that the appellant would have been eligible for the payment throughout the period during which she was being overpaid (11 February 2005 --- 7 July 2005).She therefore had, during that time, a "notional entitlement" to the payment.33 The appellant conceded that the issue of notional entitlement was relevant only to the waiver of the parenting payment.It is said that only a notional entitlement to a benefit available under the same Act as that under which waiver is sought can be taken into account.In this instance, this position means that, as the family tax benefit was received pursuant to the Family Assistance Act, and not the Social Security Act under which the disability support payment would have been payable, the notional entitlement to a disability support payment is not relevant to waiver of the family tax benefit debt.This question was not a matter of contention before the Tribunal or this Court, with the consequence that I am not, on this appeal, concerned with the correctness of the concession.The contention by the appellant is that any error related to national entitlement in the Tribunal's decision is relevant only to the decision not to waive the parenting payment debt.34 Having regard to what is the "debt" in s 1237AAD , referred to in para [21] above, and the following paragraphs dealing with waiver under both of the Acts there discussed, the correctness of the concession might have to be revisited on the remitter to the AAT.35 Before the Tribunal, the appellant contended that her notional entitlement was a relevant circumstance to be taken into account when considering whether special circumstances, within s 1237AAD , existed.36 The Tribunal appears to have disagreed: Re Secretary, Department of Employment and Workplace Relations and Tracey Oberhardt [2008] AATA 85 , at [48]:
+ 
+ 
+ 48.For its part, this Tribunal considered that a notional entitlement basis for special circumstances waiver in income support law stands also outside the legislative signpost in section 1237AAD.It is also outside of the preponderance of authority.If the notional entitlement concept applies in section 1237AAD (which is doubtful), then it must itself come under the rubric of the range of accepted integers of special circumstances.
+ 
+
+37 By the first sentence of this paragraph (which unfortunately is expressed in clumsily pretentious language) I take it that the Tribunal is expressing the conclusion that a notional entitlement is not a relevant consideration in deciding whether to waive a debt.38 The second sentence is equally pretentiously expressed: by saying that "[i] t is outside of the preponderance of authority ", the Tribunal, I suspect, meant to say that the weight of authority is against the conclusion that a notional entitlement to a benefit is a relevant factor in deciding whether to waive a debt.39 The third sentence commences with a resiling from the conclusion expressed in the first two sentences, and then descends into pretentious incomprehensibility: "[the notional entitlement concept] must itself come under the rubric of the range of accepted integers of special circumstances ."
+ 
+40 The Tribunal continued in its reasons:
+ 
+ 
+ 
+ 49.Putting the matter at its most favourable to the Applicant, should this Tribunal apply a notional entitlement to disability support pension on the part of the Applicant and in her favour as a ground for reducing or waving the debt on the basis of special circumstances?Effectively, the argument for the Applicant is that because of her medical conditions which were extant in February 2005, she would have qualified for disability support pension earlier and so being in a position to avoid having qualified for and being paid parenting payment.In the opinion of this Tribunal, the notional entitlement of the Applicant to disability support pension is not sufficiently unusual, uncommon or exceptional as to justify special circumstances waiver.This Tribunal rejects the argument for the Applicant that because section 1237AAD was unaltered when its companion provisions section 1237AAC introduced a notional entitlement criterion, it follows that notional entitlement is a special circumstance under section 1237AAD.Respectfully, this does not follow from the premise.The Tribunal went on to consider the other circumstances of this case under the framework of special circumstances waiver.
+ 
+
+41 The Tribunal in the third sentence seems to be saying that the notional entitlement of the appellant is not a "special" circumstance, because it is not "sufficiently unusual, uncommon or exceptional".The fourth sentence seems to be a rejection of the submission that a notional entitlement is a relevant factor in considering whether special circumstances exist.42 The Tribunal came to the above inconsistent conclusions, clumsily expressed as they are, following a review of several AAT decisions which considered the relevance of notional entitlement in deciding whether to waive a debt.There appears to be no case in the Federal Magistrates Court, or in the Federal Court, in which "notional entitlement" has been definitively considered.43 Decisions of the AAT which concluded that notional entitlement was not a relevant matter in considering whether special circumstances exist to justify waiver are Re Schulze and Secretary, Department of Family and Community Services [2004] AATA 705 ; (2004) 81 ALD 636 ( Schulze ) and Re Secretary, Department of Family and Community Services and Varhegyi [2005] AATA 635 ; (2005) 87 ALD 717 ( Varhegyi ).44 In Schulze , the applicant had been overpaid a parenting allowance, following which the Department raised and sought to recover the debt.The sole question for the Tribunal was whether the debt should be waived.Following consideration of the phrase "special circumstances" and what was required to show such circumstances, Deputy President Jarvis addressed the applicant's argument that a notional entitlement of his son should be considered.The Deputy President said, at [34]-[35]:
+ 
+ 
+ 34.The applicant also urged the Tribunal to consider the notional entitlement of his son to Youth Allowance as a further special circumstance...
+ 
+ 35.Notional entitlement has been found to constitute part of the factual matrix of special circumstances in several cases such as Re Secretary, Department of Family and Community Services and Lyster (2000) 59 ALD 587.However, I note that the legislature has seen fit to amend the Act to provide for set-off of notional entitlement in the circumstances provided for in s 1237AAC.That provision provides for set-off of notional entitlement in only very limited circumstances and by reference to specific payments.It was the respondent's contention that any attempt to expand notional entitlement by virtue of the special circumstances provision would defeat the intention of Parliament.I think this submission is well founded.In addition, I consider, in any event, that as it is the applicant's son, and not the applicant, who is notionally entitled to youth allowance, the failure of the applicant's son to apply for a payment to which he would have personally been entitled, in circumstances in which the applicant can only estimate what portion of those moneys would have been paid to him and his wife, does not form a sound basis for consideration of waiver of a debt involving public moneys.
+ 
+
+45 The basis for the Tribunal's decision in Schulze , therefore, was that as notional entitlement was specifically included in s 1237AAC, and therein was subject to a number of limitations, a notional entitlement was not a relevant consideration in assessing "special circumstances" within s 1237AAD.46 A further basis for the decision in Schulze (which distinguishes it from the present case) is that the notional entitlement was not the applicant's, but rather the applicant's son's, and therefore was not a relevant factor in the applicant's case.47 In Varhegyi , the applicant was overpaid an Austudy payment after he failed to inform the Department that he was no longer a full-time student.After Centrelink sought to recover the debt, the applicant argued that the debt should be waived on the basis that special circumstances existed.Again, it was argued that a notional entitlement should be considered.Deputy President Forgie said, at [35]-[37]:
+ 
+ 
+ 35.Ms Riley raised the concept of "notional entitlement" as one that is relevant and that has found favour in a number of Tribunal decisions in the context of waiving a debt.In Re Huynh and Secretary, Department of Social Security [(1994) 34 ALD 694] the tribunal accepted that: 
+ 
+ 
+ 
+ 
+ "... where there exists a notional entitlement to another payment under the Act, an applicant is entitled to have this entitlement taken into consideration when the question of waiver is being considered.However, the tribunal is further of the view that in determining whether a nominal entitlement should be offset against an overpayment, the facts which led to the overpayment are important.That is, if the overpayment was fraudulently obtained, this would weigh heavily against the fact there did exist a nominal entitlement to moneys." [(1994) 34 ALD 694 at 713] 
+ 
+ 
+ 
+ 
+ In Re Dobbie and Secretary, Department of Social Security [AATA, No 8661, 23 April 1993, unreported] the tribunal found that the applicant had a "notional entitlement" to age pension, and waived 50% of the overpayment of widow's pension: 
+ 
+ 
+ 
+ 
+ "... the applicant had an entitlement to a rate of age pension during the relevant period having regard to the "married" income tests.In other words, if the true state of affairs had been disclosed the applicant would have been paid age pension during the relevant period in excess of $20,000.As the applicant had an entitlement to a rate of age pension that fact should not be ignored despite the fact that she had received public money to which she was not entitled ... On the other hand, good administration of the social security system relies in large measure on the honesty of claimants in their dealings with the department.It follows in our opinion that an applicant who, notwithstanding a notional entitlement to a pension, misrepresents her position faces the prospect of having to accept the consequences of her actions."[AATA, No 8661, 23 April 1993, unreported] 
+ 
+ 
+ 
+ 
+ 36.After these decisions were made, the waiver provisions of the Act were amended with effect from 1 January 1996, introducing specific waiver provisions where there is a notional entitlement to parenting allowance or family allowance.[ Social Security Act 1991 (Cth), s 1237AAC] Eligibility for these allowances is not dependent on a person's satisfying an activity test in order to be eligible for the payment as is the case for Austudy or newstart Allowance.[ Re Secretary, Department of Family and Community Services and Radmilovich [2002] AATA 779 ; (2002) 70 ALD 218 at 232; [2002] AATA 779] The effect of these amendments on "notional entitlement" was recently addressed by Deputy President Jarvis in Re Schulze and Secretary, Department of Family and Community Services ...
+ 
+ 37.I agree with Deputy President Jarvis.There is no room to introduce a concept of notional entitlement in that of special circumstances in s. 1237AAD(1) of the Act.
+ 
+
+48 The appellant referred to decisions in which the Tribunal had considered notional entitlement relevant.Principal among these was the decision, subsequent to Schulze and Varhegyi , in Re Sara and Secretary, Department of Families, Community Services and Indigenous Affairs [2006] AATA 708 ; (2006) 91 ALD 759.In that case, Member Carstairs said, at [30]:
+ Ms Dole submitted, referring to the tribunal decisions in Re Schulze and Secretary Department of Family and Community Services (2004) 81 ALD 636 ; [2004] AATA 705 and Re Secretary Department of Family and Community Services and Varhegyi (2005) 87 ALD 717 ; [2005] AATA 635 that it would be an incorrect approach to the discretion under s 1237AAD of the Act to incorporate a consideration of any notional entitlement to another payment in its exercise.I agree with the reasons expressed in those decisions that there is specific reference in other sections of the Act to particular payments (not including youth allowance) where notional entitlement is recognised.However, I do not understand either deputy president in these decisions to be stating that there are no circumstances in which notional entitlement can be considered in the context of the discretion for special circumstances.There are, after all, no fetters on this discretion, except as expressed in s1237AAD itself.49 For completeness, reference was made to Re DSGR and Secretary, Department of Education, Science and Technology [2007] AATA 1981 , where Senior Member Handley commented, at [43]:
+ 
+ 
+ 43.From my part, whilst I would not exclude the possibility of the circumstances of a person being so special that set off by notional entitlement could never be permitted, I would think that those circumstances would be unusual and set off by notional entitlement would be a relatively uncommon occurrence.
+ 
+ 
+50 Ms Kidson, counsel for the appellant, also referred to the decision of Deputy President Hack and Member Carstairs in Re Secretary, Department of Employment and Workplace Relations and QX2006/1 [2006] AATA 372 ; (2006) 90 ALD 320 ( QX2006/1 ).In that case, the applicant had applied for and received benefits using an assumed identity.After discovering the use of a false name, the Department sought to recover the payments made.It was acknowledged that had the applicant applied using his real name, he would have been entitled to the benefits paid.The applicant argued, amongst other things, that the debt should be waived under s 1237AAD.That case, therefore, is somewhat different to that under consideration here.The case was decided on other grounds; however the Tribunal made the following comments, which may be seen as relevant, with regard to "special circumstances" in s 1237AAD(b) (at 329-330):
+ We are well satisfied that special circumstances exist where the payments made are identical to those to which the respondent would have been entitled had he applied in his own name.Provisions of this nature are designed to protect the revenue and permit the recovery of payments made in excess of an entitlement.Here, were it to be determined that there was a debt, the fact that the respondent had an equivalent, but not claimed, entitlement takes the present case out of the ordinary run of cases and gives to it a "special" character.(Emphasis added).51 On my reading of the judgment of Mansfield J in Devriadis v Secretary, Department of Family and Community Services (2000) 62 ALD 145 , his Honour assumed that an unclaimed entitlement to a benefit was relevant to the consideration of special circumstances.However, it was unnecessary for his Honour to decide the point, because of a factual finding that the appellant could not in fact have been entitled to the benefit claimed.Mansfield J, at 159-160, said:
+ I have also considered whether the tribunal may have erred in failing to consider as a possible special circumstance that the applicant may have been entitled to some level of benefit under the 1947 Act or the 1991 Act during the relevant period, even if he had made full disclosure to the respondent.I do not consider that it erred in law in that regard.The tribunal has determined that the applicant should not be treated as unemployed under s 116(4) of the 1947 Act, or under s 516(1) or 595(1) of the 1991 Act.Those provisions are directed to enabling a period of employment as being treated as a period of unemployment, having regard to the nature of the work, its duration, and other matters relating to the work.The tribunal decided that the work the applicant did for Zorba during the relevant period was such that it should make an order under any of those provisions.Consequently, the criterion of being unemployed upon which eligibility for benefits depended has been found by the tribunal not to exist.The tribunal is not shown to have erred in its understanding of the expression "special circumstances": see the discussion as to the meaning of that term in Condren v Department of Family and Community Services [2000] FCA 268 , BC20000890 per Lehane J at [11]; Kertland v Department of Family and Community Services [1999] FCA 1596 ; (1999) 57 ALD 600 per Merkel J at [30-45]; Beadle v Director-General of Social Security (1985) 7 ALD 670 ; 60 ALR 225 at 228-30.52 The point made by the Tribunal in the last sentence of the paragraph quoted in [37] above is an important one, and draws attention back to the language of the section in question; that is, that "special circumstances" must be shown.53 That phrase, as has been noted in a number of decisions of this Court, is broad.54 French J (as he then was) in Secretary, Department of Social Security v Hales (1998) 82 FCR 154 ( Hales ) noted, at 161:
+ Beadle v Director-General of Social Security (1985) 60 ALR 225 [Beadle] is a decision of the Full Court of the Federal Court on appeal from Toohey J sitting as a presidential member of the Tribunal: see Re Beadle and Director-General of Social Security (1984) 6 ALD 1.The case concerned a claim for family allowance lodged more than six months after the eligibility date.In such a case payment could be backdated only in "special circumstances" (s 102 of the Social Security Act 1947 (Cth)).Even within the narrow confine of "special circumstances" which would support a discretion to overlook the delay, the Court said it "[did] not think it is possible to lay down precise limits or precise rules".The phrase, although lacking precision, was in the Court's view, "sufficiently understood ... not to require judicial gloss": Beadle v Director-General of Social Security at 228.His Honour continued at 162:
+ The concept of special circumstances is broad.A constellation of factors, including financial circumstances, may fall within it.The express exclusion of financial hardship alone as a special circumstance is an indicator that it would otherwise be included.This gives some measure of the range of circumstances which will qualify as special.But as a matter of grammar and ordinary logic, the exclusion of financial hardship alone as a special circumstance does not mandate its inclusion in the range of matters constituting such circumstances for the purpose of enlivening the Secretary's discretion....The evident purpose of s 1237AAD is to enable a flexible response to the wide range of situations which could give rise to hardship or unfairness in the event of a rigid application of a requirement for recovery of debt.It is inappropriate to constrain that flexibility by imposing a narrow or artificial construction upon the words.It may be that there will be few cases in which the Secretary will be satisfied that there are special circumstances in the absence of financial hardship.It may be that there are few cases in which having found special circumstances to exist, the Secretary would exercise the discretion to waive in the absence of financial hardship.But to anticipate the limits of the categories of possible cases by imposing on the language of the section a fetter upon its application which is not mandated by its words, is to erode its useful purpose.(Emphasis added).55 The Full Federal Court in Riddell v Secretary, Department of Social Security [1993] FCA 261 ; (1993) 42 FCR 443 ( Riddell ) held, at 450:
+ Each particular case must be considered on its merits.It is the essential nature of the provision to create a broad discretion to meet the great variety of circumstances which must occur, raising considerations of individual hardship, need, fairness, reasonableness, and whatever else may move an administrator, keeping in mind the scope and purposes of the Act, to make a decision one way or the other.56 As Beadle, Hales and Riddell indicate, the wording of the section is broad and does not, financial hardship alone aside, impose a fetter on the matters which may be considered by the decision maker.See also Trimboli v Secretary, Department of Social Security (1989) 86 ALR 64 at 73, and Angelakos v Secretary, Department of Employment and Workplace Relations (2007) 100 ALD 9 at [33]).57 The Tribunal in this case placed significant emphasis on the fact that notional entitlement is specifically mentioned in s 1237AAC, but not in other debt waiver provisions within the Social Security Act.58 Section 1237AAC provides for circumstances where the Secretary must waive the right to recover a debt to the extent set out in the section, where a debtor or a debtor's partner would have been entitled to an allowance.The section deals with unclaimed entitlements to various allowances, namely, family payment or family allowance, a youth allowance, and a parenting allowance or parenting payment.59 In my opinion, however, the terms of s 1237AAC do not mandate that notional entitlement cannot be considered as a relevant consideration when considering "special circumstances" in s 1237AAD(b).There is nothing in s 1237AAD or its neighbouring provisions to suggest that the limitations in s 1237AAC apply in circumstances other than specifically enumerated in s 1237AAC .To do so is impermissibly to fetter a broadly expressed discretion, by implication.60 The High Court in The Queen v Australian Broadcasting Tribunal; Ex parte 2HD Pty Ltd [1979] HCA 62 ; (1979) 144 CLR 45 said, at 50.However, it is not a legitimate approach to interpretation to compare a statutory discretion which is expressed in unlimited terms as to one subject with another discretion in the same statute which is confined to specified considerations with reference to a different subject and thereby conclude that the first discretion necessarily excludes the considerations specified in relation to the second discretion.The general rule is that a discretion expressed without any qualification is unconfined except in so far as it is affected by limitations to be derived from the context and scope and purpose of the statute.The fact that a discretion relating to a different subject matter is confined to a particular consideration provides no rational reason for saying that another discretion expressed without qualification does not embrace that particular consideration.Applied to the criterion of public interest, the argument is even less attractive.It would bring about the result, if accepted, that a discretion generally expressed may extend to any factor except public interest merely because another discretion directed to a very different subject matter is limited to the exclusive criterion of public interest.61 Further, the thrust of s 1237AAC, although also dealing with debt relief, is significantly different.Section 1237AAC deals with specifically enumerated benefits in particular situations which, if found, have mandatory consequences; that is, if it is shown that there was an entitlement to a particular benefit which was unclaimed, the debt must be waived.That is not the case in s 1237AAD.That section provides a more general avenue for relief, and grants a broad discretion to the Secretary to waive debts, having regard to the way in which the debt resulted, any special circumstances that might exist, and the appropriateness of waiving the debt.62 The words in s 1237AAD(b) should not be fettered, or narrowed, in the manner argued for by the respondent and accepted by the Tribunal in this case.63 The view reflected by the Tribunal in Lyster, Huynh, Dobbie, Sara, and QX2006/1 referred to above, to the effect that notional entitlement is not necessarily excluded in considering whether "special circumstances" exist, for the purposes of s 1237AAD, is correct.64 It follows that, in my view, notional entitlement should not be excluded from the range of available relevant considerations in deciding whether there are "special circumstances" to waive a debt under s 1237AAD.65 The Tribunal's conclusion to the contrary, expressed in the first two sentences of [48] of its reasons, is wrong.66 In the present case, the Tribunal's reasons further appear to show that notional entitlement was considered, and rejected, as a basis, on its own, for concluding that special circumstances existed; so much was accepted by Counsel for the respondent in his submissions.This conclusion was in response to the principal argument put to the Tribunal by the appellant.67 The Tribunal does not, however, appear to have considered notional entitlement as one of a range of factors applicable to the applicant that could, together, amount to special circumstances.68 In oral argument, Mr Rangiah, counsel for the respondent, submitted that the reason for this was that the Tribunal considered the matter should not be given any weight in the circumstances of the case.The Court was asked to infer from the Tribunal's opinion that " The notional entitlement of the Applicant ... is not sufficiently unusual, uncommon or exceptional as to justify special circumstances waiver" , that the Tribunal did in fact consider the appellant's notional entitlement within the range of relevant factors going to special circumstances, but gave it no weight, and for that reason it was unnecessary to mention it specifically.69 In my opinion, following its conclusion that notional entitlement could not of itself amount to special circumstances, the Tribunal did not mention notional entitlement as one of a range of relevant considerations, simply because it did not consider it relevant.It follows that, in my judgment, the Tribunal misdirected itself in deciding whether special circumstances existed for the purposes of waiver under s 1237AAD of the Social Security Act.Ground one of the Notice of Appeal has therefore been made out.THE TRIBUNAL'S REASONS 
+ 
+70 The appellant argues that the Tribunal's reasons are insufficient to discharge its obligations under ss 43(2) and (2B) of the AAT Act.Those sections provide:
+ 
+ 
+ (2) Subject to this section and to sections 35 and 36D, the Tribunal shall give reasons either orally or in writing for its decision....
+ (2B) Where the Tribunal gives in writing the reasons for its decision, those reasons shall include its findings on material questions of fact and a reference to the evidence or other material on which those findings were based.
+ 
+
+71 French J in Secretary, Department of Employment and Workplace Relations v Homewood (2006) 91 ALD 103 made the following relevant observations, at 111:
+ [40] The obligations set out in s 43 are not necessarily discharged by merely setting out findings on material questions of fact, referring to the evidence on which those findings are based and then stating a conclusion.There will always be some legal rule or principle or discretion to apply.It may be that a rule or principle, like the major premise of a syllogism, will embody the factual circumstance necessary to give rise to a right or liability.Then it may be sufficient to state that rule or principle in the reasons, the facts found as the minor premise, the evidence on which they are based and the result which follows.Not all, and perhaps not many results are so easily explained.Whether the reasoning is syllogistic or otherwise, the tribunal will have discharged its duty under s 43 if its reasons disclose its findings of fact, the evidence on which they were based and the logical process by which it moved from those findings to the result in the case.[41] Where a case involves the exercise of a discretion, the tribunal's duty is not discharged by setting out the findings of fact necessary to enliven the relevant discretion.That is so even in a case in which the enlivening facts are of an evaluative character, such as the existence of special circumstances.What must appear from the reasons is why the discretion was exercised in the way it was.72 In Vock v Repatriation Commission [2005] FCA 967 , Tamberlin J said, at [17]:
+ The rationale for the requirement that a decision-maker spell out the reasons for its conclusions on substantial issues is the need to inform the public and the parties with an immediate interest in the outcome of the proceedings of the manner in which the decision was arrived at.This, in turn, enables a determination to be made as to whether an error of law has been committed by the decision-maker.... 
+73 It is also important, however, not to pick apart the reasons of an administrative tribunal in search of error.Kirby J in Roncevich v Repatriation Commission [2005] HCA 40 ; (2005) 222 CLR 115 stated, at 135:
+ ... sufficient reasons on the part of the Tribunal would be required to make the system of appeals effective and to fulfil its assumptions.74 His Honour further observed, at 136:
+ Courts conducting [judicial] review have been repeatedly enjoined by this Court to avoid overly pernickety examination of the reasons.75 As Tamberlin J also observed in Australian Postal Commission v Wallace (1996) 41 ALD 455 , at 457:
+ It is clear that s 43 is not to be construed with a pedantic eye but in a practical common sense way in order to determine, in substance, whether the decision conveys sufficient of the decision making process to enable the parties and other interested persons to properly understand it.Where the reasons expose the logical process underlying the decision and contain findings on matters of fact essential to that reasoning process, then as Burchett J said in Dodds v Comcare Australia (1993) 31 ALD 690 at 691: 
+ 
+ ... it will not be easy to demonstrate a failure of compliance with the requirements to include "findings on material questions of fact".
+ 
+
+76 The appellant in this case argues that the Tribunal's reasons are deficient in several respects.First, the appellant argues that the statutory provision here under consideration requires the exercise of a discretion, as discussed by French J above.Accordingly, the appellant argues, this is not a case where the Tribunal can simply state a finding of fact and then move to a conclusion.It was further submitted that, in the Tribunal's reasons there is not to be found a statement of the evidence upon which the facts found were based; the materials before the Tribunal were listed, but were not discussed; the statements of principle are sometimes contradictory to the result reached; and in many instances, the facts found did not, on their face, answer the question posed by the statute.77 The respondent argues that the Tribunal's conclusions incorporated its reasoning.By stating that the applicant's circumstances were not so special as to justify waiver, and by indicating that those circumstances were not "outside the ordinary run of cases", the Tribunal fulfilled its obligation.It was not required, argue the respondents, to go further.In direct contrast to the applicant, the respondent submits that this case is within that category of cases described by French J in paragraph [40] of his Honour's judgment set out above in which it is sufficient to state the rule or principle, the facts, the evidence upon which the facts are based, and the result.78 Further, the respondent argues that the discussion in paragraph [41] of French J's judgment regarding decisions involving discretion is not relevant.This is because the existence or otherwise of special circumstances is a question of fact; the issue of discretion does not arise.Such an argument finds support in French J's statement in Hales that (at 162) " [The discretion to waive] is only enlivened when the Secretary is satisfied that the three conditions specified in (a), (b) and (c) of the section are met." It is argued that the Tribunal set out the principle, set out the materials before it, and then by its comment that the appellant's circumstances were not outside of the ordinary run of cases, and were not so special as to justify waiver, reached a factual conclusion sufficient to discharge its obligations.79 The Tribunal set out at paragraph [17] of its reasons the basic findings of fact from which the decision proceeded.Those findings related primarily to the debts owed, the appellant's physical and mental state, correspondence and other contact between the appellant and Centrelink, and the appellant's financial situation.80 The Tribunal then moved to a consideration of the authorities as they relate to the phrase "special circumstances".In particular, the cases on the use of the phrase "unusual, uncommon or exceptional" were examined, along with other paraphrases used to aid interpretation of what can be "special circumstances".The Tribunal concluded by saying that such paraphrases "... cannot supplant the statutory language" (at [38]) and that "... the clear and ordinary meaning of the words "special circumstances" is the meaning that should be assigned to them." (at [39]).81 Notwithstanding these statements, the Tribunal then proceeded to use the very paraphrase disavowed, at [49]:
+ In the opinion of this Tribunal, the notional entitlement of the Applicant to disability support pension is not sufficiently unusual, uncommon or exceptional as to justify special circumstances waiver.82 In my opinion, this conclusion confirms the view that the notional entitlement of the applicant was considered by the Tribunal in isolation.In so doing, it was in error.Also, this reason offered by the Tribunal for its conclusion is inconsistent with the conclusion expressed in the first two sentences of [48] of its reasons.83 Considering other circumstances which might have established the existence of special circumstances, the Tribunal at paragraph [51], set out the circumstances and factors taken into account "as disclosed by the evidence before the Tribunal":
+ 
+ 
+ A.The circumstances affecting the Applicant identified at paragraph 17 of these Reasons for Decision.B.The Applicant experienced neuropsychological malfunctioning in early 2005.C. The Applicant was able to negotiate and liaise with Centrelink between February and June 2005 relating to rehabilitation.D. The Applicant struggles financially.E. The Applicant was not on the receiving end of some maladministration on the part of Centrelink.
+ 
+
+84 The Tribunal then concluded, at [52]:
+ Having regard to these matters, and to the policy that special circumstances debt waiver should be reserved for the truly needy people in desperate financial circumstances, or those people whose circumstances are outside of the ordinary run of cases, the Tribunal considers that the circumstances of the Applicant are not so special as to justify waiver under sections 101 of the Families Assistance Administration Act or 1237AAD of the Social Security Act.85 This approach gives no insight into the member's reasoning process.86 Does this paragraph mean that the applicant is denied waiver because she is not a " truly needy person in desperate financial circumstances " , or that the waiver in her case is not justified because her "circumstances are outside the ordinary run of cases", or because "factors A, B, C, D, and E are not so special as to justify waiver"?87 Counsel for the appellant drew attention to the potential contradictions, without further explanation of the process undertaken by the Tribunal, within the list of factors above.By way of example, Ms Kidson argued that the appellant cannot know to what extent the finding in paragraph "C" negated the impact of the medical condition referred to in "B".88 I have already referred to the pretentious and contradictory expressions of the Tribunal's reasons.It is simply not possible to understand what the Tribunal has found, and the reasons for those findings.89 Having regard to the authorities set out above, the Tribunal's reasons and conclusions do not inform the parties and the public, in any meaningful way, of the manner in which the decision was arrived at; and, simply put, do not "... disclose its findings of fact, the evidence on which they were based and the logical process by which it moved from those findings to the result in the case."
+ 
+90 It follows from the above that, in my judgment, the reasons provided by the Tribunal in this case were not sufficient to discharge the obligation in s 43 of the AAT Act.The appellant therefore also succeeds on Ground 2.91 Accordingly, I order that the matter be remitted to the Tribunal for reconsideration according to law.The composition of the Tribunal on the remitter is a matter for the President of the Tribunal.92 I will hear the parties on costs.I certify that the preceding ninety-two (92) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Spender.Associate:
+
+Dated: 17 December 2008
+
+ Counsel for the Appellant: Ms N Kidson 
+ 
+ Solicitor for the Appellant: Legal Aid Queensland 
+ 
+ Counsel for the Respondents: Mr D Rangiah 
+ 
+ Solicitor for the Respondents: Australian Government Solicitor 
+
+ Date of Hearing: 19 August 2008 
+ 
+ Date of Judgment: 17 December 2008 
+
+ 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1923.html 
+ 
+ 

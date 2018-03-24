@@ -1,0 +1,18 @@
+indirect taxes
+goods and services tax (gst)
+a new tax system (goods and services tax) act 1999 (cth) (act)
+input tax credits
+applicant (axa), the representative member of gst group of companies
+chief operating company within gst group a life insurance company (nmla)
+nmla paid gst on certain general management expenses (gme)
+whether entitlement to input tax credits in respect of that gst
+not possible to attribute gme directly to particular supplies
+common ground that some gme related to input taxed supplies which "blocked" entitlement to input tax credits related to those supplies
+whether there should be apportionment on basis that a proportion of gme related to supplies that were not input taxed
+nmla invested in unit trusts which made supplies that were not input taxed
+trustees of the unit trusts were, in their personal capacities, companies within the gst group
+whether the unit trusts and the trustees of them in their capacity as trustees were members of the gst group as distinct from the trustees being members of that group in their personal capacities
+whether act permitted a "look through" approach
+"financial supply" defined to include an acquisition of units in a unit trust
+whether the requirement that nmla's deemed supply (being an acquisition supply) of the units be "for consideration" required that consideration must move to nmla for a service provided by it.
+tax
