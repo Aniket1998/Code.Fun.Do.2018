@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
+from django.http import Http404
 from django.template import loader
 import urllib.request as urllib2
 import json
@@ -25,22 +26,60 @@ def readmeview(request):
 
 
 def responseview(request):
+	if request.method != 'POST':
+		raise Http404('Wrong url accessed. Access the main page or the readme')
+	if 'myfile' not in request.FILES.keys():
+		raise Http404('You have not uploaded the file. Please go to the main page and then upload a file in txt format')
+	if request.FILES['myfile'].name.split('.')[1] != 'txt':
+		raise Http404('The file is not in text format. Please upload the file in proper format')
 	filetext = request.FILES['myfile'].read().decode('utf-8')
 	impwords = callapi(filetext)
 	name = request.FILES['myfile'].name.split('.')[0]
+	summary = prepsummary(filetext)
+	chatsummary = prepchatsummary(filetext)
+	chatshortsummary = prepchatshortsummary(filetext)
 	context = {
 		'filename' : request.FILES['myfile'].name.split('.')[0],
 		'realtext' : preprocess(filetext,impwords),
-		'summary' :  preprocess(summarize(filetext,word_count = len(filetext.split(' ')) * 0.2),impwords),
+		'summary' :  preprocess(summary,impwords),
 		'title' : 'Analysis of ' + request.FILES['myfile'].name.split('.')[0],
 		'chatkeywords' : parsekeywords(impwords),
-		'chatsummary' : preprocess(summarize(filetext,word_count = len(filetext.split(' ')) * 0.1),impwords),
-		'chatshortsummary' : preprocess(summarize(filetext,word_count = len(filetext.split(' ')) * 0.05),impwords),
-		'defaultmsg' : defaultmsg
+		'chatsummary' : preprocess(chatsummary,impwords),
+		'chatshortsummary' : preprocess(chatshortsummary,impwords),
+		'defaultmsg' : defaultmsg,
 	}
 	template = loader.get_template('legal/index.html')
 	return HttpResponse(template.render(context,request))
 
+def prepsummary(filetext):
+	sum = summarize(filetext,word_count=len(filetext.split(' ')) * 0.2)
+	if len(sum) < 1:
+		sum = summarize(filetext,word_count=len(filetext.split(' ')) * 0.3)
+	if len(sum) < 1:
+		sum = summarize(filetext,word_count=len(filetext.split(' ')) * 0.4)
+	if len(sum) < 1:
+		sum = summarize(filetext,word_count=len(filetext.split(' ')) * 0.5)
+	if len(sum) < 1:
+		sum = 'Sorry, the document is too small to be summarised'
+	return sum
+
+def prepchatsummary(filetext):
+	sum = summarize(filetext,word_count=len(filetext.split(' ')) * 0.1)
+	if len(sum) < 1:
+		sum = summarize(filetext,word_count=len(filetext.split(' ')) * 0.2)
+	if len(sum) < 1:
+		sum = summarize(filetext,word_count=len(filetext.split(' ')) * 0.3)
+	if len(sum) < 1:
+		sum = 'Sorry, the document is too small to be summarised further'
+	return sum
+
+def prepchatshortsummary(filetext):
+	sum = summarize(filetext,word_count=len(filetext.split(' ')) * 0.05)
+	if len(sum) < 1:
+		sum = summarize(filetext,word_count=len(filetext.split(' ')) * 0.1)
+	if len(sum) < 1:
+		sum = 'Sorry, the document is too small to be summarised further'
+	return sum
 
 def callapi(filetext):
 	data =  {
