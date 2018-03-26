@@ -6,8 +6,9 @@ import urllib.request as urllib2
 import json
 from gensim.summarization import summarize
 # Create your views here.
-abilities = "Brief you about the document<br>Describe it in a little more detail<br>Fetch you the important words in it<br>"
+abilities = "Brief you about the document<br>Describe it in a little more detail<br>Point the important words in it<br>"
 defaultmsg = "Hi! Have anything to ask about the document? I can<br>" + abilities
+rawstart = "Hi! Have anything to ask about the document/n/nI can brief you about the document, describe it in a little more detail, point the important words in it"
 def testview(request):
 	context = {
 		'page_title' : 'Legal Case Studies',
@@ -47,6 +48,11 @@ def responseview(request):
 		'chatsummary' : preprocess(chatsummary,impwords),
 		'chatshortsummary' : preprocess(chatshortsummary,impwords),
 		'defaultmsg' : defaultmsg,
+		'rawstart' : rawstart,
+		'rawchatsummary' : chatsummary,
+		'rawchatshortsummary' : chatshortsummary,
+		'rawchatkeywords' : impwords,
+
 	}
 	template = loader.get_template('legal/index.html')
 	return HttpResponse(template.render(context,request))
@@ -74,7 +80,9 @@ def prepchatsummary(filetext):
 	return sum
 
 def prepchatshortsummary(filetext):
-	sum = summarize(filetext,word_count=len(filetext.split(' ')) * 0.05)
+	sum = summarize(filetext,word_count=len(filetext.split(' ')) * 0.01)
+	if len(sum) < 1:
+		sum = summarize(filetext,word_count=len(filetext.split(' ')) * 0.05)
 	if len(sum) < 1:
 		sum = summarize(filetext,word_count=len(filetext.split(' ')) * 0.1)
 	if len(sum) < 1:
