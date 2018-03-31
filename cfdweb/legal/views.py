@@ -168,11 +168,11 @@ def extractdates(filetext):
 
 #change this URL before deploying
 def get_category(filetext):
-	r = requests.get(url = "http://legalcasestudies.azurewebsites.net/static/legal/naive.sav")
+	r = requests.get(url = "http://localhost:8000/static/legal/naive.sav")
 	naiv=pickle.loads(r.content,encoding='latin1')
 	vectorizer = HashingVectorizer(stop_words='english', alternate_sign=False,n_features=2**16)
 	categories=['aptels','cat','cic']
-	r2 = requests.get(url = "http://legalcasestudies.azurewebsites.net/static/legal/eg.txt")
+	r2 = requests.get(url = "http://localhost:8000/static/legal/eg.txt")
 	test_data=[]
 	test_data.append(filetext)
 	test_data.append(r2.text)
