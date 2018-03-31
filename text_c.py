@@ -40,6 +40,6 @@ naiv.fit(x,y)
 t_time=time()-t0
 print(t_time)
 
-naiv.predict(X[1])
+naiv.predict(x[1])
 
 pickle.dump(naiv,open("naive.sav","wb"))
