@@ -1,0 +1,10 @@
+part 2
+42 of the income tax assessment act 1997 (cth)
+"personal services income"
+taxpayer, a computer consultant
+taxpayer's services were made available to labour hire firms by a company of which taxpayer was sole shareholder, director and employee
+whether amounts paid by labour hire firms to taxpayer's company were made part of taxpayer's "statutory income" by pt 2
+42 of act
+whether overriding principle that there must be derivation by an entity beneficially, so that entity becomes the beneficial owner of the income, in order for income tax to be imposed
+held : there is no such overriding principle to which the statutory income provisions were subject, and the act made the amounts received by the company from the labour hire firm "statutory income" and therefore "assessable income" of the taxpayer.
+income tax

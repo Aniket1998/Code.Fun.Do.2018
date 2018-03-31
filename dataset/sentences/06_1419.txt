@@ -1,0 +1,163 @@
+
+ 
+ 1 On 19 September 2006 directions were made requiring the parties to these proceedings to file any application to amend any pleadings or to join any party on or before 25 September 2006.Consequential directions were made for the filing of written submissions.Two motions and an application by way of a minute for directions were filed as follows: 
+ 
+ 1.A motion by the University of Western Australia (the University) filed on 25 September 2006 for leave to file and serve an amended further substituted statement of claim (amended statement of claim).2.A motion by Sirtex Medical Limited (Sirtex) filed on 11 September 2006 for leave to amend its further amended defence and cross claim against Dr Gray and the Cancer Research Institute Incorporated (CRI).3.An application by Dr Gray for leave to: 
+ (i) bring a cross claim against Freehills; 
+ (ii) further amend his cross claim against the University.
+
+
+Argument on the applications proceeded on 25 October 2006 and, due to a video link failure, had to be adjourned and continued on 26 October 2006.
+ 2 In the course of argument I made the orders sought on the Sirtex motion giving it leave to amend its further amended defence and permitting it to cross claim against Dr Gray and CRI.Dr Gray's motion to join Freehills was adjourned for mention to 23 November 2006 at 9.00 am.A question about the release of funds by the Court appointed receiver of the CRI's Sirtex shares, to enable payment of legal fees, was stood over to 23 November 2006 at 9.00 am.I also made an order that the CRI receiver be released from the obligation of filing security under O 26 r 3.3 An adjustment of the timetable of existing directions to take account of delays occasioned because of a traffic accident involving the University's solicitor with carriage of the action was deferred until I had ruled on the University's proposed amendment to its statement of claim.That left the University's motion of 25 September 2006 to be determined.
+
+ The proposed amendments to the statement of claim 
+ 
+ 4 The University's motion for leave to amend its statement of claim was supported by an affidavit sworn by one of its solicitors, David Cox.The proposed amendment was described in the affidavit as making: 
+ 
+ 
+ '(a) claims in relation to a further invention (" SIRT 1" ) that the University alleges was developed or discovered by Dr Gray within the scope of his employment by the University; and 
+ 
+ (b) additional minor typographical and consequential amendments.' 
+ 
+ 
+ 
+ 5 As explained by Mr Cox, the University seeks to allege that the invention it calls SIRT 1: 
+ 
+ 
+ '(a) formed part of the other rights, interests and know how identified as the "Gray Assets" in a Deed of Assignment of Intellectual Property Rights made between Dr Gray and Sirtex Medical Ltd, made on or about 29 April 1997; and 
+ 
+ (b) was the subject of and described in: 
+ 
+ 
+ 
+ 
+ 
+ (i) provisional patent application number PR0983 dated 25 October 2000 in respect of an invention entitled "Polymer Based Radionuclide, containing Particulate material" ("PR0983"); 
+ 
+ (ii) Patent Cooperation Treaty (PCT) application number PCT/AU01/01370, entitled "Polymer Based Radionuclide, Containing Particulate Material" dated 25 October 2001 ("PCT/AU01/01370"), an application for patent that claims priority from PR0983.' 
+ 
+ 
+ 
+ 
+ 6 Mr Cox said that while reviewing discovery provided by Sirtex and documents obtained in answer to subpoenas issued by the University, a number of documents had been identified suggesting that SIRT 1 was developed or discovered by Dr Gray prior to April 1997.Four documents relied upon were described in the affidavit and exhibited to it.Before the inspection of these documents the University understood, based on information available to it, that the only product being commercialised by Sirtex and which the University now knows to be SIRT 1 was unprotected and in the public domain.He referred to an answer given by Sirtex on 18 August 2006 to a request for further and better particulars made by the University.In that answer, Sirtex said: 
+ 
+ 'The Sir-Spheres product (sic) which has been commercialised by Sirtex is a solid polymer micro-sphere with a coating of yttrium which was not the subject of an assignment of patent or patent applications to Sirtex and is not the subject of any granted patent.' 
+
+
+According to Mr Cox, the University also understood, based on the dates of the patent applications referred to earlier, that SIRT 1 was an invention developed subsequent to the SIR-Spheres invention (SIRT 2) which is pleaded in par 12 of the statement of claim and which was developed after Dr Gray ceased to be employed by the University.
+ 7 The proposed amendments begin with par 12 which would read, as amended: 
+ 
+ 'In the course of his work at the University, and within the scope of his employment by the University, Dr Gray developed and/or discovered certain inventions (the "SIRT-Spheres Inventions") which were patentable and commercially significant.Those inventions were comprised in the "Gray Assets" in the Deed of Assignment of Intellectual Property Rights between the First Respondent and the Second Respondent, made on or about 29 April 1997 and included: 
+ 
+ 
+ 
+ (a) the invention disclosed in patent application AU54724/94 entitled "Radioactive Particles for treatment of cancer" ("SIRT 2"); and 
+ 
+ (b) the invention disclosed in Australian Provisional Patent Application Number PR0983 dated 25 October 2000, entitled "Polymer Based Radionuclide Containing Microspheres" and in Patent Cooperation Treaty Application PCTAU/01/01370 entitled "Polymer based radionuclide containing particulate material" ("SIRT 1").' 
+ 
+ 
+ 8 Particulars are given as to SIRT 2 and then particulars as to SIRT 1 thus: 
+ 
+ 
+ '(a) SIRT 1 consists of a particulate material comprising a polymeric matrix and stably incorporated radionuclide and the production and use thereof and which is comprised in the invention developed and/or discovered by Dr Gray between 1984 and 1997, and disclosed in Australian Provisional Patent Application Number PR0983 dated 25 October 2000, entitled "Polymer Based Radionuclide Containing Microspheres" and Patent Co-Operation Treaty (PCT) application number PCT/AU01/01370 entitled "Polymer Based Radionuclide Containing Particulate Material".' 
+ 
+ 
+ 9 The proposed amended statement of claim would further allege, in par 14, that on or about 16 March 1999 Dr Gray caused or procured Sirtex to file, and Sirtex filed, Australian Provisional Patent Application PP9228 ('the First SIRT 1 Australian Application').A second SIRT 1 Australian Application was filed on or about 25 October 2000 in Australian Provisional Patent Application PRO983.Paragraph 15 would allege that the SIRT 1 applications were filed without the knowledge, approval or authority of the University and were in respect of a 'patentable invention developed and/or discovered while Dr Gray was an employee of the University'.10 In proposed par 16 it would be alleged that, by making and maintaining the SIRT 2 application and causing or procuring Sirtex to make each of the SIRT 1 applications, Dr Gray breached his fiduciary duties to the University.In par 16A it would be asserted that Sirtex was aware of the relevant facts and was knowingly concerned in Dr Gray's breaches of his fiduciary duties.Paragraph 17 would assert constructive trusts in relation to any rights or entitlements received by Dr Gray and Sirtex in relation to SIRT 2 and SIRT 1.11 In a new par 19A it would be alleged that, on or about 25 October 2001 Dr Gray caused or procured Sirtex to file and Sirtex did file the SIRT 1 PCT Application.Consequential allegations of breach of fiduciary duty by Dr Gray and knowing involvement in the breaches by Sirtex are made at proposed pars 19B and 20A.Other SIRT 1 patent applications are alleged in Canada, Europe and the United States of America in par 23A and breaches of fiduciary duty arising therefrom asserted against Dr Gray in par 23B.Sirtex's knowing involvement would be asserted in par 25A.The constructive trust of any right or entitlement arising from making those applications is to be pleaded in amended par 26.12 Some further amendment is proposed to par 42.This relates to the DOX-Spheres PCT application and incorporates particulars previously subjoined to par 36 as particulars (g)-(u).
+
+ Whether the amendments should be allowed 
+ 
+ 13 The University submits that the proposed pleading relating to SIRT 1 rests on substantially the same factual substratum as that supporting the existing claims.It says that answers given by Sirtex to its request for particulars dated 2 May 2006 did not disclose that: 
+ 
+ 1.SIRT 1 could not have been the subject of a patent assignment from Dr Gray because the patent application was made after both the date of the Deed and the public listing of Sirtex.2.SIRT 1 had not been the subject of any grant of patent at the time of the answer albeit it was the subject of a patent application.3.SIRT 1, albeit not specified, formed part of the rights in the Gray Assets.
+
+
+Before the inspection of the documents referred to in Mr Cox's affidavit, the University understood that SIRT 1 had been discovered after the SIR-Spheres Invention known as SIRT 2 and that SIRT 1 was developed after Dr Gray had ceased to be employed by the University.That understanding was based on the dates of the patent applications.
+ 14 The University submits that the amendments it proposes are necessary to determine all matters in issue between it and Dr Gray and Sirtex.It also notes that discovery by Sirtex has already been given in relation to SIRT 1.15 Dr Gray relies upon an affidavit of Cinzia Lee Donald sworn 16 October 2006 as establishing that patent registration for SIRT 1 has been finally refused by the United States Patent and Trade Mark Office (USPTO) on the ground of prior disclosure.To the extent that the University seeks an assignment of patent rights with respect to SIRT 1, it is said that the amendment is of no utility.There is no registered patent.To the extent that the application seeks damages in lieu of an assignment, the relief is unavailable if the invention is not patentable.16 A copy of the response to the SIRT 1 patent application by the USPTO is exhibited to the affidavit of Ms Donald.The Office notified Dr Gray's patent attorneys in the United States on 17 March 2005 that a number of claims in the application had been rejected as anticipated or obvious.Other claims were objected to as dependent upon rejected base claims but could be allowable if rewritten in an independent form.This action was described in the notice as 'final'.17 Sirtex also opposes the proposed amendment.However it takes a different stance as to the patentability of the invention claimed in the US patent application.The true position with respect to the United States application is that it remains pending and that Sirtex awaits further examination of the patent by the USPTO.Sirtex's position is supported by an affidavit sworn by one of its solicitors, Ms Turner.The affidavit exhibits correspondence indicating that Sirtex's Australian patent attorneys, Wray 2amp; Associates, instructed United States patent attorneys to file a Notice of Appeal against the decision of the USPTO.This had the effect of extending time for responding to the Final Office Action.A request for continued examination was lodged on 23 November 2005 and, according to information provided to Ms Turner by Wray 2amp; Associates, the application is still pending before the USPTO for the continued examination.18 The substantive basis upon which Sirtex opposes the amendment is that the relevant patent application was filed after any employment of Dr Gray by the University and after the assignment of other patents to Sirtex in April-May 1997.It also post-dated the public listing of Sirtex in August 2000.19 Sirtex rejects the contention by the University that the invention claimed in the new patent application was developed or discovered prior to April 1997.Sirtex's position is that the invention claimed in the patent application is novel and inventive as at its priority date of 25 October 2000.The invention must be understood by reference to the exact words of the claims set out in the patent application relevant to it.Sirtex says it is wrong to assume, as the University evidently does, that the invention as so claimed correlates to the product or technology referred to as 'SIRT 1' in the proposed pleading and the documents exhibited to Mr Cox's affidavit.20 Sirtex submits that unlike the patents currently included in the University's pleading, the new patent application has been the subject of significant commercialisation by Sirtex.It would follow that the University's proposed amendments will open a range of new factual issues.In so saying, Sirtex acknowledged that its view was that the additional allegations would not give rise to any further documentary discovery.21 Sirtex submits that the Court ought not to grant leave to the University to introduce the proposed amendments at this late stage of the litigation.Any disruption to the existing timetable should not threaten the current trial date of 12 March 2007.Sirtex would be prejudiced by any postponement of the trial because it would prolong the alleged commercial uncertainty as to the true ownership of its patents which have been created by the University's claim in its present form.22 In oral argument counsel for Dr Gray pointed to the previous form of par 12 of the statement of claim which was dealt with in my decision on 11 November 2005 --- University of Western Australia v Gray (No 2) [2005] FCA 1633.In that ruling I said (at [20]): 
+ 
+ 'Paragraph 12 of the substituted statement of claim does not plead the invention relied upon with sufficient precision to enable a precise plea to be made to it by way of defence.It is not enough to describe the invention in the broad terms adopted in the present case.The question of patentability at the time that the alleged invention was 'invented' could only be judged by formulating a notional specification and an invention or inventions in notional claims which could have been made at the time.Patentability can then be determined by, eg, testing the invention, as notionally claimed and properly construed by reference to the specification, against prior art to determine whether it would have been invalid for want of inventive step or novelty or on any other ground relating to patentability.' 
+
+
+The difficulty thus identified gave rise to a corresponding difficulty in the pleading in the defence to par 12.I suggested, inter alia, that if the University were content to rely upon the inventions as claimed in the claims set out in the patent for which Dr Gray had applied as reflecting what he had 'invented', then any defence on the ground that the invention was not patentable could be raised on conventional criteria narrower than those pleaded in the defence as it then stood.It is submitted, for Dr Gray, that the same problem that afflicted par 12 in the substituted statement of claim, afflicts the proposed amended par 12.In this case, however, the proposed amendment identifies the relevant invention by reference to the disclosure in the Australian provisional patent application, PRO983.
+ 23 Then it is said that the rejection of the patent application by the USPTO arose out of its prior disclosure in a paper published by Dr Gray and others at the University of Melbourne in 1982/1983.The paper dealt with resin micro-spheres as a delivery mechanism for the treatment of liver cancer.The SIRT 2 invention deals with ceramic micro-spheres.The introduction of SIRT 1 would take the inquiry back to 1983 and earlier and an inquiry into what was happening at the University of Melbourne prior to Dr Gray's employment at the University by reference to prior art there developed.24 In answer counsel for the University contends that the factual implications are not large.Nobody has suggested any witnesses that would need to be called beyond those identified and the various prior art papers pleaded against the University.25 In par 18 of Dr Gray's defence in answer to the existing par 12, Dr Gray says that at all material times prior to 1980 microparticle preparation incorporating radio active material to be used in the treatment of cancer was a concept in the public domain.This contention is particularised by reference to a number of articles published in scientific journals dating back to 1951.Some eight papers are identified.It is also asserted that before his employment by the University, Dr Gray carried out research into the use of micro-sphere and micro particle preparations incorporating radioactive material to be used in the treatment of cancer and primarily liver cancer and published his research.Particulars of the published research are given by reference to articles dating from 1982 to 1987.Some nine articles are cited.They include the article relied upon by the USPTO for the rejection of the patent application, namely Chamberlain M, Gray BN, Heggie JCP, Chmiel R, Bennett RC; Hepatic metastases: A physiological approach to treatment.British Journal of Surgery.1983, 70;596-598.26 In my opinion the proposed amendments are viable and are unlikely to unduly extend the scope of the factual inquiry.I do not see any basis upon which it could be suggested that the present trial dates should be affected as a result of these amendments.There will necessarily be an opportunity for the respondents to adjust their pleadings accordingly.I would need to be satisfied that any further discovery was in fact required.I will allow the amendments.
+
+
+ I certify that the preceding twenty-six (26) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice French.Associate:
+Dated: 1 November 2006
+
+
+ Counsel for the Applicant: Mr M Green and Mr D Pratt 
+ 
+ Solicitor for the Applicant: Jackson McDonald 
+ 
+ Counsel for the First Respondent: Mr M Bennett 
+ 
+ Solicitor for the First Respondent:
+
+Counsel for the Second Respondent: 
+
+Solicitors for the Second Respondent: 
+
+
+
+Counsel for the Third Respondent: 
+
+Solicitors for the Third Respondent: 
+
+Counsel for the Second Cross-Respondent: 
+
+Solicitor for the Second Cross-Respondent: 
+
+Counsel for the Receiver of the Sirtex Shares of the Third Respondent: 
+
+Solicitor for the Receiver of the Sirtex Shares of the Third Respondent: 
+
+Counsel for Freehills: 
+
+Solicitors for Freehills: Lavan Legal
+
+
+Mr J Elliott SC and Mr E Heerey
+
+
+Phillip Fox
+
+
+
+
+Ms YC Fang
+
+
+Tottle Partners
+
+
+Mr G Provan
+
+
+Guy Provan Solicitors
+
+
+Mr RLM McKenzie 
+
+
+
+McKenzie Moncrieff
+
+
+
+Mr B Dharmananda
+
+Mallesons Stephen Jaques 
+ 
+ Date of Hearing: 25 and 26 October 2006 
+ 
+ Date of Judgment: 1 November 2006 
+
+
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1419.html 
+ 
+ 

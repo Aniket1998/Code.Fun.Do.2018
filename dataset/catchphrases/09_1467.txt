@@ -1,0 +1,33 @@
+arrest
+meaning of the expression "the owner" in s 19(b) of the admiralty act 1988 (cth)
+9 of 10 shares in arrested ship registered on indian register of shipping in name of relevant person: 1 share registered in name of company of which director was managing director of relevant person
+whether 1 share held beneficially by registered shareholder or on resulting trust
+purchase initial ship in sole name of relevant person
+before completion relevant person procures amendment to purchase agreement to add nominee as additional purchaser
+evidence nominee given the one share
+arrest
+jurisdiction
+admiralty act 1988 (cth) s 19(b)
+"the owner" in s 19(b) means sole owner, thus not permitting arrest of sister ships when relevant person consisted of more than one person
+beneficial ownership sufficient to constitute ownership under s 19(b)
+arrest
+challenge to jurisdiction
+admiralty act 1988 (cth) s 19(b)
+plaintiff arrests ship as sister ship for general maritime claim
+relevant person owner of 9 of 10 shares in a ship registered in india
+other registered shareholder was stranger to plaintiff's claim
+whether relevant person was the owner of the ship
+relevant person gave 1 share in ship to other shareholder for no consideration before completion
+relevant person substantial company arranged all finance for purchase and managed ship as part of its business
+other shareholder never received any payment, other than credits in relevant person's accounts
+no explanation of, or direct evidence of reason for involvement of other shareholder
+relevant person, as sole owner, employed masters
+arrest
+meaning of "in control of" in s 19(a) of the admiralty act 1988 (cth)
+whether relevant person was "in control of" two other ships at the time plaintiff's general maritime claim under s 4(3)(f) arose for default in payment of hire by its subsidiary named as charterer in charterparties for those two ships
+whether side letter to charterparties providing that relevant person was ultimately responsible for true fulfilment of charterers' obligations put it in control of or made it charterer of the two ships under s 19(a)
+relevant person controlling appointment of masters, officers of chartered ships, their commercial operation and giving voyage instructions
+admiralty
+admiralty
+admiralty
+admiralty

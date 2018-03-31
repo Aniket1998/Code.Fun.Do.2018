@@ -1,0 +1,469 @@
+
+ Background and a short synopsis of contentions
+ In these proceedings, the applicant taxpayer ("Meridien") appeals under Part IVC of the Taxation Administration Act 1953 (the "Administration Act") against an objection decision of the respondent (the "Commissioner") of 14 January 2009 disallowing the taxpayer's objection of 10 October 2008 to a notice of assessment of GST "net income" (within the meaning of A New Tax System (Goods and Services Tax) Act 1999 (the "GST Act")) issued by the Commissioner on 19 September 2008 in respect of 12 "relevant periods" (also described in these reasons as the "GST periods") between 1 December 2005 and 31 January 2008.The relevant periods are identified at para 2 of the affidavit of Mr McCart, a director of the taxpayer, sworn and filed on 13 November 2009.During the GST periods, Meridien reported GST payable in respect of its supply of berths in a marina by way of 20-year leases and a supply related to an outgoings levy charged under the leases.The rental consideration payable under each lease for the entire 20-year term was paid as a single or "up-front" pre-payment to Meridien by each lessee.The GST reported by Meridien in respect of the 20-year leases was calculated on the basis that the value of the supply was reduced by 50% of the price that would otherwise apply (namely, the 20-year pre-payment in respect of 118 leases) in reliance upon the provisions of Division 87 of the GST Act.On 19 September 2008, the Commissioner issued a notice of assessment of the net amount of GST payable by Meridien on the supply of berths under the 118 leases in issue of $662,411.00, on the footing that GST was payable on the whole of the price of each supply (eg the whole of the lease pre-payment) and not simply 50% of that price.On 10 October 2008, Meridien objected to the assessment and on 14 January 2009, the Commissioner disallowed Meridien's objection in full.The only adjustments made by the Commissioner arising out of the audit of Meridien's Activity Statements for the period, were to the amount of GST payable in respect of the 118 20-year leases.The principal question for determination is whether Division 87 of the GST Act applies to each pre-payment (including outgoings, levies or maintenance fees) with the result that s 87-5 of the GST Act reduces the value of the supply by 50% of the price that would otherwise prevail, thus reducing the GST payable on the supply.The application of Division 87 to a relevant supply is said to bring about what has been described as "concessional" GST treatment.The central contentions of the taxpayer, put simply, are these.Meridien operates a marina complex known as "Horizon Shores Marina" located at Steiglitz near the Gold Coast in Queensland.Meridien acquired the marina as a going concern on 30 November 2005.The marina now consists of, among other things, 555 "wet berths" for ships, available for lease to the public.Since acquiring the marina, Meridien has entered into 118 long-term leases (that is, leases with a term of 20 years) of wet berths in the marina.There are five versions of the lease instrument.The foundation lease was adopted by Meridien in October 2006 and new versions were adopted in May 2007, November 2007, June 2008 and September 2008.Under the foundation lease, the permitted use of a wet berth was "a mooring berth for a private vessel".Although the foundation lease contains a prohibition upon the lessee (described in the lease instrument as the tenant) using the berth as a residence (cl 2.1(c)(iii)), the lessee was also required to comply with "Marina Rules" made by Meridien from time to time.Those rules recognised that although the lessee was permitted to use the berth to moor a vessel, the owner had to ensure that the vessel was not used as a "permanent place for human habitation", without "first obtaining the written consent of Meridien": cl 8.1.10, Marina Rules.Subsequent versions of the lease provided, at cl 2.1(d), that the tenant must not use the berth as a residence without obtaining the prior written consent of Meridien which would not be unreasonably withheld.Under each 20-year lease, the total rent payable for the entire term was payable in advance.Meridien contends that prior to the acquisition of the marina, some tenants of wet berths had taken up residence aboard vessels moored at leased berths.Such ship residents (including ship residents who are rental pool tenants from lessees) are called "Liveaboards" and Meridien charges them a Liveaboards "fee" to offset their demand for additional marina resources.Since acquisition of the marina by Meridien, between 24 and 28 Liveaboards have resided on vessels moored at leased berths during the period 1 December 2005 to 31 January 2008.These rental pool arrangements are explained at para [30] of these reasons.Meridien contends that it operates "commercial residential premises" for the purposes of the GST Act because it operates a "marina" at which "one or more of the berths are occupied, or are to be occupied, by ships used as residences": s 195-1.It says it supplies "commercial accommodation" as that term is understood in s 87-15 of the GST Act because it supplies under each lease and the Marina Rules, the "right to occupy the whole or any part of commercial residential premises".It says it provides that right to occupy wet berths as part of the marina on the footing that the lessee whether an individual or an individual in a particular capacity such as a trustee, or a corporation providing a right to occupy to individuals associated with it, is provided with the right to occupy for a continuous period of 28 days or more and thus, Meridien is providing "long-term accommodation" as that term is defined by s 87-20 of the GST Act.Meridien says the marina is operated "predominantly for long-term accommodation" as that term is understood by s 87-20(3) of the GST Act because at least 70% of those individuals who are provided with a "right to occupy" a berth in the marina are provided with that right for a continuous period of 28 days or more.It follows, it is said, that Meridien is engaged in a taxable supply of "commercial accommodation" that is provided in "commercial residential premises" that are "predominantly for long-term accommodation", and the commercial accommodation is provided to individuals either in their own right or in a particular capacity such as a trustee of a family trust or by reason of their association or connection with a corporation, as long-term accommodation, with the result that s 87-5 applies to reduce the value of the taxable supply by 50% of what would be the price of the supply if Division 87 of the GST Act did not apply, resulting in a reduced net price.The Commissioner contests Meridien's construction of the provisions of Division 87 and contends that Division 87 must be read and construed recognising its relationship with Division 40 of the GST Act in order to give coherence and purpose to the statutory scheme of either reducing by 50% the value of a taxable supply of long-term accommodation to individuals in commercial residential premises under Division 87, or, at the election of the supplier, input taxing under Division 40 a supply if it is a supply of residential premises by way of lease, hire or licence in circumstances where the supply is other than a supply of commercial residential premises or a supply of accommodation in commercial residential premises in the relevant circumstances; or the supply is of commercial accommodation and Division 87 would apply: s 40-35(1)(a) and (b).Similarly, because s 40-35(1A) addresses the input tax treatment of a supply of a berth at a marina by way of lease, hire or licence if the berth is occupied or is to be occupied by a ship used as a residence; and the supply is of "commercial accommodation" as that term is defined in s 87-15; and Division 87 would apply subject to s 87-25, the Commissioner contends that there is a symmetrical relationship between Division 40 and Division 87 which needs to be taken into account in giving a purposive construction to the provisions of Division 87.The Commissioner says the "right to occupy the whole or any part" of a marina contemplated by the definition of "commercial accommodation" in s 87-15 can only sensibly mean as an applied practical business matter, a right to occupy a berth at the marina with a ship on which a person resides or is to reside, in fact, rather than a simple right or entitlement to occupy.Further, the Commissioner says that the vast majority of the 118 leases were entered into prior to May 2007 on the terms of the foundation lease which contained a prohibition upon use of the vessel as a residence and, in any event, residential occupation of the vessel must be coterminous with the vesting of the right to occupy at the moment in time of the taxable supply.The factual maters
+ Meridien is the trustee of the Meridien Marinas Horizon Shores Unit Trust.Meridien was incorporated on 26 October 2005 for the purpose of acquiring and operating the Horizon Shores Marina complex at Steiglitz near the Gold Coast in Queensland.The acquisition involved the purchase of land (five lots) and buildings (such as an administration building and marina berths sales office) and other facilities such as hardstand areas comprising a shipyard of 17,200 square metres with a capacity for 65 boats.The acquisition also involved the purchase under a business contract of 28 October 2005 of a marina complex consisting of plant, equipment, dry land and areas described as "wet" land on which the marina was located.Those areas of marina wet land are described as "wet berths" where boats can be moored.At the time of acquisition the marina consisted of 500 wet berths.By early 2008, Meridien had installed 130 new wet berths and 75 unsuitable wet berths had been decommissioned with the result that 555 wet berths were available for lease to the public.Mr McCart gave evidence that these berths were leased for varying periods ranging from short term leases for one month to long term leases up to 20 years.At the date of acquisition by Meridien, 136 long term leases were in place.Between 30 November 2005 and "early 2008" Meridien entered into 118 long term leases of 20 years.These leases are the subject of these proceedings.The first lease instrument was adopted in October 2006 (the "Foundation Lease").The lease was registered in the Queensland Land Registry under the Land Title Act 1994 (Qld) as a lease of an interest in fee simple of part of the land upon which the marina is located.Each berth is an allotment of land on a subdivisional plan giving rise to an estate in fee simple.The allotment is inundated rendering it a "wet berth" in a marina complex.The description of the leased premises is by reference to a plan, with the words "also known as Berth #".The schedule describes the dimension of the berth and the rent per annum.Clause 1.2 provides that the lessee, described as the tenant, must pay the rent for the entire term of the lease to Meridien in advance on or before the commencement date of the lease.By cl 2.1(a), the lessee must only use the berth for the "Permitted Use".By cl 14.1, "Permitted Use' means the use of the berth for the purpose specified in Item 8 of the Reference Table and Item 8 describes the purpose as "mooring berth for a private vessel".The lessee may nominate only one boat or vessel to use the berth at any time: cl 2.1(b)(i).By cl 2.1(c)(iii), the lessee must not use the berth as a residence.Residence is an undefined term in the lease.By cl 2.3(d), the lessee must comply with the "Marina Rules" made by Meridien from time to time.By cl 5.6(a), Meridien may make Marina Rules as it considers appropriate having regard to the four categories of subject matter in cl 5.6(a).By cl 5.6(b), the Marina Rules bind the lessee when notice of them is given.By cl 5.6(c), the Marina Rules "must not conflict with [the lease] except to the extent to which [Meridien] has made them pursuant to a requirement of a Government Authority or of [Meridien's] mortgagee, in which case the Marina Rules will prevail to the extent of any inconsistency.By cl 5.7(a), the lessee must at all times observe and comply with the Marina Rules and by cl 5.7(b)(ii) a failure on the part of a lessee to observe and comply with the Marina Rules constitutes a breach of the terms of the lease as if the Marina Rules were contained in the lease as covenants with the Landlord.Mr McCart gave evidence that Meridien brought into existence a document described as "Marina Terms and Conditions" (the "Marina Rules") relating to, among other things, wet berths.There is no evidence of when the document was brought into existence.Only one version of the Marina Rules was put into evidence.The version is undated.It may not be the version that applies to the Foundation Lease.The document, to the extent that it applies to the Foundation Lease, changes the emphasis in the absolute prohibition on a lessee using a berth as a residence.It recognises by cl 1 that the terms apply to any agreement made between Meridien and a "boat owner" for the rental of a berth and the terms are taken to be incorporated in the agreement.Clause 2 describes "owner" as the party in Item 2 although the document does not contain a schedule of items.Presumably Item 2 is the boat owner.The reference to Item 2 is not a reference to Item 2 in the Reference Table to the schedule to the lease.Clause 2 recognises that "Permitted Use" means the mooring of a vessel at a berth.Clause 8 deals with "Use of Berth".It provides, among other things, that the owner must ensure that the vessel is moored within the boundaries of the berth and that the vessel is not used as a "permanent place for human habitation without first obtaining the written consent of [Meridien]".Accordingly, the lessee might seek a relaxation of the prohibition in the lease upon use of the berth as a mooring for a vessel as a residence by requesting Meridien's consent to the use of the vessel at its berth as a permanent place for human habitation.There may arguably be an inconsistency between the lease and the Marina Rules and if so, a question of paramountcy arises.The lease is the primary instrument governing the allocation of the rights and obligations of the parties.The Marina Rules are primarily the administrative or operational rules dealing with the day-to-day activities at the marina premises.However, the Marina Rules have been elevated by the lease instrument to the status of covenants of the lease in favour of Meridien.Two things should be noted.Firstly, as a question of construction of the two documents, the lease and the Marina Rules are not inconsistent.The prohibition cast upon the lessee of use of the berth as a mooring for a vessel for use as a residence or a place of human habitation remains a covenant of the lessee under both the lease and the Marina Rules although Meridien may, if it chooses, give its consent to the lessee to use the berth to moor a ship or vessel as a residence.Thus, the Permitted Use under the lease includes a use of a berth as a mooring for a vessel used as a residence if authorised by Meridien and the effect of the Marina Rules, elevated into the lease, is to extend the scope of the Permitted Use.Secondly, the requirement for first obtaining Meridien's consent in writing , is inserted solely for the benefit of Meridien and the requirement for writing might be waived as Meridien determines appropriate.Mr McCart says the Marina Terms and Conditions (the Marina Rules) are available to all marina berth tenants and the general public at the marina administration office.The second version of the lease was adopted in May 2007.In that version, cl 2.1(c)(iii) of the Foundation Lease was re-crafted and become cl 2.1(d) in these terms: 
+ 
+ 2.1(d) The Tenant must not use the Berth as a residence without obtaining the prior written consent of the Landlord which the Landlord will not withhold unreasonably if the Tenant complies with: 
+ 
+
+ 
+ 
+ (i) any laws or any requirements of a Government Authority that apply in relation to the use of the Berth as a residence; and 
+ 
+
+ 
+ 
+ (ii) the reasonable requirements of the Landlord regarding the use of the Berth as a residence.
+ 
+
+ Further changes not relevant in these proceedings were made to the lease instruments in November 2007, June 2008 and September 2008.The current version is September 2008.It contains cl 2.1(d).Annexed to the affidavit of Mr McCart sworn 17 July 2009 at "CRM11" is a bundle of documents consisting of a series of amendment schedules for each long-term lease in those cases where Meridien and the lessee have agreed to vary the terms of the lease document.The amendment schedules do not provide for any amendment of the clauses dealing with Permitted Use.At "CRM9" to Mr McCart's affidavit filed 20 July 2009, Mr McCart annexes a spreadsheet summary of the 118 long-term leases entered into by Meridien, showing each berth number, the lessee and the commencement and end dates of each 20-year lease.There are a range of individuals, trustees and companies as lessees.The parties agree that the segmentation is this: 38 lessees are corporations; two leases have been made with an individual and a company jointly; 26 leases are in favour of corporate trustees; two leases are made with an individual as a trustee; and 50 leases have been granted to individuals in their own right.Mr McCart has no personal knowledge, subject to the circumstances of use by Mr Jack Hutchinson concerning berth AO3 leased to J Hutchinson Pty Ltd, of the day-to-day exercise of a right to moor a vessel at any of the berths in the spreadsheet; whether lessees who are individuals reside or authorise others to reside on vessels moored at their berths; or, whether the other categories of lessees authorise any individuals to reside on vessels moored at their berths.Mr McCart says that marina berth tenants who choose to make their primary residence on their vessel while moored in a wet berth at the marina are called "Liveaboards".Since the acquisition of the marina by Meridien, there have been approximately 20 Liveaboards in the marina at any one time.At July 2009, there were 26 Liveaboards in the marina.Annexure "CRM1" to Mr McCart's affidavit sworn 27 November 2009 is a spreadsheet setting out the total number of Liveaboards on boats moored at the marina during the period 1 December 2005 up to and including 31 January 2008 across the 12 relevant periods the subject of these proceedings.There were approximately 56 Liveaboards in the marina throughout the entire period although the monthly average ranged between 24 and 28.For example, Clifford Wells was a Liveaboard in the marina for each of the 12 periods.So too were Clive Crosse, David Firth and Ian and Judy Gabriel, among others.Annexure "CRM1" also sets out the additional fees charged to those living onboard a vessel in a marina berth.Liveaboards are charged a separate and distinct onboard residence fee in consideration of the additional marina resources consumed by those living aboard a vessel moored at a berth.Mr McCart caused a spreadsheet summary, Annexure "CRM3" to his affidavit filed 13 November 2009, to be prepared that identifies for each of the 12 relevant periods between December 2005 and January 2008 the total berths in the marina; the number of rental agreements less than 28 days (short-term rentals); the number of long-term rental agreements (greater than 28 days); and the percentage of berths that are subject to long-term rental arrangements as a proportion of total berths rented in the marina.During the 12 relevant periods from December 2005 to January 2008, the total number of berths in the marina ranged from 451 to 532.In each of the 12 periods, the percentage of berths occupied whether under short-term or long-term rental arrangements ranged from 70% in December 2006 to 95% in January 2008.The number of berths occupied in each of the 12 periods on either a short-term or long-term basis ranged from 368 berths in December 2006 to 428 berths in January 2008.The number of short-term rentals in each period ranged from one berth in August 2007 to 10 berths in May 2007 and the number of occupied berths that were the subject of long-term leases in each period ranged from 362 berths in December 2006 to 426 berths in January 2008.Mr McCart says that the percentage of berths so occupied as a proportion of total berths rented on any basis was never less than 94.6% in any of the 12 relevant periods and ranged from 94.6% in December 2005 to 99.8% in August 2007.The spreadsheet at "CRM3" is a calculation of the percentage of long-term lease agreements as a proportion of total berths rented.The statistics do not reveal the percentage of long-term lessees who, in fact, reside on their vessels for periods of 28 days or more as a proportion of total berths rented to those who, in fact, reside on their vessels for any period.Meridien contends, in effect, consistently with its submissions, that such a statistic is irrelevant as the relevant matter is the percentage of long-term leases that confer "a right to occupy" a berth at the marina, as a proportion of total berths rented.Some of the long-term lessees have entered into a "letting agreement" with Meridien under which their leased berths are placed in a rental pool managed by Meridien.An example of such an agreement is Annexure "CRM15" to the affidavit of Mr McCart sworn 27 November 2009.Annexure "CRM15" is a copy of a Letting Agreement between Meridien and Michelle Leanne Mitrovski in respect of Berth 21.Ms Mitrovski is noted on the schedule at "CRM9" of the affidavit of Mr McCart sworn 17 July 2009 as the long-term lessee of Berth B21.Under the Letting Agreement, Ms Mitrovski exclusively appointed Meridien (cl 2.1) for the letting period from 1 January 2008 to 31 December 2008 (and any extension of that period) to manage Berth B21 and exercise "absolute control" over the berth as the lessee's duly authorised agent for the purposes of negotiating and entering into rental arrangements in respect of the berth and to allocate the use of the berth to visitors to the marina on a temporary or intermittent basis and levy such rent as is commonly charged by Meridien for the temporary or intermittent renting of berths within the marina complex from time to time.Meridien is, as manager, entitled to an administrative charge of 10% of the gross rent collected and received by it for the letting of the berth.Some of the lessees who have entered into a letting agreement, have also entered into a rental guarantee deed, usually for 24 months, by which Meridien guarantees to pay an agreed amount to a lessee and retains itself the gross rentals from letting the lessee's berth through the letting pool.Mr Shane Hay is the general manager of the marina.He has held that position since September 2004 and commenced employment at the marina in July 2003.Mr Hay says he is intimately familiar with the manner in which tenants use the marina as he lived in a house at the marina from early 2005 until early 2007 and he is responsible for twice-weekly inspections of the marina, called "dock walks".The aim of the dock walks is, in part, to gather information about daily happenings at the marina; the vessels moored at berths; and whether tenants are living aboard vessels.Mr Hay estimates that more than 90% of Liveaboards use houseboats which are permanently moored at berths in the marina, as residences.The remainder use converted trawlers, yachts or cruisers.Mr Hay has annexed to his affidavit photographs of 12 examples of vessels used by Liveaboards in the marina some of which have been used by Liveaboards since Mr Hay commenced employment at the marina in July 2003.It is common ground that from 1 December 2005 Meridien was registered for GST purposes pursuant to subdivision 25-A of the GST Act.It is also common ground that Meridien reports GST on a monthly basis and accounts for GST on an accruals basis.In relation to each relevant month, Meridien treated the consideration it received from the supply of marina berths under long-term leases, including that received under the 20-year leases, together with the consideration it received as maintenance fees under those leases, as consideration for taxable supplies for GST purposes.It is also common ground that Meridien elected to apply s 87-5 of the GST Act so that it included only 50% of the value of those supplies in its Activity Statement for each relevant month.I find as facts, those matters of fact recited at paras 9 to 32.I find that there is no evidence that establishes that any of the berths leased to the lessees under the 118, 20-year leases entered into by Meridien were occupied by a ship used as a residence or to be used as a residence, by any of those lessees , subject to the evidence of short-term stays by Mr Jack Hutchinson on his vessel from time to time.I further find that there is no evidence that establishes that any of the Liveaboards (see "CRM1", McCart affidavit, 27 November 2009; "CRM9", McCart affidavit, 17 July 2009; evidence generally) is a lessee under any of the 118, 20-year leases.I find that some of the long-term lessees have placed their leased berths in the rental pool and some of those berths have been rented to individuals who have moored ships or vessels at berths in the marina for use as residences for 28 days or more.The Commissioner contends that there is no evidence of Meridien providing consent in writing to the 118 lessees under the long-term leases, to use their berths as residences.In written submissions, Meridien contended that of the 254 long-term lessees of berths in the marina, 151 lessees (that is, 59.4%) had entered into letting agreements with Meridien under which their leased berths had been placed in the rental pool managed by Meridien.Some of those lessees were said to have also entered into the rental guarantee deed arrangements.In addition, Meridien publishes a "wet berth storage" price list which identifies the pricing arrangements for "Live-aboards".It says: 
+ 
+ Live-aboards strictly by arrangement: $190 per month --- no pets 
+ 
+
+ The price list also sets out categories of "stay" in these terms: 
+ 
+ daily: $55 weekly: $198 (over-width charges also apply to casual stays) 
+ 
+
+ I am satisfied on the balance of probabilities that long-term lessees of marina berths may elect to place their berths in a rental pool in accordance with the letting agreement arrangements and that some unidentified and undetermined number of lessees who have taken up that opportunity have also elected to enter into the rental guarantee deed arrangements.I find that Meridien has given its consent to those long-term lessees who have elected to place their berths in the rental pool, for use of the berth for the mooring of a vessel for use as a residence as, at any moment in time, the lessee's berth might be rented to a person for such use in accordance with the published Liveaboard arrangements available at the marina.The lessee's berth may also be rented simply for use as a mooring for a vessel without any residential use by anyone.However, since there is a possibility that the berth may be the subject of a mooring of a vessel for residential use (on either a short-term or long-term basis), Meridien must be taken to have consented to such use in respect of those lessees who have elected to enter the rental pool.Meridien has a commercial interest in bringing such berths within the rental pool.The rental pool arrangements are managed by Meridien and it derives management fees from doing so.A more difficult question arises in relation to whether those members of the cohort of lessees represented by the 118, 20-year leases, who have not chosen to become members of the rental pool, have acquired a right to occupy a berth with a vessel or ship for use as a residence or for the purpose of human habitation.Clause 8 of the Marina Rules (which are incorporated within the Foundation Lease) is not qualified by the notion that Meridien's consent will not be unreasonably withheld.Nevertheless, it seems to me that the provision should be read and construed as incorporating an obligation that Meridien's consent will not be unreasonably withheld.The two compliance qualifications ultimately adopted in cl 2.1(d) of the second version of the lease referred to in these reasons ought to be regarded as factors also influencing the determination of whether, in any case, Meridien's consent has been unreasonably withheld.Even assuming that construction, however, a long-term lessee does not acquire a right to occupy a berth with a vessel for use as a residence or for the purpose of human habitation unless and until the lessee obtains Meridien's consent.No right to occupy for such a purpose crystallises until the consent is obtained which would then elevate such use to a "Permitted Use" for the purposes of the foundation lease, incorporating the Marina Rules; and any subsequent version of the lease.It seems to me that, those long-term lessees who have taken up the rental pool opportunity involving the potential for "Liveaboard" use in accordance with the published "Wet Berth Storage Price List" enjoy a consent or permission, either actually or constructively, from Meridien for the use of their berths for the mooring of a vessel for use as a residence (not necessarily by them) notwithstanding that any particular transactional rental of a berth from the pool, from time to time, may simply involve use of the berth for the mooring of a vessel.The consent given to those long-term lessees is conditional only, that is, conditional upon their placing their berths in the rental pool.The difficulty, however, is this.At para 26 of the applicant's outline of submissions reference is made to 151 long-term lessees having entered into letting agreements with Meridien to place their berths in the rental pool.The reference is supported by footnotes 20 and 21 which refer to the affidavit of Mr McCart dated 26 November 2009.However, Mr McCart's November affidavit is sworn and filed 27 November 2009.In the course of giving evidence, Mr McCart had with him and referred to a copy of his November affidavit which he described as his affidavit dated 26 November 2009.In the course of the hearing, I pointed out that Mr McCart's affidavit is sworn and filed 27 November 2009.Mr McCart was asked whether the version of the affidavit he had with him was in the same terms as his affidavit in evidence, sworn 27 November 2009.He said that it was.The affidavit of 27 November 2009 does not refer to 151 long-term lessees having brought their berths within the rental pool.On 16 December 2009, the Court requested the applicant's advisers to indicate a source of the reference in the evidence of Mr McCart to 151 long-term lessees placing their berths within the rental pool.On 17 December 2009, the applicant's lawyers wrote to the Court advising that the reference to 151 cases of tenants of 20-year lessees entering into letting agreements for their berths with Meridien was based on an earlier draft of Mr Cart's affidavit of 27 November 2009 (dated 26 November 2009) and therefore "should be disregarded".I accept entirely that this anomaly is simply due to the settling of the final form of Mr McCart's affidavit ultimately sworn and filed on 27 November 2009.If the evidence had demonstrated that 59.4% of the long-term lessees of marina berths had elected to place those berths within the rental pool arrangements, an argument might have arisen that an inference ought to be drawn that the remaining cohort of long-term lessees enjoy an implied or constructive permission from Meridien to use their berths as a residence or for human habitation.However, there is no evidence of which long-term lessees or how many of them elected to place their berths within the rental pool.It is not possible to say which long-term lessees have obtained the actual or constructive consent of Meridien for that use.In any event, since the consent is directly related to and conditional upon entry of the berth into the rental pool, an inference as to the remaining members of the cohort would be unlikely to be drawn.Moreover, Mr McCart has not given evidence that Meridien has granted its consent to all of the 118, 20-year lessees, to use their berths for the mooring of a vessel for use as a residence or for human habitation thus bringing each of the 118 long-term leases within the Permitted Use.I infer that those lessees within the cohort of 118, 20-year lessees, who have not brought their leases within the rental pool, do not have the consent of Meridien to use their berths for the mooring of a ship for use as a residence or human habitation, in the absence of any evidence that Meridien has given its consent, which is expressly required.Accordingly, the evidence is confined to establishing that each of the 118, 20-year long-term lessees, has acquired a right to occupy their berths for the mooring of a vessel and, in respect of an unidentified and unparticularised number of those long-term lessees, Meridien has given its consent for the use of their berths within the rental pool for use as a mooring for a vessel for use as a residence or for human habitation, subject to the transactional arrangements which may be put in place from time to time in the management of the rental pool.General approach
+ The general approach to the construction of the provisions of the GST Act is not in controversy between the parties except as to one matter.In HP Mercantile Pty Ltd v Commissioner of Taxation (2005) 143 FCR 553, Hill J observed that the GST Act should be construed in a practical and common sense way and at [44], Hill J (Stone and Allsop JJ agreeing) said this: 
+ 
+ It is clear, both having regard to the modern principles of interpretation as enunciated by the High Court in cases such as CIC Insurance Ltd v Bankstown Football Club Ltd (1997) 187 CLR 384 and s 15AA of the Acts Interpretation Act 1901 (Cth) that the court will prefer an interpretation of a statute which would give effect to the legislative purpose, as opposed to one that would not.This requires the Court to identify that purpose, both by reference to the language of the statute itself and also any extrinsic material which the Court is authorised to take into account.
+ 
+
+ In Saga Holidays Ltd v Commissioner of Taxation (2005) 149 FCR 41, Conti J observed that a contextual consideration in construing the GST Act is that GST is a tax on businessmen to be assessed and paid by businessmen and to be administered and interpreted in accordance with the understanding of businessmen.In Saga Holidays Ltd v Commissioner of Taxation [2006] FCAFC 191; (2006) 156 FCR 256 (Gyles, Stone and Young JJ), Stone J (Gyles J agreeing) made these observations at [29] --- [30]: The Court has tended to adopt a purposive approach to the interpretation of the GST Act, rejecting strict grammatical analyses in favour of a consideration not only of the syntax but also of "the policy and the surrounding legislative context" of the relevant provision; HP Mercantile Pty Ltd v Commissioner of Taxation (2005) 143 FCR 553 at [66].Consideration of these aspects of the GST Act has [led] to the tax being described as "a practical business tax"; Stirling Guardian Pty Ltd v Commissioner of Taxation (Cth) (2005) 60 ATR 502 at [39].The description is appropriate because it draws attention to two related aspects of the tax.The fact that liability to pay the tax is imposed at various stages of the supply chain means that it is a tax on business but, importantly, one that is designed, where practicable, to quarantine business from the ultimate burden of the tax.This and other aspects of the tax legitimately form part of the context in which the language of the GST Act is interpreted and explains, at least in part, why the description "a practical business tax" seems to be appropriate.This does not mean, however, that there is some special canon of construction [emphasis added] that should be applied when interpreting the GST Act.The purposive approach to interpretation, of its nature, takes account of the context of the GST Act and the phrase, "a practical business tax" is a reference to that context, which as the Full Federal Court observed in Chaudhri v Commissioner of Taxation (2001) 109 FCR 416 at [6]: 
+ 
+ 
+ ... has the wide meaning which extends to the legislative history, the Parliamentary intention and the mischief to which a particular provision has been directed as well as the narrower meaning which would dictate reading the words to be construed by reference to the immediately surrounding or otherwise related provisions.
+ 
+
+ Views to the same effect were expressed in Saga Holidays by Young J at [70].This approach to construction is an applied example of the Court's role in seeking to adopt a broader purposive approach to interpretation consistent with Newcastle City Council v GIO General Ltd (1997) 191 CLR 85; CIC Insurance Ltd v Bankstown Football Club Ltd (1997) 187 CLR 384; Project Blue Sky Inc v Australian Broadcasting Authority (1998) 194 CLR 355 and Network Ten Pty Limited v TCN Channel Nine Pty Limited (2004) 218 CLR 273.The approach to construction involves examining the legislation in its overall context to isolate the statutory purpose sought to be served by the Act in question, at the outset.The Court will seek to identify the objects of the Act and, where relevant, the particular problem or vice an Act might be seeking to address as an expression of the Parliament's solution to a particular problem.Plainly, the legislative instrument ought to be approached on the footing that the Parliament adopted the particular provisions in the Act so as to give effect to the statutory goals.Thus, the meaning attributed to the provisions, where possible, ought to maintain the unity of purpose of the statutory instrument.Nevertheless, the actual language selected by the Parliament is critical and must be examined, in context, so as to give meaning to each word of the provisions in question whilst striving to avoid a construction which irrationally constrains the field of operation of the relevant provisions or renders a particular provision of no practical effect ( Project Blue Sky ).The point of departure between the parties on the question of construction is whether the reference to "concessionary treatment" in para 6.135 of the Explanatory Memorandum for the 1998 Bill explaining the intersection between Divisions 40 and 87 of the GST Act, and in particular the intended operation of Division 87 of the GST Act, imports a clear purpose of conferring beneficial treatment upon a supplier of commercial accommodation provided in commercial residential purposes otherwise meeting the statutory integers of s 87-5 of the GST Act.The applicant contends that a purposive construction should embrace a beneficial construction which seeks to make practical the concession conferred by Division 87 and thus an unduly technical or constraining approach to the language of Division 87 ought not to be adopted as such an approach would frustrate the intention of the legislation.The respondent contends that the treatment adopted in Division 87 of the GST Act is not concessional or concessionary in any beneficial sense but is simply, administratively concessional, in the sense that the division provides the taxpayer with an opportunity of avoiding the difficulties of apportionment and calculation of input tax credits in the context of providing long-term accommodation in commercial residential premises mixed with other supplies where input tax credits would need to be differentiated between the various categories of supply.Part 1: The structure and context of the legislation - Overview
+ GST is described in the Explanatory Memorandum for A New Tax System (Goods and Services Tax) Bill 1998 (the "1998 Bill") in explanation of the 1998 Bill on introduction into the House of Representatives, as a broad-based indirect tax on the consumption of most goods and services (and some other things) in Australia.GST is a tax imposed on supply (leaving aside the rules in relation to importation) except to the extent that the supply is input taxed (leaving aside a "GST -free " supply).GST is payable, by s 7-1 of the GST Act, on "taxable supplies".Section 9-5 provides that "you" make a taxable supply if "you" make the supply for consideration; the supply is made in the course or furtherance of an enterprise carried on by "you"; the supply is connected with Australia; and, "you" are required to be registered under the Act.However, the supply is not a taxable supply to the extent that it is "input taxed": s 9-5.The reference to "you" in s 9-5 or otherwise in the GST Act, is a reference to "entities generally": s 195-1.An entity means, among other things, an individual; a body corporate; a partnership; or trust: s 184-1.A supply is any form of supply whatsoever including the grant of a right and a grant of real property: s 9-10.Consideration includes any payment: s 9-15.An enterprise includes any activity or series of activities done in the form of a business: s 9-20.A supply is "input taxed", relevantly, if it is input taxed under Division 40; or, the supply is a supply of a right to receive a supply that would be input taxed under Division 40: s 9-30(2).A person who makes a taxable supply must pay the GST arising on that supply: s 9-40.The GST Act recognises that enterprises make and sell goods, services and things in the course of engagement with an upstream supply chain.The supplier to an enterprise will include an amount of GST in the price of things (inputs) supplied to that enterprise and account to the Commissioner for the GST, which is done by accounting for the net amount of GST, input tax credits and adjustments, attributable to the relevant tax period.The enterprise will normally be entitled to an input tax credit from the Commissioner for the amount of the upstream GST included in the input supply price.The enterprise will normally include an amount of GST in the supply price to its consumer and similarly account to the Commissioner for the amount of the GST.However, some supplies such as some financial supplies (subdivision 40-A of the GST Act); the supply of residential premises for rent (subdivision 40-B); the sale of residential premises (subdivision 40-C); the supply of precious metals (subdivision 40-D); the supply of food through school tuck-shops and canteens (subdivision 40-E); and supplies in connection with fundraising events conducted by charitable institutions (subdivision 40-F), are "input taxed" under Division 40 and thus the supply is not a "taxable supply" under s 9-5 with the result that no GST is payable on the supply because s 7-1 has no application.If a supply is input taxed under Division 40, no GST is payable on the supply to the consumer and the supplier cannot claim input tax credits for the GST paid to upstream suppliers on the various business inputs acquired by the enterprise in making, producing and providing the relevant supply.The enterprise simply pays the GST to the upstream supplier who accounts for the tax to the Commissioner in the way described earlier.The history of the relevant provisions of the GST Act
+ The provisions relevant to the resolution of these proceedings have the following contextual history.Part 2: The relevant provisions of the GST Act as enacted in 1999
+ The Explanatory Memorandum for the 1998 Bill explains the operation of subdivision 40-B of the Bill concerning the supply of residential premises, in these terms: 
+ 
+ 5.164 When you supply residential premises such as houses and flats, the supply will be input taxed to ensure comparable treatment with owner occupiers.No GST will be payable on the supply of residential premises and you are not entitled to input tax credits for your acquisitions that relate to the supply.However, the residential premises will only be input taxed to the extent that the premises are to be used predominantly for residential accommodation.For example, if you have a flat on top of a shop, the supply of the shop will be taxable.
+ 
+
+ 
+ 
+ 5.165 The supply of residential premises will be input taxed whether you receive residential rent because the residential premises are supplied by lease, hire or licence; or ... 
+ 
+
+ Section 40-35(1) of the GST Act was in these terms: 
+ 
+ 40-35 Residential rent 
+ 
+
+ 
+ 
+ (1) A supply of premises that is by way of lease, hire or licence (including a renewal or extension of a lease, hire or licence) is input taxed if: 
+ 
+
+ 
+ 
+ (a) the supply is of residential premises (other than commercial residential premises); or 
+ 
+
+ 
+ 
+ (b) the supply is of commercial accommodation and Division 87 (which is about long-term accommodation in commercial premises) would apply to the supply but for a choice made by the supplier under Section 87-25.
+ 
+
+ 
+ 
+ (2) However: 
+ 
+
+ 
+ 
+ (a) the supply is input taxed only to the extent that the premises are to be used predominantly for residential accommodation; and 
+ 
+
+ 
+ 
+ (b) the supply is not input taxed under this section if the lease, hire or licence, or the renewal or extension of a lease, hire or licence, is a long-term lease.
+ 
+
+ The term "residential premises" was defined in s 195-1 of the GST Act to mean "land or a building occupied or intended to be occupied as a residence , and includes a floating home" [emphasis added].The term "land" in this definition in conjunction with the notion of occupation or intended occupation as a residence, has been held to mean land capable of providing some shelter and basic living facilities: South Steyne Hotel Pty Ltd v Commissioner of Taxation (2009) 71 ATR 228; South Steyne Hotel Pty Ltd v Federal Commissioner of Taxation [2009] FCAFC 155.The notion inherent in the description "residential premises" was occupation as a residence or an intention to occupy as a residence.Section 40-35(1)(a) expressly excluded "commercial residential premises", from input tax treatment of residential premises.The GST Act as enacted defined the term "commercial residential premises" thus: 
+ 
+ (a) a hotel, motel, inn, hostel or boarding house; or 
+ 
+
+ 
+ 
+ (b) premises used to provide accommodation in connection with a school; or 
+ 
+
+ 
+ 
+ (c) a ship that is mainly let out on hire in the ordinary course of a business of letting ships out on hire; or 
+ 
+
+ 
+ 
+ (d) a ship that is mainly used for entertainment or transport in the ordinary course of a business of providing ships for entertainment or transport; or 
+ 
+
+ 
+ 
+ (e) a caravan park or camping ground; or 
+ 
+
+ 
+ 
+ (f) anything similar to residential premises described in paragraphs (a) to (e) 
+ 
+
+ 
+ 
+ However, it does not include premises to the extent that they are used to provide accommodation to students in connection with an education institution that is not a school.
+ 
+
+ Premises such as a hotel, motel, inn, hostel, boarding house, a caravan park or anything "similar to residential premises" falling within (a) to (e) of the definition, comprehended premises incorporating a facility for residential occupation associated with some other activity on or in connection with the premises and in some cases included a multiplicity of places within the premises capable of residential occupation.The statutory characterisation of premises as commercial residential premises suggested residential use as part of a related commercial activity.So far as "residential premises" were concerned, the Federal Court per Dowsett, Hely and Conti JJ in Marana Holdings Pty Ltd v Commissioner of Taxation [2004] FCAFC 307; (2004) 141 FCR 299, in construing the terms "residence" and "reside" concluded that those terms suggested a permanent, or at least long-term, commitment to dwelling in a particular place.Amendments to the GST Act, mentioned later, sought to broaden the meaning of those terms beyond that understanding.Although the supply of commercial residential premises was taken outside the scope of residential premises, for input tax treatment under s 40-35(1)(a), the supply of commercial accommodation was treated as input taxed and thus not a taxable supply.Under s 40-35(1)(b), a supply "of premises" by lease, hire or licence was input taxed if the supply was of "commercial accommodation" and Division 87 would apply to the supply but for a choice by the supplier under s 87-25 of the GST Act.The term "commercial accommodation" was defined by s 87-15 in these terms: 
+ 
+ Commercial accommodation means the right to occupy the whole or any part of commercial residential premises, including, if it is provided as part of the right so to occupy, the supply of: 
+ 
+
+ 
+ 
+ (a) cleaning and maintenance; or 
+ 
+
+ 
+ 
+ (b) electricity, gas, air-conditioning or heating; or 
+ 
+
+ 
+ 
+ (c) telephone, television, radio or any other similar thing.
+ 
+
+ The supply of commercial accommodation was defined in terms of the supply of a right to occupy the whole of the commercial residential premises (for example, all of the rooms in the motel; or, the premises used to provide accommodation in connection with a school) or any part of those commercial residential premises (for example, a room in a motel or inn).Under s 40-35(1)(b) the relevant supply was not simply a supply of commercial accommodation (subject to the second limb of the section) but rather a supply of premises if the supply of those premises was "of commercial accommodation", that is, a supply of premises coupled with a right.The question was whether there is a supply of premises that confers a right to occupy the whole or any part of particular premises described as commercial residential premises.Section 40-35(1) as framed drew an apparent distinction between the supply of residential premises (exclusive of commercial residential premises) characterised by occupation or intended occupation as a residence on the one hand; and the supply of premises characterised by something apparently less immediate, namely, a right to occupy the whole or any part of the premises, on the other hand.The second limb of s 40-35(1)(b) asked whether Division 87 would apply to the supply but for the supplier exercising a choice under s 87-25.Division 87 addresses, according to its heading, "Long-term accommodation in commercial residential premises" and recites, "Long-term stays in commercial residential premises are given a lower value than would otherwise apply, reducing the amount of GST payable".The Division engages a "taxable supply" of commercial accommodation of a particular character in particular circumstances and selects that class of taxable supply for a 50% reduction in the value of the supply.If the statutory integers defining the class of taxable supply attracting the operation of s 87-5 are not engaged, the "taxable supply" will attract GST in full.If Division 87 does apply to a taxable supply of commercial accommodation, the supplier may choose not to apply the division to any such supplies.If the supply is of commercial accommodation and Division 87 would apply and the supplier has elected under s 87-25 not to apply Division 87, the supply will be input taxed to the extent of that supply.The supplier would then be required to isolate all of the input tax credits referable to other features of a taxable supply associated with the input taxed supply, in determining the net amount of the supplier's liability to the Commissioner.The supplier might, however, choose to apply Division 87 provided the statutory integers are properly engaged.The Explanatory Memorandum for the 1998 Bill explains the intersection between Division 40 and Division 87 in these terms: 
+ 
+ Long term commercial accommodation --- Division 87 
+ 
+
+ 
+ 
+ 6.134 If long term accommodation was input taxed like the supply of residential rent (see 5.164 [reproduced at [38]), the supplier of the accommodation would have to apportion input tax credits between that part that relates to the residential accommodation and that part that relates to services.
+ 
+
+ 
+ 
+ 6.135 To avoid this and make the calculation easier, a concessionary treatment of long-term commercial accommodation is given under Division 87 .
+ 
+
+ 
+ 
+ 6.136 If you supply accommodation to an individual for more than 27 days and your premises are predominantly for long term accommodation (see 6.141), the value of the supply of commercial accommodation is 50% of the price if this Division did not apply, from the start of the stay.Section 87-5.
+ 
+
+ 
+ 
+ 6.137 If you supply accommodation to an individual and your premises are not predominantly for long term accommodation, GST is payable on the full value of the supply for the first 27 days.During the remainder of the stay (if any), the value of the supply of commercial accommodation is 50% of the price if this Division did not apply.Section 87-10.
+ 
+
+ 
+ 
+ 6.138 The reduced value of the supply applies only to supplies of "commercial accommodation".Commercial accommodation is: 
+ 
+
+ the right to occupy the premises; and any of the following if they are provided as part of that right:
+ cleaning and maintenance; electricity, gas, air-conditioning or heating; and telephone, television, radio or any other similar thing.
+ 
+ Section 87-20.
+ 
+
+ 
+ 
+ 6.139 You must charge GST on the full value of supplies of incidental goods and services such as meals, drinks, laundry and service charges.
+ 
+
+ 
+ 
+ 6.140 Section 195-1 defines commercial residential premises as, amongst other things, hotels, motels, inns, hostels, boarding houses or camping grounds.Premises used to provide accommodation in connection with primary or secondary schools only are also included in the definition.
+ 
+
+ 
+ 
+ 6.141 Subsection 87-15(3) sets out when commercial residential premises are predominantly for long term accommodation.You provide commercial residential premises predominantly for long term accommodation where at least 70% of the individuals who you provide with commercial accommodation in the premises are provided with commercial accommodation for a period of 28 days or more.
+ 
+
+ The provisions of the GST Act that were the subject of those explanatory statements were these: 
+ 
+ Division 87 --- Long-term accommodation in commercial residential premises 
+ 
+
+ 
+ 
+ 87-1 What this Division is about 
+ 
+
+ 
+ 
+ Long-term stays in commercial residential premises are given a lower value than would otherwise apply, reducing the amount of GST payable.
+ 
+
+ 
+ 
+ 87-5 Commercial residential premises that are predominantly for long-term accommodation 
+ 
+
+ 
+ 
+ (1) The value of a taxable supply of commercial accommodation that: 
+ 
+
+ 
+ 
+ (a) is provided in commercial residential premises that are predominantly for long-term accommodation; and 
+ 
+
+ 
+ 
+ (b) is provided to an individual as long-term accommodation; 
+ 
+
+ 
+ 
+ is 50%, or such other percentage as is specified in the regulations, of what would be the price of the supply if this Division did not apply 
+ 
+
+ 
+ 
+ (2) This section has effect despite section 9-75 (which is about the value of taxable supplies).
+ 
+
+ 
+ 
+ 87-10 Commercial residential premises that are not predominantly for long-term accommodation 
+ 
+
+ 
+ 
+ (1) The value of a taxable supply of commercial accommodation that: 
+ 
+
+ 
+ 
+ (a) is provided in commercial residential premises that are not predominantly for long-term accommodation; and 
+ 
+
+ 
+ 
+ (b) is provided to an individual as long-term accommodation 
+ 
+
+ 
+ 
+ is the sum of: 
+ 
+
+ 
+ 
+ (c) the value, worked out in the way set out in section 9-75, of that part of the supply that relates to provision of the commercial accommodation during the first 27 days; and 
+ 
+
+ 
+ 
+ (d) 50%, or such other percentage as is specified in the regulations, of what would be the price (if this Division did not apply) of that part of the supply that relates to provision of the commercial accommodation after the first 27 days.
+ 
+
+ 
+ 
+ (2) This section has effect despite section 9-75 (which is about the value of taxable supplies).
+ 
+
+ 
+ 
+ 87-15 Meaning of commercial accommodation 
+ 
+
+ 
+ 
+ Commercial accommodation means the right to occupy the whole or any part of commercial residential premises, including, if it is provided as part of the right so to occupy, the supply of: 
+ 
+
+ 
+ 
+ (a) cleaning and maintenance; or
+ (b) electricity, gas, air-conditioning or heating; or
+ (c) telephone, television, radio or any other similar thing.
+ 
+
+ 
+ 
+ 87-20 Meaning of long-term accommodation etc. 
+ 
+
+ 
+ 
+ (1) Long-term accommodation is provided to an individual if commercial accommodation is provided, for a continuous period of 28 days or more, in the same premises: 
+ 
+
+ 
+ 
+ (a) to that individual alone; or
+ (b) to that individual, together with one or more other individuals who: 
+ 
+
+ 
+ 
+ (i) are also provided with that commercial accommodation; and
+ (ii) are not provided with it at their own expense (whether incurred directly or indirectly).
+ 
+
+ 
+ 
+ (2) For the purpose of working out the number of days in the period for which an individual is provided with commercial accommodation: 
+ 
+
+ 
+ 
+ (a) count the day on which he or she is first provided with the commercial accommodation; and
+ (b) disregard the day on which he or she ceases to be provided with commercial accommodation.
+ 
+
+ 
+ 
+ (3) Commercial residential premises are predominantly for long-term accommodation if at least 70% of the individuals who are provided with commercial accommodation in the premises are provided with commercial accommodation as long-term accommodation.
+ 
+
+ 
+ 
+ 87-25 Suppliers may choose not to apply this Division 
+ 
+
+ 
+ 
+ (1) This Division does not apply to a supply of commercial accommodation if the supplier chooses not to apply this Division to any supplies of commercial accommodation that the supplier makes.
+ 
+
+ 
+ 
+ (2) The choice applies to all supplies of commercial accommodation that the supplier makes after the choice is made and before the choice is revoked.
+ 
+
+ 
+ 
+ (3) However, the supplier: 
+ 
+
+ 
+ 
+ (a) cannot revoke the choice within 12 months after the day on which the supplier made the choice; and 
+ (b) cannot make a further choice within 12 months after the day on which the supplier revoked a previous choice.
+ 
+
+ Paragraphs 6.134 and 6.135 of the Explanatory Memorandum seek to explain the purpose underlying the operation of Division 87 and, in particular, the operative provision s 87-5 that effects the concessionary reduction.Rather than simply input tax the supply of commercial accommodation (in the same way as residential premises) which would require the supplier to attribute GST payments on inputs in an enterprise comprising the supply of commercial accommodation and other activities constituting taxable supplies, so as to isolate input tax credits referable to the other activities apart from the supply of commercial accommodation, Division 87 seeks to avoid difficulty by a "concessionary treatment of long-term accommodation".Section 40-35(1)(b) treats that part of such a supply as input taxed, although the supplier may elect to avoid the difficulties of segmentation, attribution and calculation by applying Division 87 to reduce the value of the supply by 50%.If the statutory integers of s 87-5 are not engaged, Division 87 will simply not apply and thus no concessionary treatment is available and no election arises.Prima facie, Division 87 provides (illustrated with the following example), concessionary treatment of a taxable supply of a right to occupy the whole or any part of commercial residential premises (s 87-15) (the inn or room in the inn) in circumstances where the right to occupy the room is provided to an individual, that is, a natural person (s 195-1) for a continuous period of 28 days or more (s 87-20) and the right to occupy the room is provided in an inn in which at least 70% of the individuals who are provided with a right to occupy rooms in the inn are provided with that right to occupy for continuous periods of 28 days or more.The Commissioner says that Division 87 addresses long-term accommodation in commercial residential premises and the short statement of the subject-matter of the division at s 87-1 under the heading "What this division is about" makes it clear that Division 87 addresses "long-term stays in" such premises.Although s 87-15 defines commercial accommodation as "the right to occupy" it must therefore mean "the right to stay in" the inn or a room in the inn, it is said, and the use of the word "stay" connotes a purposive objective of providing a reduction in GST if an individual stays in the premises or a part of the premises for 28 days or more in circumstances where at least 70% of the people (natural persons) who stay in the inn do so for continuous periods of 28 days or more.The definition of commercial accommodation does not use the terms "stay" or "occupied" or "intended to be occupied" or "reside in".Residential tenants in "residential premises" as defined also acquire a right to occupy premises by force of agreements to rent those premises, yet "residential premises" are defined in terms of land or a building, occupied or intended to be occupied as a residence.Prima facie, commercial accommodation is framed simply in terms of "the right to occupy" the whole or any part of the premises, as the boundary of that which is supplied.That right must be provided to an individual as long-term accommodation in premises in which at least 70% of the individuals who are provided with that right are provided with it for 28 days or more.Part 3 The relevant amendments to the GST Act
+ The A New Tax System (Indirect Tax and Consequential Amendments) Act 1999 , No.176 of 1999, repealed the definition of "residential premises" and substituted the following definition: 
+ 
+ residential premises means land or a building that: 
+ 
+
+ 
+ 
+ (a) is occupied as a residence; or 
+ 
+
+ 
+ 
+ (b) is intended to be occupied, and is capable of being occupied, as a residence; 
+ 
+
+ 
+ 
+ and includes a floating home.
+ 
+
+ The Tax Laws Amendment (2006 Measures No.3) Act 2006 , No.80 of 2006 (the "2006 Act"), repealed the above definition and replaced it with a definition that was intended to remove the constraint of permanence or long-term commitment to dwelling in a particular place found by the Full Court of the Federal Court in Marana Holdings Pty Ltd v Commissioner of Taxation (supra) to be inherent in the terms "reside" and "residence".The new definition was and remains: 
+ 
+ residential premises means land or a building that: 
+ 
+
+ 
+ 
+ (a) is occupied as a residence or for residential accommodation; or 
+ 
+
+ 
+ 
+ (b) is intended to be occupied, and is capable of being occupied, as a residence or for residential accommodation; 
+ 
+
+ 
+ 
+ (regardless of the term of the occupation or intended occupation) and includes a floating home.
+ 
+
+ The Taxation Laws Amendment Act (No.8) 2000 , No.156 of 2000 (the "2000 Act"), introduced an amendment to the definition of commercial residential premises to include: 
+ 
+ (da) a marina at which one or more of the berths are occupied, or are to be occupied, by ships used as residences; ... 
+ 
+
+ The 2000 Act introduced an amendment to s 40-35 by inserting a new s 40-35(1A) after the first subsection, in these terms: 
+ 
+ (1A) A supply of a berth at a marina that is by way of lease, hire or licence (including a renewal or extension of a lease, hire or licence) is input taxed if: 
+ 
+
+ 
+ 
+ (a) the berth is occupied, or is to be occupied, by a ship used as a residence; and 
+ 
+
+ 
+ 
+ (b) the supply is of commercial accommodation and Division 87 (which is about long-term accommodation in commercial premises) would apply to the supply but for a choice made by the supplier under section 87-25.
+ 
+
+ By the 2006 Act, s 40-35(1)(a) was amended to omit the words in parenthesis and substitute these words: 
+ 
+ (other than a supply of commercial residential premises or a supply of accommodation in commercial residential premises provided to an individual by the entity that owns or controls the commercial residential premises).
+ 
+
+ The Commissioner accepts that the marina operated by Meridien "falls within the ambit of para (da)" of the definition of commercial residential premises.Meridien operates a marina at which one or more of the berths are occupied, or are to be occupied, by ships used as residences.The Commissioner also accepts that each of the 118, 20-year leases confers a right to occupy the berth.However, the Commissioner contends that the conferral of that right does not satisfy the description "commercial accommodation".The amendment to s 40-35(1)(a) removes from the input tax treatment of a supply of residential premises, a supply of commercial residential premises or a supply of accommodation in commercial residential premises to a natural person by the owner or controller of the commercial residential premises (relevantly here, the marina).The supply of premises consisting of a supply of commercial accommodation in the circumstances of Division 87 (subject to the supplier's election) remains input taxed to the extent reflected in s 40-35(2).Having brought a marina at which at least one berth is or is to be occupied by a ship used as a residence, within the definition of commercial residential premises, the Parliament elected to frame a further class of input taxed supply related to a supply of a berth at a marina.By s 40-35(1A) a supply of a berth at a marina by way of lease, hire or licence, is input taxed if the berth is occupied or is to be occupied by a ship used as a residence ; and the supply is of commercial accommodation and Division 87 would apply (but for the supplier's election under s 87-25).The integers of a supply within s 40-35(1A) are a supply of a berth which is occupied (or to be occupied) by a ship used as a residence, consisting of a supply of commercial accommodation attracting the application of Division 87.The Parliament may have thought that it was necessary to frame supply by reference to a berth occupied or to be occupied by a ship used as a residence, in addition to the integer of a supply of commercial accommodation as defined, and the application of Division 87, on the footing that a reference to a supply of commercial accommodation did not engage a requirement of occupation (or a berth to be occupied) of a berth for use as a residence .Rather, "commercial accommodation" simply engages a "right" to occupy.The definition of commercial accommodation is not concerned with actual use or an act of occupation of the whole or any part of the range of premises falling within the definition of commercial residential premises.Commercial accommodation is defined as the "right" to occupy the whole or any part of those premises which confers a right to stay as contemplated by s 87-1.The right to occupy, however, is necessarily given meaning by the context in which the definition operates, in conjunction with the other defined terms within Division 87 and the GST Act more generally.The right to occupy the whole or any part of the marina or any other premises falling within the definition of commercial residential premises is not a right to occupy at large , for the purposes of the definition of "commercial accommodation", in a way divorced from any corresponding purpose serving the statutory objectives of Division 87.Division 87 is directed to long-term accommodation in commercial residential premises which exhibit particular characteristics (normally, premises run by a controller for a commercial purpose; premises having multiple occupancy; premises so held out to the public; premises having central management; premises providing services in addition to commercial accommodation; and, premises normally used for the main purpose of accommodation).The definition of commercial accommodation is an inclusive one, bringing within the scope of the right to occupy, the supply of particular goods and services closely related to residential occupation of the premises, including cleaning and maintenance services; the supply of electricity, gas, air-conditioning or heating services; the supply of a telephone, television, radio or any similar thing (if such things are provided as part of the right to occupy).Although such things may not, in fact, be provided as part of a right to occupy, the definition of commercial accommodation seems to contemplate that such services might be provided as part of the right to occupy to an individual in the premises and those goods and services, as part of the right to occupy, bear the character of in-residence goods and services.Division 87 engages the notion of the provision of commercial accommodation to a natural person as a right to occupy for a continuous period of 28 days or more in premises which are predominantly provided to individuals as long-term accommodation.Section 87-5 engages the provision of a right in premises so characterised, to an individual.The "right to occupy" contemplated by the definition of commercial accommodation in the context of the division is properly understood as a right to occupy the marina or a berth in the marina as a residence, in the sense of a right to stay rather than in any sense of permanent or long-term residence, which is consistent with the notion that a marina satisfying the description of commercial residential premises is a marina at which one or more of the berths are occupied, or to be occupied, by ships used as residences.If the right to occupy were simply a clinical right of occupation at large, unconnected with any purpose, the supplier would be able to take advantage of the reduction in the price of the supply, under a division of the GST Act dealing with long-term accommodation in commercial residential premises, in circumstances where residential use of the commercial residential premises was either not permitted or expressly prohibited.That would be an odd result.Although the right to occupy is to be understood as indicated in [75], the term "commercial accommodation" is not concerned with actual occupation , as a residence, but with a right to occupy , as a residence, whether, in fact, the right is exercised or not, at any particular moment in time.Section 40-35(1A) is concerned with a berth occupied or to be occupied by a ship used as a residence as that section is seeking to isolate an analogue of a supply of residential premises, in the particular context of the supply of accommodation in commercial residential premises, conferred under a right to occupy a berth or all marina berths, in predominantly long-term accommodation, whereas s 87-5 is concerned with the conferral of a right to occupy as a residence, notwithstanding that the right to occupy as a residence may not be exercised or intended to be exercised at the time of the grant of the right that constitutes the supply.Meridien says the "right to occupy" contemplated by the definition of commercial accommodation is expressly confined, relevantly here, to a right to occupy a part of the marina, namely, the particular berths specified in each of the 118, 20-year, lease agreements, together with the right to share occupation of the common areas.Meridien says the actual use or non-use subsequently made of the berth by the lessee is irrelevant to the question of whether each lessee has been provided with a right to occupy a berth in the marina.Meridien says that this approach is consistent with the position adopted by the Commissioner in Goods and Services Tax Ruling GSTR 2000/20 ("GSTR 2000/20") in relation to caravan parks and camping grounds and that the principles reflected in that Ruling have equal force, analogically, in respect of marinas and berths in marinas.Therefore, Meridien contends that the position adopted in GSTR 2000/20 correctly identifies the legal test to be applied in determining the scope of a right to occupy, for the purposes of berths in a marina.The relevant parts of GSTR 2000/20 are in these terms: 
+ 
+ Caravan parks and camping grounds 
+ 
+
+ These are specifically included in the definition of commercial residential premises at paragraph (e) and therefore do not have to possess the defining characteristics to fall within the definition.There are some differences between the way these premises operate and the operation of hotels and the like.Guests may pay to stay in a caravan or demountable home, or a permanent cabin or villa on the site.Alternatively, they may pay a fee to park their own caravan or demountable home on a site.All of these supplies are taxable under the basic rules, but may also receive concessionary treatment under Division 87.When you provide a site for a caravan or demountable home for 28 days or more, it is a supply of long term accommodation.It does not matter whether your site is occupied for the whole period of the stay.If you supply long term accommodation in a caravan or home park, you may choose to input tax all of your supplies of long term accommodation.See also 'Long term accommodation in caravan parks and camping grounds' at paragraph 146.
+ 
+ Meaning of 'commercial accommodation' 
+ 
+
+ Under section 87-15, a right to occupy premises includes the right to occupy any part of commercial residential premises.This includes a site in a caravan park or camping ground, or the hire of a ship.In the case of caravan parks and camping grounds, the 'premises' in question are the grounds themselves, rather than any specific accommodation in buildings.Thus, an owner who places their caravan on a site for a fee is occupying the premises.Whether or not they are physically occupying their caravan is, in this particular case, immaterial.
+ 
+ Long term accommodation in caravan parks and camping grounds 
+ 
+
+ It is common practice for caravan owners to leave their caravan at a caravan site for an extended period.For this they pay site fees regularly and have the right to use their caravan whenever they choose.In the case of a caravan park, the right to occupy is granted when a site is hired for a caravan, even if the caravan is left unoccupied for most of the time.This effectively means that the special GST treatment for long term stays applies to supplies made to those who leave their caravans on site at a particular park.
+ 
+ The option to input tax supplies of long term accommodation 
+ 
+
+ Section 87-25 allows you the option not to apply the special rules to your supplies of long term accommodation.If you choose not [to] apply the special rules, your supplies of long term accommodation are input taxed, under paragraph 40-35(1)(b).Any supplies of accommodation that you make of 27 days or less, will be taxable under the basic rules.Meridien contends that the views expressed in GSTR 2000/20 reflect the proper construction of "the right to occupy the whole or any part of commercial residential premises" with the result that once the right to occupy a site at a marina (or a caravan park) is granted, it does not matter whether a caravan, tent or a boat is physically present at the site or the use to which that part of the site is ultimately put.Meridien contends that, in the present case, it is irrelevant whether, subsequently to entering into a lease, the lessee places a ship at the berth or allows the berth to be used as part of the letting pool run by Meridien.Equally irrelevant, it is said, is whether the lessee actually uses a vessel moored at the berth as a residence.Paragraph 130 of GSTR 2000/20 recognises that there are some differences between the way premises falling within the definition of commercial residential premises operate.Paragraph 130 recognises that there are differences between caravan parks and camping grounds on the one hand and hotels, motels, inns, hostels and boarding houses, on the other.For example, a person seeking to stay in a caravan park or at a camping ground might elect to stay in a caravan, demountable home or permanent cabin or villa on a site.Alternatively, such persons might choose to pay a fee to park their own caravan or demountable home on a site.Paragraph 131 of GSTR 2000/20 provides that when a supplier supplies a site for a caravan or demountable home for 28 days or more, it is a supply of long-term accommodation and it does not matter whether the site is occupied for the whole period of the stay.Paragraph 138 of GSTR 2000/20 provides that in the case of caravan parks and camping grounds, the premises in question are the grounds themselves, and thus a tenant who places their caravan on a site for a fee, is occupying the premises, and whether the owner is physically occupying their caravan is, it is said, in the case of caravan parks and camping grounds, immaterial.The point of distinction between caravan parks and camping grounds on the one hand and marina berths on the other is that a caravan or a demountable home which might be the subject of a right of occupation of particular premises is entirely characterised by a facility for residential use at some moment in time.They represent, as para 130 of GSTR 2000/20 recognises, an alternative way that guests might stay in premises characterised as a caravan park or camping ground.The right to occupy the premises in question being the grounds or sites themselves, is necessarily linked to a right to occupy the site related to a purpose of using a caravan or demountable home at some time during the period of the right, as a residence, for short-stays or long-stays within the premises.Although physical occupation, in fact, of the caravan or demountable home is immaterial to the question of whether an owner of a caravan or a demountable home has been supplied with a right to occupy, the right is coupled with use of the caravan or demountable home as a structure designed to be occupied for residential purposes at some time even though left unoccupied for most of the time (para 147, GSTR 2000/20).Marina berths, caravan park sites and camping ground sites must share in common, in order to fall within the definition of commercial accommodation , the right to use the thing to be deployed in occupation of the site or berth, as a residence.The right to occupy must be a right to occupy the caravan site, camping site, marina berth or other premises falling within the definition of commercial residential premises, as a residence, conferred at the time of the taxable supply.The lessee of the site or berth need not actually occupy the site or berth as a residence or have an immediate intention to occupy as a residence and may elect to leave the site unoccupied for long periods of time throughout the supply term.Nevertheless, the right to occupy as a residence is the character of the right which must be conferred at the date of the supply, that is, the grant of the lease.In this case, the relevant lease is each of the 118, 20-year leases.The terms of the supply must confer, at the date of grant, the right to occupy the berth as a residence.The difficulty in this case is that there is no evidence which establishes which or how many of the long-term lessees at the date of grant of each lease acquired a right to occupy a berth with a vessel for use at some time throughout the period of the lease, as a residence.There is simply no evidence of a permission granted by Meridien to each of the lessees.There is evidence that Mr Jack Hutchinson uses his vessel for residential purposes for short periods of time together with his friends, from time to time.Annexure "CRM15" to the affidavit of Mr McCart sworn 27 November 2009 is a long-term letting agreement between Meridien and Ms Michelle Mitrovski, in respect of Berth 21.Ms Mitrovski elected to bring her leased berth within the rental pool for a period from 1 January 2008 to 31 December 2008 and thus she obtained the permission or consent of Meridien to use her berth for residential purposes through the mechanism of the rental pool.Since Meridien has failed to establish that each of the long-term lessees acquired, at the date of entering into the lease, being the date of the taxable supply, a right to use the berth as a residence during the period of the lease, Meridien has failed to establish that it has supplied commercial accommodation in commercial residential premises for the purposes of the GST Act.Section 87-5 contemplates a supply of commercial accommodation in commercial residential premises that are predominantly for long-term accommodation, and the right to occupy is provided to an individual as long-term accommodation.An individual is being supplied with long-term accommodation if the right to occupy is provided to that individual for a continuous period of 28 days or more: s 87-20.The premises are "predominantly for long-term accommodation" if 70% of the individuals conferred with the right in the marina are conferred with a right of long-term accommodation.Meridien has granted 118 long-term leases.Apart from these leases, Meridien has entered into other leases or tenancies of marina berths.Some are short-term tenancies.Of the 118 leases, 38 leases were granted to corporations; 26 leases were granted to corporate trustees; 50 leases were granted to individuals; 2 leases were made with an individual and a company; and two leases were made with an individual as trustee.The Commissioner contends that Division 87 necessarily requires by reason of s 87-5(1)(a) and (b) that commercial accommodation is provided in the relevant premises to an individual as long-term accommodation in circumstances where the commercial residential premises are predominantly for long-term accommodation.Because the term "individual" is defined in s 195-1 of the GST Act to mean a natural person, the Commissioner contends that the right to occupy must be conferred upon a natural person and thus the source of the right (in this case the lease instrument) must be struck between Meridien and an individual.It follows, according to the Commissioner, that since only 50 of the 118 leases are struck between Meridien and an individual, only 42.37% of those lessees conferred with a right to occupy, are individuals.Section 87-5(a) and particularly (b) are concerned with the provision of commercial accommodation to an individual in the sense that ultimately a person, that is, a natural person consistent with the definition of "individual" in s 195-1 of the GST Act, will occupy the whole or a part of the commercial residential premises.One example is the common case where a mining company might take a lease of all of the rooms in a motel proximate to a mining site, to be used by its employees from time to time.Some of those rooms might be used, some might not.The rooms when used will be allocated to individuals employed by the company.The supply of commercial accommodation is a supply to the corporation yet the particular rooms will be provided to individuals as the company determines.That analogue explains the operation of the section.It seems to me that marina berths might be the subject of long-term leases to trustees of family trusts, individuals, corporations or other legal entities.Section 87-5 does not require the supply of commercial accommodation to an individual in the sense that every lease, licence or agreement must be struck between the supplier and an individual.There may be a taxable supply of commercial accommodation to a range of entities, provided in commercial residential premises that are predominantly for long-term accommodation, in circumstances where a natural person exercises the right in every case.If each of the 118 lessees had obtained at the date of grant of each lease a right to occupy their berths as a residence at any time during the period of the 20-year lease, it would then be possible to use the proportion those leases bear to all leases conferring a right to occupy for residential purposes (short-term and long-term), to satisfy s 87-20(3), because Mr McCart's figures show that the 20-year leases constituted a consistently high proportion of total berth rentals, and they would therefore constitute an even higher proportion of residential berth rentals.Meridien has introduced into evidence a spreadsheet summary "CRM3" to Mr McCart's affidavit filed 13 November 2009 which demonstrates that the percentage of berths the subject of the 118, 20-year leases as a proportion of total berths rented on any basis was never less than 94.6% in any of the 12 relevant periods and ranged from 94.6% in December 2005 to 99.8% in August 2007.However, Mr McCart's calculation shows the percentage the 118, 20-year, leases conferring a right to occupy (absent any proven right to use the berth for any purpose of human habitation) bears to all leases or rentals on either a short-term or long-term basis which is not the calculation required by s 87-20(3).That section asks, were 70% of all individuals provided with a right to occupy a berth in the marina for use as a residence, provided with that right for 28 days or more.Having regard to all these matters, the application must be dismissed with costs.I certify that the preceding ninety (90) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Greenwood.Associate:
+ 
+ 
+Dated: 24 December 2009
+ 
+ Counsel for the Applicant: Mr P Fraser 
+ 
+ Solicitor for the Applicant: HopgoodGanim Lawyers 
+ 
+ Counsel for the Respondent: Mr T Murphy SC and Mr S Lumb 
+ 
+ Solicitor for the Respondent: McInnes Wilson Lawyers 
+ Date of Hearing: 3 December 2009 
+ 
+ Date of Judgment: 24 December 2009 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/1594.html 
+ 
+ 
