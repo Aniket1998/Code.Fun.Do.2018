@@ -5,6 +5,9 @@ var you = {};
 you.avatar = "https://a11.t26.net/taringa/avatares/9/1/2/F/7/8/Demon_King1/48x48_5C5.jpg";
 var botspeak = false;
 var bingClientTTS = new BingSpeech.TTSClient("018cfaf12bd9423cb2f3c7751ef0f436", BingSpeech.SupportedLocales.enUS_Female);
+var bingClientSR = new BingSpeech.RecognitionClient("018cfaf12bd9423cb2f3c7751ef0f436");
+var recordstate = false;
+
 function formatAMPM(date) {
     var hours = date.getHours();
     var minutes = date.getMinutes();
@@ -66,7 +69,7 @@ function setluismsg(text) {
             url: "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/f595017d-1f62-4b0e-bf07-c8af20b56239?" + $.param(params),
             beforeSend: function(xhrObj){
                 // Request headers
-                xhrObj.setRequestHeader("Ocp-Apim-Subscription-Key","70d9d307b66c4954b90669ae75bcb950");
+                xhrObj.setRequestHeader("Ocp-Apim-Subscription-Key","7ff0db3a38c64081ab77c753bfb00ef3");
             },
             type: "GET",
             // The request body may be empty for a GET request
@@ -74,16 +77,59 @@ function setluismsg(text) {
         })
         .done(function(data) {
             // Display a popup containing the top intent
-            if(data.topScoringIntent.intent === "Summary") {
-                insertChat("me","There's your summary<br>" + $("meta[name='chatsummary']").attr("content"));
+            if(data.topScoringIntent.intent === "Hello") {
+            	insertChat("me",$("meta[name='defaultmsg']").attr("content"));
+            	if(botspeak) {
+            		bingClientTTS.synthesize("Hi! Have anything to ask about the document? I can brief you about the document, list the dated events, and point the important words in it.");
+            	}
+            }
+            if(data.topScoringIntent.intent === "Type") {
+                insertChat("me","The case is of type : " + $("meta[name='category']").attr("content"));
                 if(botspeak) {
-                    bingClientTTS.synthesize("There's your summary");
+                    bingClientTTS.synthesize("The case is of type " + $("meta[name='category']").attr("content"));
+                }
+            }
+            if(data.topScoringIntent.intent === "Persons") {
+                insertChat("me","The individuals involved are : " + $("meta[name='persons']").attr("content"));
+                if(botspeak) {
+                    bingClientTTS.synthesize("The individuals involved are : " + $("meta[name='persons']").attr("content"));
+                }
+            }
+            if(data.topScoringIntent.intent === "Orgs") {
+                insertChat("me","The organisations involved are : " + $("meta[name='orgs']").attr("content"));
+                if(botspeak) {
+                    bingClientTTS.synthesize("The organisations involved are : " + $("meta[name='orgs']").attr("content"));
+                }
+            }
+            if(data.topScoringIntent.intent === "Locs") {
+                insertChat("me","The locations involved are : " + $("meta[name='locs']").attr("content"));
+                if(botspeak) {
+                    bingClientTTS.synthesize("The locations involved are : " + $("meta[name='locs']").attr("content"));
+                }
+            }
+            if(data.topScoringIntent.intent === "Date") {
+                insertChat("me","Here are the dated events<br>" + $("meta[name='chatdates']").attr("content"));
+                if(botspeak) {
+                    bingClientTTS.synthesize("Here are the dated events");
+                    var rawtext = $("meta[name='rawchatdates']").attr("content");
+                    var lines = rawtext.split('.');
+                    for(var i = 0;i < lines.length;i++) {
+                        if(lines[i].length < 1000) {
+                            bingClientTTS.synthesize(lines[i]);
+                        }
+                        else {
+                            var lines2 = lines[i].split(',');
+                            for(var j = 0;j < lines2.length;j++) {
+                                bingClientTTS.synthesize(lines2[j]);
+                            }
+                        }
+                    }
                 }
             }
             if(data.topScoringIntent.intent === "Shortsummary") {
                 insertChat("me","Here's a quick rundown<br>" + $("meta[name='chatshortsummary']").attr("content"));
                 if(botspeak) {
-                    //bingClientTTS.synthesize("Here's a quick rundown");
+                    bingClientTTS.synthesize("Here's a quick rundown");
                     var rawtext = $("meta[name='rawchatshortsummary']").attr("content");
                     var lines = rawtext.split('.');
                     for(var i = 0;i < lines.length;i++) {
@@ -161,4 +207,38 @@ $('#enablevoice').click(function() {
 resetChat();
 insertChat("me",$("meta[name='defaultmsg']").attr("content"));
 //-- Print Messages
-//insertChat("me",$('#enablevoice').text());
+bingClientSR.onFinalResponseReceived = function(response) {
+    insertChat("you",response);
+    setluismsg(response);
+}
+
+bingClientSR.onError = function(code,requestID) {
+    insertChat("me","Sorry, there seems to be an error. Please try again or try using text");
+    if(botspeak) {
+        bingClientTTS.synthesize("Sorry, there seems to be an error. Please try again or try using text");
+    }
+}
+$('#startrecord').click(function() {
+    bingClientSR.startMicAndContinuousRecognition();
+});
+$('#endrecord').click(function() {
+    bingClientSR.endMicAndContinuousRecognition();
+});
+
+$('#recordbutton').click(function() {
+    if(recordstate) {
+        $('#recordbutton').css("color","black");
+        bingClientSR.endMicAndContinuousRecognition();
+        recordstate = false;
+    }
+    else {
+        $('#recordbutton').css("color","red");
+        bingClientSR.startMicAndContinuousRecognition();
+        recordstate = true;
+    }
+});
+
+//insertChat("me","Persons : " + $("meta[name='persons']").attr("content"));
+//insertChat("me","Organisations : " + $("meta[name='orgs']").attr("content"));
+//insertChat("me","Locations : " + $("meta[name='locs']").attr("content"));
+
