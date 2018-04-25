@@ -2,15 +2,14 @@
 
 This is the fork of the official code repository for the team DeepVaders. This webapp got the 3rd position in the On-Campus Code Fun Do event hosted at IIT Kanpur by Microsoft and also was among the top three teams to have qualified from the Online Hackathon
 
-### DeepVaders
+### DEEPVADERS
 IIT Kanpur
 
 * Avik Pal (@avik-pal)
 * Aniket Das (@Aniket1998)
 * Devansh Shringi (@DEVANSH99)
 
-### Legal Case Studies
-
+### LEGAL CASE STUDIES
 
 #### Overview
 
@@ -56,21 +55,20 @@ Now we provide you three different utilities for the file uploaded :-
 4. INFORMATICS: Quick overview of what the AI thinks is important for you.
 
 
-#### Credits:
+#### Credits
 
-Kudos to
-Startboostrap.com for their Creative Bootstrap Theme: https://startbootstrap.com/template-overviews/creative/ (distributed under the MIT Licence)
-João Victor for the sleek file upload template: https://codepen.io/jotavejv/pen/bRdaVJ
-pablocorezzola at Bootsnipp for their jquery based chat plugin: https://bootsnipp.com/snippets/featured/simple-chat
-And saving the best for last,
+1. Startboostrap.com for their Creative Bootstrap Theme: https://startbootstrap.com/template-overviews/creative/ (distributed under the MIT Licence)
+2. João Victor for the sleek file upload template: https://codepen.io/jotavejv/pen/bRdaVJ
+3. pablocorezzola at Bootsnipp for their jquery based chat plugin: https://bootsnipp.com/snippets/featured/simple-chat
+4. And saving the best for last,
 Microsoft for their constant support, amazing Azure cloud services, PROSE SDK, LUIS webservice and a brilliant learning platform like code.fun.do
 
-#### Contributing:
+#### Contributing
 
 1. If you find an issue with code feel free to open an issue and even better solve the issue and submit a PR
 2. For a feature request simply open an issue
 
-#### Notes:
+#### Notes
 
 1. To know whats going on inside just navigate the `src` folder.
 2. Running the server should automatically install the dependencies
